@@ -81,3 +81,48 @@ logs_players %>%
               pivot_wider(names_from = Result,
                           values_from = n) %>%
               mutate(gamesUnder500 = Loss - Win))     # calculate team record and # of games under .500
+
+
+## Best 3-point shooters (minimum 5 attempts per game) (https://twitter.com/NbaInRstats/status/1210297047737348096)
+logs_players %>%
+  filter(dateGame < as.Date("2019-12-23")) %>%    # date of article
+  group_by(namePlayer) %>%
+  summarise(total3made = sum(fg3m),
+            total3att = sum(fg3a),
+            games = n_distinct(idGame)) %>%
+  ungroup() %>%
+  mutate(att3game = total3att/games,
+         fg3perc = total3made/total3att) %>%
+  filter(att3game >= 5) %>%    # minimum 5 attempts per game
+  arrange(desc(fg3perc))
+
+
+## Number of 3s assisted by Sixers players (https://twitter.com/NbaInRstats/status/1210386691850166273)
+
+sixers_games <- games %>%
+  pivot_longer(cols = starts_with("nameTeam"),
+               names_to = "locationTeam",
+               values_to =  "nameTeam") %>%
+  filter(nameTeam == "Philadelphia 76ers") %>%
+  pull(idGame)    # getting every Sixers game
+
+plan(multiprocess)
+play_logs_sixers <- play_by_play_v2(sixers_games)   # getting play-by-play data from Sixers games
+
+play_logs_sixers %>%
+  pivot_longer(cols = starts_with("descriptionPlay"),
+               names_to = "locationTeamPlay",
+               values_to = "descriptionPlay") %>%
+  filter(teamNamePlayer1 == "76ers") %>%
+  filter(str_detect(descriptionPlay, "3PT"),
+         !str_detect(descriptionPlay, "MISS")) %>%
+  mutate(Detail = str_extract_all(descriptionPlay, "(?<=\\().+?(?=\\))")) %>%
+  select(descriptionPlay, Detail) %>%
+  unnest_wider(Detail) %>%
+  rename(detailAst = 3) %>%
+  count(playerAst = word(detailAst, 1)) %>%
+  replace_na(list(playerAst = "No assist")) %>%
+  mutate(percentage = n/sum(n)) %>%
+  arrange(desc(percentage)) %>%
+  adorn_totals("row")
+         
