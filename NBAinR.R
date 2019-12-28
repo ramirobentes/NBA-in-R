@@ -4,6 +4,9 @@ library(lubridate)
 library(future)
 library(janitor)
 
+
+# Data sources ------------------------------------------------------------
+
 # Get every game of the 2019/2020 season so far
 games <- current_schedule() %>%
   filter(idGame >= 21900001,        # first regular season game
@@ -11,7 +14,7 @@ games <- current_schedule() %>%
 
 # Get every shot of the 2019/2020 season
 plan(multiprocess)
-shots_2020 <- team_shots(teams = unique(games$nameTeamAway),
+shots_2020 <- teams_shots(teams = unique(games$nameTeamAway),
                          seasons = 2020)
 
 # Get game logs for every game of the 2019/2020 season
@@ -22,6 +25,9 @@ logs_players <- game_logs(2020, type = "player")
 plan(multiprocess)
 players <- player_profiles(player_ids = unique(logs_players$idPlayer))
 
+
+
+# Analysis ----------------------------------------------------------------
 
 ## Points in the paint differential per team (https://twitter.com/NbaInRstats/status/1210283385517727746)
 shots_2020 %>%
@@ -98,7 +104,6 @@ logs_players %>%
 
 
 ## Number of 3s assisted by Sixers players (https://twitter.com/NbaInRstats/status/1210386691850166273)
-
 sixers_games <- games %>%
   pivot_longer(cols = starts_with("nameTeam"),
                names_to = "locationTeam",
@@ -126,3 +131,29 @@ play_logs_sixers %>%
   arrange(desc(percentage)) %>%
   adorn_totals("row")
          
+
+## Find FG% in paint, from mid-range and 3-point range for every team (https://twitter.com/NbaInRstats/status/1210981275525361666)
+shots_2020 %>%
+  mutate(zoneBasicNew = case_when(
+    str_detect(zoneBasic, "3") ~ "3point",
+    zoneBasic == "Backcourt" ~ "3point",
+    zoneBasic %in% c("Restricted Area", "In The Paint (Non-RA)") ~ "Paint",
+    zoneBasic == "Mid-Range" ~ "MidRange",
+    TRUE ~ zoneBasic
+  )) %>%
+  count(nameTeam, zoneBasicNew, isShotMade) %>%
+  group_by(nameTeam, zoneBasicNew) %>%
+  mutate(percMade = n/sum(n)) %>%
+  ungroup() %>%
+  filter(isShotMade == TRUE) %>%
+  group_by(zoneBasicNew) %>%
+  mutate(Rank = dense_rank(desc(percMade))) %>%
+  select(-c(isShotMade, n)) %>%
+  pivot_wider(names_from = zoneBasicNew,
+              values_from = c(percMade, Rank)) %>%
+  select(Team = nameTeam, 
+         Paint = percMade_Paint, RankPaint = Rank_Paint,
+         MidR = percMade_MidRange, RankMidR = Rank_MidRange,
+         Three = percMade_3point, RankThree = Rank_3point
+  ) %>%
+  mutate_at(vars(c(Paint, MidR, Three)), list(~ paste0(round(. * 100, 1), "%")))
