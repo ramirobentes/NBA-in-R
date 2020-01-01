@@ -157,3 +157,84 @@ shots_2020 %>%
          Three = percMade_3point, RankThree = Rank_3point
   ) %>%
   mutate_at(vars(c(Paint, MidR, Three)), list(~ paste0(round(. * 100, 1), "%")))
+
+
+# Jimmy Butler's shooting averages in the clutch (https://twitter.com/NbaInRstats/status/1212099568973885441)
+heat_games <- games %>%
+  pivot_longer(cols = starts_with("nameTeam"),
+               names_to = "locationTeam",
+               values_to =  "nameTeam") %>%
+  filter(nameTeam == "Miami Heat") %>%
+  pull(idGame)
+
+plan(multiprocess)
+play_logs_heat <- play_by_play_v2(heat_games) 
+
+play_logs_heat %>%
+  mutate(marginScore = ifelse(row_number() == 1, 0, marginScore), 
+         marginScore = zoo::na.locf(marginScore)) %>%               # replace NA with last non-NA value
+  filter(abs(lag(marginScore)) <= 5,                                # the score margin before the play happened should be 5 or less
+         minuteGame >= 43) %>%                                      # less than 5 minutes left in 4th or OT
+  filter(namePlayer1 == "Jimmy Butler") %>% 
+  pivot_longer(cols = starts_with("descriptionPlay"),
+               names_to = "locationTeamPlay",
+               values_to = "descriptionPlay") %>%
+  filter(!is.na(descriptionPlay)) %>%
+  mutate(descriptionPlay = str_to_lower(descriptionPlay)) %>%
+  mutate(shotType = case_when(
+    str_detect(descriptionPlay, "free throw") ~ "FreeThrow",
+    str_detect(descriptionPlay, "3pt") ~ "3ptFieldGoal",
+    str_detect(descriptionPlay, "jumper|layup|shot") & !str_detect(descriptionPlay, "3pt") ~ "2ptFieldGoal",
+    TRUE ~ "No shot"
+  )) %>%
+  filter(shotType != "No shot") %>%
+  count(shotType, shotResult = ifelse(str_detect(descriptionPlay, "miss"), "Missed", "Made")) %>%
+  pivot_wider(names_from = shotResult,
+              values_from = n) %>%
+  mutate(Attempted = Made + Missed,
+         Percentage = Made/Attempted) %>%
+  select(-Missed)
+
+
+# Get advanced box scores for every game of the 2019/2020 season
+plan(multiprocess)
+advanced_teams <- box_scores(game_ids = unique(games$idGame),
+                             box_score_types = "Advanced",
+                             result_types = "team")
+
+# Calculate pts per possession, FG% for every Dallas game (https://twitter.com/NbaInRstats/status/1212112017340932096)
+logs_players %>%
+  group_by(idGame, slugTeam, slugOpponent) %>%
+  summarise(totalPts = sum(pts),
+            totalFgMade = sum(fgm),
+            totalFgAtt = sum(fga)) %>%
+  ungroup() %>%
+  left_join(advanced_teams %>%
+              unnest(dataBoxScore) %>%
+              select(idGame, slugTeam, possessions)) %>%
+  mutate(ptsPerPoss = totalPts/possessions,
+         fgPct = totalFgMade/totalFgAtt) %>%
+  select(-c(idGame, totalFgMade, totalFgAtt)) %>%
+  filter(slugTeam == "DAL") %>%
+  arrange(ptsPerPoss)
+
+# Calculate pts per possession for Brooklyn games where Kyrie didn't play (https://twitter.com/NbaInRstats/status/1212432244775800838)
+logs_players %>%
+  filter(dateGame < as.Date("2019-12-30")) %>%
+  group_by(idGame, slugTeam) %>%
+  summarise(totalPts = sum(pts),
+            whoPlayed = paste(unique(namePlayer), collapse = ", ")) %>%    # create column with every player who played in the game
+  ungroup() %>%
+  left_join(advanced_teams %>%
+              unnest(dataBoxScore) %>%
+              select(idGame, slugTeam, possessions)) %>%
+  filter(slugTeam == "BKN") %>%
+  filter(!str_detect(whoPlayed, "Kyrie Irving")) %>%                       # filter for games where Kyrie Irving did not play
+  group_by(gameNumber = ifelse(row_number() <= 13, "First 13", "Last 7")) %>%
+  summarise(numberGames = n(),
+            totalPts = sum(totalPts),
+            totalPoss = sum(possessions)) %>%
+  ungroup() %>%
+  mutate(ptsPerPoss = totalPts/totalPoss,
+         ptsPerPoss = round(ptsPerPoss * 100, 1)) %>%
+  mutate_all(list(~ as.character(.)))
