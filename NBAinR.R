@@ -25,7 +25,14 @@ logs_players <- game_logs(2020, type = "player")
 plan(multiprocess)
 players <- player_profiles(player_ids = unique(logs_players$idPlayer))
 
+# Get traditional and hustle box scores for every NBA game
+plan(multiprocess)
+hustle_players_nested <- box_scores(game_ids = unique(games$idGame),
+                                    box_score_types = c("traditional", "Hustle"),
+                                    result_types = "player")
 
+hustle_players <- hustle_players_nested %>%
+  unnest(dataBoxScore)
 
 # Analysis ----------------------------------------------------------------
 
@@ -238,3 +245,39 @@ logs_players %>%
   mutate(ptsPerPoss = totalPts/totalPoss,
          ptsPerPoss = round(ptsPerPoss * 100, 1)) %>%
   mutate_all(list(~ as.character(.)))
+
+
+# Calculate deflections per minute for every rotation player (https://twitter.com/NbaInRstats/status/1213208090524426241)
+hustle_players %>%
+  group_by(namePlayer) %>%
+  summarise(games = n_distinct(idGame),
+            totalDeflections = sum(deflections),
+            totalMinutes = sum(minExact)) %>%
+  ungroup() %>%
+  mutate(minutesGame = totalMinutes / games,
+         deflectionsMinute = totalDeflections / totalMinutes) %>%
+  arrange(desc(deflectionsMinute)) %>%
+  filter(minutesGame > 10)
+
+# Calculating share of midrange and 3s allowed by the Sixers defense (https://twitter.com/NbaInRstats/status/1213569735998279680)
+shots_2020 %>%
+  filter(ymd(dateGame) < as.Date("2020-01-03")) %>%     # only games played before the article was published
+  inner_join(shots_2020 %>%
+               distinct(idGame, nameTeam) %>%
+               arrange(idGame) %>%
+               group_by(idGame) %>%
+               mutate(nameOpponent = ifelse(row_number() == 1, nameTeam[2], nameTeam[1]))) %>%  # get opponent for every game
+  mutate(zoneNew = case_when(
+    zoneBasic == "Mid-Range" ~ "MidRange",
+    str_detect(zoneBasic, "3|Backcourt") ~ "Threes",
+    TRUE ~ "Others"
+  )) %>% 
+  count(zoneNew, nameOpponent) %>%
+  group_by(nameOpponent) %>%
+  mutate(Total = sum(n)) %>%
+  ungroup() %>%
+  pivot_wider(names_from = zoneNew,
+              values_from = n) %>%
+  mutate(ThreesPct = Threes / Total,
+         MidPct = MidRange / Total) %>%
+  arrange(desc(MidRange))
