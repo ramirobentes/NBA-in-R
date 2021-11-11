@@ -4,3 +4,9 @@
   cols: 5
   description: lineups at start of every quarter
   type: table
+- path: lineup-stats
+  name: lineup-stats
+  rows: 9847
+  cols: 15
+  description: every lineup stint and stats
+  type: table

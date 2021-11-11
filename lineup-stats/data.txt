@@ -1,0 +1,23 @@
+path:
+- data.csv
+- data.rds
+rows: 9847
+cols: 15
+columns:
+  idGame: character
+  slugTeam: character
+  lineup: character
+  lineupStint: integer
+  numberPeriod: character
+  initialScoreTeam: numeric
+  initialScoreOpp: numeric
+  finalScoreTeam: numeric
+  finalScoreOpp: numeric
+  initialTime: numeric
+  finalTime: numeric
+  totalScoreTeam: numeric
+  totalScoreOpp: numeric
+  netScoreTeam: numeric
+  totalTime: numeric
+description: every lineup stint and stats
+type: table
