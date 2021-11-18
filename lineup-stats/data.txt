@@ -2,13 +2,15 @@ path:
 - data.csv
 - data.rds
 rows: 12752
-cols: 15
+cols: 17
 columns:
-  idGame: character
+  idGame: numeric
   slugTeam: character
   lineup: character
   lineupStint: integer
-  numberPeriod: character
+  numberPeriod: numeric
+  totalPossTeam: numeric
+  totalPossOpp: numeric
   initialScoreTeam: numeric
   initialScoreOpp: numeric
   finalScoreTeam: numeric
