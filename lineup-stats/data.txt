@@ -1,8 +1,8 @@
 path:
 - data.csv
 - data.rds
-rows: 17835
-cols: 17
+rows: 18126
+cols: 19
 columns:
   idGame: numeric
   slugTeam: character
@@ -21,5 +21,7 @@ columns:
   totalScoreOpp: numeric
   netScoreTeam: numeric
   totalTime: numeric
+  starters: character
+  reserves: integer
 description: every lineup stint and stats
 type: table
