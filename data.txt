@@ -1,6 +1,6 @@
 - path: lineups-quarters
   name: lineups-quarters
-  rows: 13490
+  rows: 13430
   cols: 5
   description: lineups at start of every quarter
   type: table
