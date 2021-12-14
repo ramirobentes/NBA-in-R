@@ -22764,3 +22764,517 @@
 22100403,"LAL","Austin Reaves, Avery Bradley, Carmelo Anthony, Dwight Howard, LeBron James",24,4,2,1,94,80,97,84,2527,2594,3,4,-1,67,2
 22100403,"LAL","Austin Reaves, Avery Bradley, Dwight Howard, LeBron James, Russell Westbrook",25,4,4,4,97,84,102,89,2594,2698,5,5,0,104,1
 22100403,"LAL","Austin Reaves, Avery Bradley, LeBron James, Russell Westbrook, Talen Horton-Tucker",26,4,6,6,102,89,106,94,2698,2880,4,5,-1,182,1
+22100404,"CLE","Darius Garland, Evan Mobley, Isaac Okoro, Jarrett Allen, Lauri Markkanen",0,1,13,13,0,0,14,13,0,377,14,13,1,377,0
+22100404,"MIA","Dewayne Dedmon, Duncan Robinson, Gabe Vincent, Kyle Lowry, P.J. Tucker",0,1,13,13,0,0,13,14,0,377,13,14,-1,377,0
+22100404,"CLE","Evan Mobley, Isaac Okoro, Jarrett Allen, Kevin Love, Lauri Markkanen",1,1,0,0,14,13,14,13,377,377,0,0,0,0,1
+22100404,"MIA","Dewayne Dedmon, Duncan Robinson, Gabe Vincent, Kyle Lowry, Tyler Herro",1,1,0,0,13,14,13,14,377,377,0,0,0,0,1
+22100404,"CLE","Isaac Okoro, Jarrett Allen, Kevin Love, Lauri Markkanen, Ricky Rubio",2,1,1,0,14,13,16,13,377,429,2,0,2,52,2
+22100404,"MIA","Dewayne Dedmon, Duncan Robinson, Kyle Lowry, KZ Okpala, Tyler Herro",2,1,0,0,13,14,13,14,377,395,0,0,0,18,2
+22100404,"CLE","Cedi Osman, Isaac Okoro, Jarrett Allen, Kevin Love, Ricky Rubio",3,1,2,2,16,13,16,16,429,498,0,3,-3,69,3
+22100404,"MIA","Duncan Robinson, Kyle Lowry, KZ Okpala, Omer Yurtseven, Tyler Herro",3,1,8,8,13,14,20,19,395,620,7,5,2,225,3
+22100404,"CLE","Cedi Osman, Evan Mobley, Isaac Okoro, Kevin Love, Ricky Rubio",4,1,0,0,16,16,16,16,498,498,0,0,0,0,3
+22100404,"MIA","Duncan Robinson, KZ Okpala, Omer Yurtseven, P.J. Tucker, Tyler Herro",4,1,0,0,20,19,20,19,620,620,0,0,0,0,3
+22100404,"CLE","Cedi Osman, Darius Garland, Evan Mobley, Kevin Love, Ricky Rubio",5,1,7,8,16,16,23,23,498,708,7,7,0,210,3
+22100404,"MIA","Gabe Vincent, KZ Okpala, Omer Yurtseven, P.J. Tucker, Tyler Herro",5,1,0,0,20,19,20,19,620,620,0,0,0,0,3
+22100404,"CLE","Cedi Osman, Darius Garland, Evan Mobley, Isaac Okoro, Ricky Rubio",6,1,1,1,23,23,23,25,708,720,0,2,-2,12,2
+22100404,"MIA","Gabe Vincent, KZ Okpala, Max Strus, P.J. Tucker, Tyler Herro",6,1,3,3,20,19,25,23,620,720,5,4,1,100,3
+22100404,"MIA","Gabe Vincent, KZ Okpala, Max Strus, P.J. Tucker, Tyler Herro",6,2,3,2,25,23,25,25,720,796,0,2,-2,76,3
+22100404,"CLE","Cedi Osman, Darius Garland, Evan Mobley, Kevin Love, Ricky Rubio",7,2,2,3,23,25,25,25,720,796,2,0,2,76,3
+22100404,"MIA","Gabe Vincent, Max Strus, Omer Yurtseven, P.J. Tucker, Tyler Herro",7,2,7,8,25,25,31,31,796,994,6,6,0,198,3
+22100404,"CLE","Darius Garland, Evan Mobley, Kevin Love, Lamar Stevens, Ricky Rubio",8,2,4,4,25,25,25,29,796,891,0,4,-4,95,3
+22100404,"MIA","Duncan Robinson, Max Strus, Omer Yurtseven, P.J. Tucker, Tyler Herro",8,2,0,0,31,31,31,31,994,994,0,0,0,0,3
+22100404,"CLE","Darius Garland, Evan Mobley, Kevin Love, Lamar Stevens, Lauri Markkanen",9,2,0,0,25,29,25,29,891,891,0,0,0,0,2
+22100404,"MIA","Duncan Robinson, Kyle Lowry, Max Strus, Omer Yurtseven, Tyler Herro",9,2,0,0,31,31,31,31,994,994,0,0,0,0,3
+22100404,"CLE","Darius Garland, Isaac Okoro, Kevin Love, Lamar Stevens, Lauri Markkanen",10,2,3,2,25,29,28,31,891,959,3,2,1,68,2
+22100404,"MIA","Dewayne Dedmon, Duncan Robinson, Kyle Lowry, Omer Yurtseven, Tyler Herro",10,2,0,0,31,31,31,31,994,994,0,0,0,0,2
+22100404,"CLE","Darius Garland, Isaac Okoro, Jarrett Allen, Lamar Stevens, Lauri Markkanen",11,2,6,7,28,31,42,37,959,1200,14,6,8,241,1
+22100404,"MIA","Dewayne Dedmon, Duncan Robinson, Kyle Lowry, KZ Okpala, Tyler Herro",11,2,6,5,31,31,37,42,994,1200,6,11,-5,206,2
+22100404,"CLE","Darius Garland, Isaac Okoro, Jarrett Allen, Lauri Markkanen, Ricky Rubio",12,2,0,0,42,37,42,37,1200,1200,0,0,0,0,1
+22100404,"MIA","Dewayne Dedmon, Duncan Robinson, Kyle Lowry, P.J. Tucker, Tyler Herro",12,2,3,3,37,42,38,46,1200,1276,1,4,-3,76,1
+22100404,"CLE","Evan Mobley, Isaac Okoro, Jarrett Allen, Lauri Markkanen, Ricky Rubio",13,2,9,8,42,37,55,44,1200,1440,13,7,6,240,1
+22100404,"MIA","Dewayne Dedmon, Duncan Robinson, Gabe Vincent, Kyle Lowry, P.J. Tucker",13,2,1,2,38,46,38,50,1276,1327,0,4,-4,51,0
+22100404,"CLE","Darius Garland, Evan Mobley, Isaac Okoro, Jarrett Allen, Lauri Markkanen",14,3,10,10,55,44,62,59,1440,1799,7,15,-8,359,0
+22100404,"MIA","Duncan Robinson, Gabe Vincent, Kyle Lowry, KZ Okpala, P.J. Tucker",14,2,3,3,38,50,41,55,1327,1410,3,5,-2,83,1
+22100404,"CLE","Darius Garland, Isaac Okoro, Jarrett Allen, Kevin Love, Lauri Markkanen",15,3,2,2,62,59,64,62,1799,1852,2,3,-1,53,1
+22100404,"MIA","Duncan Robinson, Gabe Vincent, KZ Okpala, P.J. Tucker, Tyler Herro",15,2,1,1,41,55,44,55,1410,1440,3,0,3,30,2
+22100404,"CLE","Isaac Okoro, Jarrett Allen, Kevin Love, Lauri Markkanen, Ricky Rubio",16,3,3,4,64,62,72,66,1852,1975,8,4,4,123,2
+22100404,"MIA","Dewayne Dedmon, Duncan Robinson, Gabe Vincent, Kyle Lowry, P.J. Tucker",16,3,10,10,44,55,59,62,1440,1799,15,7,8,359,0
+22100404,"CLE","Isaac Okoro, Kevin Love, Lamar Stevens, Lauri Markkanen, Ricky Rubio",17,3,0,0,72,66,72,66,1975,1975,0,0,0,0,3
+22100404,"MIA","Dewayne Dedmon, Duncan Robinson, Kyle Lowry, P.J. Tucker, Tyler Herro",17,3,2,2,59,62,62,64,1799,1852,3,2,1,53,1
+22100404,"CLE","Evan Mobley, Kevin Love, Lamar Stevens, Lauri Markkanen, Ricky Rubio",18,3,1,1,72,66,75,66,1975,2000,3,0,3,25,3
+22100404,"MIA","Duncan Robinson, Kyle Lowry, Max Strus, P.J. Tucker, Tyler Herro",18,3,0,0,62,64,62,64,1852,1852,0,0,0,0,2
+22100404,"CLE","Darius Garland, Evan Mobley, Kevin Love, Lamar Stevens, Ricky Rubio",19,3,5,4,75,66,78,73,2000,2134,3,7,-4,134,3
+22100404,"MIA","Kyle Lowry, Max Strus, Omer Yurtseven, P.J. Tucker, Tyler Herro",19,3,9,9,62,64,73,78,1852,2134,11,14,-3,282,3
+22100404,"CLE","Evan Mobley, Isaac Okoro, Kevin Love, Lamar Stevens, Ricky Rubio",20,3,0,1,78,73,78,73,2134,2155,0,0,0,21,3
+22100404,"MIA","Gabe Vincent, Kyle Lowry, Max Strus, Omer Yurtseven, Tyler Herro",20,3,1,0,73,78,73,78,2134,2155,0,0,0,21,3
+22100404,"CLE","Darius Garland, Evan Mobley, Isaac Okoro, Kevin Love, Ricky Rubio",21,3,0,0,78,73,78,73,2155,2155,0,0,0,0,2
+22100404,"MIA","Gabe Vincent, KZ Okpala, Max Strus, Omer Yurtseven, Tyler Herro",21,3,0,1,73,78,73,78,2155,2160,0,0,0,5,4
+22100404,"CLE","Darius Garland, Evan Mobley, Kevin Love, Lauri Markkanen, Ricky Rubio",22,3,1,0,78,73,78,73,2155,2160,0,0,0,5,2
+22100404,"MIA","Dewayne Dedmon, Gabe Vincent, KZ Okpala, Max Strus, Tyler Herro",22,4,5,6,73,78,77,84,2160,2352,4,6,-2,192,3
+22100404,"CLE","Darius Garland, Evan Mobley, Kevin Love, Lamar Stevens, Ricky Rubio",23,4,6,5,78,73,84,77,2160,2352,6,4,2,192,3
+22100404,"MIA","Dewayne Dedmon, Gabe Vincent, Kyle Lowry, KZ Okpala, Max Strus",23,4,2,2,77,84,79,90,2352,2416,2,6,-4,64,2
+22100404,"CLE","Darius Garland, Evan Mobley, Isaac Okoro, Kevin Love, Lamar Stevens",24,4,0,0,84,77,84,77,2352,2352,0,0,0,0,2
+22100404,"MIA","Dewayne Dedmon, Gabe Vincent, Kyle Lowry, Max Strus, Omer Yurtseven",24,4,0,0,79,90,79,90,2416,2416,0,0,0,0,2
+22100404,"CLE","Darius Garland, Evan Mobley, Isaac Okoro, Kevin Love, Lauri Markkanen",25,4,4,4,84,77,92,79,2352,2474,8,2,6,122,1
+22100404,"MIA","Gabe Vincent, Kyle Lowry, Max Strus, Omer Yurtseven, P.J. Tucker",25,4,0,0,79,90,79,90,2416,2416,0,0,0,0,2
+22100404,"CLE","Darius Garland, Isaac Okoro, Kevin Love, Lauri Markkanen, Ricky Rubio",26,4,0,0,92,79,92,79,2474,2474,0,0,0,0,2
+22100404,"MIA","Duncan Robinson, Gabe Vincent, Kyle Lowry, Omer Yurtseven, P.J. Tucker",26,4,13,13,79,90,94,103,2416,2837,15,13,2,421,1
+22100404,"CLE","Isaac Okoro, Jarrett Allen, Kevin Love, Lauri Markkanen, Ricky Rubio",27,4,5,6,92,79,100,90,2474,2658,8,11,-3,184,2
+22100404,"MIA","Duncan Robinson, Gabe Vincent, Kyle Lowry, KZ Okpala, Omer Yurtseven",27,4,2,2,94,103,94,105,2837,2880,0,2,-2,43,2
+22100404,"CLE","Darius Garland, Isaac Okoro, Jarrett Allen, Lauri Markkanen, Ricky Rubio",28,4,0,0,100,90,100,90,2658,2658,0,0,0,0,1
+22100404,"CLE","Darius Garland, Evan Mobley, Isaac Okoro, Jarrett Allen, Ricky Rubio",29,4,6,5,100,90,103,94,2658,2837,3,4,-1,179,1
+22100404,"CLE","Darius Garland, Evan Mobley, Jarrett Allen, Lauri Markkanen, Ricky Rubio",30,4,2,2,103,94,105,94,2837,2880,2,0,2,43,1
+22100405,"GSW","Andrew Wiggins, Draymond Green, Jordan Poole, Kevon Looney, Stephen Curry",0,1,14,14,0,0,17,16,0,421,17,16,1,421,0
+22100405,"IND","Caris LeVert, Chris Duarte, Domantas Sabonis, Malcolm Brogdon, Myles Turner",0,1,13,14,0,0,16,16,0,388,16,16,0,388,0
+22100405,"GSW","Andrew Wiggins, Draymond Green, Gary Payton II, Jordan Poole, Stephen Curry",1,1,0,0,17,16,17,16,421,421,0,0,0,0,1
+22100405,"IND","Caris LeVert, Chris Duarte, Jeremy Lamb, Malcolm Brogdon, Myles Turner",1,1,0,0,16,16,16,16,388,388,0,0,0,0,1
+22100405,"GSW","Andrew Wiggins, Draymond Green, Gary Payton II, Jordan Poole, Otto Porter Jr.",2,1,4,4,17,16,17,23,421,530,0,7,-7,109,2
+22100405,"IND","Chris Duarte, Jeremy Lamb, Malcolm Brogdon, Myles Turner, Oshae Brissett",2,1,5,4,16,16,23,17,388,530,7,1,6,142,2
+22100405,"GSW","Draymond Green, Gary Payton II, Jordan Poole, Juan Toscano-Anderson, Otto Porter Jr.",3,1,2,2,17,23,19,26,530,602,2,3,-1,72,3
+22100405,"IND","Jeremy Lamb, Kelan Martin, Malcolm Brogdon, Myles Turner, Oshae Brissett",3,1,2,2,23,17,26,19,530,602,3,2,1,72,3
+22100405,"GSW","Draymond Green, Gary Payton II, Juan Toscano-Anderson, Nemanja Bjelica, Otto Porter Jr.",4,1,0,0,19,26,19,26,602,602,0,0,0,0,4
+22100405,"IND","Domantas Sabonis, Jeremy Lamb, Kelan Martin, Malcolm Brogdon, Oshae Brissett",4,1,0,0,26,19,26,21,602,620,0,2,-2,18,3
+22100405,"GSW","Gary Payton II, Juan Toscano-Anderson, Nemanja Bjelica, Otto Porter Jr., Stephen Curry",5,1,0,0,19,26,19,26,602,602,0,0,0,0,4
+22100405,"IND","Caris LeVert, Domantas Sabonis, Jeremy Lamb, Kelan Martin, Oshae Brissett",5,1,4,4,26,21,29,25,620,720,3,4,-1,100,3
+22100405,"IND","Caris LeVert, Domantas Sabonis, Jeremy Lamb, Kelan Martin, Oshae Brissett",5,2,7,6,29,25,36,27,720,885,7,2,5,165,3
+22100405,"GSW","Juan Toscano-Anderson, Moses Moody, Nemanja Bjelica, Otto Porter Jr., Stephen Curry",6,1,4,3,19,26,25,29,602,713,6,3,3,111,4
+22100405,"IND","Brad Wanamaker, Caris LeVert, Domantas Sabonis, Kelan Martin, Oshae Brissett",6,2,2,3,36,27,36,34,885,981,0,7,-7,96,3
+22100405,"GSW","Jonathan Kuminga, Juan Toscano-Anderson, Moses Moody, Otto Porter Jr., Stephen Curry",7,1,0,0,25,29,25,29,713,713,0,0,0,0,4
+22100405,"IND","Brad Wanamaker, Caris LeVert, Chris Duarte, Domantas Sabonis, Oshae Brissett",7,2,0,0,36,34,36,34,981,981,0,0,0,0,2
+22100405,"GSW","Jonathan Kuminga, Juan Toscano-Anderson, Kevon Looney, Moses Moody, Otto Porter Jr.",8,1,0,1,25,29,25,29,713,720,0,0,0,7,4
+22100405,"IND","Brad Wanamaker, Chris Duarte, Domantas Sabonis, Malcolm Brogdon, Oshae Brissett",8,2,4,4,36,34,36,36,981,1097,0,2,-2,116,2
+22100405,"GSW","Damion Lee, Juan Toscano-Anderson, Nemanja Bjelica, Otto Porter Jr., Stephen Curry",9,2,6,7,25,29,27,36,720,885,2,7,-5,165,4
+22100405,"IND","Brad Wanamaker, Chris Duarte, Malcolm Brogdon, Myles Turner, Oshae Brissett",9,2,2,1,36,36,38,40,1097,1158,2,4,-2,61,2
+22100405,"GSW","Damion Lee, Jonathan Kuminga, Juan Toscano-Anderson, Otto Porter Jr., Stephen Curry",10,2,3,2,27,36,34,36,885,981,7,0,7,96,4
+22100405,"IND","Brad Wanamaker, Chris Duarte, Kelan Martin, Malcolm Brogdon, Myles Turner",10,2,0,1,38,40,40,40,1158,1170,2,0,2,12,2
+22100405,"GSW","Andrew Wiggins, Damion Lee, Jonathan Kuminga, Juan Toscano-Anderson, Stephen Curry",11,2,4,4,34,36,36,36,981,1097,2,0,2,116,3
+22100405,"IND","Caris LeVert, Chris Duarte, Kelan Martin, Malcolm Brogdon, Myles Turner",11,2,3,3,40,40,42,44,1170,1232,2,4,-2,62,1
+22100405,"GSW","Andrew Wiggins, Damion Lee, Jonathan Kuminga, Jordan Poole, Juan Toscano-Anderson",12,2,0,0,36,36,36,36,1097,1097,0,0,0,0,3
+22100405,"IND","Caris LeVert, Domantas Sabonis, Kelan Martin, Malcolm Brogdon, Myles Turner",12,2,10,9,42,44,55,47,1232,1440,13,3,10,208,1
+22100405,"GSW","Andrew Wiggins, Damion Lee, Draymond Green, Jonathan Kuminga, Jordan Poole",13,2,5,5,36,36,44,42,1097,1232,8,6,2,135,2
+22100405,"IND","Caris LeVert, Chris Duarte, Domantas Sabonis, Malcolm Brogdon, Myles Turner",13,3,12,12,55,47,67,67,1440,1804,12,20,-8,364,0
+22100405,"GSW","Andrew Wiggins, Damion Lee, Draymond Green, Jordan Poole, Otto Porter Jr.",14,2,1,1,44,42,44,46,1232,1274,0,4,-4,42,2
+22100405,"IND","Caris LeVert, Domantas Sabonis, Jeremy Lamb, Malcolm Brogdon, Myles Turner",14,3,0,0,67,67,67,67,1804,1804,0,0,0,0,1
+22100405,"GSW","Andrew Wiggins, Damion Lee, Draymond Green, Otto Porter Jr., Stephen Curry",15,2,7,7,44,46,47,55,1274,1404,3,9,-6,130,2
+22100405,"IND","Caris LeVert, Jeremy Lamb, Malcolm Brogdon, Myles Turner, Oshae Brissett",15,3,3,3,67,67,72,67,1804,1908,5,0,5,104,2
+22100405,"GSW","Andrew Wiggins, Damion Lee, Juan Toscano-Anderson, Otto Porter Jr., Stephen Curry",16,2,1,1,47,55,47,55,1404,1433,0,0,0,29,3
+22100405,"IND","Caris LeVert, Jeremy Lamb, Kelan Martin, Myles Turner, Oshae Brissett",16,3,7,6,72,67,82,78,1908,2093,10,11,-1,185,3
+22100405,"GSW","Andrew Wiggins, Jonathan Kuminga, Juan Toscano-Anderson, Otto Porter Jr., Stephen Curry",17,2,0,0,47,55,47,55,1433,1433,0,0,0,0,3
+22100405,"IND","Jeremy Lamb, Kelan Martin, Malcolm Brogdon, Myles Turner, Oshae Brissett",17,3,0,0,82,78,82,78,2093,2093,0,0,0,0,3
+22100405,"GSW","Andrew Wiggins, Jonathan Kuminga, Juan Toscano-Anderson, Kevon Looney, Otto Porter Jr.",18,2,0,0,47,55,47,55,1433,1433,0,0,0,0,3
+22100405,"IND","Domantas Sabonis, Jeremy Lamb, Kelan Martin, Malcolm Brogdon, Oshae Brissett",18,3,1,2,82,78,84,80,2093,2146,2,2,0,53,3
+22100405,"GSW","Andrew Wiggins, Gary Payton II, Jonathan Kuminga, Juan Toscano-Anderson, Kevon Looney",19,2,0,1,47,55,47,55,1433,1440,0,0,0,7,3
+22100405,"IND","Brad Wanamaker, Jeremy Lamb, Kelan Martin, Malcolm Brogdon, Oshae Brissett",19,3,1,1,84,80,84,80,2146,2160,0,0,0,14,4
+22100405,"GSW","Andrew Wiggins, Draymond Green, Jordan Poole, Kevon Looney, Stephen Curry",20,3,12,12,47,55,67,67,1440,1804,20,12,8,364,0
+22100405,"IND","Domantas Sabonis, Jeremy Lamb, Kelan Martin, Malcolm Brogdon, Oshae Brissett",20,4,4,5,84,80,87,84,2160,2322,3,4,-1,162,3
+22100405,"GSW","Andrew Wiggins, Gary Payton II, Jordan Poole, Kevon Looney, Stephen Curry",21,3,0,0,67,67,67,67,1804,1804,0,0,0,0,1
+22100405,"IND","Chris Duarte, Domantas Sabonis, Kelan Martin, Malcolm Brogdon, Oshae Brissett",21,4,1,0,87,84,89,84,2322,2342,2,0,2,20,2
+22100405,"GSW","Andrew Wiggins, Gary Payton II, Jordan Poole, Kevon Looney, Otto Porter Jr.",22,3,3,3,67,67,67,72,1804,1908,0,5,-5,104,2
+22100405,"IND","Caris LeVert, Chris Duarte, Domantas Sabonis, Kelan Martin, Oshae Brissett",22,4,0,0,89,84,89,84,2342,2342,0,0,0,0,2
+22100405,"GSW","Andrew Wiggins, Gary Payton II, Jordan Poole, Nemanja Bjelica, Otto Porter Jr.",23,3,0,0,67,72,67,72,1908,1908,0,0,0,0,3
+22100405,"IND","Caris LeVert, Chris Duarte, Domantas Sabonis, Kelan Martin, Myles Turner",23,4,4,5,89,84,91,89,2342,2492,2,5,-3,150,1
+22100405,"GSW","Gary Payton II, Jordan Poole, Nemanja Bjelica, Otto Porter Jr., Stephen Curry",24,3,6,7,67,72,78,82,1908,2093,11,10,1,185,3
+22100405,"IND","Caris LeVert, Domantas Sabonis, Kelan Martin, Myles Turner, Oshae Brissett",24,4,0,0,91,89,91,89,2492,2492,0,0,0,0,2
+22100405,"GSW","Gary Payton II, Juan Toscano-Anderson, Nemanja Bjelica, Otto Porter Jr., Stephen Curry",25,3,2,1,78,82,80,84,2093,2146,2,2,0,53,4
+22100405,"IND","Caris LeVert, Domantas Sabonis, Malcolm Brogdon, Myles Turner, Oshae Brissett",25,4,3,2,91,89,96,91,2492,2614,5,2,3,122,1
+22100405,"GSW","Jordan Poole, Juan Toscano-Anderson, Nemanja Bjelica, Otto Porter Jr., Stephen Curry",26,3,1,1,80,84,80,84,2146,2160,0,0,0,14,3
+22100405,"IND","Caris LeVert, Kelan Martin, Malcolm Brogdon, Myles Turner, Oshae Brissett",26,4,0,1,96,91,96,91,2614,2657,0,0,0,43,2
+22100405,"GSW","Damion Lee, Juan Toscano-Anderson, Kevon Looney, Otto Porter Jr., Stephen Curry",27,4,4,3,80,84,84,85,2160,2291,4,1,3,131,3
+22100405,"IND","Caris LeVert, Domantas Sabonis, Kelan Martin, Malcolm Brogdon, Myles Turner",27,4,7,6,96,91,100,102,2657,2878,4,11,-7,221,1
+22100405,"GSW","Damion Lee, Draymond Green, Juan Toscano-Anderson, Kevon Looney, Stephen Curry",28,4,0,0,84,85,84,85,2291,2291,0,0,0,0,2
+22100405,"IND","Caris LeVert, Kelan Martin, Malcolm Brogdon, Myles Turner, Oshae Brissett",28,4,0,0,100,102,100,102,2878,2880,0,0,0,2,2
+22100405,"GSW","Andrew Wiggins, Damion Lee, Draymond Green, Kevon Looney, Stephen Curry",29,4,1,2,84,85,84,89,2291,2342,0,4,-4,51,1
+22100405,"GSW","Andrew Wiggins, Damion Lee, Draymond Green, Jordan Poole, Kevon Looney",30,4,7,7,84,89,91,96,2342,2614,7,7,0,272,1
+22100405,"GSW","Andrew Wiggins, Draymond Green, Jordan Poole, Kevon Looney, Stephen Curry",31,4,0,0,91,96,91,96,2614,2614,0,0,0,0,0
+22100405,"GSW","Andrew Wiggins, Draymond Green, Kevon Looney, Otto Porter Jr., Stephen Curry",32,4,7,6,91,96,102,100,2614,2867,11,4,7,253,1
+22100405,"GSW","Andrew Wiggins, Draymond Green, Gary Payton II, Kevon Looney, Otto Porter Jr.",33,4,0,0,102,100,102,100,2867,2867,0,0,0,0,2
+22100405,"GSW","Andrew Wiggins, Draymond Green, Gary Payton II, Juan Toscano-Anderson, Kevon Looney",34,4,0,1,102,100,102,100,2867,2878,0,0,0,11,2
+22100405,"GSW","Andrew Wiggins, Damion Lee, Draymond Green, Gary Payton II, Juan Toscano-Anderson",35,4,0,0,102,100,102,100,2878,2878,0,0,0,0,3
+22100405,"GSW","Andrew Wiggins, Damion Lee, Draymond Green, Juan Toscano-Anderson, Stephen Curry",36,4,0,0,102,100,102,100,2878,2878,0,0,0,0,2
+22100405,"GSW","Andrew Wiggins, Damion Lee, Draymond Green, Jordan Poole, Stephen Curry",37,4,0,0,102,100,102,100,2878,2880,0,0,0,2,1
+22100406,"SAC","Alex Len, Chimezie Metu, De'Aaron Fox, Harrison Barnes, Tyrese Haliburton",0,1,11,11,0,0,6,11,0,308,6,11,-5,308,0
+22100406,"TOR","Chris Boucher, Fred VanVleet, Gary Trent Jr., Pascal Siakam, Scottie Barnes",0,1,15,16,0,0,16,10,0,449,16,10,6,449,0
+22100406,"SAC","Alex Len, Chimezie Metu, De'Aaron Fox, Harrison Barnes, Marvin Bagley III",1,1,0,0,6,11,6,11,308,308,0,0,0,0,1
+22100406,"TOR","Chris Boucher, Fred VanVleet, Gary Trent Jr., Pascal Siakam, Yuta Watanabe",1,1,1,1,16,10,16,12,449,495,0,2,-2,46,1
+22100406,"SAC","Alex Len, Buddy Hield, De'Aaron Fox, Harrison Barnes, Marvin Bagley III",2,1,5,4,6,11,10,16,308,449,4,5,-1,141,2
+22100406,"TOR","Dalano Banton, Fred VanVleet, Gary Trent Jr., Pascal Siakam, Yuta Watanabe",2,1,4,4,16,12,18,16,495,574,2,4,-2,79,2
+22100406,"SAC","Buddy Hield, Damian Jones, De'Aaron Fox, Harrison Barnes, Marvin Bagley III",3,1,1,1,10,16,12,16,449,495,2,0,2,46,3
+22100406,"TOR","Dalano Banton, Gary Trent Jr., Pascal Siakam, Svi Mykhailiuk, Yuta Watanabe",3,1,0,0,18,16,18,16,574,574,0,0,0,0,3
+22100406,"SAC","Buddy Hield, Damian Jones, Davion Mitchell, De'Aaron Fox, Marvin Bagley III",4,1,6,6,12,16,17,24,495,649,5,8,-3,154,4
+22100406,"TOR","Dalano Banton, Gary Trent Jr., Scottie Barnes, Svi Mykhailiuk, Yuta Watanabe",4,1,2,2,18,16,24,17,574,649,6,1,5,75,3
+22100406,"SAC","Buddy Hield, Damian Jones, Davion Mitchell, Marvin Bagley III, Tyrese Haliburton",5,1,3,4,17,24,22,30,649,720,5,6,-1,71,4
+22100406,"SAC","Buddy Hield, Damian Jones, Davion Mitchell, Marvin Bagley III, Tyrese Haliburton",5,2,5,6,22,30,25,39,720,886,3,9,-6,166,4
+22100406,"TOR","Dalano Banton, Justin Champagnie, Scottie Barnes, Svi Mykhailiuk, Yuta Watanabe",5,1,4,3,24,17,30,22,649,720,6,5,1,71,4
+22100406,"TOR","Dalano Banton, Justin Champagnie, Scottie Barnes, Svi Mykhailiuk, Yuta Watanabe",5,2,8,7,30,22,41,29,720,952,11,7,4,232,4
+22100406,"SAC","Chimezie Metu, Damian Jones, Davion Mitchell, Marvin Bagley III, Tyrese Haliburton",6,2,0,0,25,39,25,39,886,886,0,0,0,0,3
+22100406,"TOR","Dalano Banton, Justin Champagnie, Pascal Siakam, Svi Mykhailiuk, Yuta Watanabe",6,2,0,0,41,29,41,29,952,952,0,0,0,0,4
+22100406,"SAC","Alex Len, Chimezie Metu, Davion Mitchell, Marvin Bagley III, Tyrese Haliburton",7,2,0,0,25,39,25,39,886,886,0,0,0,0,2
+22100406,"TOR","Dalano Banton, Gary Trent Jr., Justin Champagnie, Pascal Siakam, Svi Mykhailiuk",7,2,1,2,41,29,44,29,952,1013,3,0,3,61,3
+22100406,"SAC","Alex Len, Chimezie Metu, Davion Mitchell, Terence Davis, Tyrese Haliburton",8,2,4,3,25,39,29,44,886,1013,4,5,-1,127,2
+22100406,"TOR","Fred VanVleet, Gary Trent Jr., Justin Champagnie, Pascal Siakam, Svi Mykhailiuk",8,2,2,1,44,29,48,31,1013,1063,4,2,2,50,2
+22100406,"SAC","Alex Len, Chimezie Metu, Harrison Barnes, Terence Davis, Tyrese Haliburton",9,2,1,2,29,44,29,48,1013,1050,0,4,-4,37,1
+22100406,"TOR","Chris Boucher, Fred VanVleet, Gary Trent Jr., Justin Champagnie, Pascal Siakam",9,2,5,5,48,31,56,33,1063,1168,8,2,6,105,1
+22100406,"SAC","Alex Len, Chimezie Metu, De'Aaron Fox, Harrison Barnes, Tyrese Haliburton",10,2,5,5,29,48,33,56,1050,1168,4,8,-4,118,0
+22100406,"TOR","Chris Boucher, Fred VanVleet, Gary Trent Jr., Pascal Siakam, Scottie Barnes",10,2,9,9,56,33,70,45,1168,1440,14,12,2,272,0
+22100406,"TOR","Chris Boucher, Fred VanVleet, Gary Trent Jr., Pascal Siakam, Scottie Barnes",10,3,13,12,70,45,80,57,1440,1827,10,12,-2,387,0
+22100406,"SAC","Alex Len, De'Aaron Fox, Harrison Barnes, Marvin Bagley III, Tyrese Haliburton",11,2,5,4,33,56,41,61,1168,1303,8,5,3,135,1
+22100406,"TOR","Chris Boucher, Fred VanVleet, Gary Trent Jr., Pascal Siakam, Yuta Watanabe",11,3,3,3,80,57,82,62,1827,1903,2,5,-3,76,1
+22100406,"SAC","Alex Len, Davion Mitchell, De'Aaron Fox, Harrison Barnes, Marvin Bagley III",12,2,0,0,41,61,41,61,1303,1326,0,0,0,23,2
+22100406,"TOR","Fred VanVleet, Gary Trent Jr., Justin Champagnie, Pascal Siakam, Yuta Watanabe",12,3,4,5,82,62,88,65,1903,2021,6,3,3,118,2
+22100406,"SAC","Damian Jones, Davion Mitchell, De'Aaron Fox, Harrison Barnes, Marvin Bagley III",13,2,4,5,41,61,45,70,1326,1440,4,9,-5,114,3
+22100406,"TOR","Gary Trent Jr., Justin Champagnie, Malachi Flynn, Pascal Siakam, Yuta Watanabe",13,3,5,4,88,65,93,69,2021,2160,5,4,1,139,3
+22100406,"SAC","Alex Len, Chimezie Metu, De'Aaron Fox, Harrison Barnes, Tyrese Haliburton",14,3,10,11,45,70,57,80,1440,1780,12,10,2,340,0
+22100406,"TOR","Justin Champagnie, Malachi Flynn, Scottie Barnes, Svi Mykhailiuk, Yuta Watanabe",14,4,14,15,93,69,114,87,2160,2595,21,18,3,435,4
+22100406,"SAC","Alex Len, Chimezie Metu, Davion Mitchell, De'Aaron Fox, Harrison Barnes",15,3,2,2,57,80,57,80,1780,1827,0,0,0,47,1
+22100406,"TOR","Isaac Bonga, Justin Champagnie, Malachi Flynn, Svi Mykhailiuk, Yuta Watanabe",15,4,10,10,114,87,124,101,2595,2880,10,14,-4,285,5
+22100406,"SAC","Alex Len, Davion Mitchell, De'Aaron Fox, Harrison Barnes, Marvin Bagley III",16,3,1,0,57,80,60,80,1827,1833,3,0,3,6,2
+22100406,"SAC","Alex Len, Buddy Hield, Davion Mitchell, De'Aaron Fox, Marvin Bagley III",17,3,0,0,60,80,60,80,1833,1846,0,0,0,13,3
+22100406,"SAC","Buddy Hield, Davion Mitchell, De'Aaron Fox, Marvin Bagley III, Tristan Thompson",18,3,7,7,60,80,65,88,1846,2021,5,8,-3,175,4
+22100406,"SAC","Buddy Hield, Davion Mitchell, Marvin Bagley III, Terence Davis, Tristan Thompson",19,3,4,5,65,88,69,93,2021,2160,4,5,-1,139,5
+22100406,"SAC","Buddy Hield, Davion Mitchell, Marvin Bagley III, Terence Davis, Tristan Thompson",19,4,9,8,69,93,80,99,2160,2404,11,6,5,244,5
+22100406,"SAC","Buddy Hield, De'Aaron Fox, Marvin Bagley III, Terence Davis, Tristan Thompson",20,4,5,5,80,99,87,111,2404,2556,7,12,-5,152,4
+22100406,"SAC","Buddy Hield, Chimezie Metu, De'Aaron Fox, Terence Davis, Tristan Thompson",21,4,1,1,87,111,87,114,2556,2595,0,3,-3,39,3
+22100406,"SAC","Buddy Hield, Chimezie Metu, Davion Mitchell, De'Aaron Fox, Terence Davis",22,4,4,5,87,114,92,118,2595,2714,5,4,1,119,3
+22100406,"SAC","Buddy Hield, Chimezie Metu, Davion Mitchell, Louis King, Terence Davis",23,4,6,5,92,118,101,124,2714,2880,9,6,3,166,4
+22100407,"ATL","Clint Capela, John Collins, Kevin Huerter, Timothe Luwawu-Cabarrot, Trae Young",0,1,10,10,0,0,13,14,0,256,13,14,-1,256,0
+22100407,"HOU","Armoni Brooks, Christian Wood, Eric Gordon, Garrison Mathews, Jae'Sean Tate",0,1,16,17,0,0,21,20,0,437,21,20,1,437,0
+22100407,"ATL","Clint Capela, Danilo Gallinari, Kevin Huerter, Timothe Luwawu-Cabarrot, Trae Young",1,1,7,6,13,14,20,21,256,437,7,7,0,181,1
+22100407,"HOU","Armoni Brooks, Christian Wood, Eric Gordon, Jae'Sean Tate, Kenyon Martin Jr.",1,1,2,1,21,20,21,23,437,473,0,3,-3,36,1
+22100407,"ATL","Cam Reddish, Clint Capela, Danilo Gallinari, Kevin Huerter, Trae Young",2,1,2,2,20,21,27,21,437,482,7,0,7,45,2
+22100407,"HOU","Armoni Brooks, Christian Wood, Eric Gordon, Josh Christopher, Kenyon Martin Jr.",2,1,3,3,21,23,23,35,473,567,2,12,-10,94,2
+22100407,"ATL","Cam Reddish, Clint Capela, Danilo Gallinari, Delon Wright, Trae Young",3,1,2,3,27,21,35,23,482,567,8,2,6,85,3
+22100407,"HOU","Armoni Brooks, Christian Wood, D.J. Augustin, Josh Christopher, Kenyon Martin Jr.",3,1,0,1,23,35,24,35,567,588,1,0,1,21,3
+22100407,"ATL","Cam Reddish, Danilo Gallinari, Delon Wright, Gorgui Dieng, Trae Young",4,1,1,0,35,23,35,23,567,583,0,0,0,16,4
+22100407,"HOU","Alperen Sengun, Christian Wood, D.J. Augustin, Josh Christopher, Kenyon Martin Jr.",4,1,0,0,24,35,24,35,588,588,0,0,0,0,4
+22100407,"ATL","Cam Reddish, Danilo Gallinari, Delon Wright, Gorgui Dieng, Lou Williams",5,1,5,6,35,23,38,28,583,720,3,5,-2,137,5
+22100407,"ATL","Cam Reddish, Danilo Gallinari, Delon Wright, Gorgui Dieng, Lou Williams",5,2,2,3,38,28,44,33,720,814,6,5,1,94,5
+22100407,"HOU","Alperen Sengun, D.J. Augustin, Garrison Mathews, Josh Christopher, Kenyon Martin Jr.",5,1,6,5,24,35,28,38,588,720,4,3,1,132,4
+22100407,"HOU","Alperen Sengun, D.J. Augustin, Garrison Mathews, Josh Christopher, Kenyon Martin Jr.",5,2,8,8,28,38,39,52,720,983,11,14,-3,263,4
+22100407,"ATL","Cam Reddish, Danilo Gallinari, Delon Wright, John Collins, Lou Williams",6,2,6,5,44,33,52,39,814,983,8,6,2,169,4
+22100407,"HOU","Alperen Sengun, Armoni Brooks, D.J. Augustin, Garrison Mathews, Josh Christopher",6,2,0,0,39,52,39,52,983,983,0,0,0,0,3
+22100407,"ATL","Cam Reddish, Danilo Gallinari, John Collins, Kevin Huerter, Lou Williams",7,2,0,1,52,39,52,39,983,1013,0,0,0,30,3
+22100407,"HOU","Alperen Sengun, Armoni Brooks, D.J. Augustin, Garrison Mathews, Jae'Sean Tate",7,2,2,1,39,52,39,54,983,1049,0,2,-2,66,2
+22100407,"ATL","Cam Reddish, Danilo Gallinari, John Collins, Kevin Huerter, Trae Young",8,2,1,1,52,39,54,39,1013,1049,2,0,2,36,2
+22100407,"HOU","Alperen Sengun, Armoni Brooks, Eric Gordon, Garrison Mathews, Jae'Sean Tate",8,2,0,1,39,54,39,54,1049,1072,0,0,0,23,1
+22100407,"ATL","Cam Reddish, Clint Capela, John Collins, Kevin Huerter, Trae Young",9,2,6,5,54,39,62,46,1049,1220,8,7,1,171,1
+22100407,"HOU","Alperen Sengun, Christian Wood, Eric Gordon, Garrison Mathews, Jae'Sean Tate",9,2,5,5,39,54,46,62,1072,1220,7,8,-1,148,1
+22100407,"ATL","Cam Reddish, Clint Capela, Kevin Huerter, Timothe Luwawu-Cabarrot, Trae Young",10,2,1,2,62,46,63,49,1220,1249,1,3,-2,29,1
+22100407,"HOU","Christian Wood, Eric Gordon, Garrison Mathews, Jae'Sean Tate, Josh Christopher",10,2,11,10,46,62,58,69,1220,1440,12,7,5,220,1
+22100407,"ATL","Clint Capela, Danilo Gallinari, Kevin Huerter, Timothe Luwawu-Cabarrot, Trae Young",11,2,8,8,63,49,69,58,1249,1437,6,9,-3,188,1
+22100407,"HOU","Armoni Brooks, Christian Wood, Eric Gordon, Garrison Mathews, Jae'Sean Tate",11,3,13,13,58,69,71,81,1440,1793,13,12,1,353,0
+22100407,"ATL","Danilo Gallinari, Gorgui Dieng, Kevin Huerter, Timothe Luwawu-Cabarrot, Trae Young",12,2,1,1,69,58,69,58,1437,1440,0,0,0,3,2
+22100407,"HOU","Armoni Brooks, Christian Wood, Eric Gordon, Garrison Mathews, Kenyon Martin Jr.",12,3,0,0,71,81,71,81,1793,1793,0,0,0,0,1
+22100407,"ATL","Clint Capela, John Collins, Kevin Huerter, Timothe Luwawu-Cabarrot, Trae Young",13,3,4,4,69,58,74,63,1440,1569,5,5,0,129,0
+22100407,"HOU","Armoni Brooks, Christian Wood, Eric Gordon, Josh Christopher, Kenyon Martin Jr.",13,3,7,6,71,81,78,94,1793,2003,7,13,-6,210,2
+22100407,"ATL","Clint Capela, Danilo Gallinari, Kevin Huerter, Timothe Luwawu-Cabarrot, Trae Young",14,3,12,13,74,63,87,75,1569,1905,13,12,1,336,1
+22100407,"HOU","Armoni Brooks, Christian Wood, D.J. Augustin, Josh Christopher, Kenyon Martin Jr.",14,3,0,0,78,94,78,94,2003,2003,0,0,0,0,3
+22100407,"ATL","Clint Capela, Danilo Gallinari, Gorgui Dieng, Kevin Huerter, Trae Young",15,3,0,0,87,75,87,75,1905,1905,0,0,0,0,2
+22100407,"HOU","Alperen Sengun, Armoni Brooks, D.J. Augustin, Josh Christopher, Kenyon Martin Jr.",15,3,1,2,78,94,82,97,2003,2056,4,3,1,53,4
+22100407,"ATL","Cam Reddish, Danilo Gallinari, Gorgui Dieng, Kevin Huerter, Trae Young",16,3,1,1,87,75,92,78,1905,1959,5,3,2,54,3
+22100407,"HOU","Alperen Sengun, D.J. Augustin, David Nwaba, Josh Christopher, Kenyon Martin Jr.",16,3,5,4,82,97,88,101,2056,2160,6,4,2,104,5
+22100407,"HOU","Alperen Sengun, D.J. Augustin, David Nwaba, Josh Christopher, Kenyon Martin Jr.",16,4,11,12,88,101,106,114,2160,2495,18,13,5,335,5
+22100407,"ATL","Cam Reddish, Danilo Gallinari, Delon Wright, Gorgui Dieng, Trae Young",17,3,4,3,92,78,97,80,1959,2052,5,2,3,93,4
+22100407,"HOU","Alperen Sengun, D.J. Augustin, David Nwaba, Eric Gordon, Kenyon Martin Jr.",17,4,7,7,106,114,121,119,2495,2716,15,5,10,221,4
+22100407,"ATL","Cam Reddish, Danilo Gallinari, Delon Wright, Gorgui Dieng, Lou Williams",18,3,0,0,97,80,97,83,2052,2056,0,3,-3,4,5
+22100407,"HOU","Alperen Sengun, D.J. Augustin, Eric Gordon, Jae'Sean Tate, Kenyon Martin Jr.",18,4,4,3,121,119,126,122,2716,2852,5,3,2,136,3
+22100407,"ATL","Cam Reddish, Delon Wright, Gorgui Dieng, Lou Williams, Timothe Luwawu-Cabarrot",19,3,4,5,97,83,101,88,2056,2160,4,5,-1,104,4
+22100407,"HOU","Alperen Sengun, David Nwaba, Eric Gordon, Jae'Sean Tate, Kenyon Martin Jr.",19,4,0,1,126,122,126,124,2852,2857,0,2,-2,5,3
+22100407,"ATL","Cam Reddish, Delon Wright, Gorgui Dieng, John Collins, Lou Williams",20,4,3,3,101,88,101,93,2160,2229,0,5,-5,69,4
+22100407,"HOU","Alperen Sengun, D.J. Augustin, Eric Gordon, Jae'Sean Tate, Kenyon Martin Jr.",20,4,0,0,126,124,128,124,2857,2859,2,0,2,2,3
+22100407,"ATL","Cam Reddish, Clint Capela, Delon Wright, John Collins, Lou Williams",21,4,3,2,101,93,105,96,2229,2302,4,3,1,73,3
+22100407,"HOU","D.J. Augustin, David Nwaba, Eric Gordon, Jae'Sean Tate, Kenyon Martin Jr.",21,4,3,2,128,124,132,126,2859,2880,4,2,2,21,3
+22100407,"ATL","Cam Reddish, Clint Capela, John Collins, Kevin Huerter, Lou Williams",22,4,1,2,105,96,109,101,2302,2369,4,5,-1,67,2
+22100407,"ATL","Clint Capela, John Collins, Kevin Huerter, Lou Williams, Trae Young",23,4,5,4,109,101,114,106,2369,2495,5,5,0,126,1
+22100407,"ATL","Clint Capela, Danilo Gallinari, John Collins, Kevin Huerter, Trae Young",24,4,0,0,114,106,114,106,2495,2495,0,0,0,0,1
+22100407,"ATL","Cam Reddish, Danilo Gallinari, John Collins, Kevin Huerter, Trae Young",25,4,3,4,114,106,119,116,2495,2622,5,10,-5,127,2
+22100407,"ATL","Cam Reddish, Clint Capela, John Collins, Kevin Huerter, Trae Young",26,4,7,7,119,116,122,126,2622,2852,3,10,-7,230,1
+22100407,"ATL","Cam Reddish, Danilo Gallinari, John Collins, Kevin Huerter, Trae Young",27,4,1,0,122,126,124,126,2852,2857,2,0,2,5,2
+22100407,"ATL","Cam Reddish, Danilo Gallinari, John Collins, Kevin Huerter, Timothe Luwawu-Cabarrot",28,4,0,0,124,126,124,126,2857,2857,0,0,0,0,2
+22100407,"ATL","Cam Reddish, Delon Wright, John Collins, Kevin Huerter, Timothe Luwawu-Cabarrot",29,4,0,0,124,126,124,128,2857,2859,0,2,-2,2,2
+22100407,"ATL","Cam Reddish, John Collins, Kevin Huerter, Timothe Luwawu-Cabarrot, Trae Young",30,4,0,0,124,128,124,128,2859,2859,0,0,0,0,1
+22100407,"ATL","Cam Reddish, Danilo Gallinari, John Collins, Kevin Huerter, Trae Young",31,4,1,1,124,128,126,130,2859,2868,2,2,0,9,2
+22100407,"ATL","Cam Reddish, Danilo Gallinari, John Collins, Timothe Luwawu-Cabarrot, Trae Young",32,4,0,0,126,130,126,130,2868,2868,0,0,0,0,2
+22100407,"ATL","Cam Reddish, Clint Capela, John Collins, Timothe Luwawu-Cabarrot, Trae Young",33,4,0,1,126,130,126,130,2868,2868,0,0,0,0,1
+22100407,"ATL","Cam Reddish, John Collins, Kevin Huerter, Timothe Luwawu-Cabarrot, Trae Young",34,4,1,1,126,130,126,132,2868,2880,0,2,-2,12,1
+22100408,"BOS","Al Horford, Jaylen Brown, Jayson Tatum, Marcus Smart, Robert Williams III",0,1,11,11,0,0,14,12,0,339,14,12,2,339,0
+22100408,"MIL","Bobby Portis, Giannis Antetokounmpo, Grayson Allen, Jrue Holiday, Khris Middleton",0,1,9,10,0,0,10,12,0,291,10,12,-2,291,0
+22100408,"BOS","Al Horford, Dennis Schroder, Jayson Tatum, Marcus Smart, Robert Williams III",1,1,1,1,14,12,17,12,339,387,3,0,3,48,1
+22100408,"MIL","Bobby Portis, Giannis Antetokounmpo, Grayson Allen, Khris Middleton, Pat Connaughton",1,1,2,1,10,12,12,14,291,339,2,2,0,48,1
+22100408,"BOS","Dennis Schroder, Grant Williams, Jayson Tatum, Marcus Smart, Robert Williams III",2,1,3,3,17,12,17,19,387,475,0,7,-7,88,2
+22100408,"MIL","Giannis Antetokounmpo, Grayson Allen, Khris Middleton, Pat Connaughton, Rodney Hood",2,1,0,0,12,14,12,14,339,352,0,0,0,13,2
+22100408,"BOS","Dennis Schroder, Grant Williams, Marcus Smart, Robert Williams III, Romeo Langford",3,1,3,2,17,19,19,22,475,535,2,3,-1,60,3
+22100408,"MIL","DeMarcus Cousins, Grayson Allen, Khris Middleton, Pat Connaughton, Rodney Hood",3,1,1,1,12,14,12,17,352,387,0,3,-3,35,3
+22100408,"BOS","Dennis Schroder, Enes Freedom, Grant Williams, Marcus Smart, Romeo Langford",4,1,5,5,19,22,21,30,535,715,2,8,-6,180,4
+22100408,"MIL","DeMarcus Cousins, Jrue Holiday, Khris Middleton, Pat Connaughton, Rodney Hood",4,1,3,3,12,17,19,17,387,475,7,0,7,88,3
+22100408,"BOS","Enes Freedom, Grant Williams, Jaylen Brown, Marcus Smart, Romeo Langford",5,1,0,0,21,30,21,30,715,715,0,0,0,0,3
+22100408,"MIL","DeMarcus Cousins, Jrue Holiday, Pat Connaughton, Rodney Hood, Sandro Mamukelashvili",5,1,7,8,19,17,30,21,475,715,11,4,7,240,4
+22100408,"BOS","Al Horford, Grant Williams, Jaylen Brown, Marcus Smart, Romeo Langford",6,1,0,1,21,30,21,30,715,720,0,0,0,5,2
+22100408,"MIL","DeMarcus Cousins, Giannis Antetokounmpo, Jrue Holiday, Rodney Hood, Sandro Mamukelashvili",6,1,0,0,30,21,30,21,715,715,0,0,0,0,3
+22100408,"BOS","Al Horford, Dennis Schroder, Jaylen Brown, Jayson Tatum, Romeo Langford",7,2,8,8,21,30,33,41,720,998,12,11,1,278,2
+22100408,"MIL","DeMarcus Cousins, Giannis Antetokounmpo, Grayson Allen, Jrue Holiday, Rodney Hood",7,1,1,0,30,21,30,21,715,720,0,0,0,5,2
+22100408,"BOS","Al Horford, Dennis Schroder, Grant Williams, Jayson Tatum, Romeo Langford",8,2,1,2,33,41,33,41,998,1037,0,0,0,39,3
+22100408,"MIL","Bobby Portis, Giannis Antetokounmpo, Grayson Allen, Javonte Smart, Khris Middleton",8,2,8,7,30,21,41,31,720,956,11,10,1,236,1
+22100408,"BOS","Aaron Nesmith, Al Horford, Dennis Schroder, Grant Williams, Jayson Tatum",9,2,0,0,33,41,33,41,1037,1037,0,0,0,0,3
+22100408,"MIL","Bobby Portis, Grayson Allen, Javonte Smart, Khris Middleton, Pat Connaughton",9,2,0,0,41,31,41,31,956,956,0,0,0,0,2
+22100408,"BOS","Aaron Nesmith, Dennis Schroder, Grant Williams, Jayson Tatum, Robert Williams III",10,2,3,2,33,41,35,41,1037,1117,2,0,2,80,3
+22100408,"MIL","Bobby Portis, Grayson Allen, Jrue Holiday, Khris Middleton, Pat Connaughton",10,2,4,5,41,31,41,35,956,1117,0,4,-4,161,1
+22100408,"BOS","Aaron Nesmith, Dennis Schroder, Grant Williams, Jaylen Brown, Robert Williams III",11,2,1,1,35,41,35,41,1117,1139,0,0,0,22,3
+22100408,"MIL","Bobby Portis, Giannis Antetokounmpo, Grayson Allen, Jrue Holiday, Pat Connaughton",11,2,1,1,41,35,41,35,1117,1139,0,0,0,22,1
+22100408,"BOS","Aaron Nesmith, Grant Williams, Jaylen Brown, Marcus Smart, Robert Williams III",12,2,2,3,35,41,35,44,1139,1216,0,3,-3,77,2
+22100408,"MIL","Bobby Portis, DeMarcus Cousins, Giannis Antetokounmpo, Jrue Holiday, Pat Connaughton",12,2,0,0,41,35,41,35,1139,1139,0,0,0,0,2
+22100408,"BOS","Grant Williams, Jaylen Brown, Jayson Tatum, Marcus Smart, Robert Williams III",13,2,0,0,35,44,35,44,1216,1216,0,0,0,0,1
+22100408,"MIL","DeMarcus Cousins, Giannis Antetokounmpo, Jrue Holiday, Pat Connaughton, Rodney Hood",13,2,5,5,41,35,45,41,1139,1304,4,6,-2,165,3
+22100408,"BOS","Al Horford, Grant Williams, Jaylen Brown, Jayson Tatum, Marcus Smart",14,2,8,8,35,44,51,50,1216,1440,16,6,10,224,1
+22100408,"MIL","DeMarcus Cousins, Giannis Antetokounmpo, Khris Middleton, Pat Connaughton, Rodney Hood",14,2,3,2,45,41,47,45,1304,1364,2,4,-2,60,3
+22100408,"BOS","Al Horford, Jaylen Brown, Jayson Tatum, Marcus Smart, Robert Williams III",15,3,14,15,51,50,68,65,1440,1827,17,15,2,387,0
+22100408,"MIL","Giannis Antetokounmpo, Grayson Allen, Khris Middleton, Pat Connaughton, Rodney Hood",15,2,3,3,47,45,50,51,1364,1440,3,6,-3,76,2
+22100408,"BOS","Al Horford, Grant Williams, Jaylen Brown, Marcus Smart, Robert Williams III",16,3,0,0,68,65,68,65,1827,1827,0,0,0,0,1
+22100408,"MIL","Bobby Portis, Giannis Antetokounmpo, Grayson Allen, Jrue Holiday, Khris Middleton",16,3,9,9,50,51,56,64,1440,1692,6,13,-7,252,0
+22100408,"BOS","Dennis Schroder, Grant Williams, Jaylen Brown, Marcus Smart, Robert Williams III",17,3,2,2,68,65,71,67,1827,1898,3,2,1,71,2
+22100408,"MIL","Giannis Antetokounmpo, Grayson Allen, Jrue Holiday, Khris Middleton, Pat Connaughton",17,3,3,3,56,64,60,66,1692,1778,4,2,2,86,1
+22100408,"BOS","Dennis Schroder, Grant Williams, Marcus Smart, Robert Williams III, Romeo Langford",18,3,3,2,71,67,76,68,1898,1967,5,1,4,69,3
+22100408,"MIL","Giannis Antetokounmpo, Grayson Allen, Jrue Holiday, Pat Connaughton, Rodney Hood",18,3,7,7,60,66,68,76,1778,1967,8,10,-2,189,2
+22100408,"BOS","Dennis Schroder, Grant Williams, Jayson Tatum, Robert Williams III, Romeo Langford",19,3,2,3,76,68,81,72,1967,2037,5,4,1,70,3
+22100408,"MIL","DeMarcus Cousins, Giannis Antetokounmpo, Jrue Holiday, Pat Connaughton, Rodney Hood",19,3,0,0,68,76,68,76,1967,1967,0,0,0,0,3
+22100408,"BOS","Al Horford, Dennis Schroder, Grant Williams, Jayson Tatum, Romeo Langford",20,3,4,3,81,72,85,74,2037,2160,4,2,2,123,3
+22100408,"BOS","Al Horford, Dennis Schroder, Grant Williams, Jayson Tatum, Romeo Langford",20,4,7,6,85,74,90,81,2160,2373,5,7,-2,213,3
+22100408,"MIL","Bobby Portis, DeMarcus Cousins, Jrue Holiday, Pat Connaughton, Rodney Hood",20,3,3,2,68,76,72,81,1967,2037,4,5,-1,70,3
+22100408,"BOS","Al Horford, Dennis Schroder, Grant Williams, Jaylen Brown, Jayson Tatum",21,4,6,7,90,81,97,86,2373,2532,7,5,2,159,2
+22100408,"MIL","Bobby Portis, DeMarcus Cousins, Jrue Holiday, Khris Middleton, Rodney Hood",21,3,2,3,72,81,74,85,2037,2120,2,4,-2,83,2
+22100408,"BOS","Al Horford, Grant Williams, Jaylen Brown, Jayson Tatum, Marcus Smart",22,4,8,8,97,86,114,98,2532,2768,17,12,5,236,1
+22100408,"MIL","Bobby Portis, DeMarcus Cousins, Javonte Smart, Jrue Holiday, Rodney Hood",22,3,1,1,74,85,74,85,2120,2160,0,0,0,40,3
+22100408,"BOS","Al Horford, Grant Williams, Jaylen Brown, Marcus Smart, Sam Hauser",23,4,0,0,114,98,114,98,2768,2768,0,0,0,0,2
+22100408,"MIL","Bobby Portis, Giannis Antetokounmpo, Grayson Allen, Javonte Smart, Pat Connaughton",23,4,9,9,74,85,81,93,2160,2440,7,8,-1,280,2
+22100408,"BOS","Al Horford, Grant Williams, Marcus Smart, Payton Pritchard, Sam Hauser",24,4,0,0,114,98,114,98,2768,2768,0,0,0,0,3
+22100408,"MIL","Bobby Portis, Giannis Antetokounmpo, Grayson Allen, Jrue Holiday, Pat Connaughton",24,4,1,1,81,93,83,93,2440,2454,2,0,2,14,1
+22100408,"BOS","Aaron Nesmith, Al Horford, Marcus Smart, Payton Pritchard, Sam Hauser",25,4,0,0,114,98,114,98,2768,2768,0,0,0,0,3
+22100408,"MIL","Giannis Antetokounmpo, Grayson Allen, Jrue Holiday, Pat Connaughton, Rodney Hood",25,4,6,7,83,93,91,103,2454,2636,8,10,-2,182,2
+22100408,"BOS","Aaron Nesmith, Al Horford, Brodric Thomas, Payton Pritchard, Sam Hauser",26,4,0,0,114,98,114,98,2768,2768,0,0,0,0,4
+22100408,"MIL","Bobby Portis, Giannis Antetokounmpo, Jrue Holiday, Pat Connaughton, Rodney Hood",26,4,4,3,91,103,96,111,2636,2732,5,8,-3,96,2
+22100408,"BOS","Aaron Nesmith, Brodric Thomas, Juancho Hernangomez, Payton Pritchard, Sam Hauser",27,4,4,3,114,98,117,103,2768,2880,3,5,-2,112,5
+22100408,"MIL","Bobby Portis, Giannis Antetokounmpo, Javonte Smart, Pat Connaughton, Rodney Hood",27,4,0,0,96,111,96,111,2732,2732,0,0,0,0,3
+22100408,"MIL","Bobby Portis, Giannis Antetokounmpo, Javonte Smart, Rodney Hood, Thanasis Antetokounmpo",28,4,0,0,96,111,96,111,2732,2732,0,0,0,0,3
+22100408,"MIL","Bobby Portis, Javonte Smart, Rodney Hood, Sandro Mamukelashvili, Thanasis Antetokounmpo",29,4,0,0,96,111,96,111,2732,2732,0,0,0,0,4
+22100408,"MIL","Javonte Smart, Jordan Nwora, Rodney Hood, Sandro Mamukelashvili, Thanasis Antetokounmpo",30,4,4,5,96,111,103,117,2732,2880,7,6,1,148,5
+22100409,"MEM","Desmond Bane, Dillon Brooks, Jaren Jackson Jr., Steven Adams, Tyus Jones",0,1,12,13,0,0,14,15,0,322,14,15,-1,322,0
+22100409,"PHI","Andre Drummond, Furkan Korkmaz, Matisse Thybulle, Tobias Harris, Tyrese Maxey",0,1,13,12,0,0,15,14,0,322,15,14,1,322,0
+22100409,"MEM","Desmond Bane, Dillon Brooks, Kyle Anderson, Steven Adams, Tyus Jones",1,1,0,0,14,15,14,15,322,322,0,0,0,0,1
+22100409,"PHI","Andre Drummond, Danny Green, Furkan Korkmaz, Tobias Harris, Tyrese Maxey",1,1,3,3,15,14,18,21,322,386,3,7,-4,64,1
+22100409,"MEM","De'Anthony Melton, Dillon Brooks, Kyle Anderson, Steven Adams, Tyus Jones",2,1,7,6,14,15,23,22,322,487,9,7,2,165,2
+22100409,"PHI","Andre Drummond, Danny Green, Furkan Korkmaz, Shake Milton, Tobias Harris",2,1,3,4,18,21,22,23,386,487,4,2,2,101,2
+22100409,"MEM","De'Anthony Melton, Dillon Brooks, Kyle Anderson, Tyus Jones, Xavier Tillman",3,1,0,0,23,22,23,22,487,487,0,0,0,0,3
+22100409,"PHI","Andre Drummond, Danny Green, Furkan Korkmaz, Georges Niang, Shake Milton",3,1,1,1,22,23,22,25,487,512,0,2,-2,25,3
+22100409,"MEM","De'Anthony Melton, Dillon Brooks, John Konchar, Kyle Anderson, Xavier Tillman",4,1,7,7,23,22,32,24,487,634,9,2,7,147,4
+22100409,"PHI","Charles Bassey, Danny Green, Furkan Korkmaz, Georges Niang, Shake Milton",4,1,0,0,22,25,22,25,512,512,0,0,0,0,4
+22100409,"MEM","De'Anthony Melton, John Konchar, Killian Tillie, Kyle Anderson, Xavier Tillman",5,1,3,3,32,24,37,30,634,720,5,6,-1,86,5
+22100409,"PHI","Charles Bassey, Danny Green, Georges Niang, Isaiah Joe, Shake Milton",5,1,5,4,22,25,24,29,512,603,2,4,-2,91,5
+22100409,"MEM","Desmond Bane, Jaren Jackson Jr., John Konchar, Killian Tillie, Xavier Tillman",6,2,7,7,37,30,50,42,720,952,13,12,1,232,3
+22100409,"PHI","Charles Bassey, Danny Green, Georges Niang, Shake Milton, Tyrese Maxey",6,1,4,5,24,29,30,37,603,720,6,8,-2,117,4
+22100409,"PHI","Charles Bassey, Danny Green, Georges Niang, Shake Milton, Tyrese Maxey",6,2,5,5,30,37,39,48,720,888,9,11,-2,168,4
+22100409,"MEM","Desmond Bane, Jaren Jackson Jr., John Konchar, Killian Tillie, Steven Adams",7,2,2,2,50,42,50,44,952,1005,0,2,-2,53,2
+22100409,"PHI","Charles Bassey, Georges Niang, Shake Milton, Tobias Harris, Tyrese Maxey",7,2,0,0,39,48,39,48,888,888,0,0,0,0,3
+22100409,"MEM","Desmond Bane, Jaren Jackson Jr., John Konchar, Steven Adams, Tyus Jones",8,2,5,4,50,44,55,47,1005,1146,5,3,2,141,1
+22100409,"PHI","Charles Bassey, Matisse Thybulle, Shake Milton, Tobias Harris, Tyrese Maxey",8,2,2,2,39,48,42,50,888,952,3,2,1,64,2
+22100409,"MEM","De'Anthony Melton, Desmond Bane, John Konchar, Steven Adams, Tyus Jones",9,2,0,0,55,47,55,47,1146,1146,0,0,0,0,2
+22100409,"PHI","Andre Drummond, Matisse Thybulle, Shake Milton, Tobias Harris, Tyrese Maxey",9,2,2,2,42,50,44,50,952,1005,2,0,2,53,1
+22100409,"MEM","De'Anthony Melton, John Konchar, Kyle Anderson, Steven Adams, Tyus Jones",10,2,0,0,55,47,55,47,1146,1146,0,0,0,0,3
+22100409,"PHI","Andre Drummond, Furkan Korkmaz, Matisse Thybulle, Tobias Harris, Tyrese Maxey",10,2,12,12,44,50,55,63,1005,1400,11,13,-2,395,0
+22100409,"MEM","De'Anthony Melton, Dillon Brooks, Kyle Anderson, Steven Adams, Tyus Jones",11,2,6,7,55,47,61,53,1146,1364,6,6,0,218,2
+22100409,"PHI","Furkan Korkmaz, Georges Niang, Matisse Thybulle, Tobias Harris, Tyrese Maxey",11,2,1,1,55,63,56,65,1400,1428,1,2,-1,28,1
+22100409,"MEM","De'Anthony Melton, Dillon Brooks, Jaren Jackson Jr., Kyle Anderson, Tyus Jones",12,2,2,2,61,53,65,56,1364,1428,4,3,1,64,2
+22100409,"PHI","Georges Niang, Isaiah Joe, Matisse Thybulle, Tobias Harris, Tyrese Maxey",12,2,0,1,56,65,56,68,1428,1440,0,3,-3,12,2
+22100409,"MEM","De'Anthony Melton, Desmond Bane, Dillon Brooks, Jaren Jackson Jr., Tyus Jones",13,2,1,0,65,56,68,56,1428,1440,3,0,3,12,1
+22100409,"PHI","Andre Drummond, Georges Niang, Matisse Thybulle, Tobias Harris, Tyrese Maxey",13,2,0,0,56,68,56,68,1440,1440,0,0,0,0,1
+22100409,"MEM","De'Anthony Melton, Dillon Brooks, Jaren Jackson Jr., John Konchar, Tyus Jones",14,2,0,0,68,56,68,56,1440,1440,0,0,0,0,2
+22100409,"PHI","Andre Drummond, Furkan Korkmaz, Matisse Thybulle, Tobias Harris, Tyrese Maxey",14,3,8,9,56,68,60,82,1440,1724,4,14,-10,284,0
+22100409,"MEM","De'Anthony Melton, Dillon Brooks, Jaren Jackson Jr., John Konchar, Steven Adams",15,2,0,0,68,56,68,56,1440,1440,0,0,0,0,2
+22100409,"PHI","Furkan Korkmaz, Georges Niang, Matisse Thybulle, Tobias Harris, Tyrese Maxey",15,3,0,0,60,82,60,82,1724,1724,0,0,0,0,1
+22100409,"MEM","Desmond Bane, Dillon Brooks, Jaren Jackson Jr., Steven Adams, Tyus Jones",16,3,9,9,68,56,82,62,1440,1749,14,6,8,309,0
+22100409,"PHI","Furkan Korkmaz, Georges Niang, Shake Milton, Tobias Harris, Tyrese Maxey",16,3,5,5,60,82,67,90,1724,1895,7,8,-1,171,2
+22100409,"MEM","Desmond Bane, Dillon Brooks, Jaren Jackson Jr., Kyle Anderson, Tyus Jones",17,3,0,0,82,62,82,62,1749,1749,0,0,0,0,1
+22100409,"PHI","Danny Green, Furkan Korkmaz, Georges Niang, Shake Milton, Tyrese Maxey",17,3,0,0,67,90,67,90,1895,1895,0,0,0,0,3
+22100409,"MEM","De'Anthony Melton, Dillon Brooks, Jaren Jackson Jr., Kyle Anderson, Tyus Jones",18,3,5,4,82,62,90,67,1749,1895,8,5,3,146,2
+22100409,"PHI","Charles Bassey, Danny Green, Georges Niang, Shake Milton, Tyrese Maxey",18,3,5,4,67,90,71,96,1895,2029,4,6,-2,134,4
+22100409,"MEM","De'Anthony Melton, Dillon Brooks, Kyle Anderson, Tyus Jones, Xavier Tillman",19,3,3,3,90,67,94,69,1895,1962,4,2,2,67,3
+22100409,"PHI","Charles Bassey, Danny Green, Georges Niang, Isaiah Joe, Shake Milton",19,3,6,6,71,96,75,101,2029,2160,4,5,-1,131,5
+22100409,"PHI","Charles Bassey, Danny Green, Georges Niang, Isaiah Joe, Shake Milton",19,4,6,5,75,101,79,107,2160,2335,4,6,-2,175,5
+22100409,"MEM","De'Anthony Melton, Dillon Brooks, John Konchar, Kyle Anderson, Xavier Tillman",20,3,7,8,94,69,101,75,1962,2160,7,6,1,198,4
+22100409,"PHI","Charles Bassey, Furkan Korkmaz, Georges Niang, Isaiah Joe, Shake Milton",20,4,14,14,79,107,88,123,2335,2777,9,16,-7,442,4
+22100409,"MEM","Desmond Bane, Jaren Jackson Jr., John Konchar, Killian Tillie, Xavier Tillman",21,4,5,6,101,75,107,79,2160,2335,6,4,2,175,3
+22100409,"PHI","Furkan Korkmaz, Georges Niang, Isaiah Joe, Matisse Thybulle, Shake Milton",21,4,3,4,88,123,91,126,2777,2880,3,3,0,103,3
+22100409,"MEM","De'Anthony Melton, Jaren Jackson Jr., John Konchar, Killian Tillie, Xavier Tillman",22,4,3,3,107,79,113,81,2335,2441,6,2,4,106,4
+22100409,"MEM","De'Anthony Melton, Jarrett Culver, John Konchar, Killian Tillie, Xavier Tillman",23,4,0,0,113,81,113,81,2441,2441,0,0,0,0,5
+22100409,"MEM","De'Anthony Melton, Jarrett Culver, Killian Tillie, Xavier Tillman, Yves Pons",24,4,0,0,113,81,113,81,2441,2441,0,0,0,0,5
+22100409,"MEM","Jarrett Culver, Killian Tillie, Santi Aldama, Xavier Tillman, Yves Pons",25,4,5,4,113,81,117,84,2441,2582,4,3,1,141,5
+22100409,"MEM","Jarrett Culver, John Konchar, Killian Tillie, Santi Aldama, Yves Pons",26,4,10,10,117,84,126,91,2582,2880,9,7,2,298,5
+22100410,"CHA","Cody Martin, Gordon Hayward, Miles Bridges, Nick Richards, Terry Rozier",0,1,6,6,0,0,0,10,0,202,0,10,-10,202,0
+22100410,"DAL","Dorian Finney-Smith, Dwight Powell, Jalen Brunson, Kristaps Porzingis, Reggie Bullock",0,1,10,11,0,0,14,8,0,353,14,8,6,353,0
+22100410,"CHA","Cody Martin, Gordon Hayward, Miles Bridges, P.J. Washington, Terry Rozier",1,1,1,0,0,10,0,10,202,229,0,0,0,27,1
+22100410,"DAL","Dorian Finney-Smith, Jalen Brunson, Kristaps Porzingis, Maxi Kleber, Reggie Bullock",1,1,3,3,14,8,21,13,353,471,7,5,2,118,1
+22100410,"CHA","Gordon Hayward, Kelly Oubre Jr., Miles Bridges, P.J. Washington, Terry Rozier",2,1,1,1,0,10,3,12,229,259,3,2,1,30,2
+22100410,"DAL","Dorian Finney-Smith, Jalen Brunson, Maxi Kleber, Reggie Bullock, Tim Hardaway Jr.",2,1,1,0,21,13,21,13,471,498,0,0,0,27,2
+22100410,"CHA","Gordon Hayward, James Bouknight, Kelly Oubre Jr., Miles Bridges, P.J. Washington",3,1,6,6,3,12,13,21,259,471,10,9,1,212,3
+22100410,"DAL","Dorian Finney-Smith, Maxi Kleber, Reggie Bullock, Tim Hardaway Jr., Trey Burke",3,1,4,5,21,13,32,15,498,642,11,2,9,144,3
+22100410,"CHA","Cody Martin, Gordon Hayward, James Bouknight, Kelly Oubre Jr., P.J. Washington",4,1,5,5,13,21,15,32,471,642,2,11,-9,171,3
+22100410,"DAL","Maxi Kleber, Moses Brown, Reggie Bullock, Tim Hardaway Jr., Trey Burke",4,1,0,0,32,15,32,15,642,642,0,0,0,0,4
+22100410,"CHA","Cody Martin, Gordon Hayward, Kelly Oubre Jr., P.J. Washington, Terry Rozier",5,1,0,0,15,32,15,32,642,642,0,0,0,0,2
+22100410,"DAL","Josh Green, Maxi Kleber, Moses Brown, Tim Hardaway Jr., Trey Burke",5,1,4,3,32,15,37,20,642,720,5,5,0,78,5
+22100410,"DAL","Josh Green, Maxi Kleber, Moses Brown, Tim Hardaway Jr., Trey Burke",5,2,6,6,37,20,44,24,720,907,7,4,3,187,5
+22100410,"CHA","Cody Martin, JT Thor, Kelly Oubre Jr., P.J. Washington, Terry Rozier",6,1,3,4,15,32,20,37,642,720,5,5,0,78,3
+22100410,"DAL","Josh Green, Kristaps Porzingis, Moses Brown, Tim Hardaway Jr., Trey Burke",6,2,1,0,44,24,47,26,907,937,3,2,1,30,4
+22100410,"CHA","Cody Martin, JT Thor, Kelly Oubre Jr., Miles Bridges, Terry Rozier",7,2,8,8,20,37,26,50,720,988,6,13,-7,268,2
+22100410,"DAL","Jalen Brunson, Josh Green, Kristaps Porzingis, Moses Brown, Tim Hardaway Jr.",7,2,1,2,47,26,50,26,937,988,3,0,3,51,3
+22100410,"CHA","Cody Martin, JT Thor, Kelly Oubre Jr., Miles Bridges, P.J. Washington",8,2,0,0,26,50,26,50,988,988,0,0,0,0,3
+22100410,"DAL","Dorian Finney-Smith, Jalen Brunson, Josh Green, Kristaps Porzingis, Tim Hardaway Jr.",8,2,4,4,50,26,55,29,988,1119,5,3,2,131,2
+22100410,"CHA","Cody Martin, Gordon Hayward, JT Thor, Miles Bridges, P.J. Washington",9,2,0,0,26,50,26,50,988,988,0,0,0,0,2
+22100410,"DAL","Dorian Finney-Smith, Jalen Brunson, Josh Green, Kristaps Porzingis, Reggie Bullock",9,2,1,1,55,29,56,31,1119,1165,1,2,-1,46,1
+22100410,"CHA","Cody Martin, Gordon Hayward, James Bouknight, Miles Bridges, P.J. Washington",10,2,2,3,26,50,27,55,988,1052,1,5,-4,64,2
+22100410,"DAL","Dorian Finney-Smith, Jalen Brunson, Kristaps Porzingis, Maxi Kleber, Reggie Bullock",10,2,9,8,56,31,70,43,1165,1440,14,12,2,275,1
+22100410,"CHA","Cody Martin, Gordon Hayward, James Bouknight, Kelly Oubre Jr., P.J. Washington",11,2,5,4,27,55,35,58,1052,1249,8,3,5,197,3
+22100410,"DAL","Dorian Finney-Smith, Dwight Powell, Jalen Brunson, Kristaps Porzingis, Reggie Bullock",11,3,2,2,70,43,71,48,1440,1558,1,5,-4,118,0
+22100410,"CHA","Gordon Hayward, James Bouknight, Kelly Oubre Jr., P.J. Washington, Terry Rozier",12,2,0,0,35,58,35,58,1249,1249,0,0,0,0,3
+22100410,"DAL","Dorian Finney-Smith, Jalen Brunson, Kristaps Porzingis, Maxi Kleber, Reggie Bullock",12,3,5,4,71,48,74,53,1558,1715,3,5,-2,157,1
+22100410,"CHA","Gordon Hayward, Kelly Oubre Jr., Miles Bridges, P.J. Washington, Terry Rozier",13,2,0,0,35,58,35,60,1249,1252,0,2,-2,3,2
+22100410,"DAL","Dorian Finney-Smith, Jalen Brunson, Maxi Kleber, Reggie Bullock, Tim Hardaway Jr.",13,3,1,2,74,53,74,57,1715,1760,0,4,-4,45,2
+22100410,"CHA","Cody Martin, Gordon Hayward, Kelly Oubre Jr., Miles Bridges, Terry Rozier",14,2,6,7,35,60,43,70,1252,1440,8,10,-2,188,1
+22100410,"DAL","Dorian Finney-Smith, Maxi Kleber, Reggie Bullock, Tim Hardaway Jr., Trey Burke",14,3,5,4,74,57,83,60,1760,1935,9,3,6,175,3
+22100410,"CHA","Gordon Hayward, Kelly Oubre Jr., Miles Bridges, P.J. Washington, Terry Rozier",15,3,12,13,43,70,60,83,1440,1935,17,13,4,495,2
+22100410,"DAL","Dorian Finney-Smith, Josh Green, Maxi Kleber, Tim Hardaway Jr., Trey Burke",15,3,5,5,83,60,89,66,1935,2116,6,6,0,181,4
+22100410,"CHA","Gordon Hayward, James Bouknight, Miles Bridges, P.J. Washington, Terry Rozier",16,3,0,0,60,83,60,83,1935,1935,0,0,0,0,2
+22100410,"DAL","Josh Green, Kristaps Porzingis, Maxi Kleber, Tim Hardaway Jr., Trey Burke",16,3,1,2,89,66,91,69,2116,2160,2,3,-1,44,4
+22100410,"CHA","Cody Martin, Gordon Hayward, James Bouknight, Miles Bridges, Terry Rozier",17,3,5,5,60,83,66,89,1935,2116,6,6,0,181,1
+22100410,"DAL","Josh Green, Kristaps Porzingis, Reggie Bullock, Tim Hardaway Jr., Trey Burke",17,4,5,5,91,69,100,74,2160,2354,9,5,4,194,3
+22100410,"CHA","Cody Martin, Gordon Hayward, James Bouknight, P.J. Washington, Terry Rozier",18,3,0,0,66,89,66,89,2116,2116,0,0,0,0,2
+22100410,"DAL","Josh Green, Maxi Kleber, Reggie Bullock, Tim Hardaway Jr., Trey Burke",18,4,3,3,100,74,104,79,2354,2494,4,5,-1,140,4
+22100410,"CHA","Cody Martin, Gordon Hayward, James Bouknight, Kelly Oubre Jr., P.J. Washington",19,3,2,1,66,89,69,91,2116,2160,3,2,1,44,3
+22100410,"DAL","Jalen Brunson, Josh Green, Maxi Kleber, Reggie Bullock, Tim Hardaway Jr.",19,4,0,0,104,79,104,79,2494,2494,0,0,0,0,3
+22100410,"CHA","Cody Martin, James Bouknight, JT Thor, Kelly Oubre Jr., P.J. Washington",20,4,5,5,69,91,74,100,2160,2354,5,9,-4,194,4
+22100410,"DAL","Dorian Finney-Smith, Jalen Brunson, Maxi Kleber, Reggie Bullock, Tim Hardaway Jr.",20,4,6,7,104,79,111,90,2494,2689,7,11,-4,195,2
+22100410,"CHA","Cody Martin, JT Thor, Kelly Oubre Jr., P.J. Washington, Terry Rozier",21,4,4,4,74,100,84,106,2354,2528,10,6,4,174,3
+22100410,"DAL","Boban Marjanovic, Jalen Brunson, Maxi Kleber, Reggie Bullock, Tim Hardaway Jr.",21,4,0,0,111,90,111,90,2689,2689,0,0,0,0,3
+22100410,"CHA","Cody Martin, JT Thor, Kai Jones, Kelly Oubre Jr., Terry Rozier",22,4,2,1,84,106,86,106,2528,2553,2,0,2,25,3
+22100410,"DAL","Boban Marjanovic, Jalen Brunson, Maxi Kleber, Moses Brown, Reggie Bullock",22,4,0,0,111,90,111,90,2689,2689,0,0,0,0,3
+22100410,"CHA","James Bouknight, JT Thor, Kai Jones, Kelly Oubre Jr., Terry Rozier",23,4,1,1,86,106,86,109,2553,2617,0,3,-3,64,4
+22100410,"DAL","Boban Marjanovic, Frank Ntilikina, Maxi Kleber, Moses Brown, Reggie Bullock",23,4,0,0,111,90,111,90,2689,2689,0,0,0,0,4
+22100410,"CHA","James Bouknight, JT Thor, Kai Jones, Scottie Lewis, Terry Rozier",24,4,10,11,86,109,96,120,2617,2880,10,11,-1,263,4
+22100410,"DAL","Boban Marjanovic, Frank Ntilikina, Maxi Kleber, Moses Brown, Trey Burke",24,4,0,0,111,90,111,90,2689,2689,0,0,0,0,5
+22100410,"DAL","Boban Marjanovic, Frank Ntilikina, Josh Green, Moses Brown, Trey Burke",25,4,8,7,111,90,120,96,2689,2880,9,6,3,191,5
+22100411,"DEN","Aaron Gordon, Davon Reed, Jeff Green, Monte Morris, Nikola Jokic",0,1,13,13,0,0,13,8,0,402,13,8,5,402,0
+22100411,"WAS","Bradley Beal, Daniel Gafford, Deni Avdija, Kentavious Caldwell-Pope, Spencer Dinwiddie",0,1,9,8,0,0,6,10,0,290,6,10,-4,290,0
+22100411,"DEN","Aaron Gordon, Facundo Campazzo, Jeff Green, Monte Morris, Nikola Jokic",1,1,0,0,13,8,13,8,402,402,0,0,0,0,1
+22100411,"WAS","Bradley Beal, Deni Avdija, Kentavious Caldwell-Pope, Montrezl Harrell, Spencer Dinwiddie",1,1,3,4,6,10,8,13,290,359,2,3,-1,69,1
+22100411,"DEN","Aaron Gordon, Facundo Campazzo, Monte Morris, Nikola Jokic, Zeke Nnaji",2,1,4,4,13,8,20,12,402,515,7,4,3,113,2
+22100411,"WAS","Bradley Beal, Davis Bertans, Kentavious Caldwell-Pope, Montrezl Harrell, Spencer Dinwiddie",2,1,0,0,8,13,8,13,359,359,0,0,0,0,2
+22100411,"DEN","Aaron Gordon, Bones Hyland, Facundo Campazzo, Nikola Jokic, Zeke Nnaji",3,1,1,2,20,12,24,12,515,570,4,0,4,55,3
+22100411,"WAS","Bradley Beal, Davis Bertans, Kentavious Caldwell-Pope, Montrezl Harrell, Raul Neto",3,1,5,5,8,13,12,20,359,515,4,7,-3,156,3
+22100411,"DEN","Aaron Gordon, Bones Hyland, Facundo Campazzo, Markus Howard, Nikola Jokic",4,1,1,0,24,12,24,12,570,572,0,0,0,2,3
+22100411,"WAS","Bradley Beal, Corey Kispert, Davis Bertans, Montrezl Harrell, Raul Neto",4,1,2,1,12,20,12,24,515,570,0,4,-4,55,4
+22100411,"DEN","Aaron Gordon, Bones Hyland, Facundo Campazzo, Markus Howard, Zeke Nnaji",5,1,4,4,24,12,29,22,572,713,5,10,-5,141,4
+22100411,"WAS","Corey Kispert, Davis Bertans, Montrezl Harrell, Raul Neto, Spencer Dinwiddie",5,1,5,5,12,24,22,29,570,720,10,5,5,150,4
+22100411,"DEN","Aaron Gordon, Bones Hyland, Facundo Campazzo, Vlatko Cancar, Zeke Nnaji",6,1,0,0,29,22,29,22,713,713,0,0,0,0,4
+22100411,"WAS","Aaron Holiday, Corey Kispert, Deni Avdija, Montrezl Harrell, Spencer Dinwiddie",6,2,6,6,22,29,27,37,720,907,5,8,-3,187,3
+22100411,"DEN","Bones Hyland, Davon Reed, Facundo Campazzo, Vlatko Cancar, Zeke Nnaji",7,1,0,1,29,22,29,22,713,720,0,0,0,7,4
+22100411,"WAS","Aaron Holiday, Bradley Beal, Corey Kispert, Deni Avdija, Montrezl Harrell",7,2,2,2,27,37,27,42,907,955,0,5,-5,48,3
+22100411,"DEN","Bones Hyland, Facundo Campazzo, Markus Howard, Vlatko Cancar, Zeke Nnaji",8,2,11,11,29,22,42,29,720,1031,13,7,6,311,5
+22100411,"WAS","Aaron Holiday, Bradley Beal, Corey Kispert, Daniel Gafford, Deni Avdija",8,2,3,3,27,42,29,42,955,1031,2,0,2,76,2
+22100411,"DEN","Bones Hyland, Markus Howard, Monte Morris, Vlatko Cancar, Zeke Nnaji",9,2,0,0,42,29,42,29,1031,1031,0,0,0,0,4
+22100411,"WAS","Bradley Beal, Corey Kispert, Daniel Gafford, Deni Avdija, Raul Neto",9,2,0,0,29,42,29,42,1031,1031,0,0,0,0,2
+22100411,"DEN","Bones Hyland, Markus Howard, Monte Morris, Nikola Jokic, Vlatko Cancar",10,2,0,0,42,29,42,29,1031,1031,0,0,0,0,3
+22100411,"WAS","Bradley Beal, Corey Kispert, Daniel Gafford, Davis Bertans, Raul Neto",10,2,0,0,29,42,29,42,1031,1031,0,0,0,0,3
+22100411,"DEN","Aaron Gordon, Bones Hyland, Markus Howard, Monte Morris, Nikola Jokic",11,2,2,2,42,29,44,35,1031,1104,2,6,-4,73,2
+22100411,"WAS","Bradley Beal, Daniel Gafford, Davis Bertans, Kentavious Caldwell-Pope, Raul Neto",11,2,6,7,29,42,39,51,1031,1243,10,9,1,212,2
+22100411,"DEN","Aaron Gordon, Bones Hyland, Jeff Green, Monte Morris, Nikola Jokic",12,2,5,4,44,35,51,39,1104,1243,7,4,3,139,1
+22100411,"WAS","Bradley Beal, Davis Bertans, Kentavious Caldwell-Pope, Montrezl Harrell, Raul Neto",12,2,7,7,39,51,41,59,1243,1440,2,8,-6,197,3
+22100411,"DEN","Aaron Gordon, Facundo Campazzo, Jeff Green, Monte Morris, Nikola Jokic",13,2,3,3,51,39,55,41,1243,1330,4,2,2,87,1
+22100411,"WAS","Bradley Beal, Daniel Gafford, Deni Avdija, Kentavious Caldwell-Pope, Spencer Dinwiddie",13,3,11,12,41,59,48,81,1440,1752,7,22,-15,312,0
+22100411,"DEN","Aaron Gordon, Davon Reed, Jeff Green, Monte Morris, Nikola Jokic",14,2,4,4,55,41,59,41,1330,1440,4,0,4,110,0
+22100411,"DEN","Aaron Gordon, Davon Reed, Jeff Green, Monte Morris, Nikola Jokic",14,3,15,15,59,41,83,54,1440,1856,24,13,11,416,0
+22100411,"WAS","Bradley Beal, Daniel Gafford, Kentavious Caldwell-Pope, Montrezl Harrell, Spencer Dinwiddie",14,3,0,0,48,81,48,81,1752,1752,0,0,0,0,1
+22100411,"DEN","Aaron Gordon, Facundo Campazzo, Jeff Green, Monte Morris, Nikola Jokic",15,3,0,0,83,54,83,54,1856,1856,0,0,0,0,1
+22100411,"WAS","Bradley Beal, Davis Bertans, Kentavious Caldwell-Pope, Montrezl Harrell, Spencer Dinwiddie",15,3,4,3,48,81,54,83,1752,1856,6,2,4,104,2
+22100411,"DEN","Aaron Gordon, Facundo Campazzo, Monte Morris, Nikola Jokic, Zeke Nnaji",16,3,4,3,83,54,85,57,1856,1959,2,3,-1,103,2
+22100411,"WAS","Bradley Beal, Corey Kispert, Davis Bertans, Kentavious Caldwell-Pope, Montrezl Harrell",16,3,3,4,54,83,57,85,1856,1959,3,2,1,103,3
+22100411,"DEN","Aaron Gordon, Bones Hyland, Facundo Campazzo, Nikola Jokic, Zeke Nnaji",17,3,0,0,85,57,85,57,1959,1959,0,0,0,0,3
+22100411,"WAS","Bradley Beal, Corey Kispert, Davis Bertans, Montrezl Harrell, Raul Neto",17,3,7,6,57,85,70,89,1959,2147,13,4,9,188,4
+22100411,"DEN","Bones Hyland, Facundo Campazzo, Nikola Jokic, Vlatko Cancar, Zeke Nnaji",18,3,6,7,85,57,91,70,1959,2159,6,13,-7,200,4
+22100411,"WAS","Bradley Beal, Corey Kispert, Deni Avdija, Montrezl Harrell, Raul Neto",18,3,0,1,70,89,70,91,2147,2160,0,2,-2,13,3
+22100411,"DEN","Bones Hyland, Davon Reed, Facundo Campazzo, Nikola Jokic, Vlatko Cancar",19,3,1,0,91,70,91,70,2159,2160,0,0,0,1,3
+22100411,"WAS","Aaron Holiday, Corey Kispert, Davis Bertans, Montrezl Harrell, Spencer Dinwiddie",19,4,7,7,70,91,82,98,2160,2376,12,7,5,216,4
+22100411,"DEN","Aaron Gordon, Bones Hyland, Facundo Campazzo, Markus Howard, Zeke Nnaji",20,4,5,6,91,70,98,81,2160,2334,7,11,-4,174,4
+22100411,"WAS","Bradley Beal, Corey Kispert, Davis Bertans, Montrezl Harrell, Spencer Dinwiddie",20,4,5,5,82,98,86,103,2376,2511,4,5,-1,135,3
+22100411,"DEN","Aaron Gordon, Davon Reed, Facundo Campazzo, Markus Howard, Zeke Nnaji",21,4,2,1,98,81,98,82,2334,2376,0,1,-1,42,3
+22100411,"WAS","Bradley Beal, Corey Kispert, Davis Bertans, Kentavious Caldwell-Pope, Spencer Dinwiddie",21,4,0,0,86,103,86,103,2511,2511,0,0,0,0,2
+22100411,"DEN","Aaron Gordon, Davon Reed, Facundo Campazzo, Nikola Jokic, Zeke Nnaji",22,4,0,0,98,82,98,82,2376,2376,0,0,0,0,2
+22100411,"WAS","Aaron Holiday, Bradley Beal, Davis Bertans, Kentavious Caldwell-Pope, Spencer Dinwiddie",22,4,0,0,86,103,86,103,2511,2511,0,0,0,0,2
+22100411,"DEN","Aaron Gordon, Davon Reed, Facundo Campazzo, Jeff Green, Nikola Jokic",23,4,1,1,98,82,98,83,2376,2416,0,1,-1,40,1
+22100411,"WAS","Aaron Holiday, Bradley Beal, Daniel Gafford, Davis Bertans, Kentavious Caldwell-Pope",23,4,14,13,86,103,107,113,2511,2880,21,10,11,369,2
+22100411,"DEN","Aaron Gordon, Davon Reed, Jeff Green, Monte Morris, Nikola Jokic",24,4,4,4,98,83,103,86,2416,2511,5,3,2,95,0
+22100411,"DEN","Aaron Gordon, Davon Reed, Facundo Campazzo, Jeff Green, Monte Morris",25,4,8,9,103,86,105,97,2511,2783,2,11,-9,272,1
+22100411,"DEN","Aaron Gordon, Bones Hyland, Facundo Campazzo, Jeff Green, Monte Morris",26,4,3,2,105,97,109,100,2783,2852,4,3,1,69,2
+22100411,"DEN","Aaron Gordon, Davon Reed, Facundo Campazzo, Jeff Green, Monte Morris",27,4,0,0,109,100,109,102,2852,2856,0,2,-2,4,1
+22100411,"DEN","Aaron Gordon, Facundo Campazzo, Jeff Green, Monte Morris, Zeke Nnaji",28,4,0,1,109,102,111,102,2856,2858,2,0,2,2,2
+22100411,"DEN","Aaron Gordon, Davon Reed, Facundo Campazzo, Jeff Green, Monte Morris",29,4,2,2,111,102,113,107,2858,2880,2,5,-3,22,1
+22100412,"LAC","Ivica Zubac, Luke Kennard, Marcus Morris Sr., Reggie Jackson, Terance Mann",0,1,12,12,0,0,15,6,0,424,15,6,9,424,0
+22100412,"PHX","Chris Paul, Jae Crowder, JaVale McGee, Landry Shamet, Mikal Bridges",0,1,8,8,0,0,2,5,0,282,2,5,-3,282,0
+22100412,"LAC","Brandon Boston Jr., Ivica Zubac, Marcus Morris Sr., Reggie Jackson, Terance Mann",1,1,1,2,15,6,17,8,424,462,2,2,0,38,1
+22100412,"PHX","Cameron Payne, Chris Paul, Jae Crowder, JaVale McGee, Mikal Bridges",1,1,1,1,2,5,2,7,282,332,0,2,-2,50,1
+22100412,"LAC","Brandon Boston Jr., Eric Bledsoe, Ivica Zubac, Marcus Morris Sr., Terance Mann",2,1,3,2,17,8,20,12,462,515,3,4,-1,53,2
+22100412,"PHX","Cameron Johnson, Cameron Payne, Chris Paul, Jae Crowder, Mikal Bridges",2,1,4,3,2,7,8,17,332,450,6,10,-4,118,2
+22100412,"LAC","Brandon Boston Jr., Eric Bledsoe, Ivica Zubac, Justise Winslow, Terance Mann",3,1,0,0,20,12,20,12,515,515,0,0,0,0,3
+22100412,"PHX","Cameron Johnson, Cameron Payne, Jae Crowder, JaVale McGee, Mikal Bridges",3,1,0,0,8,17,8,17,450,450,0,0,0,0,2
+22100412,"LAC","Brandon Boston Jr., Eric Bledsoe, Isaiah Hartenstein, Justise Winslow, Terance Mann",4,1,1,2,20,12,20,12,515,549,0,0,0,34,4
+22100412,"PHX","Cameron Johnson, Cameron Payne, JaVale McGee, Landry Shamet, Mikal Bridges",4,1,5,5,8,17,12,20,450,549,4,3,1,99,2
+22100412,"LAC","Brandon Boston Jr., Eric Bledsoe, Isaiah Hartenstein, Justise Winslow, Luke Kennard",5,1,6,6,20,12,27,21,549,695,7,9,-2,146,4
+22100412,"PHX","Cameron Johnson, Cameron Payne, Elfrid Payton, JaVale McGee, Landry Shamet",5,1,6,6,12,20,21,27,549,695,9,7,2,146,3
+22100412,"LAC","Brandon Boston Jr., Eric Bledsoe, Justise Winslow, Luke Kennard, Terance Mann",6,1,1,0,27,21,27,21,695,713,0,0,0,18,3
+22100412,"PHX","Cameron Johnson, Cameron Payne, Chris Paul, Elfrid Payton, Landry Shamet",6,1,0,1,21,27,21,27,695,713,0,0,0,18,3
+22100412,"LAC","Brandon Boston Jr., Eric Bledsoe, Justise Winslow, Keon Johnson, Terance Mann",7,1,0,1,27,21,27,21,713,720,0,0,0,7,4
+22100412,"PHX","Cameron Johnson, Chris Paul, Elfrid Payton, JaVale McGee, Landry Shamet",7,1,1,0,21,27,21,27,713,720,0,0,0,7,2
+22100412,"LAC","Brandon Boston Jr., Eric Bledsoe, Isaiah Hartenstein, Justise Winslow, Luke Kennard",8,2,4,3,27,21,32,23,720,816,5,2,3,96,4
+22100412,"PHX","Cameron Johnson, Cameron Payne, Chris Paul, Ish Wainright, Landry Shamet",8,2,3,4,21,27,23,32,720,816,2,5,-3,96,3
+22100412,"LAC","Eric Bledsoe, Isaiah Hartenstein, Justise Winslow, Luke Kennard, Marcus Morris Sr.",9,2,0,0,32,23,32,23,816,816,0,0,0,0,3
+22100412,"PHX","Cameron Johnson, Chris Paul, Elfrid Payton, Ish Wainright, Landry Shamet",9,2,2,2,23,32,25,36,816,876,2,4,-2,60,3
+22100412,"LAC","Eric Bledsoe, Isaiah Hartenstein, Luke Kennard, Marcus Morris Sr., Reggie Jackson",10,2,4,5,32,23,38,27,816,953,6,4,2,137,2
+22100412,"PHX","Cameron Johnson, Chris Paul, Elfrid Payton, Jae Crowder, Landry Shamet",10,2,2,1,25,36,25,36,876,917,0,0,0,41,2
+22100412,"LAC","Isaiah Hartenstein, Luke Kennard, Marcus Morris Sr., Reggie Jackson, Terance Mann",11,2,5,5,38,27,44,35,953,1107,6,8,-2,154,1
+22100412,"PHX","Cameron Johnson, Chris Paul, Elfrid Payton, Jae Crowder, Mikal Bridges",11,2,6,6,25,36,35,44,917,1107,10,8,2,190,2
+22100412,"LAC","Ivica Zubac, Luke Kennard, Marcus Morris Sr., Reggie Jackson, Terance Mann",12,2,3,3,44,35,48,37,1107,1216,4,2,2,109,0
+22100412,"PHX","Chris Paul, Elfrid Payton, Jae Crowder, JaVale McGee, Mikal Bridges",12,2,3,3,35,44,37,48,1107,1216,2,4,-2,109,1
+22100412,"LAC","Eric Bledsoe, Ivica Zubac, Marcus Morris Sr., Reggie Jackson, Terance Mann",13,2,6,5,48,37,56,42,1216,1367,8,5,3,151,1
+22100412,"PHX","Cameron Payne, Chris Paul, Jae Crowder, JaVale McGee, Mikal Bridges",13,2,2,2,37,48,39,53,1216,1286,2,5,-3,70,1
+22100412,"LAC","Eric Bledsoe, Ivica Zubac, Luke Kennard, Marcus Morris Sr., Terance Mann",14,2,2,2,56,42,56,44,1367,1410,0,2,-2,43,1
+22100412,"PHX","Cameron Johnson, Cameron Payne, Chris Paul, JaVale McGee, Mikal Bridges",14,2,1,2,39,53,39,54,1286,1303,0,1,-1,17,2
+22100412,"LAC","Eric Bledsoe, Ivica Zubac, Justise Winslow, Luke Kennard, Marcus Morris Sr.",15,2,0,0,56,44,56,44,1410,1410,0,0,0,0,2
+22100412,"PHX","Cameron Johnson, Cameron Payne, Chris Paul, Ish Wainright, Mikal Bridges",15,2,5,5,39,54,44,56,1303,1440,5,2,3,137,3
+22100412,"LAC","Brandon Boston Jr., Eric Bledsoe, Ivica Zubac, Justise Winslow, Marcus Morris Sr.",16,2,1,1,56,44,56,44,1410,1440,0,0,0,30,3
+22100412,"PHX","Chris Paul, Jae Crowder, JaVale McGee, Landry Shamet, Mikal Bridges",16,3,12,12,44,56,54,66,1440,1758,10,10,0,318,0
+22100412,"LAC","Ivica Zubac, Luke Kennard, Marcus Morris Sr., Reggie Jackson, Terance Mann",17,3,10,9,56,44,66,49,1440,1709,10,5,5,269,0
+22100412,"PHX","Cameron Johnson, Chris Paul, Jae Crowder, Landry Shamet, Mikal Bridges",17,3,0,0,54,66,54,66,1758,1758,0,0,0,0,1
+22100412,"LAC","Eric Bledsoe, Ivica Zubac, Luke Kennard, Marcus Morris Sr., Terance Mann",18,3,3,3,66,49,66,56,1709,1784,0,7,-7,75,1
+22100412,"PHX","Cameron Johnson, Cameron Payne, Chris Paul, Jae Crowder, Mikal Bridges",18,3,3,3,54,66,56,70,1758,1872,2,4,-2,114,2
+22100412,"LAC","Eric Bledsoe, Isaiah Hartenstein, Luke Kennard, Marcus Morris Sr., Terance Mann",19,3,2,3,66,56,70,56,1784,1872,4,0,4,88,2
+22100412,"PHX","Cameron Johnson, Cameron Payne, Chris Paul, Ish Wainright, Mikal Bridges",19,3,2,2,56,70,60,72,1872,1961,4,2,2,89,3
+22100412,"LAC","Brandon Boston Jr., Eric Bledsoe, Isaiah Hartenstein, Luke Kennard, Terance Mann",20,3,2,1,70,56,72,60,1872,1944,2,4,-2,72,3
+22100412,"PHX","Cameron Johnson, Cameron Payne, Elfrid Payton, Ish Wainright, Mikal Bridges",20,3,4,5,60,72,66,75,1961,2106,6,3,3,145,4
+22100412,"LAC","Brandon Boston Jr., Eric Bledsoe, Isaiah Hartenstein, Reggie Jackson, Terance Mann",21,3,2,3,72,60,74,62,1944,2017,2,2,0,73,3
+22100412,"PHX","Cameron Johnson, Cameron Payne, Elfrid Payton, Ish Wainright, Landry Shamet",21,3,2,2,66,75,69,79,2106,2160,3,4,-1,54,4
+22100412,"PHX","Cameron Johnson, Cameron Payne, Elfrid Payton, Ish Wainright, Landry Shamet",21,4,5,5,69,79,71,85,2160,2310,2,6,-4,150,4
+22100412,"LAC","Brandon Boston Jr., Eric Bledsoe, Isaiah Hartenstein, Justise Winslow, Reggie Jackson",22,3,5,4,74,62,79,69,2017,2160,5,7,-2,143,4
+22100412,"LAC","Brandon Boston Jr., Eric Bledsoe, Isaiah Hartenstein, Justise Winslow, Reggie Jackson",22,4,0,1,79,69,79,71,2160,2185,0,2,-2,25,4
+22100412,"PHX","Cameron Johnson, Cameron Payne, Ish Wainright, JaVale McGee, Landry Shamet",22,4,0,0,71,85,71,85,2310,2310,0,0,0,0,3
+22100412,"LAC","Eric Bledsoe, Isaiah Hartenstein, Justise Winslow, Reggie Jackson, Terance Mann",23,4,1,1,79,71,79,71,2185,2208,0,0,0,23,3
+22100412,"PHX","Cameron Johnson, Cameron Payne, Jae Crowder, JaVale McGee, Landry Shamet",23,4,4,4,71,85,73,92,2310,2440,2,7,-5,130,2
+22100412,"LAC","Isaiah Hartenstein, Justise Winslow, Marcus Morris Sr., Reggie Jackson, Terance Mann",24,4,0,0,79,71,79,71,2208,2208,0,0,0,0,2
+22100412,"PHX","Cameron Johnson, Cameron Payne, Chris Paul, Jae Crowder, JaVale McGee",24,4,2,2,73,92,77,94,2440,2497,4,2,2,57,2
+22100412,"LAC","Isaiah Hartenstein, Luke Kennard, Marcus Morris Sr., Reggie Jackson, Terance Mann",25,4,8,7,79,71,92,73,2208,2440,13,2,11,232,1
+22100412,"PHX","Cameron Johnson, Cameron Payne, Chris Paul, JaVale McGee, Mikal Bridges",25,4,6,6,77,94,84,103,2497,2722,7,9,-2,225,2
+22100412,"LAC","Ivica Zubac, Luke Kennard, Marcus Morris Sr., Reggie Jackson, Terance Mann",26,4,1,2,92,73,94,77,2440,2485,2,4,-2,45,0
+22100412,"PHX","Cameron Johnson, Cameron Payne, Chris Paul, Ish Wainright, Mikal Bridges",26,4,0,0,84,103,84,103,2722,2722,0,0,0,0,3
+22100412,"LAC","Eric Bledsoe, Ivica Zubac, Luke Kennard, Marcus Morris Sr., Terance Mann",27,4,4,4,94,77,100,81,2485,2642,6,4,2,157,1
+22100412,"PHX","Cameron Johnson, Cameron Payne, Chandler Hutchison, Ish Wainright, Mikal Bridges",27,4,0,0,84,103,84,103,2722,2722,0,0,0,0,4
+22100412,"LAC","Eric Bledsoe, Ivica Zubac, Justise Winslow, Marcus Morris Sr., Terance Mann",28,4,0,0,100,81,100,81,2642,2642,0,0,0,0,2
+22100412,"PHX","Cameron Johnson, Chandler Hutchison, Elfrid Payton, Ish Wainright, Mikal Bridges",28,4,0,0,84,103,84,103,2722,2722,0,0,0,0,4
+22100412,"LAC","Brandon Boston Jr., Eric Bledsoe, Ivica Zubac, Justise Winslow, Terance Mann",29,4,3,2,100,81,103,84,2642,2722,3,3,0,80,3
+22100412,"PHX","Cameron Johnson, Chandler Hutchison, Elfrid Payton, Ish Wainright, Landry Shamet",29,4,7,6,84,103,95,111,2722,2880,11,8,3,158,4
+22100412,"LAC","Brandon Boston Jr., Isaiah Hartenstein, Ivica Zubac, Justise Winslow, Terance Mann",30,4,0,0,103,84,103,84,2722,2722,0,0,0,0,3
+22100412,"LAC","Brandon Boston Jr., Isaiah Hartenstein, Justise Winslow, Keon Johnson, Terance Mann",31,4,6,7,103,84,111,95,2722,2880,8,11,-3,158,4
