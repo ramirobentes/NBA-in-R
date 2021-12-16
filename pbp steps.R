@@ -295,7 +295,9 @@ start_possessions <- poss_pack %>%
   group_by(idGame, numberPeriod) %>%
   mutate(start_poss = case_when(slugTeamPlayer1 != lag(slugTeamPlayer1) & numberEventMessageType == 4 ~ timeQuarter, 
                                 slugTeamPlayer1 != lag(slugTeamPlayer1) & numberEventMessageType != 4 ~ lag(timeQuarter))) %>%
-  mutate(start_poss = ifelse(is.na(start_poss) & row_number() == 1, "12:00", start_poss)) %>%
+  mutate(start_poss = case_when(is.na(start_poss) & row_number() == 1 & as.integer(numberPeriod) <= 4 ~ "12:00", 
+                                is.na(start_poss) & row_number() == 1 & as.integer(numberPeriod) > 4 ~ "05:00",
+                                TRUE ~ start_poss)) %>%
   ungroup()
 
 # add column with start of possession to the original table and identify heaves
