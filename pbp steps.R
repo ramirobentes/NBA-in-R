@@ -235,10 +235,7 @@ lineup_game_stats <- lineup_game %>%
                              newptsAway[row_number() == max(row_number()[numberEventMessageType == 3])],
                              newptsAway)) %>%
   ungroup() %>%
-  select(-c(secsPassedGame2, numberNew, techs_and1)) %>%
-  mutate_all(~ as.character(.)) %>%
-  mutate(secsPassedGame = as.numeric(secsPassedGame),
-         numberEvent = as.numeric(numberEvent)) %>%
+  select(-c(secsPassedGame2, numberNew, techs_and1, hasFouls)) %>%
   mutate(across(starts_with("description"), ~ coalesce(., "")))
 
 # Adding possession when fg attempts, ft 1 of 2 and 1 of 3 and turnovers
@@ -351,7 +348,7 @@ addit_poss_made <- last_possessions %>%
   filter(numberEventMessageType %in% c(1, 5) | (numberEventMessageType == 3 & !str_detect(descriptionPlayHome, "MISS") & !str_detect(descriptionPlayVisitor, "MISS"))) %>%
   anti_join(missedft_and1_last) %>%
   left_join(team_logs %>%
-              distinct(idGame, .keep_all = TRUE) %>%
+              distinct(idGame = as.character(idGame), .keep_all = TRUE) %>%
               select(idGame, slugTeam, slugOpponent)) %>%
   mutate(team_possession_next = ifelse(team_possession == slugTeam, slugOpponent, slugTeam)) %>%
   filter(as.integer(str_sub(timeQuarter, 4, 5)) >= 3) %>%
@@ -427,4 +424,8 @@ lineup_stats <- lineup_stats %>%
   mutate(reserves = map_int(map2(lineup_list, starters_list, setdiff), length)) %>%
   select(-c(contains("list"), starters))
 
-rm(c(event_changes, play_logs_all, new_pbp, subs_made, others_qtr, lineups_quarters, data_missing_players, missing_players_ot, lineup_subs, lineup_game, lineup_game_stats, possession_initial, jumpball_turnovers, change_consec, poss_pack, start_possessions, poss_pack_start, last_possessions, last_rebounds, missedft_and1_last, addit_poss_reb, addit_poss_made, additional_possessions))
+rm(games, event_changes, play_logs_all, new_pbp, subs_made, others_qtr,
+   lineups_quarters, data_missing_players, missing_players_ot, lineup_subs, 
+   lineup_game, lineup_game_stats, possession_initial, jumpball_turnovers,
+   change_consec, poss_pack, start_possessions, poss_pack_start, last_possessions, 
+   last_rebounds, missedft_and1_last, addit_poss_reb, addit_poss_made, additional_possessions)
