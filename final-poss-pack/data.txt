@@ -1,5 +1,5 @@
 path:
-- https://github.com/ramirobentes/NBA-in-R/releases/download/final-poss-pack-18fcc7e/data.csv
+- https://github.com/ramirobentes/NBA-in-R/releases/download/final-poss-pack-b42fd61/data.csv
 - data.rds
 rows: 211511
 cols: 33
@@ -14,7 +14,7 @@ columns:
   slugTeamPlayer2: character
   slugTeamPlayer3: character
   numberPeriod: numeric
-  timeQuarter: character
+  timeQuarter: hms
   secsPassedGame: numeric
   numberEvent: numeric
   namePlayer1: character
@@ -35,7 +35,7 @@ columns:
   newptsAway: numeric
   possession: numeric
   team_possession: character
-  start_poss: character
+  start_poss: hms
   heave: numeric
 description: pbp with lineups
 type: table
