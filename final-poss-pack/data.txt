@@ -1,6 +1,0 @@
-path:
-- data.csv
-- data.rds
-'': table
-description: pbp with lineups
-type: csv
