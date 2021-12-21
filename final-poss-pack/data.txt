@@ -1,41 +1,6 @@
 path:
-- https://github.com/ramirobentes/NBA-in-R/releases/download/final-poss-pack-04890c5/data.csv
+- data.csv
 - data.rds
-rows: 211511
-cols: 33
-columns:
-  idGame: numeric
-  numberOriginal: numeric
-  numberEventMessageType: numeric
-  numberEventActionType: numeric
-  slugTeamHome: character
-  slugTeamAway: character
-  slugTeamPlayer1: character
-  slugTeamPlayer2: character
-  slugTeamPlayer3: character
-  numberPeriod: numeric
-  timeQuarter: character
-  secsPassedGame: numeric
-  numberEvent: numeric
-  namePlayer1: character
-  namePlayer2: character
-  namePlayer3: character
-  descriptionPlayHome: character
-  descriptionPlayVisitor: character
-  ptsHome: numeric
-  ptsAway: numeric
-  shotPtsHome: numeric
-  shotPtsAway: numeric
-  descriptionPlayNeutral: character
-  marginBeforeHome: numeric
-  marginBeforeAway: numeric
-  lineupHome: character
-  lineupAway: character
-  newptsHome: numeric
-  newptsAway: numeric
-  possession: numeric
-  team_possession: character
-  start_poss: character
-  heave: numeric
+'': table
 description: pbp with lineups
-type: table
+type: csv
