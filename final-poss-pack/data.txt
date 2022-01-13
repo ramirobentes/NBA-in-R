@@ -1,7 +1,7 @@
 path:
-- https://github.com/ramirobentes/NBA-in-R/releases/download/final-poss-pack-03cb40d/data.csv
+- https://github.com/ramirobentes/NBA-in-R/releases/download/final-poss-pack-7f25b99/data.csv
 - data.rds
-rows: 282002
+rows: 286039
 cols: 34
 columns:
   idGame: numeric
