@@ -1,7 +1,7 @@
 path:
 - data.csv
 - data.rds
-rows: 34732
+rows: 34981
 cols: 18
 columns:
   idGame: numeric
