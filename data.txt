@@ -18,7 +18,7 @@
   type: table
 - path: lineup-game-stats
   name: lineup-game-stats
-  rows: 291984
+  rows: 298312
   cols: 32
-  description: pbp lineups
+  description: pbp with lineups
   type: table

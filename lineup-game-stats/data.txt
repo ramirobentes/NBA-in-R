@@ -1,7 +1,7 @@
 path:
-- https://github.com/ramirobentes/NBA-in-R/releases/download/lineup-game-stats-a6ac6a4/data.csv
+- https://github.com/ramirobentes/NBA-in-R/releases/download/lineup-game-stats-7f61e89/data.csv
 - data.rds
-rows: 291984
+rows: 298312
 cols: 32
 columns:
   idGame: numeric
@@ -36,5 +36,5 @@ columns:
   newptsAway: numeric
   subOpp: numeric
   hasFouls: numeric
-description: pbp lineups
+description: pbp with lineups
 type: table
