@@ -12,7 +12,7 @@
   type: table
 - path: final-poss-pack
   name: final-poss-pack
-  rows: 292521
+  rows: 298864
   cols: 34
   description: pbp with lineups
   type: table
