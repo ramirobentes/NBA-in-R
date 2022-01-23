@@ -41,5 +41,6 @@ data_missing_players <- tribble(
   22100041,            5,           "CHA",  "Gordon Hayward",
   22100291,            6,           "LAL",      "Malik Monk",
   22100353,            5,           "PHI",     "Danny Green",
-  22100413,            5,           "BKN", "Kessler Edwards"
+  22100413,            5,           "BKN", "Kessler Edwards",
+  22100688,            3,           "POR","Robert Covington"
   )
