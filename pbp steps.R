@@ -247,6 +247,17 @@ possession_initial <- lineup_game_stats %>%
                                      is.na(slugTeamPlayer1) & possession == 1 & descriptionPlayVisitor == "" ~ slugTeamHome,
                                      TRUE ~ slugTeamPlayer1))
 
+# lane violation when there's no description of turnover (don't shoot last free throw and consider 1st free throw 1 of 1)
+lane_description_missing <- possession_initial %>%
+  group_by(idGame, secsPassedGame) %>%
+  filter(sum(numberEventMessageType == 3 & numberEventActionType == 10) > 0,
+         sum(numberEventMessageType == 6 & numberEventActionType == 2) > 0,
+         sum(numberEventMessageType == 7 & numberEventActionType == 3) > 0,
+         sum(numberEventMessageType == 1) == 0) %>%
+  ungroup() %>%
+  mutate(possession = ifelse(numberEventMessageType == 3 & numberEventActionType == 10, 1, possession)) %>%
+  select(idGame, numberEvent, team_possession, possession)
+
 # adding turnover to opponent of team when the challenger gets the jumpball
 jumpball_turnovers <- possession_initial %>%
   group_by(idGame, numberPeriod) %>%
@@ -271,6 +282,7 @@ jumpball_turnovers <- possession_initial %>%
 
 # finding when there are consecutive poss and changing the first one to zero
 change_consec <- possession_initial %>%
+  rows_update(lane_description_missing, by = c("idGame", "numberEvent")) %>%
   rows_update(jumpball_turnovers, by = c("idGame", "numberEvent")) %>%
   filter(possession == 1 | (numberEventMessageType == 6 & numberEventActionType == 30)) %>%
   group_by(idGame, numberPeriod) %>%
@@ -281,6 +293,7 @@ change_consec <- possession_initial %>%
 
 # replacing in original data
 poss_pack <- possession_initial %>%
+  rows_update(lane_description_missing, by = c("idGame", "numberEvent")) %>%
   rows_update(jumpball_turnovers, by = c("idGame", "numberEvent")) %>%
   rows_update(change_consec, by = c("idGame","numberEvent"))
 
@@ -295,8 +308,8 @@ start_possessions <- poss_pack %>%
   group_by(idGame, numberPeriod) %>%
   mutate(start_poss = case_when(slugTeamPlayer1 != lag(slugTeamPlayer1) & numberEventMessageType == 4 ~ timeQuarter, 
                                 slugTeamPlayer1 != lag(slugTeamPlayer1) & numberEventMessageType != 4 ~ lag(timeQuarter))) %>%
-  mutate(start_poss = case_when(is.na(start_poss) & row_number() == 1 & as.integer(numberPeriod) <= 4 ~ "12:00", 
-                                is.na(start_poss) & row_number() == 1 & as.integer(numberPeriod) > 4 ~ "05:00",
+  mutate(start_poss = case_when(is.na(start_poss) & row_number() == 1 & numberPeriod <= 4 ~ "12:00", 
+                                is.na(start_poss) & row_number() == 1 & numberPeriod > 4 ~ "05:00",
                                 TRUE ~ start_poss)) %>%
   ungroup()
 
@@ -305,7 +318,9 @@ poss_pack_start <- poss_pack %>%
   left_join(start_possessions %>%
               select(idGame, numberEvent, start_poss)) %>%
   group_by(idGame, numberPeriod) %>%
-  mutate(start_poss = na.locf0(start_poss)) %>%
+  mutate(start_poss = ifelse(possession == 1, na.locf0(start_poss), start_poss),
+         start_poss = ifelse(numberEventMessageType == 4 & numberEventActionType == 1, na.locf0(start_poss), start_poss),
+         start_poss = na.locf0(start_poss, fromLast = TRUE)) %>%
   ungroup() %>%
   mutate(heave = ifelse(numberEventMessageType %in% c(2, 5) & possession == 1 & as.integer(str_sub(start_poss, 4, 5)) <= 2 & str_starts(start_poss, "00:") & (lead(shotPtsHome) + lead(shotPtsAway) == 0), 1, 0),
          possession = ifelse(heave == 1, 0, possession))
@@ -370,13 +385,52 @@ additional_possessions <- bind_rows(addit_poss_reb,  addit_poss_made) %>%
 
 final_poss_pack <- poss_pack_start %>%
   bind_rows(additional_possessions) %>%
-  arrange(idGame, numberEvent)
+  arrange(idGame, numberEvent) %>%
+  select(-c(hasFouls, subOpp, canSub)) %>%
+  mutate(across(starts_with("description"), ~ coalesce(., "")))
+
+# changing possession when it ends in free throw (make it end at foul that led to fts)
+fouls_possessions <- final_poss_pack %>%
+  filter(numberEventMessageType == 3 & possession == 1) %>%
+  select(idGame, secsPassedGame, player_foul = namePlayer1, team_possession, numberEvent_ft = numberEvent) %>%
+  left_join(final_poss_pack %>%
+              filter(numberEventMessageType == 6 & !numberEventActionType %in% c(6, 9, 11, 13, 14, 15, 16, 17)) %>%
+              mutate(description = ifelse(slugTeamPlayer1 == slugTeamHome, descriptionPlayHome, descriptionPlayVisitor)) %>%
+              select(idGame, secsPassedGame, player_foul = namePlayer2, numberEvent_foul = numberEvent, description)) %>%
+  add_count(idGame, secsPassedGame, player_foul, name = "number_plays") %>%
+  filter(!(number_plays > 1 & !str_detect(description, " S.FOUL |\\.PN\\)")))
+
+missing_comp <- fouls_possessions %>%
+  filter(is.na(numberEvent_foul)) %>%
+  left_join(final_poss_pack %>%
+              filter(numberEventMessageType == 6 & !numberEventActionType %in% c(6, 9, 11, 13, 14, 15, 16, 17)) %>%
+              mutate(description = ifelse(slugTeamPlayer1 == slugTeamHome, descriptionPlayHome, descriptionPlayVisitor)) %>%
+              select(idGame, secsPassedGame, numberEvent_foul = numberEvent, description),
+            by = c("idGame", "secsPassedGame"),
+            suffix = c("", "_new")) %>%
+  mutate(numberEvent_foul = numberEvent_foul_new,
+         description = description_new) %>%
+  select(-c(numberEvent_foul_new, description_new))
+
+fouls_possessions <- fouls_possessions %>%
+  rows_update(missing_comp, by = c("idGame", "secsPassedGame", "player_foul", "team_possession", "numberEvent_ft", "number_plays")) %>%
+  select(idGame, secsPassedGame, team_possession, numberEvent_ft, numberEvent_foul) %>%
+  pivot_longer(cols = starts_with("numberEvent"),
+               names_to = "type_play",
+               values_to = "numberEvent",
+               names_prefix = "numberEvent_") %>%
+  mutate(possession_players = ifelse(type_play == "foul", 1, 0)) %>%
+  select(-type_play)
+
+final_poss_pack <- final_poss_pack %>%
+  mutate(possession_players = possession) %>%
+  rows_update(fouls_possessions, by = c("idGame", "numberEvent"))
 
 lineup_stats <- final_poss_pack %>%
   select(idGame, numberEvent, slugTeamHome, slugTeamAway, numberPeriod, timeQuarter, secsPassedGame, 
-         newptsHome, newptsAway, lineupHome, lineupAway, possession, team_possession) %>%
-  mutate(possession_home = ifelse(team_possession == slugTeamHome & possession == 1, 1, 0),
-         possession_away = ifelse(team_possession == slugTeamAway & possession == 1, 1, 0)) %>%
+         newptsHome, newptsAway, lineupHome, lineupAway, possession_players, team_possession) %>%
+  mutate(possession_home = ifelse(team_possession == slugTeamHome & possession_players == 1, 1, 0),
+         possession_away = ifelse(team_possession == slugTeamAway & possession_players == 1, 1, 0)) %>%
   pivot_longer(cols = starts_with("lineup"),
                names_to = "lineupLocation",
                names_prefix = "lineup",
@@ -426,8 +480,9 @@ lineup_stats <- lineup_stats %>%
   mutate(reserves = map_int(map2(lineup_list, starters_list, setdiff), length)) %>%
   select(-c(contains("list"), starters))
 
+
 rm(games, event_changes, play_logs_all, new_pbp, subs_made, others_qtr,
    lineups_quarters, data_missing_players, missing_players_ot, lineup_subs, 
-   lineup_game, lineup_game_stats, possession_initial, jumpball_turnovers,
-   change_consec, poss_pack, start_possessions, poss_pack_start, last_possessions, 
-   last_rebounds, missedft_and1_last, addit_poss_reb, addit_poss_made, additional_possessions)
+   lineup_game, lineup_game_stats, possession_initial, jumpball_turnovers, lane_description_missing,
+   change_consec, poss_pack, start_possessions, poss_pack_start, last_possessions, fouls_possessions,
+   missing_comp, last_rebounds, missedft_and1_last, addit_poss_reb, addit_poss_made, additional_possessions)
