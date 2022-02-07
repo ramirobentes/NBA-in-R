@@ -1,25 +1,10 @@
-# library(lubridate)
-# 
-# # save by month -----------------------------------------------------------
-# 
-# 
-# player_logs <- nba_leaguegamelog(season = "2021-22", player_or_team = "P") %>%
-#   pluck("LeagueGameLog") %>%
-#   clean_names()
-# 
-# 
-# nba_com_pbp <- read_csv("pbp_nba_api_22.csv",
-#                         col_types = c(cl = "c")) 
-# 
-# nba_com_pbp %>%
-#   left_join(player_logs %>%
-#               distinct(game_id, game_date)) %>%
-#   #filter(is.na(game_date))
-#   filter(month(game_date) == 1) %>%
-#   select(-game_date) %>%
-#   write_csv("pbp data months/pbp_hoopr_2201.csv")
-
-
+missing_starters <- tribble(
+  ~game_id,      ~period,      ~slug_team,      ~player_name,
+  22100041,            5,           "CHA",  "Gordon Hayward",
+  22100291,            6,           "LAL",      "Malik Monk",
+  22100353,            5,           "PHI",     "Danny Green",
+  22100413,            5,           "BKN", "Kessler Edwards",
+  22100688,            3,           "POR","Robert Covington")
 
 # corrections to pbp ------------------------------------------------------
 
