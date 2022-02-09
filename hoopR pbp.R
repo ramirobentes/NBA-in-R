@@ -204,10 +204,10 @@ jumpball_turnovers <- poss_initial %>%
          next_poss = zoo::na.locf0(ifelse(possession == 1, off_slug_team, NA), fromLast = TRUE)) %>%
   ungroup() %>%
   group_by(game_id, secs_passed_game) %>%
-  mutate(team_reb_chall = sum(msg_type == 9 & act_type == 7) > 0 & sum(msg_type == 4 & is.na(player1)) > 0) %>% 
+  mutate(team_reb_chall = sum(msg_type == 9) > 0 & sum(msg_type == 4 & is.na(player1)) > 0) %>% 
   ungroup() %>%
   filter(msg_type == 10 & act_type == 1 & 
-           lag(msg_type) == 9 & lag(act_type) == 7 &
+           lag(msg_type) == 9 &
            slug_team == lag(slug_team) &
            prev_poss == next_poss &
            lag(team_reb_chall) == FALSE) %>%
