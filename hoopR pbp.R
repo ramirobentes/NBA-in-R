@@ -426,4 +426,4 @@ lineup_stats <- pbp_final_gt %>%
 
 rm(addit_poss, change_consec, corrections, flagrant_clear, fouls_stats, jumpball_turnovers, lane_description_missing, lineup_game, lineup_subs,
    missing_starters, nba_pbp, unident_double_techs, techs, start_possessions, starters_quarters, regular_fouls, poss_non_consec,
-   players_subbed, pbp_poss, other_fouls, pbp_month, pbp_poss_final, data_urls)
+   players_subbed, pbp_poss, other_fouls, pbp_month, pbp_poss_final, data_urls, poss_initial)
