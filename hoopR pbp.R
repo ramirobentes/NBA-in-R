@@ -379,7 +379,7 @@ pbp_final_gt <- pbp_poss_final %>%
     # score differential >= 25 for minutes 12-9:
     secs_passed_game >= 2160 & secs_passed_game < 2340 & margin_before >= 25 & total_starters_home + total_starters_away <= 2 & period == 4 ~ 1,
     # score differential >= 20 for minutes 9-6:
-    secs_passed_game >= 2340 & secs_passed_game < 2520 & margin_before >= 20 & total_starters_home + total_starters_away <= 2 & period == 4  ~ 1,
+    secs_passed_game >= 2340 & secs_passed_game < 2520 & margin_before >= 20 & total_starters_home + total_starters_away <= 2 & period == 4 ~ 1,
     # score differential >= 10 for minutes 6 and under:
     secs_passed_game >= 2520 & margin_before >= 10 & total_starters_home + total_starters_away <= 2 & period == 4 ~ 1,
     TRUE ~ 0)) %>%
