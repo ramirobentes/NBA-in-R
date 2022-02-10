@@ -6,8 +6,8 @@
   type: table
 - path: lineup-stats
   name: lineup-stats
-  rows: 42007
-  cols: 18
+  rows: 39637
+  cols: 12
   description: every lineup stint and stats
   type: table
 - path: final-poss-pack

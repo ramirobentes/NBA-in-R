@@ -1,26 +1,20 @@
 path:
 - data.csv
 - data.rds
-rows: 42007
-cols: 18
+rows: 39637
+cols: 12
 columns:
-  idGame: numeric
-  slugTeam: character
+  game_id: numeric
+  period: numeric
+  stint: numeric
+  slug_team: character
+  slug_opp: character
   lineup: character
-  lineupStint: integer
-  numberPeriod: numeric
-  totalPossTeam: numeric
-  totalPossOpp: numeric
-  initialScoreTeam: numeric
-  initialScoreOpp: numeric
-  finalScoreTeam: numeric
-  finalScoreOpp: numeric
-  initialTime: numeric
-  finalTime: numeric
-  totalScoreTeam: numeric
-  totalScoreOpp: numeric
-  netScoreTeam: numeric
-  totalTime: numeric
-  reserves: integer
+  garbage_time: numeric
+  pts_team: numeric
+  pts_opp: numeric
+  poss_team: numeric
+  poss_opp: numeric
+  secs_played: numeric
 description: every lineup stint and stats
 type: table
