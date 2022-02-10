@@ -6,7 +6,7 @@ cols: 12
 columns:
   game_id: numeric
   period: numeric
-  stint: numeric
+  stint: integer
   slug_team: character
   slug_opp: character
   lineup: character
