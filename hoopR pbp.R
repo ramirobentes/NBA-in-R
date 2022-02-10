@@ -373,7 +373,7 @@ pbp_final_gt <- pbp_poss_final %>%
          total_starters_away = map_int(map2(lineup_away_list, lineup_start_away_list, intersect), length)) %>%
   select(-contains("list")) %>%
   mutate(margin_before = case_when(shot_pts > 0 & slug_team == team_home ~ abs(hs - shot_pts - vs),
-                                   shot_pts > 0 & team_away == team_home ~ abs(vs - shot_pts - hs),
+                                   shot_pts > 0 & slug_team == team_away ~ abs(vs - shot_pts - hs),
                                    TRUE ~ abs(hs - vs))) %>%
   mutate(garbage_time = case_when(
     # score differential >= 25 for minutes 12-9:
