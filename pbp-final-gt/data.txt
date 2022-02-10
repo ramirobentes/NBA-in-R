@@ -1,0 +1,45 @@
+path:
+- https://github.com/ramirobentes/NBA-in-R/releases/download/pbp-final-gt-17cdf37/data.csv
+- data.rds
+rows: 392930
+cols: 37
+columns:
+  game_id: numeric
+  period: numeric
+  clock: character
+  number_event: numeric
+  msg_type: numeric
+  act_type: numeric
+  slug_team: character
+  off_slug_team: character
+  player1: character
+  player2: character
+  player3: character
+  description: character
+  desc_value: numeric
+  opt2: numeric
+  hs: numeric
+  vs: numeric
+  ord: numeric
+  locX: numeric
+  locY: numeric
+  team_home: character
+  team_away: character
+  number_original: numeric
+  secs_passed_game: numeric
+  shot_pts: numeric
+  lineup_home: character
+  lineup_away: character
+  possession: numeric
+  start_poss: character
+  shot_pts_home: numeric
+  shot_pts_away: numeric
+  poss_home: numeric
+  poss_away: numeric
+  secs_played: numeric
+  total_starters_home: numeric
+  total_starters_away: numeric
+  margin_before: numeric
+  garbage_time: numeric
+description: pbp with lineups and garbage time
+type: table
