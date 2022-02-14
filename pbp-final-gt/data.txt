@@ -1,7 +1,7 @@
 path:
-- https://github.com/ramirobentes/NBA-in-R/releases/download/pbp-final-gt-607179f/data.csv
+- https://github.com/ramirobentes/NBA-in-R/releases/download/pbp-final-gt-7a29f53/data.csv
 - data.rds
-rows: 396315
+rows: 405863
 cols: 37
 columns:
   game_id: numeric
