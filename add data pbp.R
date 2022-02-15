@@ -4,7 +4,8 @@ missing_starters <- tribble(
   22100291,            6,           "LAL",      "Malik Monk",
   22100353,            5,           "PHI",     "Danny Green",
   22100413,            5,           "BKN", "Kessler Edwards",
-  22100688,            3,           "POR","Robert Covington")
+  22100688,            3,           "POR","Robert Covington",
+  22100860,            5,           "OKC",   "Darius Bazley")
 
 # corrections to pbp ------------------------------------------------------
 
