@@ -235,7 +235,7 @@ poss_non_consec <- poss_initial %>%
 
 # find start of possessions
 start_possessions <- poss_non_consec %>%
-  filter((possession == 1 & (msg_type %in% c(1, 5) | (msg_type == 3 & shot_pts > 0))) | (msg_type == 4 & act_type == 0 & desc_value == 0)) %>%
+  filter((possession == 1 & (msg_type %in% c(1, 5, 10) | (msg_type == 3 & shot_pts > 0))) | (msg_type == 4 & act_type == 0 & desc_value == 0)) %>%
   mutate(start_poss = clock,
          number_event = ifelse(msg_type == 4, number_event, number_event + 1)) %>%
   ungroup()
