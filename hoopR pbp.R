@@ -282,9 +282,9 @@ pbp_poss <- poss_non_consec %>%
 # connecting free throws to fouls
 
 ## TECHNICALS
-### find unidentified double technicals
+### find unidentified double technicals (instead of description showing double technical, there's one event for each but no FTs)
 unident_double_techs <- lineup_game %>%
-  filter(!(msg_type == 11 & act_type == 4)) %>%
+  filter(!msg_type %in% c(9, 11)) %>%   # ejection or timeout
   filter((game_id == lead(game_id) & secs_passed_game == lead(secs_passed_game) & msg_type == 6 & act_type == 11 & msg_type == lead(msg_type) & act_type == lead(act_type) & slug_team != lead(slug_team)) | (game_id == lag(game_id) & secs_passed_game == lag(secs_passed_game) & msg_type == 6 & act_type == 11 & msg_type == lag(msg_type) & act_type == lag(act_type) & slug_team != lag(slug_team))) %>%
   transmute(game_id, secs_passed_game, slug_team, number_event, description = str_replace(description, "Technical", "Double Technical"))
 
