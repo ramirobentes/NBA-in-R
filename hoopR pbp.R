@@ -235,11 +235,9 @@ poss_non_consec <- poss_initial %>%
 
 # find start of possessions
 start_possessions <- poss_non_consec %>%
-  filter(msg_type %in% c(1:5)) %>%
-  group_by(game_id, period) %>%
-  mutate(start_poss = case_when(slug_team != lag(slug_team) & msg_type == 4 ~ clock, 
-                                slug_team != lag(slug_team) & msg_type != 4 ~ lag(clock)),
-         start_poss = coalesce(start_poss, ifelse(row_number() == 1, "12:00", start_poss))) %>%
+  filter((possession == 1 & (msg_type %in% c(1, 5) | (msg_type == 3 & shot_pts > 0))) | (msg_type == 4 & act_type == 0 & desc_value == 0)) %>%
+  mutate(start_poss = clock,
+         number_event = ifelse(msg_type == 4, number_event, number_event + 1)) %>%
   ungroup()
 
 # add start of possession column to table
@@ -247,10 +245,8 @@ poss_non_consec <- poss_non_consec %>%
   left_join(start_possessions %>%
               select(game_id, number_event, start_poss)) %>%
   group_by(game_id, period) %>%
-  mutate(start_poss = ifelse(possession == 1, na.locf0(start_poss), start_poss),
-         start_poss = ifelse(msg_type == 4 & act_type == 1, na.locf0(start_poss), start_poss),
-         start_poss = na.locf0(start_poss, fromLast = TRUE),
-         start_poss = na.locf0(start_poss)) %>%
+  mutate(start_poss = ifelse(row_number() == 1, clock, start_poss),
+         start_poss = na.locf(start_poss)) %>%
   ungroup()
 
 
