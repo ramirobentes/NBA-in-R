@@ -1,7 +1,7 @@
 path:
-- https://github.com/ramirobentes/NBA-in-R/releases/download/pbp-final-gt-88d6a87/data.csv
+- https://github.com/ramirobentes/NBA-in-R/releases/download/pbp-final-gt-158a96d/data.csv
 - data.rds
-rows: 410177
+rows: 413642
 cols: 37
 columns:
   game_id: numeric
@@ -37,8 +37,8 @@ columns:
   poss_home: numeric
   poss_away: numeric
   secs_played: numeric
-  total_starters_home: numeric
-  total_starters_away: numeric
+  total_starters_home: integer
+  total_starters_away: integer
   margin_before: numeric
   garbage_time: numeric
 description: pbp with lineups and garbage time
