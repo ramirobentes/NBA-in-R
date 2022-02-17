@@ -1,8 +1,8 @@
 path:
 - data.csv
 - data.rds
-rows: 41708
-cols: 12
+rows: 42248
+cols: 13
 columns:
   game_id: numeric
   period: numeric
@@ -16,5 +16,6 @@ columns:
   poss_team: numeric
   poss_opp: numeric
   secs_played: numeric
+  game_date: Date
 description: every lineup stint and stats
 type: table
