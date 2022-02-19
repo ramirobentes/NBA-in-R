@@ -5,6 +5,7 @@ rows: 42496
 cols: 13
 columns:
   game_id: numeric
+  game_date: Date
   period: numeric
   stint: integer
   slug_team: character
@@ -16,6 +17,5 @@ columns:
   poss_team: numeric
   poss_opp: numeric
   secs_played: numeric
-  game_date: Date
 description: every lineup stint and stats
 type: table
