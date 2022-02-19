@@ -24,7 +24,7 @@
   type: table
 - path: pbp-final-gt
   name: pbp-final-gt
-  rows: 421401
-  cols: 37
+  rows: 421403
+  cols: 35
   description: pbp with lineups and garbage time
   type: table

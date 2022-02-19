@@ -1,8 +1,8 @@
 path:
-- https://github.com/ramirobentes/NBA-in-R/releases/download/pbp-final-gt-de108c6/data.csv
+- https://github.com/ramirobentes/NBA-in-R/releases/download/pbp-final-gt-b726b44/data.csv
 - data.rds
-rows: 421401
-cols: 37
+rows: 421403
+cols: 35
 columns:
   game_id: numeric
   period: numeric
@@ -17,12 +17,8 @@ columns:
   player3: character
   description: character
   desc_value: numeric
-  opt2: numeric
   hs: numeric
   vs: numeric
-  ord: numeric
-  locX: numeric
-  locY: numeric
   team_away: character
   team_home: character
   number_original: numeric
@@ -32,11 +28,13 @@ columns:
   lineup_away: character
   possession: numeric
   start_poss: character
+  total_fta: integer
   shot_pts_home: numeric
   shot_pts_away: numeric
   poss_home: numeric
   poss_away: numeric
   secs_played: numeric
+  game_date: Date
   total_starters_home: integer
   total_starters_away: integer
   margin_before: numeric
