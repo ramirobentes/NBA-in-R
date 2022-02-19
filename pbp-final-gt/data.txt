@@ -1,5 +1,5 @@
 path:
-- https://github.com/ramirobentes/NBA-in-R/releases/download/pbp-final-gt-b726b44/data.csv
+- https://github.com/ramirobentes/NBA-in-R/releases/download/pbp-final-gt-ddc227c/data.csv
 - data.rds
 rows: 421403
 cols: 35
