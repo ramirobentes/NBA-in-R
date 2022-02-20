@@ -1,5 +1,5 @@
 path:
-- https://github.com/ramirobentes/NBA-in-R/releases/download/pbp-final-gt-d11fea1/data.csv
+- https://github.com/ramirobentes/NBA-in-R/releases/download/pbp-final-gt-9814b0d/data.csv
 - data.rds
 rows: 421403
 cols: 35
@@ -28,16 +28,16 @@ columns:
   lineup_away: character
   possession: numeric
   start_poss: character
-  total_fta: integer
+  total_fta: numeric
   shot_pts_home: numeric
   shot_pts_away: numeric
   poss_home: numeric
   poss_away: numeric
   secs_played: numeric
   game_date: Date
-  total_starters_home: integer
-  total_starters_away: integer
+  total_starters_home: numeric
+  total_starters_away: numeric
   margin_before: numeric
   garbage_time: numeric
-description: pbp with lineups and garbage time
+description: pbp with lineups hoopR
 type: table

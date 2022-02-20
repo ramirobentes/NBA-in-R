@@ -26,5 +26,5 @@
   name: pbp-final-gt
   rows: 421403
   cols: 35
-  description: pbp with lineups and garbage time
+  description: pbp with lineups hoopR
   type: table
