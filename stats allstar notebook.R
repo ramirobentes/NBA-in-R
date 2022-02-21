@@ -4,6 +4,7 @@ library(janitor)
 library(lubridate)
 library(future)
 
+# Article: https://www.nba.com/news/all-star-notebook-key-stats-on-every-2022-all-star
 
 # Load main data ---------------------------------------------------------------
 
