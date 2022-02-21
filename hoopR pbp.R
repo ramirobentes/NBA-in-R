@@ -235,10 +235,14 @@ poss_non_consec <- poss_initial %>%
 
 # find start of possessions
 start_possessions <- poss_non_consec %>%
-  filter((possession == 1 & (msg_type %in% c(1, 5, 10) | (msg_type == 3 & shot_pts > 0))) | (msg_type == 4 & act_type == 0 & desc_value == 0)) %>%
-  mutate(start_poss = clock,
+  filter((possession == 1 & (msg_type %in% c(1, 5, 10) | (msg_type == 3 & shot_pts > 0))) | (msg_type == 4 & act_type == 0 & desc_value == 0) | (msg_type == 3 & act_type == 10 & shot_pts > 0)) %>%
+  group_by(game_id, secs_passed_game, slug_team) %>%
+  mutate(and1 = sum(msg_type == 1) > 0 & sum(msg_type == 3 & act_type == 10)) %>%
+  ungroup() %>%
+  mutate(start_poss = ifelse(and1 & msg_type == 1, NA, clock),
          number_event = ifelse(msg_type == 4, number_event, number_event + 1)) %>%
-  ungroup()
+  ungroup() %>%
+  filter(!is.na(start_poss))
 
 # add start of possession column to table
 poss_non_consec <- poss_non_consec %>%
@@ -253,13 +257,15 @@ poss_non_consec <- poss_non_consec %>%
 ##### Adding extra possessions
 
 addit_poss <- poss_non_consec %>%
-  filter(msg_type %in% c(1:5)) %>%
+  filter(msg_type %in% c(1:5) & !(msg_type == 3 & act_type %in% c(16, 18:19, 20, 27:29, 25:26)) & !(msg_type == 4 & act_type == 1)) %>%
   group_by(game_id, period) %>%
   filter(row_number() == max(row_number())) %>%
   ungroup() %>%
   filter(clock != "00:00.0" & !(msg_type == 4 & desc_value == 1)) %>%
   transmute(game_id, period, start_poss = clock, possession = 1,
-            off_slug_team = ifelse(msg_type == 4, slug_team, ifelse(slug_team == team_home, team_away, team_home)),
+            off_slug_team = ifelse(msg_type == 4 | msg_type == 3 & act_type %in% c(19, 20, 29, 26), 
+                                   slug_team, 
+                                   ifelse(slug_team == team_home, team_away, team_home)),
             msg_type = 99, act_type = 0, number_original = 0, description = "Last possession of quarter") %>%
   left_join(poss_non_consec %>%
               filter(msg_type == 13) %>%
@@ -267,6 +273,7 @@ addit_poss <- poss_non_consec %>%
                         description, possession, off_slug_team))) %>%
   mutate(number_event = number_event - 0.5,
          slug_team = off_slug_team)
+
 
 # Adding extra possessions
 pbp_poss <- poss_non_consec %>%
@@ -333,14 +340,15 @@ fouls_stats <- bind_rows(regular_fouls, flagrant_clear, techs) %>%
               select(game_id, number_event_ft = number_event, slug_team, shot_pts, team_home, team_away, possession)) %>%
   # filter(is.na(shot_pts))  # test to see if there's nothing missing
   group_by(game_id, slug_team, number_event = number_event_foul, team_home, team_away) %>%
-  summarise(total_pts = sum(shot_pts),
+  summarise(total_fta = n(),
+            total_pts = sum(shot_pts),
             total_poss = sum(possession)) %>%
   ungroup() %>%
   mutate(shot_pts_home = ifelse(slug_team == team_home, total_pts, 0),
          shot_pts_away = ifelse(slug_team == team_away, total_pts, 0),
          poss_home = ifelse(slug_team == team_home, total_poss, 0),
          poss_away = ifelse(slug_team == team_away, total_poss, 0)) %>%
-  select(game_id, number_event, shot_pts_home:poss_away)
+  select(game_id, number_event, total_fta, shot_pts_home:poss_away)
 
 pbp_poss_final <- pbp_poss %>%
   # mutate(possession = ifelse(start_poss == "00:00.0", 0, possession)) %>%   # considering nba.com bug when play has wrong clock at 00:00.0 (correct would be to not have this line)
@@ -352,7 +360,9 @@ pbp_poss_final <- pbp_poss %>%
   group_by(game_id, period) %>%
   mutate(secs_played = lead(secs_passed_game) - secs_passed_game,
          secs_played = coalesce(secs_played, 0)) %>%
-  ungroup() 
+  ungroup() %>%
+  left_join(player_logs %>%
+              distinct(game_id = as.numeric(game_id), game_date = as.Date(game_date)))
 
 
 # Add garbage time --------------------------------------------------------
@@ -383,7 +393,7 @@ pbp_final_gt <- pbp_poss_final %>%
   mutate(max_nongarbage = max(number_event[which(garbage_time == 0)])) %>%
   ungroup() %>%
   mutate(garbage_time = ifelse(garbage_time == 1 & number_event < max_nongarbage, 0, garbage_time)) %>%
-  select(-c(starts_with("lineup_start_"), max_nongarbage))
+  select(-c(starts_with("lineup_start_"), max_nongarbage, opt2, ord, locX, locY))
 
 
 # Stats -----------------------------------------------------------
@@ -407,9 +417,9 @@ lineup_stats <- pbp_final_gt %>%
          slug_team = ifelse(lineup_location == "home", team_home, team_away),
          slug_opp = ifelse(lineup_location == "away", team_home, team_away),
          stint = ifelse(lineup_location == "home", stint_home, stint_away)) %>%
-  select(game_id, period, stint, number_event, msg_type, description, lineup, pts_team, pts_opp,
+  select(game_id, game_date, period, stint, number_event, msg_type, description, lineup, pts_team, pts_opp,
          poss_team, poss_opp, secs_played, slug_team, slug_opp, garbage_time) %>%
-  group_by(game_id, period, stint, slug_team, slug_opp, lineup, garbage_time) %>%
+  group_by(game_id, game_date, period, stint, slug_team, slug_opp, lineup, garbage_time) %>%
   summarise(across(c(pts_team, pts_opp, poss_team, poss_opp, secs_played), sum)) %>%
   ungroup() %>%
   filter(secs_played + poss_opp + poss_team + pts_opp + pts_team > 0) %>%
@@ -420,6 +430,6 @@ lineup_stats <- pbp_final_gt %>%
 # write_csv(pbp_final_gt, "pbp poss hoopr.csv")
 # write_csv(lineup_stats, "lineup stats hoopr.csv")
 
-rm(addit_poss, change_consec, corrections, flagrant_clear, fouls_stats, jumpball_turnovers, lane_description_missing, lineup_game, lineup_subs,
-   missing_starters, nba_pbp, unident_double_techs, techs, start_possessions, starters_quarters, regular_fouls, poss_non_consec,
+rm(addit_poss, change_consec, corrections, flagrant_clear, fouls_stats, jumpball_turnovers, lane_description_missing, lineup_subs,
+   missing_starters, nba_pbp, unident_double_techs, techs, start_possessions, regular_fouls, poss_non_consec,
    players_subbed, pbp_poss, other_fouls, pbp_month, pbp_poss_final, data_urls, poss_initial)
