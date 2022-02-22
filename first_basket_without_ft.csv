@@ -1,0 +1,884 @@
+game_date,game_id,team_home,team_away,period,clock,slug_team,player1,description,shot_pts
+2021-10-19,22100001,MIL,BKN,1,10:47,BKN,Nic Claxton,[BKN 2-0] Claxton Alley Oop Dunk Shot: Made (2 PTS) Assist: Harden (1 AST),2
+2021-10-19,22100002,LAL,GSW,1,11:53,LAL,DeAndre Jordan,[LAL 2-0] Jordan Alley Oop Layup shot: Made (2 PTS) Assist: James (1 AST),2
+2021-10-20,22100003,CHA,IND,1,11:32,IND,Domantas Sabonis,[IND 2-0] Sabonis Cutting Layup Shot: Made (2 PTS) Assist: Holiday (1 AST),2
+2021-10-20,22100004,DET,CHI,1,10:58,CHI,Zach LaVine,[CHI 2-0] LaVine Driving Layup Shot: Made (2 PTS) Assist: Vucevic (1 AST),2
+2021-10-20,22100005,NYK,BOS,1,11:37,NYK,Julius Randle,[NYK 3-0] Randle 3pt Shot: Made (3 PTS),3
+2021-10-20,22100006,TOR,WAS,1,11:46,TOR,Fred VanVleet,[TOR 3-0] VanVleet 3pt Shot: Made (3 PTS) Assist: G Dragic (1 AST),3
+2021-10-20,22100007,MEM,CLE,1,11:46,CLE,Evan Mobley,[CLE 2-0] Mobley Pullup Jump shot: Made (2 PTS),2
+2021-10-20,22100008,MIN,HOU,1,10:13,HOU,Christian Wood,[HOU 2-1] Wood Cutting Dunk Shot: Made (2 PTS) Assist: Porter Jr. (1 AST),2
+2021-10-20,22100009,NOP,PHI,1,11:42,PHI,Joel Embiid,[PHI 2-0] Embiid Fadeaway Jump Shot: Made (2 PTS),2
+2021-10-20,22100010,SAS,ORL,1,11:27,ORL,Mo Bamba,[ORL 2-1] Bamba Driving Finger Roll Layup Shot: Made (2 PTS),2
+2021-10-20,22100011,UTA,OKC,1,11:22,OKC,Shai Gilgeous-Alexander,[OKC 2-0] Gilgeous-Alexander Driving Layup Shot: Made (2 PTS),2
+2021-10-20,22100012,PHX,DEN,1,11:45,DEN,Nikola Jokic,[DEN 2-0] Jokic Pullup Jump shot: Made (2 PTS) Assist: Porter Jr. (1 AST),2
+2021-10-20,22100013,POR,SAC,1,11:15,POR,Robert Covington,[POR 3-0] Covington 3pt Shot: Made (3 PTS) Assist: Lillard (1 AST),3
+2021-10-21,22100014,ATL,DAL,1,11:42,DAL,Tim Hardaway Jr.,[DAL 3-0] Hardaway Jr. 3pt Shot: Made (3 PTS) Assist: Doncic (1 AST),3
+2021-10-21,22100015,MIA,MIL,1,11:40,MIA,Bam Adebayo,[MIA 2-0] Adebayo Driving Layup Shot: Made (2 PTS),2
+2021-10-21,22100016,GSW,LAC,1,11:07,GSW,Stephen Curry,[GSW 3-0] Curry 3pt Shot: Made (3 PTS) Assist: Green (1 AST),3
+2021-10-22,22100017,CLE,CHA,1,11:34,CHA,LaMelo Ball,[CHA 2-0] Ball Running Layup Shot: Made (2 PTS) Assist: Rozier (1 AST),2
+2021-10-22,22100018,ORL,NYK,1,11:28,NYK,Kemba Walker,[NYK 3-0] Walker 3pt Shot: Made (3 PTS) Assist: Randle (1 AST),3
+2021-10-22,22100019,WAS,IND,1,11:48,WAS,Aaron Holiday,[WAS 3-0] Holiday 3pt Shot: Made (3 PTS) Assist: Gafford (1 AST),3
+2021-10-22,22100020,BOS,TOR,1,10:12,BOS,Al Horford,[BOS 2-0] Horford Dunk Shot: Made (2 PTS) Assist: Tatum (1 AST),2
+2021-10-22,22100021,PHI,BKN,1,11:48,PHI,Seth Curry,[PHI 3-0] Curry 3pt Shot: Made (3 PTS) Assist: Embiid (1 AST),3
+2021-10-22,22100022,CHI,NOP,1,11:47,CHI,Lonzo Ball,[CHI 2-0] Ball Driving Layup Shot: Made (2 PTS),2
+2021-10-22,22100023,HOU,OKC,1,11:44,HOU,Jae'Sean Tate,[HOU 3-0] Tate 3pt Shot: Made (3 PTS) Assist: Porter Jr. (1 AST),3
+2021-10-22,22100024,DEN,SAS,1,11:44,DEN,Will Barton,[DEN 3-0] Barton 3pt Shot: Made (3 PTS) Assist: Jokic (1 AST),3
+2021-10-22,22100025,LAL,PHX,1,10:51,PHX,Jae Crowder,[PHX 2-0] Crowder Driving Floating Jump Shot: Made (2 PTS) Assist: Paul (1 AST),2
+2021-10-22,22100026,SAC,UTA,1,11:44,SAC,Harrison Barnes,[SAC 2-0] Barnes Driving Layup Shot: Made (2 PTS) Assist: Fox (1 AST),2
+2021-10-23,22100027,CLE,ATL,1,11:11,CLE,Ricky Rubio,[CLE 2-0] Rubio Driving Finger Roll Layup Shot: Made (2 PTS) Assist: Mobley (1 AST),2
+2021-10-23,22100028,IND,MIA,1,11:39,MIA,Duncan Robinson,[MIA 3-0] Robinson 3pt Shot: Made (3 PTS) Assist: Butler (1 AST),3
+2021-10-23,22100029,TOR,DAL,1,11:27,TOR,OG Anunoby,[TOR 2-0] Anunoby Driving Dunk Shot: Made (2 PTS),2
+2021-10-23,22100030,CHI,DET,1,11:45,DET,Isaiah Stewart,[DET 2-0] Stewart Layup Shot: Made (2 PTS) Assist: Hayes (1 AST),2
+2021-10-23,22100031,MIN,NOP,1,11:04,MIN,Anthony Edwards,[MIN 3-0] Edwards 3pt Shot: Made (3 PTS) Assist: Okogie (1 AST),3
+2021-10-23,22100032,SAS,MIL,1,11:35,SAS,Jakob Poeltl,[SAS 2-0] Poeltl Hook Shot: Made (2 PTS) Assist: White (1 AST),2
+2021-10-23,22100033,POR,PHX,1,11:40,POR,CJ McCollum,[POR 3-0] McCollum 3pt Shot: Made (3 PTS) Assist: Lillard (1 AST),3
+2021-10-23,22100034,LAC,MEM,1,11:09,MEM,Desmond Bane,[MEM 5-0] Bane 3pt Shot: Made (3 PTS) Assist: Morant (1 AST),3
+2021-10-24,22100035,BKN,CHA,1,11:40,CHA,Mason Plumlee,[CHA 2-0] Plumlee Cutting Dunk Shot: Made (2 PTS) Assist: Ball (1 AST),2
+2021-10-24,22100036,NYK,ORL,1,11:10,ORL,Jalen Suggs,[ORL 3-0] Suggs 3pt Shot: Made (3 PTS) Assist: Anthony (1 AST),3
+2021-10-24,22100037,HOU,BOS,1,11:42,BOS,Jayson Tatum,[BOS 2-0] Tatum Running Dunk Shot: Made (2 PTS) Assist: Smart (1 AST),2
+2021-10-24,22100038,OKC,PHI,1,11:07,PHI,Tobias Harris,[PHI 2-0] Harris Turnaround Fadeaway Bank Jump Shot: Made (2 PTS),2
+2021-10-24,22100039,SAC,GSW,1,11:46,SAC,Richaun Holmes,[SAC 2-0] Holmes Alley Oop Dunk Shot: Made (2 PTS) Assist: Haliburton (1 AST),2
+2021-10-24,22100040,LAL,MEM,1,11:23,MEM,De'Anthony Melton,[MEM 3-0] Melton 3pt Shot: Made (3 PTS) Assist: Bane (1 AST),3
+2021-10-25,22100041,CHA,BOS,1,11:33,BOS,Dennis Schroder,[BOS 3-0] Schroder 3pt Shot: Made (3 PTS) Assist: Tatum (1 AST),3
+2021-10-25,22100042,IND,MIL,1,11:20,IND,Chris Duarte,[IND 3-0] Duarte Pullup Jump shot: Made (2 PTS) Assist: Brogdon (1 AST),2
+2021-10-25,22100043,ATL,DET,1,11:33,DET,Kelly Olynyk,[DET 2-0] Olynyk Turnaround Fadeaway shot: Made (2 PTS),2
+2021-10-25,22100044,BKN,WAS,1,11:42,WAS,Kentavious Caldwell-Pope,[WAS 2-0] Caldwell-Pope Driving Floating Jump Shot: Made (2 PTS) Assist: Beal (1 AST),2
+2021-10-25,22100045,MIA,ORL,1,11:43,MIA,Bam Adebayo,[MIA 2-0] Adebayo Jump Shot: Made (2 PTS) Assist: Robinson (1 AST),2
+2021-10-25,22100046,TOR,CHI,1,10:57,TOR,Scottie Barnes,[TOR 2-0] Barnes Floating Jump shot: Made (2 PTS) Assist: Anunoby (1 AST),2
+2021-10-25,22100047,MIN,NOP,1,10:49,MIN,Jaden McDaniels,[MIN 3-0] McDaniels 3pt Shot: Made (3 PTS) Assist: Towns (1 AST),3
+2021-10-25,22100048,DEN,CLE,1,11:17,CLE,Lauri Markkanen,[CLE 2-0] Markkanen Running Dunk Shot: Made (2 PTS),2
+2021-10-25,22100049,LAC,POR,1,11:20,POR,Nassir Little,[POR 3-0] Little 3pt Shot: Made (3 PTS) Assist: McCollum (1 AST),3
+2021-10-26,22100050,NYK,PHI,1,10:30,NYK,RJ Barrett,[NYK 3-0] Barrett 3pt Shot: Made (3 PTS) Assist: Walker (1 AST),3
+2021-10-26,22100051,OKC,GSW,1,11:07,OKC,Jeremiah Robinson-Earl,[OKC 2-0] Robinson-Earl Cutting Layup Shot: Made (2 PTS) Assist: Bazley (1 AST),2
+2021-10-26,22100052,DAL,HOU,1,11:20,DAL,Dwight Powell,[DAL 2-0] Powell Cutting Layup Shot: Made (2 PTS) Assist: Doncic (1 AST),2
+2021-10-26,22100053,SAS,LAL,1,10:45,LAL,Russell Westbrook,[LAL 2-0] Westbrook Running Layup Shot: Made (2 PTS) Assist: Monk (1 AST),2
+2021-10-26,22100054,UTA,DEN,1,11:40,UTA,Donovan Mitchell,[UTA 2-0] Mitchell Running Dunk Shot: Made (2 PTS),2
+2021-10-27,22100055,ORL,CHA,1,11:30,ORL,Mo Bamba,[ORL 2-0] Bamba Tip Dunk Shot: Made (2 PTS),2
+2021-10-27,22100056,BOS,WAS,1,11:48,BOS,Robert Williams III,[BOS 2-0] Williams III Alley Oop Dunk Shot: Made (2 PTS) Assist: Smart (1 AST),2
+2021-10-27,22100057,BKN,MIA,1,11:43,MIA,Kyle Lowry,[MIA 2-0] Lowry Pullup Jump shot: Made (2 PTS),2
+2021-10-27,22100058,TOR,IND,1,10:50,IND,Domantas Sabonis,[IND 2-0] Sabonis Hook Shot: Made (2 PTS) Assist: Brogdon (1 AST),2
+2021-10-27,22100059,NOP,ATL,1,11:44,NOP,Devonte' Graham,[NOP 3-0] Graham 3pt Shot: Made (3 PTS) Assist: Ingram (1 AST),3
+2021-10-27,22100060,MIL,MIN,1,11:27,MIN,Anthony Edwards,[MIN 2-0] Edwards Pullup Jump shot: Made (2 PTS) Assist: Vanderbilt (1 AST),2
+2021-10-27,22100061,OKC,LAL,1,10:43,LAL,Anthony Davis,[LAL 2-0] Davis Jump Shot: Made (2 PTS) Assist: Bazemore (1 AST),2
+2021-10-27,22100062,PHX,SAC,1,11:43,PHX,Devin Booker,[PHX 3-0] Booker 3pt Shot: Made (3 PTS),3
+2021-10-27,22100063,POR,MEM,1,11:33,POR,Damian Lillard,[POR 3-0] Lillard 3pt Shot: Made (3 PTS),3
+2021-10-27,22100064,LAC,CLE,1,11:27,CLE,Evan Mobley,[CLE 2-0] Mobley Tip Dunk Shot: Made (2 PTS),2
+2021-10-28,22100065,PHI,DET,1,10:51,PHI,Seth Curry,[PHI 2-0] Curry Jump Shot: Made (2 PTS) Assist: Maxey (1 AST),2
+2021-10-28,22100066,WAS,ATL,1,11:43,ATL,Clint Capela,[ATL 2-0] Capela Turnaround Hook Shot: Made (2 PTS) Assist: Bogdanovic (1 AST),2
+2021-10-28,22100067,CHI,NYK,1,11:42,CHI,Zach LaVine,[CHI 3-0] LaVine 3pt Shot: Made (3 PTS) Assist: Vucevic (1 AST),3
+2021-10-28,22100068,HOU,UTA,1,11:34,HOU,Daniel Theis,[HOU 2-0] Theis Cutting Layup Shot: Made (2 PTS) Assist: Wood (1 AST),2
+2021-10-28,22100069,DAL,SAS,1,11:09,SAS,Jakob Poeltl,[SAS 2-0] Poeltl Cutting Dunk Shot: Made (2 PTS) Assist: White (1 AST),2
+2021-10-28,22100070,GSW,MEM,1,11:27,GSW,Jordan Poole,[GSW 2-0] Poole Running Layup Shot: Made (2 PTS),2
+2021-10-29,22100071,TOR,ORL,1,11:14,TOR,Scottie Barnes,[TOR 2-0] Barnes Jump Shot: Made (2 PTS) Assist: VanVleet (1 AST),2
+2021-10-29,22100072,BKN,IND,1,11:35,IND,Domantas Sabonis,[IND 2-0] Sabonis Fadeaway Jump Shot: Made (2 PTS),2
+2021-10-29,22100073,MIA,CHA,1,10:32,CHA,Kelly Oubre Jr.,[CHA 2-0] Oubre Jr. Cutting Layup Shot: Made (2 PTS) Assist: Ball (1 AST),2
+2021-10-29,22100074,NOP,SAC,1,11:25,SAC,De'Aaron Fox,[SAC 3-0] Fox 3pt Shot: Made (3 PTS),3
+2021-10-29,22100075,DEN,DAL,1,11:43,DAL,Reggie Bullock,[DAL 2-0] Bullock Running Finger Roll Layup Shot: Made (2 PTS) Assist: Hardaway Jr. (1 AST),2
+2021-10-29,22100076,POR,LAC,1,11:19,POR,Jusuf Nurkic,[POR 2-0] Nurkic Putback Dunk Shot: Made (2 PTS),2
+2021-10-29,22100077,LAL,CLE,1,11:24,LAL,DeAndre Jordan,[LAL 2-0] Jordan Alley Oop Dunk Shot: Made (2 PTS) Assist: Davis (1 AST),2
+2021-10-30,22100078,WAS,BOS,1,10:41,BOS,Jayson Tatum,[BOS 2-0] Tatum Turnaround Fadeaway shot: Made (2 PTS),2
+2021-10-30,22100079,DET,ORL,1,11:40,DET,Jerami Grant,[DET 2-0] Grant Pullup Jump shot: Made (2 PTS),2
+2021-10-30,22100080,NOP,NYK,1,11:44,NYK,Kemba Walker,[NYK 3-0] Walker 3pt Shot: Made (3 PTS),3
+2021-10-30,22100081,IND,TOR,1,10:53,IND,Chris Duarte,[IND 2-0] Duarte Alley Oop Layup shot: Made (2 PTS) Assist: McConnell (1 AST),2
+2021-10-30,22100082,PHI,ATL,1,11:27,ATL,Trae Young,[ATL 2-0] Young Driving Floating Jump Shot: Made (2 PTS),2
+2021-10-30,22100083,CHI,UTA,1,11:02,UTA,Rudy Gobert,[UTA 2-0] Gobert Putback Dunk Shot: Made (2 PTS),2
+2021-10-30,22100084,MEM,MIA,1,11:22,MIA,Kyle Lowry,[MIA 3-0] Lowry 3pt Shot: Made (3 PTS) Assist: Dedmon (1 AST),3
+2021-10-30,22100085,MIL,SAS,1,11:08,SAS,Jakob Poeltl,[SAS 3-0] Poeltl Cutting Layup Shot: Made (2 PTS) Assist: Murray (1 AST),2
+2021-10-30,22100086,GSW,OKC,1,11:40,GSW,Kevon Looney,[GSW 2-0] Looney Turnaround Fadeaway Bank Jump Shot: Made (2 PTS),2
+2021-10-30,22100087,MIN,DEN,1,11:17,MIN,Karl-Anthony Towns,[MIN 2-0] Towns Driving Dunk Shot: Made (2 PTS),2
+2021-10-30,22100088,PHX,CLE,1,11:44,CLE,Collin Sexton,[CLE 2-0] Sexton Running Layup Shot: Made (2 PTS),2
+2021-10-31,22100089,DAL,SAC,1,11:37,DAL,Luka Doncic,[DAL 2-0] Doncic Reverse Layup Shot: Made (2 PTS),2
+2021-10-31,22100090,CHA,POR,1,11:36,POR,Jusuf Nurkic,[POR 2-0] Nurkic Jump Shot: Made (2 PTS) Assist: Lillard (1 AST),2
+2021-10-31,22100091,MIL,UTA,1,11:14,UTA,Donovan Mitchell,[UTA 3-0] Mitchell 3pt Shot: Made (3 PTS),3
+2021-10-31,22100092,BKN,DET,1,11:26,DET,Jerami Grant,[DET 2-1] Grant Driving Reverse Layup Shot: Made (2 PTS),2
+2021-10-31,22100093,LAL,HOU,1,10:03,LAL,Anthony Davis,[LAL 2-1] Davis Putback Layup Shot: Made (2 PTS),2
+2021-11-01,22100094,CHA,CLE,1,11:00,CLE,Evan Mobley,[CLE 2-0] Mobley Running Layup Shot: Made (2 PTS),2
+2021-11-01,22100095,IND,SAS,1,10:47,IND,T.J. McConnell,[IND 2-0] McConnell Turnaround Fadeaway shot: Made (2 PTS),2
+2021-11-01,22100096,PHI,POR,1,11:22,POR,CJ McCollum,[POR 3-0] McCollum 3pt Shot: Made (3 PTS) Assist: Nurkic (1 AST),3
+2021-11-01,22100097,ATL,WAS,1,11:24,WAS,Daniel Gafford,[WAS 2-0] Gafford Layup Shot: Made (2 PTS) Assist: Caldwell-Pope (1 AST),2
+2021-11-01,22100098,BOS,CHI,1,11:00,CHI,DeMar DeRozan,[CHI 3-0] DeRozan 3pt Shot: Made (3 PTS) Assist: Vucevic (1 AST),3
+2021-11-01,22100099,NYK,TOR,1,10:49,TOR,Fred VanVleet,[TOR 2-0] VanVleet Pullup Jump shot: Made (2 PTS),2
+2021-11-01,22100100,MEM,DEN,1,11:37,DEN,Nikola Jokic,[DEN 2-0] Jokic Cutting Dunk Shot: Made (2 PTS) Assist: Morris (1 AST),2
+2021-11-01,22100101,MIN,ORL,1,11:29,MIN,Anthony Edwards,[MIN 2-1] Edwards Pullup Jump shot: Made (2 PTS) Assist: Towns (1 AST),2
+2021-11-01,22100102,LAC,OKC,1,11:05,OKC,Darius Bazley,[OKC 2-0] Bazley Driving Floating Bank Jump Shot: Made (2 PTS),2
+2021-11-02,22100103,DET,MIL,1,11:37,MIL,Thanasis Antetokounmpo,[MIL 2-0] Antetokounmpo Running Dunk Shot: Made (2 PTS) Assist: Connaughton (1 AST),2
+2021-11-02,22100104,DAL,MIA,1,10:56,MIA,Jimmy Butler,[MIA 2-0] Butler Driving Floating Jump Shot: Made (2 PTS),2
+2021-11-02,22100105,UTA,SAC,1,11:40,UTA,Donovan Mitchell,[UTA 2-0] Mitchell Running Layup Shot: Made (2 PTS),2
+2021-11-02,22100106,PHX,NOP,1,11:41,PHX,JaVale McGee,[PHX 2-0] McGee Tip Layup Shot: Made (2 PTS),2
+2021-11-02,22100107,LAL,HOU,1,11:46,HOU,Jae'Sean Tate,[HOU 2-0] Tate Cutting Dunk Shot: Made (2 PTS) Assist: Porter Jr. (1 AST),2
+2021-11-03,22100108,CLE,POR,1,11:34,POR,Robert Covington,[POR 3-0] Covington 3pt Shot: Made (3 PTS) Assist: Lillard (1 AST),3
+2021-11-03,22100109,IND,NYK,1,11:35,IND,Myles Turner,[IND 3-0] Turner 3pt Shot: Made (3 PTS) Assist: Brogdon (1 AST),3
+2021-11-03,22100110,ORL,BOS,1,11:41,ORL,Wendell Carter Jr.,[ORL 2-0] Carter Jr. Jump Shot: Made (2 PTS),2
+2021-11-03,22100111,PHI,CHI,1,11:27,CHI,DeMar DeRozan,[CHI 2-0] DeRozan Driving Reverse Dunk Shot: Made (2 PTS),2
+2021-11-03,22100112,WAS,TOR,1,11:43,TOR,Precious Achiuwa,[TOR 2-0] Achiuwa Alley Oop Dunk Shot: Made (2 PTS) Assist: VanVleet (1 AST),2
+2021-11-03,22100113,BKN,ATL,1,11:40,BKN,Bruce Brown,[BKN 2-0] Brown Running Layup Shot: Made (2 PTS) Assist: Harden (1 AST),2
+2021-11-03,22100114,MEM,DEN,1,11:34,DEN,Aaron Gordon,[DEN 2-0] Gordon Pullup Jump shot: Made (2 PTS) Assist: Jokic (1 AST),2
+2021-11-03,22100115,MIN,LAC,1,11:36,MIN,Karl-Anthony Towns,[MIN 2-0] Towns Turnaround Hook Shot: Made (2 PTS) Assist: Beverley (1 AST),2
+2021-11-03,22100116,SAS,DAL,1,11:03,DAL,Dwight Powell,[DAL 2-2] Powell Alley Oop Dunk Shot: Made (2 PTS) Assist: Doncic (1 AST),2
+2021-11-03,22100117,GSW,CHA,1,11:29,CHA,Miles Bridges,[CHA 3-0] Bridges 3pt Shot: Made (3 PTS) Assist: Ball (1 AST),3
+2021-11-03,22100118,SAC,NOP,1,11:04,NOP,Jonas Valanciunas,[NOP 3-0] Valanciunas 3pt Shot: Made (3 PTS) Assist: Graham (1 AST),3
+2021-11-04,22100119,DET,PHI,1,11:33,PHI,Tyrese Maxey,[PHI 2-0] Maxey Driving Floating Bank Jump Shot: Made (2 PTS) Assist: Curry (1 AST),2
+2021-11-04,22100120,ATL,UTA,1,11:14,ATL,Trae Young,[ATL 2-0] Young Driving Layup Shot: Made (2 PTS),2
+2021-11-04,22100121,MIA,BOS,1,08:41,MIA,Duncan Robinson,[MIA 5-0] Robinson 3pt Shot: Made (3 PTS) Assist: Butler (1 AST),3
+2021-11-04,22100122,PHX,HOU,1,10:54,HOU,Christian Wood,[HOU 2-0] Wood Cutting Layup Shot: Made (2 PTS) Assist: Porter Jr. (1 AST),2
+2021-11-04,22100123,LAL,OKC,1,11:37,LAL,Russell Westbrook,[LAL 2-0] Westbrook Pullup Jump shot: Made (2 PTS),2
+2021-11-05,22100124,DET,BKN,1,11:38,BKN,Joe Harris,[BKN 2-0] Harris Pullup Jump shot: Made (2 PTS) Assist: Harden (1 AST),2
+2021-11-05,22100125,ORL,SAS,1,11:17,SAS,Drew Eubanks,[SAS 2-0] Eubanks Dunk Shot: Made (2 PTS) Assist: Johnson (1 AST),2
+2021-11-05,22100126,WAS,MEM,1,11:41,MEM,Jaren Jackson Jr.,[MEM 2-0] Jackson Jr. Hook Shot: Made (2 PTS) Assist: Adams (1 AST),2
+2021-11-05,22100127,TOR,CLE,1,11:28,TOR,Gary Trent Jr.,[TOR 3-0] Trent Jr. 3pt Shot: Made (3 PTS),3
+2021-11-05,22100128,MIL,NYK,1,11:13,MIL,Grayson Allen,[MIL 3-0] Allen 3pt Shot: Made (3 PTS) Assist: Antetokounmpo (1 AST),3
+2021-11-05,22100129,MIN,LAC,1,11:44,LAC,Eric Bledsoe,[LAC 2-0] Bledsoe Running Layup Shot: Made (2 PTS),2
+2021-11-05,22100130,GSW,NOP,1,11:26,GSW,Andrew Wiggins,[GSW 2-0] Wiggins Layup Shot: Made (2 PTS) Assist: Curry (1 AST),2
+2021-11-05,22100131,POR,IND,1,11:47,POR,Norman Powell,[POR 2-0] Powell Cutting Layup Shot: Made (2 PTS) Assist: Nurkic (1 AST),2
+2021-11-05,22100132,SAC,CHA,1,11:31,SAC,Tyrese Haliburton,[SAC 2-0] Haliburton Running Dunk Shot: Made (2 PTS) Assist: Fox (1 AST),2
+2021-11-06,22100133,DEN,HOU,1,11:22,DEN,Will Barton,[DEN 3-0] Barton 3pt Shot: Made (3 PTS) Assist: Morris (1 AST),3
+2021-11-06,22100134,MIA,UTA,1,11:41,MIA,Bam Adebayo,[MIA 2-0] Adebayo Jump Shot: Made (2 PTS) Assist: Robinson (1 AST),2
+2021-11-06,22100135,CHI,PHI,1,10:09,CHI,Nikola Vucevic,[CHI 2-0] Vucevic Floating Jump shot: Made (2 PTS) Assist: DeRozan (1 AST),2
+2021-11-06,22100136,DAL,BOS,1,11:42,DAL,Luka Doncic,[DAL 2-0] Doncic Jump Shot: Made (2 PTS),2
+2021-11-06,22100137,PHX,ATL,1,11:16,ATL,Trae Young,[ATL 3-0] Young 3pt Shot: Made (3 PTS),3
+2021-11-06,22100138,POR,LAL,1,11:46,POR,Damian Lillard,[POR 3-0] Lillard 3pt Shot: Made (3 PTS) Assist: Powell (1 AST),3
+2021-11-07,22100139,TOR,BKN,1,11:17,BKN,Bruce Brown,[BKN 2-0] Brown Running Layup Shot: Made (2 PTS) Assist: Harden (1 AST),2
+2021-11-07,22100140,NYK,CLE,1,11:10,CLE,Dean Wade,[CLE 3-0] Wade 3pt Shot: Made (3 PTS) Assist: Sexton (1 AST),3
+2021-11-07,22100141,ORL,UTA,1,11:42,UTA,Rudy Gobert,[UTA 2-0] Gobert Driving Layup Shot: Made (2 PTS) Assist: Mitchell (1 AST),2
+2021-11-07,22100142,WAS,MIL,1,10:59,WAS,Bradley Beal,[WAS 3-0] Beal Turnaround Fadeaway shot: Made (2 PTS),2
+2021-11-07,22100143,SAC,IND,1,11:40,IND,Chris Duarte,[IND 2-0] Duarte Pullup Jump shot: Made (2 PTS),2
+2021-11-07,22100144,OKC,SAS,1,11:19,SAS,Keldon Johnson,[SAS 2-0] Johnson Cutting Layup Shot: Made (2 PTS) Assist: Murray (1 AST),2
+2021-11-07,22100145,GSW,HOU,1,11:21,HOU,Jalen Green,[HOU 2-0] Green Pullup Jump shot: Made (2 PTS) Assist: Theis (1 AST),2
+2021-11-07,22100146,LAC,CHA,1,11:34,CHA,Gordon Hayward,[CHA 3-0] Hayward 3pt Shot: Made (3 PTS) Assist: Rozier (1 AST),3
+2021-11-08,22100147,PHI,NYK,1,11:36,PHI,Seth Curry,[PHI 2-0] Curry Pullup Jump shot: Made (2 PTS),2
+2021-11-08,22100148,CHI,BKN,1,11:20,CHI,Javonte Green,[CHI 3-0] Green 3pt Shot: Made (3 PTS) Assist: Vucevic (1 AST),3
+2021-11-08,22100149,MEM,MIN,1,10:33,MIN,Karl-Anthony Towns,[MIN 2-0] Towns Putback Layup Shot: Made (2 PTS),2
+2021-11-08,22100150,DAL,NOP,1,11:20,DAL,Luka Doncic,[DAL 2-0] Doncic Driving Finger Roll Layup Shot: Made (2 PTS) Assist: Powell (1 AST),2
+2021-11-08,22100151,DEN,MIA,1,11:27,DEN,Will Barton,[DEN 3-0] Barton 3pt Shot: Made (3 PTS) Assist: Morris (1 AST),3
+2021-11-08,22100152,GSW,ATL,1,11:46,GSW,Stephen Curry,[GSW 3-0] Curry 3pt Shot: Made (3 PTS) Assist: Green (1 AST),3
+2021-11-08,22100153,SAC,PHX,1,11:43,PHX,Devin Booker,[PHX 2-0] Booker Pullup Jump shot: Made (2 PTS),2
+2021-11-08,22100154,LAL,CHA,1,11:38,LAL,DeAndre Jordan,[LAL 2-0] Jordan Alley Oop Dunk Shot: Made (2 PTS) Assist: Westbrook (1 AST),2
+2021-11-09,22100155,PHI,MIL,1,11:39,PHI,Paul Reed,[PHI 2-0] Reed Jump Shot: Made (2 PTS) Assist: Milton (1 AST),2
+2021-11-09,22100156,UTA,ATL,1,10:45,ATL,Kevin Huerter,[ATL 3-1] Huerter 3pt Shot: Made (3 PTS),3
+2021-11-09,22100157,LAC,POR,1,11:24,LAC,Reggie Jackson,[LAC 3-0] Jackson 3pt Shot: Made (3 PTS) Assist: Batum (1 AST),3
+2021-11-10,22100158,CLE,WAS,1,11:33,CLE,Isaac Okoro,[CLE 2-0] Okoro Driving Layup Shot: Made (2 PTS) Assist: Wade (1 AST),2
+2021-11-10,22100159,ORL,BKN,1,11:22,BKN,James Harden,[BKN 2-0] Harden Driving Layup Shot: Made (2 PTS),2
+2021-11-10,22100160,BOS,TOR,1,11:25,BOS,Al Horford,[BOS 2-0] Horford Turnaround Fadeaway shot: Made (2 PTS),2
+2021-11-10,22100161,NYK,MIL,1,10:49,NYK,Julius Randle,[NYK 3-0] Randle 3pt Shot: Made (3 PTS) Assist: Fournier (1 AST),3
+2021-11-10,22100162,HOU,DET,1,10:57,DET,Killian Hayes,[DET 3-0] Hayes 3pt Shot: Made (3 PTS) Assist: Stewart (1 AST),3
+2021-11-10,22100163,CHI,DAL,1,11:36,CHI,Lonzo Ball,[CHI 3-2] Ball 3pt Shot: Made (3 PTS),3
+2021-11-10,22100164,MEM,CHA,1,11:39,MEM,Desmond Bane,[MEM 2-0] Bane Pullup Jump shot: Made (2 PTS) Assist: Morant (1 AST),2
+2021-11-10,22100165,NOP,OKC,1,11:38,OKC,Darius Bazley,[OKC 3-0] Bazley 3pt Shot: Made (3 PTS) Assist: Giddey (1 AST),3
+2021-11-10,22100166,SAS,SAC,1,11:31,SAS,Keldon Johnson,[SAS 3-0] Johnson 3pt Shot: Made (3 PTS) Assist: McDermott (1 AST),3
+2021-11-10,22100167,DEN,IND,1,11:43,DEN,Will Barton,[DEN 3-0] Barton 3pt Shot: Made (3 PTS) Assist: Green (1 AST),3
+2021-11-10,22100168,PHX,POR,1,11:38,POR,Robert Covington,[POR 2-0] Covington Driving Floating Bank Jump Shot: Made (2 PTS) Assist: Lillard (1 AST),2
+2021-11-10,22100169,GSW,MIN,1,11:42,GSW,Andrew Wiggins,[GSW 2-0] Wiggins Pullup Jump shot: Made (2 PTS),2
+2021-11-10,22100170,LAL,MIA,1,08:19,LAL,Avery Bradley,[LAL 3-2] Bradley Running Layup Shot: Made (2 PTS) Assist: Westbrook (1 AST),2
+2021-11-11,22100171,PHI,TOR,1,11:41,TOR,Scottie Barnes,[TOR 2-0] Barnes Reverse Layup Shot: Made (2 PTS) Assist: VanVleet (1 AST),2
+2021-11-11,22100172,UTA,IND,1,11:34,UTA,Bojan Bogdanovic,[UTA 3-0] Bogdanovic 3pt Shot: Made (3 PTS) Assist: Mitchell (1 AST),3
+2021-11-11,22100173,LAC,MIA,1,11:11,MIA,Bam Adebayo,[MIA 2-0] Adebayo Alley Oop Dunk Shot: Made (2 PTS) Assist: Lowry (1 AST),2
+2021-11-12,22100174,CHA,NYK,1,11:38,CHA,Mason Plumlee,[CHA 2-0] Plumlee Alley Oop Dunk Shot: Made (2 PTS) Assist: Rozier (1 AST),2
+2021-11-12,22100175,BOS,MIL,1,11:41,BOS,Robert Williams III,[BOS 2-0] Williams III Cutting Dunk Shot: Made (2 PTS) Assist: Horford (1 AST),2
+2021-11-12,22100176,CLE,DET,1,11:33,CLE,Darius Garland,[CLE 2-0] Garland Pullup Jump shot: Made (2 PTS),2
+2021-11-12,22100177,HOU,POR,1,10:42,HOU,Daniel Theis,[HOU 3-0] Theis 3pt Shot: Made (3 PTS) Assist: Porter Jr. (1 AST),3
+2021-11-12,22100178,MEM,PHX,1,11:46,PHX,Jae Crowder,[PHX 3-0] Crowder 3pt Shot: Made (3 PTS) Assist: Paul (1 AST),3
+2021-11-12,22100179,NOP,BKN,1,11:33,BKN,Joe Harris,[BKN 3-0] Harris 3pt Shot: Made (3 PTS) Assist: Durant (1 AST),3
+2021-11-12,22100180,OKC,SAC,1,10:14,SAC,De'Aaron Fox,[SAC 2-0] Fox Running Layup Shot: Made (2 PTS),2
+2021-11-12,22100181,SAS,DAL,1,10:50,SAS,Keldon Johnson,[SAS 3-2] Johnson 3pt Shot: Made (3 PTS) Assist: McDermott (1 AST),3
+2021-11-12,22100182,DEN,ATL,1,11:01,ATL,Clint Capela,[ATL 2-2] Capela Hook Shot: Made (2 PTS) Assist: Bogdanovic (1 AST),2
+2021-11-12,22100183,GSW,CHI,1,11:35,CHI,Javonte Green,[CHI 2-0] Green Driving Layup Shot: Made (2 PTS) Assist: DeRozan (1 AST),2
+2021-11-12,22100184,LAL,MIN,1,10:40,MIN,Karl-Anthony Towns,[MIN 3-0] Towns Cutting Dunk Shot: Made (2 PTS) Assist: Russell (1 AST),2
+2021-11-13,22100185,UTA,MIA,1,11:30,MIA,P.J. Tucker,[MIA 2-0] Tucker Floating Jump shot: Made (2 PTS) Assist: Robinson (1 AST),2
+2021-11-13,22100186,IND,PHI,1,11:37,IND,Chris Duarte,[IND 2-0] Duarte Running Finger Roll Layup Shot: Made (2 PTS),2
+2021-11-13,22100187,ORL,WAS,1,10:19,WAS,Aaron Holiday,[WAS 2-0] Holiday Driving Finger Roll Layup Shot: Made (2 PTS) Assist: Dinwiddie (1 AST),2
+2021-11-13,22100188,NOP,MEM,1,11:44,NOP,Devonte' Graham,[NOP 2-0] Graham Pullup Jump shot: Made (2 PTS),2
+2021-11-13,22100189,TOR,DET,1,11:25,DET,Isaiah Stewart,[DET 2-0] Stewart Cutting Layup Shot: Made (2 PTS) Assist: Cunningham (1 AST),2
+2021-11-13,22100190,CLE,BOS,1,10:26,BOS,Grant Williams,[BOS 3-0] Williams 3pt Shot: Made (3 PTS) Assist: Schroder (1 AST),3
+2021-11-13,22100191,LAC,MIN,1,11:41,LAC,Nicolas Batum,[LAC 2-0] Batum Running Layup Shot: Made (2 PTS),2
+2021-11-14,22100192,LAL,SAS,1,11:36,LAL,Anthony Davis,[LAL 2-0] Davis Fadeaway Jump Shot: Made (2 PTS),2
+2021-11-14,22100193,ATL,MIL,1,11:16,ATL,Trae Young,[ATL 3-0] Young 3pt Shot: Made (3 PTS),3
+2021-11-14,22100194,CHA,GSW,1,11:40,GSW,Jordan Poole,[GSW 3-0] Poole 3pt Shot: Made (3 PTS) Assist: Green (1 AST),3
+2021-11-14,22100195,HOU,PHX,1,11:31,PHX,JaVale McGee,[PHX 2-0] McGee Putback Layup Shot: Made (2 PTS),2
+2021-11-14,22100196,OKC,BKN,1,11:20,BKN,Kevin Durant,[BKN 2-0] Durant Jump Shot: Made (2 PTS) Assist: Harris (1 AST),2
+2021-11-14,22100197,DEN,POR,1,11:13,DEN,Jeff Green,[DEN 2-0] Green Putback Layup Shot: Made (2 PTS),2
+2021-11-14,22100198,LAC,CHI,1,11:26,LAC,Paul George,[LAC 2-0] George Driving Layup Shot: Made (2 PTS),2
+2021-11-15,22100199,CLE,BOS,1,10:49,CLE,Darius Garland,[CLE 3-0] Garland 3pt Shot: Made (3 PTS) Assist: Rubio (1 AST),3
+2021-11-15,22100200,DET,SAC,1,11:13,DET,Saddiq Bey,[DET 3-0] Bey 3pt Shot: Made (3 PTS) Assist: Stewart (1 AST),3
+2021-11-15,22100201,WAS,NOP,1,11:41,NOP,Brandon Ingram,[NOP 2-0] Ingram Pullup Jump shot: Made (2 PTS),2
+2021-11-15,22100202,ATL,ORL,1,11:14,ATL,Trae Young,[ATL 2-0] Young Driving Floating Jump Shot: Made (2 PTS),2
+2021-11-15,22100203,NYK,IND,1,11:39,NYK,Kemba Walker,[NYK 2-0] Walker Driving Floating Jump Shot: Made (2 PTS),2
+2021-11-15,22100204,DAL,DEN,1,11:34,DEN,Austin Rivers,[DEN 3-0] Rivers 3pt Shot: Made (3 PTS) Assist: Jokic (1 AST),3
+2021-11-15,22100205,MEM,HOU,1,11:44,HOU,Daniel Theis,[HOU 3-0] Theis 3pt Shot: Made (3 PTS) Assist: Porter Jr. (1 AST),3
+2021-11-15,22100206,MIN,PHX,1,11:14,PHX,Devin Booker,[PHX 2-0] Booker Running Finger Roll Layup Shot: Made (2 PTS) Assist: Paul (1 AST),2
+2021-11-15,22100207,OKC,MIA,1,10:29,OKC,Luguentz Dort,[OKC 2-0] Dort Running Dunk Shot: Made (2 PTS),2
+2021-11-15,22100208,POR,TOR,1,11:09,TOR,OG Anunoby,[TOR 2-0] Anunoby Turnaround Fadeaway shot: Made (2 PTS),2
+2021-11-15,22100209,LAL,CHI,1,11:31,LAL,Talen Horton-Tucker,[LAL 3-0] Horton-Tucker 3pt Shot: Made (3 PTS) Assist: Bradley (1 AST),3
+2021-11-16,22100210,BKN,GSW,1,11:38,BKN,Patty Mills,[BKN 3-0] Mills 3pt Shot: Made (3 PTS) Assist: Griffin (1 AST),3
+2021-11-16,22100211,UTA,PHI,1,11:42,PHI,Andre Drummond,[PHI 2-0] Drummond Turnaround Jump Shot: Made (2 PTS),2
+2021-11-16,22100212,LAC,SAS,1,11:27,SAS,Derrick White,[SAS 3-0] White 3pt Shot: Made (3 PTS) Assist: Johnson (1 AST),3
+2021-11-17,22100213,CHA,WAS,1,11:30,CHA,Gordon Hayward,[CHA 2-0] Hayward Pullup Jump shot: Made (2 PTS) Assist: Ball (1 AST),2
+2021-11-17,22100214,DET,IND,1,11:43,IND,Kelan Martin,[IND 2-0] Martin Pullup Jump shot: Made (2 PTS),2
+2021-11-17,22100215,ATL,BOS,1,11:30,ATL,Clint Capela,[ATL 2-0] Capela Alley Oop Layup shot: Made (2 PTS) Assist: Young (1 AST),2
+2021-11-17,22100216,BKN,CLE,1,11:26,BKN,Kevin Durant,[BKN 2-0] Durant Running Dunk Shot: Made (2 PTS) Assist: Harden (1 AST),2
+2021-11-17,22100217,MIA,NOP,1,11:21,NOP,Devonte' Graham,[NOP 3-0] Graham 3pt Shot: Made (3 PTS) Assist: Hart (1 AST),3
+2021-11-17,22100218,NYK,ORL,1,11:35,NYK,Julius Randle,[NYK 3-0] Randle 3pt Shot: Made (3 PTS) Assist: Barrett (1 AST),3
+2021-11-17,22100219,MIL,LAL,1,11:12,LAL,Anthony Davis,[LAL 2-0] Davis Turnaround Jump Shot: Made (2 PTS),2
+2021-11-17,22100220,MIN,SAC,1,11:21,SAC,Richaun Holmes,[SAC 2-0] Holmes Cutting Dunk Shot: Made (2 PTS) Assist: Fox (1 AST),2
+2021-11-17,22100221,OKC,HOU,1,11:37,OKC,Luguentz Dort,[OKC 2-0] Dort Cutting Dunk Shot: Made (2 PTS) Assist: Gilgeous-Alexander (1 AST),2
+2021-11-17,22100222,PHX,DAL,1,10:25,DAL,Kristaps Porzingis,[DAL 2-0] Porzingis Layup Shot: Made (2 PTS) Assist: Hardaway Jr. (1 AST),2
+2021-11-17,22100223,POR,CHI,1,10:54,CHI,DeMar DeRozan,[CHI 2-2] DeRozan Turnaround Fadeaway shot: Made (2 PTS),2
+2021-11-18,22100224,CLE,GSW,1,11:41,CLE,Isaac Okoro,[CLE 2-0] Okoro Driving Layup Shot: Made (2 PTS),2
+2021-11-18,22100225,MIA,WAS,1,11:28,WAS,Aaron Holiday,[WAS 2-0] Holiday Running Finger Roll Layup Shot: Made (2 PTS) Assist: Kuzma (1 AST),2
+2021-11-18,22100226,MEM,LAC,1,11:38,MEM,Dillon Brooks,[MEM 2-0] Brooks Pullup Jump shot: Made (2 PTS) Assist: Morant (1 AST),2
+2021-11-18,22100227,MIN,SAS,1,11:12,MIN,Anthony Edwards,[MIN 2-0] Edwards Driving Layup Shot: Made (2 PTS),2
+2021-11-18,22100228,DEN,PHI,1,11:26,DEN,Will Barton,[DEN 3-0] Barton 3pt Shot: Made (3 PTS) Assist: Morris (1 AST),3
+2021-11-18,22100229,UTA,TOR,1,10:58,UTA,Rudy Gobert,[UTA 2-0] Gobert Driving Layup Shot: Made (2 PTS) Assist: Conley (1 AST),2
+2021-11-19,22100230,CHA,IND,1,11:40,CHA,Gordon Hayward,[CHA 2-0] Hayward Turnaround Fadeaway shot: Made (2 PTS),2
+2021-11-19,22100231,DET,GSW,1,11:24,DET,Killian Hayes,[DET 3-0] Hayes 3pt Shot: Made (3 PTS) Assist: Bey (1 AST),3
+2021-11-19,22100232,BOS,LAL,1,11:30,LAL,Anthony Davis,[LAL 4-0] Davis Running Layup Shot: Made (4 PTS) Assist: Westbrook (1 AST),2
+2021-11-19,22100233,BKN,ORL,1,11:34,BKN,Blake Griffin,[BKN 2-0] Griffin Tip Layup Shot: Made (2 PTS),2
+2021-11-19,22100234,MIL,OKC,1,11:46,MIL,Jrue Holiday,[MIL 2-0] Holiday Cutting Layup Shot: Made (2 PTS) Assist: Middleton (1 AST),2
+2021-11-19,22100235,NOP,LAC,1,11:43,LAC,Paul George,[LAC 2-0] George Step Back Jump shot: Made (2 PTS),2
+2021-11-19,22100236,DEN,CHI,1,11:27,DEN,Austin Rivers,[DEN 3-0] Rivers 3pt Shot: Made (3 PTS) Assist: Green (1 AST),3
+2021-11-19,22100237,PHX,DAL,1,11:32,DAL,Jalen Brunson,[DAL 2-0] Brunson Driving Layup Shot: Made (2 PTS),2
+2021-11-19,22100238,SAC,TOR,1,11:18,SAC,Tyrese Haliburton,[SAC 2-0] Haliburton Running Dunk Shot: Made (2 PTS),2
+2021-11-20,22100239,NYK,HOU,1,10:22,NYK,Mitchell Robinson,[NYK 2-0] Robinson Cutting Dunk Shot: Made (2 PTS) Assist: Walker (1 AST),2
+2021-11-20,22100240,IND,NOP,1,10:43,IND,Myles Turner,[IND 3-0] Turner 3pt Shot: Made (3 PTS) Assist: LeVert (1 AST),3
+2021-11-20,22100241,WAS,MIA,1,11:41,MIA,Bam Adebayo,[MIA 2-0] Adebayo Jump Shot: Made (2 PTS) Assist: Lowry (1 AST),2
+2021-11-20,22100242,ATL,CHA,1,11:46,CHA,Mason Plumlee,[CHA 2-0] Plumlee Driving Hook Shot: Made (2 PTS) Assist: Hayward (1 AST),2
+2021-11-20,22100243,BOS,OKC,1,11:45,BOS,Marcus Smart,[BOS 3-0] Smart 3pt Shot: Made (3 PTS) Assist: Tatum (1 AST),3
+2021-11-20,22100244,MIL,ORL,1,10:27,MIL,Giannis Antetokounmpo,[MIL 3-0] Antetokounmpo Driving Hook Shot: Made (2 PTS),2
+2021-11-20,22100245,MIN,MEM,1,11:25,MIN,Patrick Beverley,[MIN 2-0] Beverley Putback Layup Shot: Made (2 PTS),2
+2021-11-20,22100246,POR,PHI,1,11:38,POR,Jusuf Nurkic,[POR 2-0] Nurkic Driving Reverse Layup Shot: Made (2 PTS),2
+2021-11-20,22100247,SAC,UTA,1,11:03,SAC,Richaun Holmes,[SAC 2-0] Holmes Floating Jump shot: Made (2 PTS) Assist: Barnes (1 AST),2
+2021-11-21,22100248,LAC,DAL,1,10:07,DAL,Kristaps Porzingis,[DAL 2-1] Porzingis Running Alley Oop Dunk Shot: Made (2 PTS) Assist: Hardaway Jr. (1 AST),2
+2021-11-21,22100249,DET,LAL,1,10:51,LAL,LeBron James,[LAL 2-0] James Fadeaway Jump Shot: Made (2 PTS),2
+2021-11-21,22100250,CHI,NYK,1,11:27,NYK,Evan Fournier,[NYK 2-0] Fournier Cutting Layup Shot: Made (2 PTS) Assist: Noel (1 AST),2
+2021-11-21,22100251,PHX,DEN,1,11:23,PHX,Jae Crowder,[PHX 6-0] Crowder 3pt Shot: Made (6 PTS) Assist: Paul (1 AST),3
+2021-11-21,22100252,GSW,TOR,1,11:38,GSW,Jordan Poole,[GSW 3-0] Poole 3pt Shot: Made (3 PTS) Assist: Curry (1 AST),3
+2021-11-22,22100253,CLE,BKN,1,11:02,CLE,Jarrett Allen,[CLE 2-2] Allen Turnaround Hook Shot: Made (2 PTS) Assist: Garland (1 AST),2
+2021-11-22,22100254,WAS,CHA,1,10:21,WAS,Kyle Kuzma,[WAS 2-0] Kuzma Driving Layup Shot: Made (2 PTS),2
+2021-11-22,22100255,ATL,OKC,1,11:07,ATL,Clint Capela,[ATL 2-0] Capela Putback Dunk Shot: Made (2 PTS),2
+2021-11-22,22100256,BOS,HOU,1,11:00,HOU,Jae'Sean Tate,[HOU 2-0] Tate Cutting Layup Shot: Made (2 PTS) Assist: Wood (1 AST),2
+2021-11-22,22100257,CHI,IND,1,11:47,IND,Justin Holiday,[IND 3-0] Holiday 3pt Shot: Made (3 PTS) Assist: Brogdon (1 AST),3
+2021-11-22,22100258,MIL,ORL,1,11:26,ORL,Wendell Carter Jr.,[ORL 2-0] Carter Jr. Cutting Dunk Shot: Made (2 PTS) Assist: Suggs (1 AST),2
+2021-11-22,22100259,NOP,MIN,1,11:34,NOP,Jonas Valanciunas,[NOP 2-0] Valanciunas Tip Layup Shot: Made (2 PTS),2
+2021-11-22,22100260,SAS,PHX,1,11:23,PHX,Jae Crowder,[PHX 3-0] Crowder 3pt Shot: Made (3 PTS) Assist: Booker (1 AST),3
+2021-11-22,22100261,UTA,MEM,1,11:28,MEM,Desmond Bane,[MEM 3-0] Bane 3pt Shot: Made (3 PTS) Assist: Anderson (1 AST),3
+2021-11-22,22100262,SAC,PHI,1,11:33,PHI,Tyrese Maxey,[PHI 2-0] Maxey Pullup Jump shot: Made (2 PTS),2
+2021-11-23,22100263,DET,MIA,1,11:43,MIA,Duncan Robinson,[MIA 2-0] Robinson Reverse Layup Shot: Made (2 PTS) Assist: Adebayo (1 AST),2
+2021-11-23,22100264,NYK,LAL,1,11:17,NYK,Julius Randle,[NYK 2-0] Randle Layup Shot: Made (2 PTS),2
+2021-11-23,22100265,POR,DEN,1,10:51,DEN,Aaron Gordon,[DEN 2-0] Gordon Turnaround Fadeaway Bank Jump Shot: Made (2 PTS),2
+2021-11-23,22100266,LAC,DAL,1,10:03,LAC,Reggie Jackson,[LAC 4-1] Jackson Driving Floating Jump Shot: Made (2 PTS),2
+2021-11-24,22100267,CLE,PHX,1,11:42,CLE,Jarrett Allen,[CLE 2-0] Allen Turnaround Hook Shot: Made (2 PTS) Assist: Garland (1 AST),2
+2021-11-24,22100268,IND,LAL,1,10:54,IND,Domantas Sabonis,[IND 2-0] Sabonis Layup Shot: Made (2 PTS),2
+2021-11-24,22100269,ORL,CHA,1,11:04,ORL,Franz Wagner,[ORL 2-0] Wagner Driving Floating Jump Shot: Made (2 PTS),2
+2021-11-24,22100270,BOS,BKN,1,10:39,BKN,Patty Mills,[BKN 3-0] Mills 3pt Shot: Made (3 PTS) Assist: Bembry (1 AST),3
+2021-11-24,22100271,HOU,CHI,1,11:26,CHI,Javonte Green,[CHI 3-0] Green 3pt Shot: Made (3 PTS) Assist: Vucevic (1 AST),3
+2021-11-24,22100272,MEM,TOR,1,11:45,MEM,Jaren Jackson Jr.,[MEM 2-0] Jackson Jr. Driving Dunk Shot: Made (2 PTS),2
+2021-11-24,22100273,MIL,DET,1,11:44,MIL,Jrue Holiday,[MIL 2-0] Holiday Cutting Dunk Shot: Made (2 PTS) Assist: Antetokounmpo (1 AST),2
+2021-11-24,22100274,MIN,MIA,1,10:45,MIA,Duncan Robinson,[MIA 3-0] Robinson 3pt Shot: Made (3 PTS) Assist: Tucker (1 AST),3
+2021-11-24,22100275,NOP,WAS,1,11:44,NOP,Jonas Valanciunas,[NOP 3-0] Valanciunas 3pt Shot: Made (3 PTS) Assist: Ingram (1 AST),3
+2021-11-24,22100276,OKC,UTA,1,11:39,UTA,Mike Conley,[UTA 3-0] Conley 3pt Shot: Made (3 PTS) Assist: Mitchell (1 AST),3
+2021-11-24,22100277,SAS,ATL,1,11:18,SAS,Keldon Johnson,[SAS 2-0] Johnson Driving Dunk Shot: Made (2 PTS) Assist: Murray (1 AST),2
+2021-11-24,22100278,GSW,PHI,1,11:47,PHI,Tyrese Maxey,[PHI 2-0] Maxey Pullup Jump shot: Made (2 PTS) Assist: Thybulle (1 AST),2
+2021-11-24,22100279,SAC,POR,1,11:30,SAC,De'Aaron Fox,[SAC 2-0] Fox Pullup Jump shot: Made (2 PTS),2
+2021-11-26,22100280,LAC,DET,1,11:18,LAC,Marcus Morris Sr.,[LAC 2-0] Marc Morris Sr. Turnaround Jump Shot: Made (2 PTS),2
+2021-11-26,22100281,CHA,MIN,1,11:26,MIN,D'Angelo Russell,[MIN 2-0] Russell Cutting Layup Shot: Made (2 PTS) Assist: Towns (1 AST),2
+2021-11-26,22100282,NYK,PHX,1,11:35,PHX,Devin Booker,[PHX 2-0] Booker Pullup Jump shot: Made (2 PTS),2
+2021-11-26,22100283,ORL,CHI,1,11:37,ORL,Wendell Carter Jr.,[ORL 3-0] Carter Jr. 3pt Shot: Made (3 PTS) Assist: Wagner (1 AST),3
+2021-11-26,22100284,IND,TOR,1,11:10,TOR,Pascal Siakam,[TOR 2-0] Siakam Turnaround Jump Shot: Made (2 PTS),2
+2021-11-26,22100285,MEM,ATL,1,11:40,MEM,Dillon Brooks,[MEM 2-0] Brooks Driving Floating Jump Shot: Made (2 PTS),2
+2021-11-26,22100286,OKC,WAS,1,11:38,OKC,Josh Giddey,[OKC 2-0] Giddey Driving Layup Shot: Made (2 PTS) Assist: Dort (1 AST),2
+2021-11-26,22100287,SAS,BOS,1,11:11,SAS,Dejounte Murray,[SAS 2-0] Murray Pullup Jump shot: Made (2 PTS),2
+2021-11-26,22100288,DEN,MIL,1,11:24,MIL,Khris Middleton,[MIL 3-0] Middleton 3pt Shot: Made (3 PTS),3
+2021-11-26,22100289,UTA,NOP,1,11:35,NOP,Jonas Valanciunas,[NOP 2-0] Valanciunas Turnaround Hook Shot: Made (2 PTS) Assist: Hart (1 AST),2
+2021-11-26,22100290,GSW,POR,1,11:43,POR,Jusuf Nurkic,[POR 2-0] Nurkic Driving Layup Shot: Made (2 PTS),2
+2021-11-26,22100291,LAL,SAC,1,10:40,LAL,DeAndre Jordan,[LAL 2-0] Jordan Hook Shot: Made (2 PTS) Assist: James (1 AST),2
+2021-11-27,22100292,PHI,MIN,1,11:18,MIN,Karl-Anthony Towns,[MIN 3-0] Towns 3pt Shot: Made (3 PTS) Assist: Vanderbilt (1 AST),3
+2021-11-27,22100293,ATL,NYK,1,11:27,ATL,Clint Capela,[ATL 2-0] Capela Tip Layup Shot: Made (2 PTS),2
+2021-11-27,22100294,BKN,PHX,1,11:27,PHX,Devin Booker,[PHX 2-0] Booker Driving Floating Jump Shot: Made (2 PTS),2
+2021-11-27,22100295,CLE,ORL,1,11:16,ORL,Gary Harris,[ORL 3-0] Harris 3pt Shot: Made (3 PTS),3
+2021-11-27,22100296,CHI,MIA,1,11:40,MIA,Kyle Lowry,[MIA 2-0] Lowry Driving Floating Jump Shot: Made (2 PTS) Assist: Adebayo (1 AST),2
+2021-11-27,22100297,HOU,CHA,1,11:46,HOU,Christian Wood,[HOU 2-0] Wood Cutting Dunk Shot: Made (2 PTS) Assist: Porter Jr. (1 AST),2
+2021-11-27,22100298,DAL,WAS,1,11:38,DAL,Willie Cauley-Stein,[DAL 2-0] Cauley-Stein Putback Layup Shot: Made (2 PTS),2
+2021-11-27,22100299,UTA,NOP,1,11:46,NOP,Devonte' Graham,[NOP 2-0] Graham Jump Shot: Made (2 PTS),2
+2021-11-28,22100300,LAC,GSW,1,11:35,LAC,Paul George,[LAC 2-0] George Cutting Layup Shot: Made (2 PTS) Assist: Jackson (1 AST),2
+2021-11-28,22100301,IND,MIL,1,11:38,MIL,Giannis Antetokounmpo,[MIL 2-0] Antetokounmpo Turnaround Fadeaway shot: Made (2 PTS) Assist: Portis (1 AST),2
+2021-11-28,22100302,TOR,BOS,1,11:16,BOS,Al Horford,[BOS 4-0] Horford Running Jump Shot: Made (4 PTS) Assist: Tatum (1 AST),2
+2021-11-28,22100303,MEM,SAC,1,11:46,MEM,Desmond Bane,[MEM 3-0] Bane 3pt Shot: Made (3 PTS) Assist: Adams (1 AST),3
+2021-11-28,22100304,LAL,DET,1,10:45,DET,Jerami Grant,[DET 2-1] Grant Pullup Jump shot: Made (2 PTS) Assist: Stewart (1 AST),2
+2021-11-29,22100305,PHI,ORL,1,10:56,PHI,Joel Embiid,[PHI 2-0] Embiid Fadeaway Jump Shot: Made (2 PTS) Assist: Maxey (1 AST),2
+2021-11-29,22100306,MIA,DEN,1,10:27,MIA,P.J. Tucker,[MIA 2-3] Tucker Floating Jump shot: Made (2 PTS) Assist: Lowry (1 AST),2
+2021-11-29,22100307,CHI,CHA,1,11:24,CHI,Nikola Vucevic,[CHI 2-0] Vucevic Jump Shot: Made (2 PTS) Assist: LaVine (1 AST),2
+2021-11-29,22100308,HOU,OKC,1,11:43,HOU,Christian Wood,[HOU 3-0] Wood 3pt Shot: Made (3 PTS) Assist: Porter Jr. (1 AST),3
+2021-11-29,22100309,MIN,IND,1,10:59,IND,Malcolm Brogdon,[IND 3-0] Brogdon 3pt Shot: Made (3 PTS),3
+2021-11-29,22100310,DAL,CLE,1,11:22,DAL,Tim Hardaway Jr.,[DAL 2-0] Hardaway Jr. Jump Shot: Made (2 PTS) Assist: Doncic (1 AST),2
+2021-11-29,22100311,SAS,WAS,1,11:41,SAS,Keldon Johnson,[SAS 3-0] Johnson 3pt Shot: Made (3 PTS) Assist: White (1 AST),3
+2021-11-29,22100312,UTA,POR,1,09:45,POR,CJ McCollum,[POR 3-0] McCollum 3pt Shot: Made (3 PTS) Assist: Lillard (1 AST),3
+2021-11-29,22100313,LAC,NOP,1,11:29,LAC,Eric Bledsoe,[LAC 2-0] Bledsoe Step Back Jump shot: Made (2 PTS) Assist: George (1 AST),2
+2021-11-30,22100314,BKN,NYK,1,11:34,NYK,Evan Fournier,[NYK 2-0] Fournier Pullup Jump shot: Made (2 PTS),2
+2021-11-30,22100315,TOR,MEM,1,11:35,MEM,Dillon Brooks,[MEM 2-0] Brooks Driving Layup Shot: Made (2 PTS),2
+2021-11-30,22100316,PHX,GSW,1,11:34,GSW,Kevon Looney,[GSW 2-0] Looney Cutting Layup Shot: Made (2 PTS) Assist: Green (1 AST),2
+2021-11-30,22100317,POR,DET,1,11:34,POR,Robert Covington,[POR 3-0] Covington 3pt Shot: Made (3 PTS) Assist: Nurkic (1 AST),3
+2021-11-30,22100318,SAC,LAL,1,11:46,SAC,Richaun Holmes,[SAC 2-0] Holmes Cutting Dunk Shot: Made (2 PTS) Assist: Haliburton (1 AST),2
+2021-12-01,22100319,IND,ATL,1,11:35,ATL,Timothe Luwawu-Cabarrot,[ATL 3-0] Luwawu-Cabarrot 3pt Shot: Made (3 PTS) Assist: Capela (1 AST),3
+2021-12-01,22100320,ORL,DEN,1,11:43,DEN,Aaron Gordon,[DEN 2-0] Gordon Driving Layup Shot: Made (2 PTS) Assist: Jokic (1 AST),2
+2021-12-01,22100321,WAS,MIN,1,11:23,MIN,Jarred Vanderbilt,[MIN 2-0] Vanderbilt Cutting Dunk Shot: Made (2 PTS) Assist: Towns (1 AST),2
+2021-12-01,22100322,BOS,PHI,1,11:47,BOS,Robert Williams III,[BOS 2-0] Williams III Alley Oop Layup shot: Made (2 PTS) Assist: Smart (1 AST),2
+2021-12-01,22100323,MIA,CLE,1,10:06,MIA,Tyler Herro,[MIA 2-1] Herro Driving Floating Bank Jump Shot: Made (2 PTS),2
+2021-12-01,22100324,MIL,CHA,1,11:16,CHA,Gordon Hayward,[CHA 2-0] Hayward Step Back Jump shot: Made (2 PTS) Assist: Ball (1 AST),2
+2021-12-01,22100325,NOP,DAL,1,11:35,DAL,Kristaps Porzingis,[DAL 2-0] Porzingis Pullup Jump shot: Made (2 PTS) Assist: Doncic (1 AST),2
+2021-12-01,22100326,OKC,HOU,1,11:26,OKC,Tre Mann,[OKC 3-0] Mann 3pt Shot: Made (3 PTS) Assist: Dort (1 AST),3
+2021-12-01,22100327,LAC,SAC,1,11:17,SAC,Chimezie Metu,[SAC 2-0] Metu Pullup Jump shot: Made (2 PTS) Assist: Fox (1 AST),2
+2021-12-02,22100328,NYK,CHI,1,11:26,NYK,Julius Randle,[NYK 2-0] Randle Fadeaway Jump Shot: Made (2 PTS),2
+2021-12-02,22100329,TOR,MIL,1,11:34,TOR,Gary Trent Jr.,[TOR 3-0] Trent Jr. 3pt Shot: Made (3 PTS) Assist: Siakam (1 AST),3
+2021-12-02,22100330,MEM,OKC,1,11:39,MEM,Jaren Jackson Jr.,[MEM 2-0] Jackson Jr. Driving Finger Roll Layup Shot: Made (2 PTS) Assist: Brooks (1 AST),2
+2021-12-02,22100331,PHX,DET,1,10:00,DET,Cade Cunningham,[DET 3-0] Cunningham 3pt Shot: Made (3 PTS) Assist: Grant (1 AST),3
+2021-12-02,22100332,POR,SAS,1,11:35,SAS,Derrick White,[SAS 3-0] White 3pt Shot: Made (3 PTS) Assist: Murray (1 AST),3
+2021-12-03,22100333,IND,MIA,1,11:39,IND,Myles Turner,[IND 2-0] Turner Turnaround Jump Shot: Made (2 PTS) Assist: Brogdon (1 AST),2
+2021-12-03,22100334,WAS,CLE,1,11:38,CLE,Jarrett Allen,[CLE 2-0] Allen Cutting Dunk Shot: Made (2 PTS) Assist: Garland (1 AST),2
+2021-12-03,22100335,ATL,PHI,1,11:15,ATL,Trae Young,[ATL 2-0] Young Floating Jump shot: Made (2 PTS),2
+2021-12-03,22100336,BKN,MIN,1,11:13,BKN,DeAndre' Bembry,[BKN 2-0] Bembry Running Layup Shot: Made (2 PTS) Assist: Durant (1 AST),2
+2021-12-03,22100337,HOU,ORL,1,10:46,HOU,Eric Gordon,[HOU 3-2] Gordon 3pt Shot: Made (3 PTS) Assist: Porter Jr. (1 AST),3
+2021-12-03,22100338,DAL,NOP,1,10:01,DAL,Dorian Finney-Smith,[DAL 2-0] Finney-Smith Floating Jump shot: Made (2 PTS) Assist: Kleber (1 AST),2
+2021-12-03,22100339,UTA,BOS,1,11:36,UTA,Donovan Mitchell,[UTA 3-0] Mitchell 3pt Shot: Made (3 PTS),3
+2021-12-03,22100340,GSW,PHX,1,11:03,PHX,Mikal Bridges,[PHX 2-0] Bridges Pullup Jump shot: Made (2 PTS) Assist: Paul (1 AST),2
+2021-12-03,22100341,LAL,LAC,1,11:14,LAC,Serge Ibaka,[LAC 3-0] Ibaka 3pt Shot: Made (3 PTS) Assist: Zubac (1 AST),3
+2021-12-04,22100342,NYK,DEN,1,11:35,DEN,Nikola Jokic,[DEN 2-0] Jokic Turnaround Jump Shot: Made (2 PTS) Assist: Barton (1 AST),2
+2021-12-04,22100343,BKN,CHI,1,11:44,BKN,DeAndre' Bembry,[BKN 3-0] Bembry 3pt Shot: Made (3 PTS) Assist: Harden (1 AST),3
+2021-12-04,22100344,MIL,MIA,1,09:57,MIL,Jrue Holiday,[MIL 2-0] Holiday Cutting Layup Shot: Made (2 PTS) Assist: Middleton (1 AST),2
+2021-12-04,22100345,DAL,MEM,1,11:47,MEM,Jaren Jackson Jr.,[MEM 3-0] Jackson Jr. 3pt Shot: Made (3 PTS) Assist: Jones (1 AST),3
+2021-12-04,22100346,GSW,SAS,1,11:30,SAS,Doug McDermott,[SAS 2-0] McDermott Cutting Layup Shot: Made (2 PTS) Assist: Poeltl (1 AST),2
+2021-12-04,22100347,POR,BOS,1,11:15,BOS,Robert Williams III,[BOS 2-0] Williams III Alley Oop Dunk Shot: Made (2 PTS) Assist: Smart (1 AST),2
+2021-12-04,22100348,SAC,LAC,1,11:21,LAC,Paul George,[LAC 3-0] George 3pt Shot: Made (3 PTS) Assist: Marc Morris Sr. (1 AST),3
+2021-12-05,22100349,CLE,UTA,1,11:02,UTA,Mike Conley,[UTA 2-0] Conley Driving Floating Jump Shot: Made (2 PTS),2
+2021-12-05,22100350,ATL,CHA,1,11:44,ATL,John Collins,[ATL 2-0] Collins Driving Hook Shot: Made (2 PTS) Assist: Huerter (1 AST),2
+2021-12-05,22100351,TOR,WAS,1,10:18,WAS,Bradley Beal,[WAS 2-0] Beal Running Pull-Up Jump Shot: Made (2 PTS) Assist: Caldwell-Pope (1 AST),2
+2021-12-05,22100352,HOU,NOP,1,10:27,HOU,Daniel Theis,[HOU 3-0] Theis 3pt Shot: Made (3 PTS) Assist: Tate (1 AST),3
+2021-12-06,22100353,CHA,PHI,1,11:36,CHA,Kelly Oubre Jr.,[CHA 2-0] Oubre Jr. Fadeaway Jump Shot: Made (2 PTS),2
+2021-12-06,22100354,DET,OKC,1,11:43,DET,Jerami Grant,[DET 2-0] Grant Turnaround Jump Shot: Made (2 PTS) Assist: Hayes (1 AST),2
+2021-12-06,22100355,IND,WAS,1,11:14,WAS,Kyle Kuzma,[WAS 3-0] Kuzma 3pt Shot: Made (3 PTS) Assist: Caldwell-Pope (1 AST),3
+2021-12-06,22100356,MIA,MEM,1,11:04,MEM,Dillon Brooks,[MEM 4-2] Brooks Driving Floating Jump Shot: Made (2 PTS) Assist: Adams (1 AST),2
+2021-12-06,22100357,CHI,DEN,1,11:30,DEN,Will Barton,[DEN 3-0] Barton 3pt Shot: Made (3 PTS) Assist: Morris (1 AST),3
+2021-12-06,22100358,MIL,CLE,1,11:18,MIL,Grayson Allen,[MIL 3-0] Allen 3pt Shot: Made (3 PTS) Assist: Holiday (1 AST),3
+2021-12-06,22100359,MIN,ATL,1,11:18,MIN,Karl-Anthony Towns,[MIN 2-0] Towns Hook Shot: Made (2 PTS),2
+2021-12-06,22100360,PHX,SAS,1,11:42,PHX,Deandre Ayton,[PHX 2-0] Ayton Tip Layup Shot: Made (2 PTS),2
+2021-12-06,22100361,GSW,ORL,1,11:42,ORL,Gary Harris,[ORL 3-0] Harris 3pt Shot: Made (3 PTS) Assist: Wagner (1 AST),3
+2021-12-06,22100362,POR,LAC,1,11:57,POR,Jusuf Nurkic,[POR 2-0] Nurkic Driving Hook Shot: Made (2 PTS),2
+2021-12-07,22100363,DAL,BKN,1,11:24,DAL,Luka Doncic,[DAL 2-0] Doncic Putback Layup Shot: Made (2 PTS),2
+2021-12-07,22100364,SAS,NYK,1,11:24,SAS,Jakob Poeltl,[SAS 2-0] Poeltl Floating Jump shot: Made (2 PTS) Assist: White (1 AST),2
+2021-12-07,22100365,LAL,BOS,1,11:00,BOS,Jayson Tatum,[BOS 2-0] Tatum Running Dunk Shot: Made (2 PTS) Assist: Smart (1 AST),2
+2021-12-08,22100366,CHA,PHI,1,10:55,PHI,Joel Embiid,[PHI 2-0] Embiid Pullup Jump shot: Made (2 PTS) Assist: Curry (1 AST),2
+2021-12-08,22100367,CLE,CHI,1,10:58,CHI,Zach LaVine,[CHI 3-1] LaVine 3pt Shot: Made (3 PTS),3
+2021-12-08,22100368,DET,WAS,1,10:54,WAS,Bradley Beal,[WAS 2-0] Beal Step Back Jump shot: Made (2 PTS),2
+2021-12-08,22100369,IND,NYK,1,11:18,NYK,Alec Burks,[NYK 4-0] Burks Driving Floating Bank Jump Shot: Made (2 PTS),2
+2021-12-08,22100370,MIA,MIL,1,11:28,MIA,Dewayne Dedmon,[MIA 2-0] Dedmon Putback Layup Shot: Made (2 PTS),2
+2021-12-08,22100371,TOR,OKC,1,11:19,TOR,Chris Boucher,[TOR 2-0] Boucher Alley Oop Dunk Shot: Made (2 PTS) Assist: Barnes (1 AST),2
+2021-12-08,22100372,HOU,BKN,1,11:47,HOU,Eric Gordon,[HOU 2-0] Gordon Driving Layup Shot: Made (2 PTS),2
+2021-12-08,22100373,MEM,DAL,1,11:09,MEM,Jaren Jackson Jr.,[MEM 2-0] Jackson Jr. Driving Floating Bank Jump Shot: Made (2 PTS) Assist: Jones (1 AST),2
+2021-12-08,22100374,MIN,UTA,1,11:35,MIN,Jarred Vanderbilt,[MIN 2-0] Vanderbilt Running Layup Shot: Made (2 PTS) Assist: Prince (1 AST),2
+2021-12-08,22100375,NOP,DEN,1,11:13,DEN,Will Barton,[DEN 2-0] Barton Turnaround Jump Shot: Made (2 PTS),2
+2021-12-08,22100376,GSW,POR,1,10:54,GSW,Andrew Wiggins,[GSW 2-0] Wiggins Driving Floating Jump Shot: Made (2 PTS),2
+2021-12-08,22100377,SAC,ORL,1,11:43,SAC,De'Aaron Fox,[SAC 2-0] Fox Pullup Jump shot: Made (2 PTS),2
+2021-12-08,22100378,LAC,BOS,1,10:45,LAC,Terance Mann,[LAC 2-0] Mann Running Layup Shot: Made (2 PTS),2
+2021-12-09,22100379,PHI,UTA,1,11:43,UTA,Mike Conley,[UTA 3-0] Conley 3pt Shot: Made (3 PTS),3
+2021-12-09,22100380,MEM,LAL,1,11:19,MEM,Desmond Bane,[MEM 2-0] Bane Driving Layup Shot: Made (2 PTS) Assist: Jones (1 AST),2
+2021-12-09,22100381,SAS,DEN,1,11:37,SAS,Dejounte Murray,[SAS 3-0] Murray 3pt Shot: Made (3 PTS) Assist: Bates-Diop (1 AST),3
+2021-12-10,22100382,CHA,SAC,1,11:44,CHA,Cody Martin,[CHA 2-0] Martin Cutting Layup Shot: Made (2 PTS) Assist: Oubre Jr. (1 AST),2
+2021-12-10,22100383,IND,DAL,1,11:16,DAL,Luka Doncic,[DAL 2-0] Doncic Driving Finger Roll Layup Shot: Made (2 PTS) Assist: Porzingis (1 AST),2
+2021-12-10,22100384,ATL,BKN,1,11:47,ATL,Kevin Huerter,[ATL 3-0] Huerter 3pt Shot: Made (3 PTS) Assist: Young (1 AST),3
+2021-12-10,22100385,TOR,NYK,1,11:23,NYK,RJ Barrett,[NYK 2-0] Barrett Turnaround Fadeaway shot: Made (2 PTS),2
+2021-12-10,22100386,HOU,MIL,1,11:46,HOU,Armoni Brooks,[HOU 3-0] Brooks 3pt Shot: Made (3 PTS) Assist: Tate (1 AST),3
+2021-12-10,22100387,MIN,CLE,1,11:42,CLE,Isaac Okoro,[CLE 2-0] Okoro Driving Layup Shot: Made (2 PTS) Assist: Mobley (1 AST),2
+2021-12-10,22100388,NOP,DET,1,11:37,NOP,Josh Hart,[NOP 2-0] Hart Driving Layup Shot: Made (2 PTS) Assist: Valanciunas (1 AST),2
+2021-12-10,22100389,OKC,LAL,1,11:37,OKC,Josh Giddey,[OKC 2-0] Giddey Running Layup Shot: Made (2 PTS) Assist: Bazley (1 AST),2
+2021-12-10,22100390,PHX,BOS,1,11:21,PHX,Jae Crowder,[PHX 2-0] Crowder Driving Floating Bank Jump Shot: Made (2 PTS) Assist: Paul (1 AST),2
+2021-12-11,22100391,LAC,ORL,1,11:17,LAC,Luke Kennard,[LAC 2-0] Kennard Step Back Jump shot: Made (2 PTS) Assist: Mann (1 AST),2
+2021-12-11,22100392,WAS,UTA,1,11:55,UTA,Rudy Gobert,[UTA 2-0] Gobert Alley Oop Dunk Shot: Made (2 PTS) Assist: Mitchell (1 AST),2
+2021-12-11,22100393,CLE,SAC,1,11:34,CLE,Lauri Markkanen,[CLE 2-0] Markkanen Turnaround Fadeaway shot: Made (2 PTS) Assist: Mobley (1 AST),2
+2021-12-11,22100394,MIA,CHI,1,11:36,MIA,Dewayne Dedmon,[MIA 3-0] Dedmon 3pt Shot: Made (3 PTS) Assist: Lowry (1 AST),3
+2021-12-11,22100395,MEM,HOU,1,11:01,MEM,Tyus Jones,[MEM 3-1] Jones 3pt Shot: Made (3 PTS),3
+2021-12-11,22100396,PHI,GSW,1,11:13,GSW,Kevon Looney,[GSW 2-0] Looney Tip Layup Shot: Made (2 PTS),2
+2021-12-11,22100397,SAS,DEN,1,11:35,DEN,Aaron Gordon,[DEN 2-0] Gordon Layup Shot: Made (2 PTS),2
+2021-12-12,22100398,NYK,MIL,1,10:46,MIL,Giannis Antetokounmpo,[MIL 2-0] Antetokounmpo Alley Oop Dunk Shot: Made (2 PTS) Assist: Holiday (1 AST),2
+2021-12-12,22100399,DET,BKN,1,11:30,BKN,LaMarcus Aldridge,[BKN 2-0] Aldridge Jump Shot: Made (2 PTS) Assist: Durant (1 AST),2
+2021-12-12,22100400,OKC,DAL,1,11:33,DAL,Reggie Bullock,[DAL 3-0] Bullock 3pt Shot: Made (3 PTS) Assist: Finney-Smith (1 AST),3
+2021-12-12,22100401,SAS,NOP,1,11:34,SAS,Dejounte Murray,[SAS 2-0] Murray Pullup Jump shot: Made (2 PTS),2
+2021-12-12,22100402,POR,MIN,1,11:12,MIN,Jarred Vanderbilt,[MIN 4-0] Vanderbilt Running Reverse Layup Shot: Made (2 PTS),2
+2021-12-12,22100403,LAL,ORL,1,11:33,LAL,LeBron James,[LAL 2-0] James Running Layup Shot: Made (2 PTS),2
+2021-12-13,22100404,CLE,MIA,1,11:12,MIA,P.J. Tucker,[MIA 3-1] Tucker 3pt Shot: Made (3 PTS) Assist: Robinson (1 AST),3
+2021-12-13,22100405,IND,GSW,1,11:25,IND,Domantas Sabonis,[IND 2-0] Sabonis Cutting Layup Shot: Made (2 PTS) Assist: Brogdon (1 AST),2
+2021-12-13,22100406,TOR,SAC,1,11:03,TOR,Pascal Siakam,[TOR 2-0] Siakam Running Layup Shot: Made (2 PTS),2
+2021-12-13,22100407,ATL,HOU,1,11:13,HOU,Christian Wood,[HOU 3-0] Wood Running Alley Oop Dunk Shot: Made (2 PTS) Assist: Tate (1 AST),2
+2021-12-13,22100408,BOS,MIL,1,11:46,BOS,Jaylen Brown,[BOS 3-0] Brown 3pt Shot: Made (3 PTS) Assist: Smart (1 AST),3
+2021-12-13,22100409,MEM,PHI,1,11:42,PHI,Furkan Korkmaz,[PHI 2-0] Korkmaz Driving Floating Jump Shot: Made (2 PTS) Assist: Maxey (1 AST),2
+2021-12-13,22100410,DAL,CHA,1,10:09,DAL,Kristaps Porzingis,[DAL 2-0] Porzingis Running Alley Oop Dunk Shot: Made (2 PTS) Assist: Brunson (1 AST),2
+2021-12-13,22100411,DEN,WAS,1,11:04,DEN,Aaron Gordon,[DEN 2-0] Gordon Cutting Dunk Shot: Made (2 PTS) Assist: Jokic (1 AST),2
+2021-12-13,22100412,LAC,PHX,1,09:36,PHX,Jae Crowder,[PHX 2-0] Crowder Jump Shot: Made (2 PTS) Assist: Paul (1 AST),2
+2021-12-14,22100413,BKN,TOR,1,11:25,TOR,Fred VanVleet,[TOR 3-0] VanVleet 3pt Shot: Made (3 PTS) Assist: Siakam (1 AST),3
+2021-12-14,22100414,NYK,GSW,1,11:37,NYK,Nerlens Noel,[NYK 2-0] Noel Jump Shot: Made (2 PTS) Assist: Randle (1 AST),2
+2022-01-11,22100415,CHI,DET,1,11:39,CHI,Nikola Vucevic,[CHI 2-0] Vucevic Turnaround Jump Shot: Made (2 PTS) Assist: LaVine (1 AST),2
+2021-12-14,22100416,POR,PHX,1,11:26,PHX,Jae Crowder,[PHX 2-0] Crowder Pullup Jump shot: Made (2 PTS) Assist: Paul (1 AST),2
+2021-12-15,22100417,CLE,HOU,1,10:48,CLE,Isaac Okoro,[CLE 2-0] Okoro Alley Oop Dunk Shot: Made (2 PTS) Assist: Allen (1 AST),2
+2021-12-15,22100418,ORL,ATL,1,11:16,ATL,Timothe Luwawu-Cabarrot,[ATL 2-0] Luwawu-Cabarrot Pullup Jump shot: Made (2 PTS),2
+2021-12-15,22100419,PHI,MIA,1,11:15,PHI,Joel Embiid,[PHI 2-0] Embiid Putback Layup Shot: Made (2 PTS),2
+2021-12-15,22100420,DAL,LAL,1,11:40,DAL,Dwight Powell,[DAL 2-0] Powell Alley Oop Dunk Shot: Made (2 PTS) Assist: Bullock (1 AST),2
+2021-12-15,22100421,MIL,IND,1,11:43,MIL,Jrue Holiday,[MIL 3-0] Holiday 3pt Shot: Made (3 PTS),3
+2021-12-15,22100422,OKC,NOP,1,11:10,OKC,Aaron Wiggins,[OKC 2-0] Wiggins Cutting Layup Shot: Made (2 PTS) Assist: Favors (1 AST),2
+2021-12-15,22100423,SAS,CHA,1,11:23,CHA,Cody Martin,[CHA 3-0] Martin 3pt Shot: Made (3 PTS) Assist: Bridges (1 AST),3
+2021-12-15,22100424,DEN,MIN,1,11:43,MIN,Patrick Beverley,[MIN 3-0] Beverley 3pt Shot: Made (3 PTS) Assist: Towns (1 AST),3
+2021-12-15,22100425,UTA,LAC,1,11:44,UTA,Donovan Mitchell,[UTA 2-0] Mitchell Turnaround Jump Shot: Made (2 PTS) Assist: Gobert (1 AST),2
+2021-12-15,22100426,POR,MEM,1,11:46,POR,Jusuf Nurkic,[POR 2-0] Nurkic Jump Shot: Made (2 PTS) Assist: Powell (1 AST),2
+2021-12-15,22100427,SAC,WAS,1,11:07,WAS,Kentavious Caldwell-Pope,[WAS 2-0] Caldwell-Pope Pullup Jump shot: Made (2 PTS),2
+2021-12-16,22100428,IND,DET,1,10:57,DET,Isaiah Stewart,[DET 2-2] Stewart Running Alley Oop Layup Shot: Made (2 PTS) Assist: Cunningham (1 AST),2
+2021-12-16,22100429,BKN,PHI,1,11:45,BKN,Kevin Durant,[BKN 2-0] Durant Turnaround Jump Shot: Made (2 PTS) Assist: Mills (1 AST),2
+2022-02-03,22100430,TOR,CHI,1,11:39,TOR,Scottie Barnes,[TOR 2-0] Barnes Floating Jump shot: Made (2 PTS) Assist: Anunoby (1 AST),2
+2021-12-16,22100431,HOU,NYK,1,10:31,NYK,Julius Randle,[NYK 3-0] Randle 3pt Shot: Made (3 PTS) Assist: Fournier (1 AST),3
+2021-12-16,22100432,PHX,WAS,1,10:27,WAS,Aaron Holiday,[WAS 3-0] Holiday 3pt Shot: Made (3 PTS) Assist: Beal (1 AST),3
+2021-12-17,22100433,ORL,MIA,1,11:41,ORL,Gary Harris,[ORL 2-0] Harris Driving Layup Shot: Made (2 PTS) Assist: Lopez (1 AST),2
+2021-12-17,22100434,ATL,DEN,1,11:48,DEN,Nikola Jokic,[DEN 3-0] Jokic 3pt Shot: Made (3 PTS) Assist: Barton (1 AST),3
+2021-12-17,22100435,BOS,GSW,1,11:33,GSW,Andrew Wiggins,[GSW 2-0] Wiggins Tip Layup Shot: Made (2 PTS),2
+2021-12-17,22100436,MIN,LAL,1,10:58,LAL,Anthony Davis,[LAL 2-0] Davis Alley Oop Layup shot: Made (2 PTS) Assist: Bazemore (1 AST),2
+2021-12-17,22100437,UTA,SAS,1,11:40,SAS,Doug McDermott,[SAS 2-0] McDermott Pullup Jump shot: Made (2 PTS) Assist: Johnson (1 AST),2
+2021-12-17,22100438,NOP,MIL,1,11:19,NOP,Herbert Jones,[NOP 2-0] Jones Cutting Dunk Shot: Made (2 PTS) Assist: Ingram (1 AST),2
+2021-12-17,22100439,POR,CHA,1,11:36,POR,Jusuf Nurkic,[POR 2-0] Nurkic Driving Layup Shot: Made (2 PTS),2
+2021-12-17,22100440,SAC,MEM,1,11:17,MEM,Desmond Bane,[MEM 3-0] Bane 3pt Shot: Made (3 PTS),3
+2021-12-18,22100441,DET,HOU,1,11:36,HOU,Eric Gordon,[HOU 2-0] Gordon Driving Layup Shot: Made (2 PTS),2
+2021-12-18,22100442,BKN,ORL,1,11:19,BKN,Cam Thomas,[BKN 2-0] Thomas Pullup Jump shot: Made (2 PTS),2
+2021-12-18,22100443,TOR,GSW,1,11:03,TOR,Chris Boucher,[TOR 3-0] Boucher 3pt Shot: Made (3 PTS) Assist: VanVleet (1 AST),3
+2021-12-18,22100444,OKC,LAC,1,11:28,LAC,Luke Kennard,[LAC 3-0] Kennard 3pt Shot: Made (3 PTS) Assist: Mann (1 AST),3
+2021-12-18,22100445,BOS,NYK,1,11:40,BOS,Jayson Tatum,[BOS 3-0] Tatum 3pt Shot: Made (3 PTS) Assist: Smart (1 AST),3
+2021-12-18,22100446,MIL,CLE,1,11:34,MIL,George Hill,[MIL 2-0] G Hill Running Dunk Shot: Made (2 PTS),2
+2021-12-18,22100447,UTA,WAS,1,11:48,UTA,Donovan Mitchell,[UTA 3-0] Mitchell 3pt Shot: Made (3 PTS) Assist: O'Neale (1 AST),3
+2021-12-19,22100448,CHI,LAL,1,11:44,LAL,DeAndre Jordan,[LAL 2-0] Jordan Alley Oop Dunk Shot: Made (2 PTS) Assist: Westbrook (1 AST),2
+2021-12-19,22100449,DET,MIA,1,11:39,DET,Hamidou Diallo,[DET 2-0] Diallo Pullup Jump shot: Made (2 PTS),2
+2021-12-19,22100450,MEM,POR,1,11:44,MEM,Dillon Brooks,[MEM 2-0] Brooks Jump Shot: Made (2 PTS) Assist: Jackson Jr. (1 AST),2
+2021-12-19,22100451,SAC,SAS,1,11:43,SAS,Devin Vassell,[SAS 2-0] Vassell Pullup Jump shot: Made (2 PTS) Assist: Murray (1 AST),2
+2022-01-26,22100453,BKN,DEN,1,11:40,BKN,LaMarcus Aldridge,[BKN 2-0] Aldridge Jump Shot: Made (2 PTS) Assist: Bembry (1 AST),2
+2022-01-25,22100454,PHI,NOP,1,11:33,PHI,Joel Embiid,[PHI 2-0] Embiid Pullup Jump shot: Made (2 PTS),2
+2021-12-19,22100455,MIN,DAL,1,11:24,DAL,Dorian Finney-Smith,[DAL 2-0] Finney-Smith Cutting Dunk Shot: Made (2 PTS) Assist: Brunson (1 AST),2
+2021-12-19,22100456,PHX,CHA,1,11:46,PHX,Jae Crowder,[PHX 3-0] Crowder 3pt Shot: Made (3 PTS) Assist: Bridges (1 AST),3
+2021-12-20,22100457,BOS,PHI,1,11:45,PHI,Tobias Harris,[PHI 3-0] Harris 3pt Shot: Made (3 PTS) Assist: Green (1 AST),3
+2021-12-20,22100459,CHI,HOU,1,11:55,CHI,Javonte Green,[CHI 2-0] Green Driving Dunk Shot: Made (2 PTS),2
+2021-12-20,22100460,MEM,OKC,1,11:10,MEM,Dillon Brooks,[MEM 2-0] Brooks Driving Finger Roll Layup Shot: Made (2 PTS),2
+2021-12-20,22100461,UTA,CHA,1,11:14,UTA,Donovan Mitchell,[UTA 3-2] Mitchell 3pt Shot: Made (3 PTS),3
+2021-12-20,22100462,GSW,SAC,1,10:50,GSW,Damion Lee,[GSW 4-0] Lee 3pt Shot: Made (3 PTS) Assist: Green (1 AST),3
+2021-12-20,22100463,LAC,SAS,1,11:13,LAC,Paul George,[LAC 2-0] George Driving Layup Shot: Made (2 PTS),2
+2022-02-17,22100464,BKN,WAS,1,10:53,WAS,Thomas Bryant,[WAS 2-0] Bryant Pullup Jump shot: Made (2 PTS),2
+2021-12-21,22100465,MIA,IND,1,11:38,IND,Myles Turner,[IND 2-0] Turner Driving Layup Shot: Made (2 PTS),2
+2021-12-21,22100466,NYK,DET,1,11:18,NYK,Julius Randle,[NYK 2-1] Randle Fadeaway Jump Shot: Made (2 PTS),2
+2021-12-21,22100467,NOP,POR,1,10:57,POR,Jusuf Nurkic,[POR 3-0] Nurkic Driving Dunk Shot: Made (3 PTS),2
+2021-12-21,22100468,DAL,MIN,1,11:12,MIN,Karl-Anthony Towns,[MIN 2-0] Towns Driving Dunk Shot: Made (2 PTS) Assist: Russell (1 AST),2
+2021-12-21,22100469,LAL,PHX,1,11:35,LAL,Russell Westbrook,[LAL 2-0] Westbrook Driving Layup Shot: Made (2 PTS),2
+2021-12-22,22100470,ATL,ORL,1,11:39,ATL,John Collins,[ATL 2-0] Collins Turnaround Hook Shot: Made (2 PTS) Assist: Wright (1 AST),2
+2021-12-22,22100471,BOS,CLE,1,11:29,BOS,Jaylen Brown,[BOS 3-0] Brown 3pt Shot: Made (3 PTS) Assist: Smart (1 AST),3
+2022-01-26,22100472,CHI,TOR,1,11:42,CHI,DeMar DeRozan,[CHI 2-0] DeRozan Pullup Jump shot: Made (2 PTS) Assist: Vucevic (1 AST),2
+2021-12-22,22100473,MIL,HOU,1,11:35,MIL,Jrue Holiday,[MIL 2-0] Holiday Driving Floating Jump Shot: Made (2 PTS),2
+2021-12-22,22100474,OKC,DEN,1,11:51,OKC,Luguentz Dort,[OKC 3-0] Dort 3pt Shot: Made (3 PTS) Assist: Gilgeous-Alexander (1 AST),3
+2021-12-22,22100475,SAC,LAC,1,11:31,LAC,Ivica Zubac,[LAC 2-0] Zubac Cutting Dunk Shot: Made (2 PTS) Assist: Mann (1 AST),2
+2021-12-23,22100476,IND,HOU,1,11:19,IND,Myles Turner,[IND 2-0] Turner Driving Finger Roll Layup Shot: Made (2 PTS) Assist: LeVert (1 AST),2
+2021-12-23,22100477,ORL,NOP,1,11:43,ORL,Wendell Carter Jr.,[ORL 2-0] Carter Jr. Turnaround Fadeaway shot: Made (2 PTS),2
+2021-12-23,22100478,PHI,ATL,1,11:04,ATL,Cam Reddish,[ATL 2-0] Reddish Pullup Jump shot: Made (2 PTS),2
+2021-12-23,22100479,MIA,DET,1,10:44,DET,Frank Jackson,[DET 3-0] Jackson 3pt Shot: Made (3 PTS) Assist: Bey (1 AST),3
+2021-12-23,22100480,NYK,WAS,1,11:42,NYK,Alec Burks,[NYK 3-0] Burks 3pt Shot: Made (3 PTS) Assist: Walker (1 AST),3
+2021-12-23,22100481,DAL,MIL,1,11:44,MIL,Pat Connaughton,[MIL 2-0] Connaughton Driving Floating Jump Shot: Made (2 PTS) Assist: Middleton (1 AST),2
+2021-12-23,22100482,DEN,CHA,1,11:18,CHA,LaMelo Ball,[CHA 3-0] Ball 3pt Shot: Made (3 PTS) Assist: Hayward (1 AST),3
+2021-12-23,22100483,PHX,OKC,1,11:30,PHX,Devin Booker,[PHX 3-0] Booker 3pt Shot: Made (3 PTS),3
+2021-12-23,22100484,UTA,MIN,1,11:26,UTA,Mike Conley,[UTA 2-0] Conley Running Layup Shot: Made (2 PTS) Assist: Mitchell (1 AST),2
+2021-12-23,22100485,GSW,MEM,1,11:27,MEM,Dillon Brooks,[MEM 2-0] Brooks Step Back Jump shot: Made (2 PTS),2
+2022-01-10,22100486,POR,BKN,1,10:50,BKN,Kevin Durant,[BKN 2-1] Durant Fadeaway Jump Shot: Made (2 PTS),2
+2021-12-23,22100487,LAL,SAS,1,11:13,SAS,Doug McDermott,[SAS 3-0] McDermott 3pt Shot: Made (3 PTS) Assist: Murray (1 AST),3
+2021-12-25,22100488,NYK,ATL,1,11:45,NYK,Kemba Walker,[NYK 3-0] Walker 3pt Shot: Made (3 PTS),3
+2021-12-25,22100489,MIL,BOS,1,11:44,BOS,Romeo Langford,[BOS 3-0] Langford 3pt Shot: Made (3 PTS) Assist: Brown (1 AST),3
+2021-12-25,22100490,PHX,GSW,1,11:40,GSW,Draymond Green,[GSW 3-0] Green 3pt Shot: Made (3 PTS) Assist: Looney (1 AST),3
+2021-12-25,22100491,LAL,BKN,1,11:36,LAL,LeBron James,[LAL 2-0] James Turnaround Fadeaway shot: Made (2 PTS) Assist: Westbrook (1 AST),2
+2021-12-25,22100492,UTA,DAL,1,11:43,DAL,Frank Ntilikina,[DAL 2-0] Ntilikina Jump Shot: Made (2 PTS) Assist: Powell (1 AST),2
+2021-12-26,22100493,MIA,ORL,1,11:28,ORL,Franz Wagner,[ORL 2-0] Wagner Driving Bank Hook Shot: Made (2 PTS),2
+2021-12-26,22100494,CLE,TOR,1,11:36,CLE,Kevin Love,[CLE 3-0] Love 3pt Shot: Made (3 PTS) Assist: Garland (1 AST),3
+2021-12-26,22100495,WAS,PHI,1,11:22,PHI,Joel Embiid,[PHI 2-0] Embiid Driving Floating Bank Jump Shot: Made (2 PTS),2
+2021-12-26,22100496,SAC,MEM,1,10:49,MEM,Steven Adams,[MEM 2-0] Adams Layup Shot: Made (2 PTS) Assist: Morant (1 AST),2
+2021-12-26,22100497,OKC,NOP,1,11:27,OKC,Aaron Wiggins,[OKC 2-0] Wiggins Layup Shot: Made (2 PTS) Assist: Giddey (1 AST),2
+2021-12-26,22100498,SAS,DET,1,11:38,SAS,Jakob Poeltl,[SAS 2-0] Poeltl Cutting Finger Roll Layup Shot: Made (2 PTS) Assist: White (1 AST),2
+2021-12-26,22100499,CHI,IND,1,11:37,CHI,DeMar DeRozan,[CHI 2-0] DeRozan Turnaround Jump Shot: Made (2 PTS),2
+2021-12-26,22100500,LAC,DEN,1,11:20,LAC,Ivica Zubac,[LAC 2-0] Zubac Hook Shot: Made (2 PTS) Assist: Bledsoe (1 AST),2
+2021-12-27,22100501,CHA,HOU,1,11:44,CHA,Gordon Hayward,[CHA 3-0] Hayward 3pt Shot: Made (3 PTS) Assist: Plumlee (1 AST),3
+2021-12-27,22100502,ATL,CHI,1,11:16,CHI,Nikola Vucevic,[CHI 3-0] Vucevic 3pt Shot: Made (3 PTS) Assist: DeRozan (1 AST),3
+2021-12-27,22100503,MIN,BOS,1,11:42,BOS,Robert Williams III,[BOS 2-0] Williams III Alley Oop Dunk Shot: Made (2 PTS) Assist: Horford (1 AST),2
+2021-12-27,22100504,SAS,UTA,1,11:09,SAS,Doug McDermott,[SAS 2-1] McDermott Driving Layup Shot: Made (2 PTS),2
+2021-12-27,22100505,PHX,MEM,1,11:21,PHX,Cameron Johnson,[PHX 2-0] Johnson Cutting Layup Shot: Made (2 PTS) Assist: Paul (1 AST),2
+2021-12-27,22100506,POR,DAL,1,11:44,DAL,Kristaps Porzingis,[DAL 2-0] Porzingis Turnaround Jump Shot: Made (2 PTS) Assist: Finney-Smith (1 AST),2
+2021-12-27,22100507,LAC,BKN,1,11:37,LAC,Terance Mann,[LAC 3-0] Mann 3pt Shot: Made (3 PTS) Assist: Bledsoe (1 AST),3
+2021-12-28,22100508,ORL,MIL,1,11:46,ORL,Wendell Carter Jr.,[ORL 2-0] Carter Jr. Turnaround Jump Shot: Made (2 PTS),2
+2021-12-28,22100509,MIA,WAS,1,11:22,WAS,Kyle Kuzma,[WAS 2-0] Kuzma Driving Dunk Shot: Made (2 PTS) Assist: Kispert (1 AST),2
+2021-12-28,22100510,TOR,PHI,1,11:15,TOR,Pascal Siakam,[TOR 2-0] Siakam Pullup Jump shot: Made (2 PTS),2
+2021-12-28,22100511,HOU,LAL,1,11:28,HOU,Christian Wood,[HOU 3-0] Wood 3pt Shot: Made (3 PTS) Assist: Porter Jr. (1 AST),3
+2021-12-28,22100512,MIN,NYK,1,11:35,MIN,Jaden McDaniels,[MIN 2-0] McDaniels Running Finger Roll Layup Shot: Made (2 PTS) Assist: Beverley (1 AST),2
+2021-12-28,22100513,NOP,CLE,1,10:45,CLE,Ricky Rubio,[CLE 3-0] Rubio 3pt Shot: Made (3 PTS) Assist: Okoro (1 AST),3
+2021-12-28,22100514,GSW,DEN,1,10:58,DEN,Will Barton,[DEN 2-0] Barton Driving Layup Shot: Made (2 PTS) Assist: Campazzo (1 AST),2
+2021-12-28,22100515,SAC,OKC,1,10:07,OKC,Shai Gilgeous-Alexander,[OKC 4-2] Gilgeous-Alexander Running Layup Shot: Made (4 PTS),2
+2021-12-29,22100516,DET,NYK,1,09:22,NYK,Mitchell Robinson,[NYK 2-0] Robinson Alley Oop Dunk Shot: Made (2 PTS) Assist: Barrett (1 AST),2
+2021-12-29,22100517,IND,CHA,1,10:45,IND,Justin Holiday,[IND 2-1] Holiday Running Finger Roll Layup Shot: Made (2 PTS) Assist: Duarte (1 AST),2
+2021-12-29,22100518,BOS,LAC,1,11:36,BOS,Jaylen Brown,[BOS 2-0] Brown Turnaround Fadeaway shot: Made (2 PTS),2
+2021-12-29,22100519,CHI,ATL,1,11:33,ATL,Chaundee Brown Jr.,[ATL 2-0] Brown Jr. Pullup Jump shot: Made (2 PTS) Assist: Young (1 AST),2
+2021-12-29,22100520,MEM,LAL,1,11:44,MEM,Steven Adams,[MEM 2-0] Adams Cutting Finger Roll Layup Shot: Made (2 PTS) Assist: Morant (1 AST),2
+2022-02-03,22100521,SAS,MIA,1,11:13,MIA,Bam Adebayo,[MIA 2-0] Adebayo Driving Layup Shot: Made (2 PTS),2
+2021-12-29,22100522,PHX,OKC,1,11:22,PHX,Devin Booker,[PHX 3-0] Booker 3pt Shot: Made (3 PTS) Assist: Johnson (1 AST),3
+2021-12-29,22100523,POR,UTA,1,11:20,UTA,Rudy Gobert,[UTA 2-0] Gobert Cutting Dunk Shot: Made (2 PTS) Assist: Ingles (1 AST),2
+2021-12-29,22100524,SAC,DAL,1,11:16,SAC,De'Aaron Fox,[SAC 2-0] Fox Running Layup Shot: Made (2 PTS),2
+2021-12-30,22100525,BKN,PHI,1,11:32,BKN,Nic Claxton,[BKN 2-0] Claxton Putback Layup Shot: Made (2 PTS),2
+2021-12-30,22100526,ORL,MIL,1,11:27,MIL,Jrue Holiday,[MIL 2-0] Holiday Jump Bank Shot: Made (2 PTS) Assist: Antetokounmpo (1 AST),2
+2021-12-30,22100527,WAS,CLE,1,11:38,WAS,Kyle Kuzma,[WAS 3-0] Kuzma 3pt Shot: Made (3 PTS) Assist: Wanamaker (1 AST),3
+2021-12-31,22100529,BOS,PHX,1,11:46,BOS,Marcus Smart,[BOS 2-0] Smart Cutting Finger Roll Layup Shot: Made (2 PTS) Assist: Williams III (1 AST),2
+2021-12-31,22100530,IND,CHI,1,11:34,CHI,Nikola Vucevic,[CHI 2-0] Vucevic Jump Shot: Made (2 PTS) Assist: DeRozan (1 AST),2
+2021-12-31,22100531,SAC,DAL,1,11:29,DAL,Kristaps Porzingis,[DAL 2-2] Porzingis Cutting Dunk Shot: Made (2 PTS) Assist: Powell (1 AST),2
+2021-12-31,22100532,HOU,MIA,1,11:34,MIA,Omer Yurtseven,[MIA 2-0] Yurtseven Alley Oop Layup shot: Made (2 PTS) Assist: Lowry (1 AST),2
+2021-12-31,22100533,CLE,ATL,1,11:47,ATL,Clint Capela,[ATL 2-0] Capela Alley Oop Dunk Shot: Made (2 PTS) Assist: Young (1 AST),2
+2021-12-31,22100534,TOR,LAC,1,11:47,TOR,Gary Trent Jr.,[TOR 3-0] Trent Jr. 3pt Shot: Made (3 PTS) Assist: VanVleet (1 AST),3
+2021-12-31,22100535,MEM,SAS,1,11:38,MEM,Steven Adams,[MEM 2-0] Adams Layup Shot: Made (2 PTS),2
+2021-12-31,22100536,OKC,NYK,1,11:45,NYK,Evan Fournier,[NYK 3-0] Fournier 3pt Shot: Made (3 PTS) Assist: McBride (1 AST),3
+2021-12-31,22100537,UTA,MIN,1,11:34,MIN,Anthony Edwards,[MIN 2-0] Edwards Driving Dunk Shot: Made (2 PTS),2
+2021-12-31,22100538,LAL,POR,1,11:45,LAL,LeBron James,[LAL 3-0] James 3pt Shot: Made (3 PTS) Assist: Johnson (1 AST),3
+2022-01-01,22100539,MIL,NOP,1,10:41,MIL,Grayson Allen,[MIL 3-0] Allen 3pt Shot: Made (3 PTS) Assist: Connaughton (1 AST),3
+2022-01-01,22100540,DET,SAS,1,11:44,SAS,Tre Jones,[SAS 2-0] Jones Driving Floating Jump Shot: Made (2 PTS),2
+2022-01-01,22100541,WAS,CHI,1,11:28,CHI,Nikola Vucevic,[CHI 3-0] Vucevic 3pt Shot: Made (3 PTS) Assist: LaVine (1 AST),3
+2022-01-01,22100542,BKN,LAC,1,11:29,LAC,Eric Bledsoe,[LAC 3-0] Bledsoe 3pt Shot: Made (3 PTS) Assist: Ibaka (1 AST),3
+2022-01-01,22100543,HOU,DEN,1,11:10,HOU,Jalen Green,[HOU 3-0] Green 3pt Shot: Made (3 PTS) Assist: Porter Jr. (1 AST),3
+2022-01-01,22100544,UTA,GSW,1,11:22,GSW,Otto Porter Jr.,[GSW 2-0] Porter Jr. Cutting Layup Shot: Made (2 PTS) Assist: Looney (1 AST),2
+2022-01-02,22100545,TOR,NYK,1,11:28,TOR,Fred VanVleet,[TOR 2-0] VanVleet Cutting Finger Roll Layup Shot: Made (2 PTS) Assist: Siakam (1 AST),2
+2022-01-02,22100546,BOS,ORL,1,11:22,BOS,Marcus Smart,[BOS 3-0] Smart 3pt Shot: Made (3 PTS) Assist: Schroder (1 AST),3
+2022-01-02,22100547,CLE,IND,1,11:41,CLE,Evan Mobley,[CLE 2-0] Mobley Turnaround Fadeaway shot: Made (2 PTS) Assist: Markkanen (1 AST),2
+2022-01-02,22100548,SAC,MIA,1,10:27,MIA,Omer Yurtseven,[MIA 2-1] Yurtseven Alley Oop Dunk Shot: Made (2 PTS) Assist: Lowry (1 AST),2
+2022-01-02,22100549,CHA,PHX,1,11:45,PHX,Jalen Smith,[PHX 2-0] Smith Cutting Dunk Shot: Made (2 PTS) Assist: Booker (1 AST),2
+2022-01-02,22100550,OKC,DAL,1,11:24,DAL,Jalen Brunson,[DAL 2-0] Brunson Pullup Jump shot: Made (2 PTS),2
+2022-01-02,22100551,LAL,MIN,1,11:33,LAL,LeBron James,[LAL 3-0] James 3pt Shot: Made (3 PTS) Assist: Johnson (1 AST),3
+2022-01-03,22100552,PHI,HOU,1,11:16,PHI,Tobias Harris,[PHI 2-0] Harris Step Back Jump shot: Made (2 PTS),2
+2022-01-03,22100553,WAS,CHA,1,11:29,CHA,Gordon Hayward,[CHA 3-0] Hayward 3pt Shot: Made (3 PTS) Assist: Plumlee (1 AST),3
+2022-01-03,22100554,BKN,MEM,1,11:07,MEM,Desmond Bane,[MEM 2-0] Bane Pullup Jump shot: Made (2 PTS) Assist: Jackson Jr. (1 AST),2
+2022-01-03,22100555,CHI,ORL,1,10:51,ORL,Franz Wagner,[ORL 2-0] Wagner Driving Layup Shot: Made (2 PTS),2
+2022-01-03,22100556,MIL,DET,1,11:28,DET,Hamidou Diallo,[DET 2-0] Diallo Tip Layup Shot: Made (2 PTS),2
+2022-01-03,22100557,NOP,UTA,1,11:33,UTA,Donovan Mitchell,[UTA 3-0] Mitchell 3pt Shot: Made (3 PTS),3
+2022-01-03,22100558,DAL,DEN,1,11:06,DAL,Jalen Brunson,[DAL 3-0] Brunson 3pt Shot: Made (3 PTS) Assist: Doncic (1 AST),3
+2022-01-03,22100559,GSW,MIA,1,11:19,MIA,Caleb Martin,[MIA 2-0] Martin Driving Layup Shot: Made (2 PTS),2
+2022-01-03,22100560,POR,ATL,1,11:31,POR,Norman Powell,[POR 3-0] Powell 3pt Shot: Made (3 PTS) Assist: Nurkic (1 AST),3
+2022-01-03,22100561,LAC,MIN,1,10:44,MIN,Naz Reid,[MIN 2-0] Reid Driving Reverse Layup Shot: Made (2 PTS) Assist: Beverley (1 AST),2
+2022-01-04,22100562,CLE,MEM,1,11:18,CLE,Darius Garland,[CLE 3-0] Garland 3pt Shot: Made (3 PTS) Assist: Stevens (1 AST),3
+2022-01-04,22100563,TOR,SAS,1,11:46,SAS,Devin Vassell,[SAS 3-0] Vassell 3pt Shot: Made (3 PTS) Assist: Johnson (1 AST),3
+2022-01-04,22100564,NYK,IND,1,11:24,IND,Keifer Sykes,[IND 3-2] Sykes 3pt Shot: Made (3 PTS) Assist: Holiday (1 AST),3
+2022-01-04,22100565,NOP,PHX,1,11:45,PHX,Jalen Smith,[PHX 3-0] Smith 3pt Shot: Made (3 PTS) Assist: Booker (1 AST),3
+2022-01-04,22100566,LAL,SAC,1,11:39,SAC,De'Aaron Fox,[SAC 2-0] Fox Step Back Jump shot: Made (2 PTS),2
+2022-01-05,22100567,CHA,DET,1,11:40,CHA,LaMelo Ball,[CHA 3-0] Ball 3pt Shot: Made (3 PTS) Assist: Rozier (1 AST),3
+2022-01-05,22100568,ORL,PHI,1,11:30,ORL,Mo Bamba,[ORL 3-0] Bamba 3pt Shot: Made (3 PTS) Assist: Anthony (1 AST),3
+2022-01-05,22100569,WAS,HOU,1,11:45,HOU,Christian Wood,[HOU 2-0] Wood Cutting Layup Shot: Made (2 PTS) Assist: Gordon (1 AST),2
+2022-01-05,22100570,BOS,SAS,1,11:13,BOS,Jaylen Brown,[BOS 2-0] Brown Driving Finger Roll Layup Shot: Made (2 PTS) Assist: Smart (1 AST),2
+2022-01-05,22100571,IND,BKN,1,11:15,IND,Keifer Sykes,[IND 2-0] Sykes Driving Finger Roll Layup Shot: Made (2 PTS),2
+2022-01-05,22100572,DAL,GSW,1,11:06,GSW,Andrew Wiggins,[GSW 2-0] Wiggins Cutting Layup Shot: Made (2 PTS) Assist: Payton II (1 AST),2
+2022-01-05,22100573,MIL,TOR,1,11:50,MIL,Jordan Nwora,[MIL 2-0] Nwora Cutting Layup Shot: Made (2 PTS) Assist: Holiday (1 AST),2
+2022-01-05,22100574,MIN,OKC,1,11:48,MIN,Anthony Edwards,[MIN 2-0] Edwards Driving Reverse Layup Shot: Made (2 PTS) Assist: Beverley (1 AST),2
+2022-01-05,22100575,DEN,UTA,1,11:18,UTA,Mike Conley,[UTA 3-0] Conley 3pt Shot: Made (3 PTS) Assist: O'Neale (1 AST),3
+2022-01-05,22100576,POR,MIA,1,11:11,POR,Norman Powell,[POR 2-0] Powell Pullup Jump shot: Made (2 PTS),2
+2022-01-05,22100577,SAC,ATL,1,10:49,ATL,Clint Capela,[ATL 3-0] Capela Putback Layup Shot: Made (2 PTS),2
+2022-01-06,22100578,NYK,BOS,1,11:49,BOS,Robert Williams III,[BOS 2-0] Williams III Alley Oop Dunk Shot: Made (2 PTS) Assist: Smart (1 AST),2
+2022-01-06,22100579,MEM,DET,1,11:38,MEM,Dillon Brooks,[MEM 2-0] Brooks Driving Floating Jump Shot: Made (2 PTS) Assist: Morant (1 AST),2
+2022-01-06,22100580,NOP,GSW,1,11:45,NOP,Brandon Ingram,[NOP 2-0] Ingram Driving Finger Roll Layup Shot: Made (2 PTS) Assist: Valanciunas (1 AST),2
+2022-01-06,22100581,PHX,LAC,1,10:40,LAC,Reggie Jackson,[LAC 2-0] Jackson Driving Floating Jump Shot: Made (2 PTS),2
+2022-01-07,22100582,PHI,SAS,1,11:46,PHI,Tobias Harris,[PHI 2-0] Harris Cutting Layup Shot: Made (2 PTS) Assist: Embiid (1 AST),2
+2022-01-07,22100583,BKN,MIL,1,11:32,MIL,Wesley Matthews,[MIL 2-0] Matthews Fadeaway Jump Shot: Made (2 PTS),2
+2022-01-07,22100584,TOR,UTA,1,10:49,TOR,Scottie Barnes,[TOR 2-0] Barnes Jump Shot: Made (2 PTS) Assist: Anunoby (1 AST),2
+2022-01-07,22100585,CHI,WAS,1,10:37,CHI,DeMar DeRozan,[CHI 4-0] DeRozan Pullup Jump shot: Made (2 PTS) Assist: Vucevic (1 AST),2
+2022-01-07,22100586,HOU,DAL,1,11:11,HOU,Kevin Porter Jr.,[HOU 3-0] Porter Jr. 3pt Shot: Made (3 PTS) Assist: Wood (1 AST),3
+2022-01-07,22100587,OKC,MIN,1,10:23,MIN,D'Angelo Russell,[MIN 2-4] Russell Pullup Jump shot: Made (2 PTS) Assist: Towns (1 AST),2
+2022-01-07,22100588,DEN,SAC,1,11:22,DEN,Will Barton,[DEN 3-2] Barton 3pt Shot: Made (3 PTS),3
+2022-01-07,22100589,LAL,ATL,1,11:09,LAL,Avery Bradley,[LAL 3-0] Bradley 3pt Shot: Made (3 PTS) Assist: Westbrook (1 AST),3
+2022-01-07,22100590,POR,CLE,1,10:52,POR,Norman Powell,[POR 2-0] Powell Driving Layup Shot: Made (2 PTS),2
+2022-01-08,22100591,LAC,MEM,1,11:43,MEM,Jaren Jackson Jr.,[MEM 2-0] Jackson Jr. Hook Bank Shot: Made (2 PTS),2
+2022-01-08,22100592,CHA,MIL,1,11:32,CHA,Miles Bridges,[CHA 2-0] Bridges Running Alley Oop Dunk Shot: Made (2 PTS) Assist: Rozier (1 AST),2
+2022-01-08,22100593,DET,ORL,1,11:11,DET,Saddiq Bey,[DET 3-0] Bey 3pt Shot: Made (3 PTS) Assist: Hayes (1 AST),3
+2022-01-08,22100594,IND,UTA,1,11:42,UTA,Royce O'Neale,[UTA 3-0] O'Neale 3pt Shot: Made (3 PTS) Assist: Mitchell (1 AST),3
+2022-01-08,22100595,BOS,NYK,1,11:44,BOS,Jayson Tatum,[BOS 2-0] Tatum Driving Layup Shot: Made (2 PTS) Assist: Brown (1 AST),2
+2022-01-08,22100596,PHX,MIA,1,10:50,PHX,Devin Booker,[PHX 3-0] Booker 3pt Shot: Made (3 PTS),3
+2022-01-09,22100597,LAC,ATL,1,11:38,ATL,Bogdan Bogdanovic,[ATL 2-0] Bogdanovic Fadeaway Jump Shot: Made (2 PTS),2
+2022-01-09,22100598,ORL,WAS,1,10:47,WAS,Kyle Kuzma,[WAS 2-0] Kuzma Running Layup Shot: Made (2 PTS),2
+2022-01-09,22100599,TOR,NOP,1,11:10,TOR,Fred VanVleet,[TOR 2-0] VanVleet Step Back Jump shot: Made (2 PTS),2
+2022-01-09,22100600,HOU,MIN,1,11:00,MIN,D'Angelo Russell,[MIN 2-1] Russell Pullup Jump shot: Made (2 PTS),2
+2022-01-09,22100601,OKC,DEN,1,11:15,DEN,Will Barton,[DEN 3-0] Barton 3pt Shot: Made (3 PTS) Assist: Jokic (1 AST),3
+2022-01-09,22100602,BKN,SAS,1,11:02,BKN,Kevin Durant,[BKN 3-0] Durant 3pt Shot: Made (3 PTS) Assist: Harden (1 AST),3
+2022-01-09,22100603,DAL,CHI,1,11:19,DAL,Dwight Powell,[DAL 2-0] Powell Alley Oop Dunk Shot: Made (2 PTS) Assist: Doncic (1 AST),2
+2022-01-09,22100604,GSW,CLE,1,11:35,CLE,Jarrett Allen,[CLE 2-0] Allen Turnaround Hook Shot: Made (2 PTS),2
+2022-01-09,22100605,POR,SAC,1,10:35,POR,Nassir Little,[POR 3-0] Little 3pt Shot: Made (3 PTS) Assist: Nurkic (1 AST),3
+2022-01-09,22100606,LAL,MEM,1,11:39,LAL,Stanley Johnson,[LAL 2-0] Johnson Jump Shot: Made (2 PTS) Assist: Westbrook (1 AST),2
+2022-01-10,22100607,CHA,MIL,1,11:29,CHA,Mason Plumlee,[CHA 2-0] Plumlee Tip Dunk Shot: Made (2 PTS),2
+2022-01-10,22100608,DET,UTA,1,10:55,UTA,Bojan Bogdanovic,[UTA 2-0] Bogdanovic Driving Layup Shot: Made (2 PTS),2
+2022-01-10,22100609,BOS,IND,1,11:41,BOS,Jaylen Brown,[BOS 2-0] Brown Pullup Jump shot: Made (2 PTS),2
+2022-01-10,22100610,NYK,SAS,1,11:41,NYK,Julius Randle,[NYK 2-0] Randle Step Back Jump shot: Made (2 PTS) Assist: Fournier (1 AST),2
+2022-01-10,22100611,SAC,CLE,1,11:42,CLE,Evan Mobley,[CLE 2-0] Mobley Hook Shot: Made (2 PTS) Assist: Markkanen (1 AST),2
+2022-01-11,22100612,WAS,OKC,1,11:37,WAS,Daniel Gafford,[WAS 2-0] Gafford Alley Oop Dunk Shot: Made (2 PTS) Assist: Caldwell-Pope (1 AST),2
+2022-01-11,22100613,TOR,PHX,1,11:26,PHX,Jae Crowder,[PHX 3-0] Crowder 3pt Shot: Made (3 PTS) Assist: Booker (1 AST),3
+2022-01-11,22100614,MEM,GSW,1,11:45,GSW,Andrew Wiggins,[GSW 2-0] Wiggins Driving Finger Roll Layup Shot: Made (2 PTS),2
+2022-01-11,22100615,NOP,MIN,1,11:40,MIN,Jarred Vanderbilt,[MIN 2-0] Vanderbilt Running Dunk Shot: Made (2 PTS) Assist: Edwards (1 AST),2
+2022-01-11,22100616,LAC,DEN,1,11:38,DEN,Nikola Jokic,[DEN 2-0] Jokic Turnaround Hook Shot: Made (2 PTS) Assist: Morris (1 AST),2
+2022-01-16,22100617,DET,PHX,1,11:13,DET,Cade Cunningham,[DET 2-0] Cunningham Pullup Jump shot: Made (2 PTS),2
+2022-01-12,22100618,IND,BOS,1,11:28,BOS,Al Horford,[BOS 2-0] Horford Driving Floating Jump Shot: Made (2 PTS) Assist: Tatum (1 AST),2
+2022-01-12,22100619,PHI,CHA,1,11:16,CHA,Gordon Hayward,[CHA 3-0] Hayward 3pt Shot: Made (3 PTS) Assist: Rozier (1 AST),3
+2022-01-12,22100620,WAS,ORL,1,10:47,WAS,Spencer Dinwiddie,[WAS 2-0] Dinwiddie Hook Shot: Made (2 PTS),2
+2022-01-12,22100621,ATL,MIA,1,11:29,ATL,Bogdan Bogdanovic,[ATL 2-0] Bogdanovic Pullup Jump shot: Made (2 PTS),2
+2022-01-12,22100622,NYK,DAL,1,11:45,NYK,Evan Fournier,[NYK 3-0] Fournier 3pt Shot: Made (3 PTS) Assist: Burks (1 AST),3
+2022-01-12,22100623,SAS,HOU,1,11:41,HOU,Christian Wood,[HOU 2-0] Wood Dunk Shot: Made (2 PTS) Assist: Tate (1 AST),2
+2022-01-12,22100624,UTA,CLE,1,10:10,CLE,Lauri Markkanen,[CLE 2-0] Markkanen Cutting Layup Shot: Made (2 PTS) Assist: Stevens (1 AST),2
+2022-01-12,22100625,CHI,BKN,1,10:47,CHI,DeMar DeRozan,[CHI 2-0] DeRozan Layup Shot: Made (2 PTS),2
+2022-01-12,22100626,SAC,LAL,1,11:05,SAC,De'Aaron Fox,[SAC 2-2] Fox Cutting Layup Shot: Made (2 PTS) Assist: Metu (1 AST),2
+2022-01-13,22100627,MIL,GSW,1,10:40,GSW,Andrew Wiggins,[GSW 2-2] Wiggins Turnaround Hook Shot: Made (2 PTS) Assist: Payton II (1 AST),2
+2022-01-13,22100628,MEM,MIN,1,11:49,MIN,D'Angelo Russell,[MIN 2-0] Russell Cutting Finger Roll Layup Shot: Made (2 PTS) Assist: Beverley (1 AST),2
+2022-01-13,22100629,NOP,LAC,1,11:12,NOP,Jonas Valanciunas,[NOP 2-0] Valanciunas Fadeaway Jump Shot: Made (2 PTS) Assist: Hart (1 AST),2
+2022-01-13,22100630,BKN,OKC,1,11:17,BKN,Kessler Edwards,[BKN 2-0] Edwards Running Dunk Shot: Made (2 PTS) Assist: Harden (1 AST),2
+2022-01-13,22100631,DEN,POR,1,11:45,POR,Nassir Little,[POR 3-0] Little 3pt Shot: Made (3 PTS) Assist: McLemore (1 AST),3
+2022-01-14,22100632,CHA,ORL,1,11:39,ORL,Gary Harris,[ORL 3-0] Harris 3pt Shot: Made (3 PTS),3
+2022-01-14,22100633,DET,TOR,1,11:01,DET,Hamidou Diallo,[DET 2-0] Diallo Floating Jump shot: Made (2 PTS) Assist: Stewart (1 AST),2
+2022-01-14,22100634,IND,PHX,1,11:39,PHX,Deandre Ayton,[PHX 2-0] Ayton Jump Shot: Made (2 PTS) Assist: Bridges (1 AST),2
+2022-01-14,22100635,PHI,BOS,1,11:21,BOS,Al Horford,[BOS 3-0] Horford 3pt Shot: Made (3 PTS) Assist: Schroder (1 AST),3
+2022-01-14,22100636,MIA,ATL,1,11:21,MIA,Omer Yurtseven,[MIA 2-0] Yurtseven Dunk Shot: Made (2 PTS) Assist: Strus (1 AST),2
+2022-01-14,22100637,CHI,GSW,1,11:37,CHI,Lonzo Ball,[CHI 3-0] Ball 3pt Shot: Made (3 PTS) Assist: DeRozan (1 AST),3
+2022-01-14,22100638,SAS,CLE,1,10:29,CLE,Darius Garland,[CLE 4-0] Garland 3pt Shot: Made (3 PTS) Assist: Stevens (1 AST),3
+2022-01-14,22100639,MEM,DAL,1,11:00,MEM,Ziaire Williams,[MEM 2-0] Williams Running Alley Oop Dunk Shot: Made (2 PTS) Assist: Morant (1 AST),2
+2022-01-14,22100640,SAC,HOU,1,11:25,SAC,Marvin Bagley III,[SAC 2-0] Bagley III Jump Shot: Made (2 PTS) Assist: Haliburton (1 AST),2
+2022-01-15,22100641,MIL,TOR,1,11:21,MIL,Bobby Portis,[MIL 3-0] Portis 3pt Shot: Made (3 PTS) Assist: Middleton (1 AST),3
+2022-01-15,22100642,WAS,POR,1,11:04,POR,Jusuf Nurkic,[POR 2-2] Nurkic Tip Layup Shot: Made (2 PTS),2
+2022-01-15,22100643,ATL,NYK,1,11:11,NYK,RJ Barrett,[NYK 2-0] Barrett Running Layup Shot: Made (2 PTS) Assist: Burks (1 AST),2
+2022-01-15,22100644,BKN,NOP,1,11:41,BKN,Kevin Durant,[BKN 2-0] Durant Jump Shot: Made (2 PTS),2
+2022-01-15,22100645,MIA,PHI,1,11:36,PHI,Furkan Korkmaz,[PHI 2-0] Korkmaz Running Layup Shot: Made (2 PTS) Assist: Curry (1 AST),2
+2022-01-15,22100646,OKC,CLE,1,11:02,OKC,Derrick Favors,[OKC 3-0] Favors Putback Layup Shot: Made (2 PTS),2
+2022-01-15,22100647,BOS,CHI,1,10:40,CHI,Nikola Vucevic,[CHI 2-0] Vucevic Hook Shot: Made (2 PTS) Assist: White (1 AST),2
+2022-01-15,22100648,SAS,LAC,1,11:09,SAS,Keldon Johnson,[SAS 3-0] Johnson 3pt Shot: Made (3 PTS) Assist: Landale (1 AST),3
+2022-01-15,22100649,DEN,LAL,1,10:47,LAL,Malik Monk,[LAL 2-2] Monk Driving Layup Shot: Made (2 PTS),2
+2022-01-15,22100650,DAL,ORL,1,11:38,DAL,Kristaps Porzingis,[DAL 2-0] Porzingis Turnaround Fadeaway shot: Made (2 PTS),2
+2022-01-16,22100651,SAC,HOU,1,11:47,HOU,Christian Wood,[HOU 3-0] Wood 3pt Shot: Made (3 PTS) Assist: Porter Jr. (1 AST),3
+2022-01-16,22100652,MIN,GSW,1,11:24,GSW,Klay Thompson,[GSW 2-0] Thompson Turnaround Fadeaway Bank Jump Shot: Made (2 PTS),2
+2022-01-16,22100653,DEN,UTA,1,11:38,DEN,Nikola Jokic,[DEN 2-0] Jokic Turnaround Hook Shot: Made (2 PTS),2
+2022-01-17,22100654,BOS,NOP,1,10:20,NOP,Brandon Ingram,[NOP 4-0] Ingram Fadeaway Jump Shot: Made (2 PTS),2
+2022-01-17,22100655,NYK,CHA,1,10:58,CHA,Miles Bridges,[CHA 2-0] Bridges Driving Layup Shot: Made (2 PTS),2
+2022-01-17,22100656,WAS,PHI,1,11:44,PHI,Seth Curry,[PHI 2-0] Curry Pullup Jump shot: Made (2 PTS),2
+2022-01-17,22100657,CLE,BKN,1,11:26,CLE,Darius Garland,[CLE 2-0] Garland Pullup Jump shot: Made (2 PTS),2
+2022-01-17,22100658,MEM,CHI,1,10:48,CHI,Coby White,[CHI 3-0] White 3pt Shot: Made (3 PTS) Assist: Dosunmu (1 AST),3
+2022-01-17,22100659,LAC,IND,1,11:13,LAC,Marcus Morris Sr.,[LAC 2-0] Marc Morris Sr. Turnaround Jump Shot: Made (2 PTS) Assist: Coffey (1 AST),2
+2022-01-17,22100660,ATL,MIL,1,11:01,MIL,Bobby Portis,[MIL 2-0] Portis Floating Jump shot: Made (2 PTS),2
+2022-01-17,22100661,ORL,POR,1,11:41,ORL,Robin Lopez,[ORL 2-0] Lopez Turnaround Hook Shot: Made (2 PTS),2
+2022-01-17,22100662,MIA,TOR,1,10:37,MIA,Jimmy Butler,[MIA 2-0] Butler Putback Layup Shot: Made (2 PTS),2
+2022-01-17,22100663,DAL,OKC,1,11:46,DAL,Kristaps Porzingis,[DAL 2-0] Porzingis Jump Shot: Made (2 PTS) Assist: Doncic (1 AST),2
+2022-01-17,22100664,SAS,PHX,1,11:36,PHX,Devin Booker,[PHX 2-0] Booker Pullup Jump shot: Made (2 PTS) Assist: Paul (1 AST),2
+2022-01-17,22100665,LAL,UTA,1,11:07,LAL,Avery Bradley,[LAL 3-0] Bradley 3pt Shot: Made (3 PTS) Assist: James (1 AST),3
+2022-01-18,22100666,NYK,MIN,1,11:38,MIN,D'Angelo Russell,[MIN 3-0] Russell 3pt Shot: Made (3 PTS),3
+2022-01-18,22100667,GSW,DET,1,10:46,DET,Isaiah Stewart,[DET 2-0] Stewart Running Layup Shot: Made (2 PTS) Assist: Cunningham (1 AST),2
+2022-01-19,22100668,PHI,ORL,1,11:11,ORL,Mo Bamba,[ORL 2-0] Bamba Tip Layup Shot: Made (2 PTS),2
+2022-01-19,22100669,WAS,BKN,1,11:21,BKN,Day'Ron Sharpe,[BKN 2-0] Sharpe Alley Oop Dunk Shot: Made (2 PTS) Assist: Irving (1 AST),2
+2022-01-19,22100670,ATL,MIN,1,11:46,MIN,Anthony Edwards,[MIN 2-0] Edwards Pullup Jump shot: Made (2 PTS) Assist: Towns (1 AST),2
+2022-01-19,22100671,BOS,CHA,1,10:47,BOS,Jaylen Brown,[BOS 2-0] Brown Jump Shot: Made (2 PTS) Assist: Schroder (1 AST),2
+2022-01-19,22100672,MIA,POR,1,11:36,POR,Anfernee Simons,[POR 3-0] Simons 3pt Shot: Made (3 PTS),3
+2022-01-19,22100673,CHI,CLE,1,11:17,CLE,Lauri Markkanen,[CLE 2-0] Markkanen Cutting Dunk Shot: Made (2 PTS) Assist: Allen (1 AST),2
+2022-01-19,22100674,MIL,MEM,1,11:21,MIL,George Hill,[MIL 2-0] G Hill Cutting Layup Shot: Made (2 PTS) Assist: Antetokounmpo (1 AST),2
+2022-01-19,22100675,DAL,TOR,1,11:35,DAL,Kristaps Porzingis,[DAL 2-0] Porzingis Turnaround Fadeaway shot: Made (2 PTS),2
+2022-01-19,22100676,SAS,OKC,1,11:46,SAS,Jakob Poeltl,[SAS 2-0] Poeltl Cutting Finger Roll Layup Shot: Made (2 PTS) Assist: White (1 AST),2
+2022-01-19,22100677,UTA,HOU,1,11:32,UTA,Rudy Gobert,[UTA 2-0] Gobert Layup Shot: Made (2 PTS),2
+2022-01-19,22100678,DEN,LAC,1,11:42,DEN,Nikola Jokic,[DEN 2-0] Jokic Hook Shot: Made (2 PTS),2
+2022-01-19,22100679,SAC,DET,1,09:58,DET,Saddiq Bey,[DET 3-3] Bey 3pt Shot: Made (3 PTS) Assist: Stewart (1 AST),3
+2022-01-19,22100680,LAL,IND,1,11:15,LAL,LeBron James,[LAL 2-0] James Reverse Layup Shot: Made (2 PTS) Assist: Howard (1 AST),2
+2022-01-20,22100681,NYK,NOP,1,11:44,NOP,Brandon Ingram,[NOP 2-0] Ingram Pullup Jump shot: Made (2 PTS) Assist: Valanciunas (1 AST),2
+2022-01-20,22100682,DAL,PHX,1,11:28,PHX,Devin Booker,[PHX 3-0] Booker 3pt Shot: Made (3 PTS) Assist: Paul (1 AST),3
+2022-01-20,22100683,GSW,IND,1,11:34,GSW,Klay Thompson,[GSW 2-0] Thompson Cutting Layup Shot: Made (2 PTS) Assist: Curry (1 AST),2
+2022-01-21,22100684,CHA,OKC,1,11:29,OKC,Josh Giddey,[OKC 2-0] Giddey Cutting Layup Shot: Made (2 PTS) Assist: Gilgeous-Alexander (1 AST),2
+2022-01-21,22100685,ORL,LAL,1,11:11,ORL,Mo Bamba,[ORL 2-2] Bamba Putback Dunk Shot: Made (2 PTS),2
+2022-01-21,22100686,PHI,LAC,1,11:19,LAC,Marcus Morris Sr.,[LAC 2-0] Marc Morris Sr. Driving Floating Jump Shot: Made (2 PTS),2
+2022-01-21,22100687,ATL,MIA,1,11:46,MIA,Duncan Robinson,[MIA 3-0] Robinson 3pt Shot: Made (3 PTS) Assist: Adebayo (1 AST),3
+2022-01-21,22100688,BOS,POR,1,10:27,POR,Nassir Little,[POR 4-0] Little 3pt Shot: Made (3 PTS) Assist: Simons (1 AST),3
+2022-01-21,22100689,WAS,TOR,1,11:29,WAS,Kentavious Caldwell-Pope,[WAS 3-0] Caldwell-Pope 3pt Shot: Made (3 PTS) Assist: Beal (1 AST),3
+2022-01-21,22100690,MIL,CHI,1,11:03,MIL,Bobby Portis,[MIL 3-0] Portis 3pt Shot: Made (3 PTS) Assist: Middleton (1 AST),3
+2022-01-21,22100691,SAS,BKN,1,11:00,BKN,James Harden,[BKN 2-0] Harden Running Layup Shot: Made (2 PTS),2
+2022-01-21,22100692,DEN,MEM,1,11:35,MEM,John Konchar,[MEM 3-0] Konchar 3pt Shot: Made (3 PTS) Assist: Jackson Jr. (1 AST),3
+2022-01-21,22100693,UTA,DET,1,11:43,UTA,Bojan Bogdanovic,[UTA 2-0] Bogdanovic Driving Floating Bank Jump Shot: Made (2 PTS) Assist: Ingles (1 AST),2
+2022-01-21,22100694,GSW,HOU,1,11:43,HOU,Christian Wood,[HOU 3-0] Wood 3pt Shot: Made (3 PTS) Assist: Porter Jr. (1 AST),3
+2022-01-22,22100695,CLE,OKC,1,11:34,CLE,Evan Mobley,[CLE 2-0] Mobley Driving Floating Jump Shot: Made (2 PTS) Assist: Garland (1 AST),2
+2022-01-22,22100696,MIL,SAC,1,11:40,SAC,Terence Davis,[SAC 3-0] Davis 3pt Shot: Made (3 PTS) Assist: Barnes (1 AST),3
+2022-01-22,22100697,PHX,IND,1,11:46,PHX,JaVale McGee,[PHX 2-0] McGee Layup Shot: Made (2 PTS) Assist: Paul (1 AST),2
+2022-01-23,22100698,NYK,LAC,1,11:17,NYK,Julius Randle,[NYK 3-0] Randle 3pt Shot: Made (3 PTS),3
+2022-01-23,22100699,WAS,BOS,1,11:21,BOS,Robert Williams III,[BOS 2-0] Williams III Alley Oop Dunk Shot: Made (2 PTS) Assist: Tatum (1 AST),2
+2022-01-23,22100700,MIA,LAL,1,11:13,MIA,Bam Adebayo,[MIA 2-0] Adebayo Alley Oop Dunk Shot: Made (2 PTS) Assist: Vincent (1 AST),2
+2022-01-23,22100701,ORL,CHI,1,11:41,ORL,Cole Anthony,[ORL 2-0] Anthony Driving Layup Shot: Made (2 PTS),2
+2022-01-23,22100702,TOR,POR,1,11:26,POR,Nassir Little,[POR 2-0] Little Running Dunk Shot: Made (2 PTS) Assist: McCollum (1 AST),2
+2022-01-23,22100703,CHA,ATL,1,11:41,CHA,Miles Bridges,[CHA 2-0] Bridges Step Back Jump shot: Made (2 PTS) Assist: Rozier (1 AST),2
+2022-01-23,22100704,SAS,PHI,1,11:32,PHI,Furkan Korkmaz,[PHI 2-0] Korkmaz Driving Layup Shot: Made (2 PTS),2
+2022-01-23,22100705,DAL,MEM,1,10:35,DAL,Luka Doncic,[DAL 2-0] Doncic Cutting Finger Roll Layup Shot: Made (2 PTS) Assist: Porzingis (1 AST),2
+2022-01-23,22100706,MIN,BKN,1,11:18,MIN,D'Angelo Russell,[MIN 2-0] Russell Driving Floating Jump Shot: Made (2 PTS),2
+2022-01-23,22100707,DEN,DET,1,11:48,DET,Isaiah Stewart,[DET 2-0] Stewart Reverse Layup Shot: Made (2 PTS) Assist: Cunningham (1 AST),2
+2022-01-23,22100708,GSW,UTA,1,11:26,UTA,Bojan Bogdanovic,[UTA 2-0] Bogdanovic Pullup Jump shot: Made (2 PTS) Assist: Ingles (1 AST),2
+2022-01-24,22100709,CLE,NYK,1,11:07,CLE,Evan Mobley,[CLE 2-0] Mobley Cutting Dunk Shot: Made (2 PTS) Assist: Garland (1 AST),2
+2022-01-10,22100711,HOU,PHI,1,11:13,HOU,Daniel Theis,[HOU 3-0] Theis 3pt Shot: Made (3 PTS) Assist: Porter Jr. (1 AST),3
+2022-01-24,22100712,NOP,IND,1,11:42,NOP,Josh Hart,[NOP 2-0] Hart Driving Layup Shot: Made (2 PTS) Assist: Valanciunas (1 AST),2
+2022-01-24,22100713,PHX,UTA,1,11:47,PHX,Mikal Bridges,[PHX 2-0] Bridges Cutting Layup Shot: Made (2 PTS) Assist: Paul (1 AST),2
+2022-01-25,22100714,DET,DEN,1,11:44,DET,Saddiq Bey,[DET 3-0] Bey 3pt Shot: Made (3 PTS) Assist: Cunningham (1 AST),3
+2022-01-25,22100715,TOR,CHA,1,11:26,TOR,Pascal Siakam,[TOR 2-2] Siakam Turnaround Fadeaway Bank Jump Shot: Made (2 PTS),2
+2022-01-25,22100716,WAS,LAC,1,11:38,WAS,Kyle Kuzma,[WAS 2-0] Kuzma Turnaround Fadeaway shot: Made (2 PTS) Assist: Dinwiddie (1 AST),2
+2022-01-25,22100717,BOS,SAC,1,11:22,BOS,Jayson Tatum,[BOS 3-0] Tatum 3pt Shot: Made (3 PTS) Assist: Smart (1 AST),3
+2022-01-25,22100718,BKN,LAL,1,11:42,LAL,Anthony Davis,[LAL 2-0] Davis Alley Oop Dunk Shot: Made (2 PTS) Assist: James (1 AST),2
+2022-01-25,22100719,HOU,SAS,1,11:41,SAS,Dejounte Murray,[SAS 2-0] Murray Driving Layup Shot: Made (2 PTS) Assist: White (1 AST),2
+2022-01-25,22100720,GSW,DAL,1,10:14,DAL,Kristaps Porzingis,[DAL 3-0] Porzingis 3pt Shot: Made (3 PTS) Assist: Doncic (1 AST),3
+2022-01-25,22100721,POR,MIN,1,11:17,POR,Jusuf Nurkic,[POR 2-0] Nurkic Putback Layup Shot: Made (2 PTS),2
+2022-01-26,22100722,CLE,MIL,1,10:38,MIL,Pat Connaughton,[MIL 3-0] Connaughton 3pt Shot: Made (3 PTS) Assist: Portis (1 AST),3
+2022-01-26,22100723,IND,CHA,1,11:22,CHA,Miles Bridges,[CHA 3-1] Bridges 3pt Shot: Made (3 PTS) Assist: Rozier (1 AST),3
+2022-01-26,22100724,ORL,LAC,1,11:21,LAC,Ivica Zubac,[LAC 2-1] Zubac Turnaround Hook Shot: Made (2 PTS) Assist: Coffey (1 AST),2
+2022-01-26,22100725,ATL,SAC,1,11:20,ATL,Clint Capela,[ATL 2-0] Capela Running Layup Shot: Made (2 PTS) Assist: Young (1 AST),2
+2022-01-26,22100727,MIA,NYK,1,10:37,MIA,Duncan Robinson,[MIA 3-0] Robinson 3pt Shot: Made (3 PTS) Assist: Adebayo (1 AST),3
+2022-01-26,22100728,SAS,MEM,1,11:42,SAS,Doug McDermott,[SAS 2-0] McDermott Pullup Jump shot: Made (2 PTS) Assist: Poeltl (1 AST),2
+2022-01-28,22100729,NOP,DEN,1,11:19,NOP,Devonte' Graham,[NOP 2-0] Graham Pullup Jump shot: Made (2 PTS) Assist: Hart (1 AST),2
+2022-01-24,22100730,OKC,CHI,1,11:37,OKC,Jeremiah Robinson-Earl,[OKC 3-0] Robinson-Earl 3pt Shot: Made (3 PTS) Assist: Giddey (1 AST),3
+2022-01-26,22100731,UTA,PHX,1,11:48,UTA,Royce O'Neale,[UTA 2-0] O'Neale Cutting Layup Shot: Made (2 PTS) Assist: Conley (1 AST),2
+2022-01-26,22100732,POR,DAL,1,11:31,DAL,Kristaps Porzingis,[DAL 2-0] Porzingis Reverse Dunk Shot: Made (2 PTS) Assist: Brunson (1 AST),2
+2022-01-27,22100733,PHI,LAL,1,11:18,LAL,Stanley Johnson,[LAL 2-0] Johnson Pullup Jump shot: Made (2 PTS),2
+2022-01-27,22100734,GSW,MIN,1,11:49,MIN,Karl-Anthony Towns,[MIN 2-0] Towns Jump Shot: Made (2 PTS) Assist: Russell (1 AST),2
+2022-01-28,22100735,CHA,LAL,1,11:28,CHA,LaMelo Ball,[CHA 2-0] Ball Driving Floating Jump Shot: Made (2 PTS),2
+2022-01-28,22100736,ORL,DET,1,11:16,ORL,Franz Wagner,[ORL 2-0] Wagner Running Layup Shot: Made (2 PTS) Assist: Suggs (1 AST),2
+2022-01-28,22100737,ATL,BOS,1,10:58,BOS,Marcus Smart,[BOS 2-0] Smart Running Layup Shot: Made (2 PTS),2
+2022-01-28,22100738,MIA,LAC,1,10:54,LAC,Nicolas Batum,[LAC 2-0] Batum Jump Shot: Made (2 PTS) Assist: Zubac (1 AST),2
+2022-01-28,22100739,HOU,POR,1,11:38,POR,Jusuf Nurkic,[POR 2-0] Nurkic Hook Bank Shot: Made (2 PTS),2
+2022-01-28,22100740,MEM,UTA,1,11:32,MEM,Ja Morant,[MEM 2-0] Morant Tip Dunk Shot: Made (2 PTS),2
+2022-01-28,22100741,OKC,IND,1,11:39,IND,Domantas Sabonis,[IND 2-0] Sabonis Turnaround Hook Shot: Made (2 PTS),2
+2022-01-28,22100742,SAS,CHI,1,11:37,SAS,Jakob Poeltl,[SAS 2-0] Poeltl Hook Shot: Made (2 PTS),2
+2022-01-28,22100743,PHX,MIN,1,11:35,MIN,Jaylen Nowell,[MIN 3-2] Nowell 3pt Shot: Made (3 PTS) Assist: Edwards (1 AST),3
+2022-01-28,22100744,MIL,NYK,1,11:37,MIL,Bobby Portis,[MIL 2-0] Portis Running Jump Shot: Made (2 PTS) Assist: Middleton (1 AST),2
+2022-01-29,22100745,NOP,BOS,1,11:11,BOS,Jaylen Brown,[BOS 3-2] Brown 3pt Shot: Made (3 PTS) Assist: Smart (1 AST),3
+2022-01-29,22100746,DAL,IND,1,11:41,DAL,Kristaps Porzingis,[DAL 2-0] Porzingis Driving Dunk Shot: Made (2 PTS) Assist: Doncic (1 AST),2
+2022-01-29,22100747,PHI,SAC,1,11:39,SAC,Davion Mitchell,[SAC 3-0] Mitchell 3pt Shot: Made (3 PTS) Assist: Barnes (1 AST),3
+2022-01-29,22100748,MIA,TOR,1,10:52,TOR,Pascal Siakam,[TOR 2-0] Siakam Driving Hook Shot: Made (2 PTS),2
+2022-01-29,22100749,MEM,WAS,1,10:47,MEM,Ja Morant,[MEM 3-0] Morant 3pt Shot: Made (3 PTS),3
+2022-01-29,22100750,GSW,BKN,1,11:47,BKN,Kessler Edwards,[BKN 3-0] Edwards 3pt Shot: Made (3 PTS) Assist: Irving (1 AST),3
+2022-01-30,22100751,ATL,LAL,1,11:17,ATL,John Collins,[ATL 2-0] Collins Alley Oop Layup shot: Made (2 PTS) Assist: Capela (1 AST),2
+2022-01-30,22100752,CHA,LAC,1,11:05,LAC,Ivica Zubac,[LAC 2-0] Zubac Hook Shot: Made (2 PTS) Assist: Jackson (1 AST),2
+2022-01-30,22100753,CHI,POR,1,11:40,POR,Jusuf Nurkic,[POR 2-0] Nurkic Driving Layup Shot: Made (2 PTS),2
+2022-01-30,22100754,DET,CLE,1,11:36,CLE,Isaac Okoro,[CLE 2-0] Okoro Cutting Layup Shot: Made (2 PTS) Assist: Allen (1 AST),2
+2022-01-30,22100755,ORL,DAL,1,11:34,ORL,Cole Anthony,[ORL 2-0] Anthony Driving Finger Roll Layup Shot: Made (2 PTS),2
+2022-01-30,22100756,MIL,DEN,1,11:42,MIL,Bobby Portis,[MIL 2-0] Portis Floating Jump shot: Made (2 PTS) Assist: Middleton (1 AST),2
+2022-01-30,22100757,MIN,UTA,1,10:32,UTA,Mike Conley,[UTA 2-0] Conley Pullup Jump shot: Made (2 PTS),2
+2022-01-30,22100758,PHX,SAS,1,11:03,PHX,Bismack Biyombo,[PHX 2-0] Biyombo Turnaround Hook Shot: Made (2 PTS),2
+2022-01-31,22100759,CLE,NOP,1,11:39,NOP,Jaxson Hayes,[NOP 2-0] Hayes Driving Hook Shot: Made (2 PTS) Assist: Graham (1 AST),2
+2022-01-31,22100760,IND,LAC,1,11:46,IND,Justin Holiday,[IND 3-0] Holiday 3pt Shot: Made (3 PTS) Assist: LeVert (1 AST),3
+2022-01-31,22100761,PHI,MEM,1,11:06,PHI,Andre Drummond,[PHI 2-0] Drummond Tip Layup Shot: Made (2 PTS),2
+2022-01-31,22100762,BOS,MIA,1,10:42,BOS,Robert Williams III,[BOS 2-0] Williams III Cutting Dunk Shot: Made (2 PTS) Assist: Smart (1 AST),2
+2022-01-31,22100763,NYK,SAC,1,11:42,SAC,Davion Mitchell,[SAC 3-0] Mitchell 3pt Shot: Made (3 PTS) Assist: Barnes (1 AST),3
+2022-01-31,22100764,HOU,GSW,1,11:21,GSW,Moses Moody,[GSW 3-0] Moody 3pt Shot: Made (3 PTS) Assist: Thompson (1 AST),3
+2022-01-31,22100765,OKC,POR,1,11:31,POR,CJ McCollum,[POR 3-0] McCollum 3pt Shot: Made (3 PTS),3
+2022-02-01,22100766,DET,NOP,1,11:47,DET,Jerami Grant,[DET 2-0] Grant Jump Shot: Made (2 PTS) Assist: Stewart (1 AST),2
+2022-01-31,22100767,ATL,TOR,1,11:00,TOR,Gary Trent Jr.,[TOR 3-0] Trent Jr. 3pt Shot: Made (3 PTS) Assist: Siakam (1 AST),3
+2022-02-01,22100768,MIL,WAS,1,11:26,MIL,Bobby Portis,[MIL 2-0] Portis Floating Jump shot: Made (2 PTS),2
+2022-02-01,22100769,CHI,ORL,1,11:14,ORL,Wendell Carter Jr.,[ORL 3-0] Carter Jr. 3pt Shot: Made (3 PTS) Assist: Suggs (1 AST),3
+2022-02-01,22100770,MIN,DEN,1,10:19,MIN,Jarred Vanderbilt,[MIN 2-0] Vanderbilt Layup Shot: Made (2 PTS) Assist: McDaniels (1 AST),2
+2022-02-01,22100771,SAS,GSW,1,11:31,GSW,Damion Lee,[GSW 2-0] Lee Pullup Jump shot: Made (2 PTS) Assist: Toscano-Anderson (1 AST),2
+2022-02-01,22100772,PHX,BKN,1,11:52,PHX,Jae Crowder,[PHX 3-0] Crowder 3pt Shot: Made (3 PTS) Assist: Paul (1 AST),3
+2022-02-02,22100773,IND,ORL,1,10:48,IND,Terry Taylor,[IND 2-0] Taylor Layup Shot: Made (2 PTS),2
+2022-02-02,22100774,PHI,WAS,1,11:46,PHI,Matisse Thybulle,[PHI 3-0] Thybulle 3pt Shot: Made (3 PTS) Assist: Maxey (1 AST),3
+2022-02-02,22100775,BOS,CHA,1,11:09,BOS,Robert Williams III,[BOS 2-0] Williams III Tip Dunk Shot: Made (2 PTS),2
+2022-02-02,22100776,NYK,MEM,1,11:06,MEM,Ja Morant,[MEM 2-1] Morant Floating Jump shot: Made (2 PTS),2
+2022-02-02,22100777,HOU,CLE,1,11:02,CLE,Jarrett Allen,[CLE 2-0] Allen Putback Dunk Shot: Made (2 PTS),2
+2022-02-02,22100778,DAL,OKC,1,11:11,DAL,Luka Doncic,[DAL 2-2] Doncic Driving Layup Shot: Made (2 PTS) Assist: Powell (1 AST),2
+2022-02-02,22100779,UTA,DEN,1,11:12,UTA,Royce O'Neale,[UTA 2-0] O'Neale Driving Finger Roll Layup Shot: Made (2 PTS) Assist: Bogdanovic (1 AST),2
+2022-02-02,22100780,SAC,BKN,1,11:39,BKN,Nic Claxton,[BKN 2-0] Claxton Cutting Finger Roll Layup Shot: Made (2 PTS) Assist: Harden (1 AST),2
+2022-02-02,22100781,LAL,POR,1,11:38,LAL,Avery Bradley,[LAL 3-0] Bradley 3pt Shot: Made (3 PTS) Assist: Westbrook (1 AST),3
+2022-02-03,22100782,DET,MIN,1,11:40,DET,Jerami Grant,[DET 2-0] Grant Driving Reverse Layup Shot: Made (2 PTS) Assist: Bey (1 AST),2
+2022-02-03,22100783,ATL,PHX,1,11:38,PHX,Mikal Bridges,[PHX 2-0] Bridges Running Layup Shot: Made (2 PTS) Assist: Paul (1 AST),2
+2022-02-01,22100784,TOR,MIA,1,11:38,MIA,Jimmy Butler,[MIA 2-0] Butler Pullup Jump shot: Made (2 PTS) Assist: Robinson (1 AST),2
+2022-02-03,22100785,GSW,SAC,1,11:43,SAC,Harrison Barnes,[SAC 2-0] Barnes Driving Layup Shot: Made (2 PTS) Assist: Holmes (1 AST),2
+2022-02-03,22100786,LAC,LAL,1,11:48,LAL,Avery Bradley,[LAL 3-0] Bradley 3pt Shot: Made (3 PTS),3
+2022-02-04,22100787,CHA,CLE,1,11:32,CLE,Jarrett Allen,[CLE 2-0] Allen Cutting Dunk Shot: Made (2 PTS) Assist: Osman (1 AST),2
+2022-02-04,22100788,DET,BOS,1,11:42,BOS,Jaylen Brown,[BOS 2-0] Brown Hook Shot: Made (2 PTS) Assist: Horford (1 AST),2
+2022-02-04,22100789,IND,CHI,1,11:55,CHI,Javonte Green,[CHI 2-0] Green Driving Finger Roll Layup Shot: Made (2 PTS),2
+2022-02-04,22100790,TOR,ATL,1,11:19,ATL,Trae Young,[ATL 2-0] Young Floating Jump shot: Made (2 PTS),2
+2022-02-04,22100791,DAL,PHI,1,11:06,DAL,Dorian Finney-Smith,[DAL 3-0] Finney-Smith 3pt Shot: Made (3 PTS) Assist: Doncic (1 AST),3
+2022-02-04,22100792,SAS,HOU,1,11:29,SAS,Jakob Poeltl,[SAS 2-0] Poeltl Reverse Layup Shot: Made (2 PTS) Assist: Johnson (1 AST),2
+2022-02-04,22100793,UTA,BKN,1,11:32,UTA,Royce O'Neale,[UTA 2-0] O'Neale Cutting Layup Shot: Made (2 PTS) Assist: Mitchell (1 AST),2
+2022-02-04,22100794,DEN,NOP,1,11:38,NOP,Herbert Jones,[NOP 2-0] Jones Cutting Dunk Shot: Made (2 PTS) Assist: Valanciunas (1 AST),2
+2022-02-04,22100795,POR,OKC,1,10:46,POR,Anfernee Simons,[POR 2-0] Simons Pullup Jump shot: Made (2 PTS) Assist: Nurkic (1 AST),2
+2022-02-05,22100796,ORL,MEM,1,11:43,MEM,Jaren Jackson Jr.,[MEM 2-0] Jackson Jr. Alley Oop Dunk Shot: Made (2 PTS) Assist: Morant (1 AST),2
+2022-02-05,22100797,CHA,MIA,1,11:46,MIA,P.J. Tucker,[MIA 2-0] Tucker Hook Shot: Made (2 PTS) Assist: Adebayo (1 AST),2
+2022-02-05,22100798,WAS,PHX,1,11:03,WAS,Kyle Kuzma,[WAS 3-0] Kuzma 3pt Shot: Made (3 PTS),3
+2022-02-05,22100799,LAL,NYK,1,11:30,NYK,RJ Barrett,[NYK 3-0] Barrett 3pt Shot: Made (3 PTS) Assist: Walker (1 AST),3
+2022-02-05,22100800,POR,MIL,1,10:47,MIL,Jrue Holiday,[MIL 2-0] Holiday Step Back Jump shot: Made (2 PTS),2
+2022-02-05,22100801,SAC,OKC,1,11:45,SAC,Harrison Barnes,[SAC 2-0] Barnes Reverse Layup Shot: Made (2 PTS),2
+2022-02-06,22100802,CHI,PHI,1,11:36,PHI,Danny Green,[PHI 2-0] Green Layup Shot: Made (2 PTS) Assist: Curry (1 AST),2
+2022-02-06,22100803,MIN,DET,1,11:25,DET,Hamidou Diallo,[DET 2-0] Diallo Floating Jump shot: Made (2 PTS) Assist: Joseph (1 AST),2
+2022-02-06,22100804,DEN,BKN,1,11:42,DEN,Will Barton,[DEN 2-0] Barton Cutting Layup Shot: Made (2 PTS) Assist: Jokic (1 AST),2
+2022-02-06,22100805,CLE,IND,1,09:37,IND,Chris Duarte,[IND 2-0] Duarte Driving Layup Shot: Made (2 PTS),2
+2022-02-06,22100806,ORL,BOS,1,10:05,BOS,Jaylen Brown,[BOS 2-0] Brown Driving Layup Shot: Made (2 PTS),2
+2022-02-06,22100807,DAL,ATL,1,11:42,DAL,Luka Doncic,[DAL 2-0] Doncic Driving Floating Jump Shot: Made (2 PTS) Assist: Powell (1 AST),2
+2022-02-06,22100808,HOU,NOP,1,11:02,HOU,Alperen Sengun,[HOU 3-0] Sengun 3pt Shot: Made (3 PTS) Assist: Green (1 AST),3
+2022-02-06,22100809,LAC,MIL,1,11:29,LAC,Reggie Jackson,[LAC 2-0] Jackson Step Back Jump shot: Made (2 PTS),2
+2022-02-07,22100810,CHA,TOR,1,11:27,CHA,Miles Bridges,[CHA 2-0] Bridges Cutting Layup Shot: Made (2 PTS) Assist: Plumlee (1 AST),2
+2022-02-07,22100811,WAS,MIA,1,11:40,MIA,Bam Adebayo,[MIA 2-0] Adebayo Pullup Jump shot: Made (2 PTS),2
+2022-02-07,22100812,CHI,PHX,1,11:18,CHI,DeMar DeRozan,[CHI 2-0] DeRozan Driving Reverse Layup Shot: Made (2 PTS) Assist: Green (1 AST),2
+2022-02-07,22100813,OKC,GSW,1,11:14,OKC,Josh Giddey,[OKC 2-0] Giddey Running Layup Shot: Made (2 PTS),2
+2022-02-07,22100814,UTA,NYK,1,11:39,NYK,Mitchell Robinson,[NYK 2-0] Robinson Putback Dunk Shot: Made (2 PTS),2
+2022-02-08,22100815,PHI,PHX,1,10:37,PHX,Chris Paul,[PHX 2-0] Paul Driving Layup Shot: Made (2 PTS),2
+2022-02-08,22100816,ATL,IND,1,11:21,ATL,Clint Capela,[ATL 2-0] Capela Layup Shot: Made (2 PTS) Assist: Young (1 AST),2
+2022-02-08,22100817,BKN,BOS,1,11:03,BOS,Jaylen Brown,[BOS 2-0] Brown Turnaround Fadeaway shot: Made (2 PTS),2
+2022-02-08,22100818,MEM,LAC,1,11:43,MEM,Ziaire Williams,[MEM 3-0] Williams 3pt Shot: Made (3 PTS) Assist: Morant (1 AST),3
+2022-02-08,22100819,NOP,HOU,1,11:40,HOU,Christian Wood,[HOU 3-0] Wood 3pt Shot: Made (3 PTS) Assist: Porter Jr. (1 AST),3
+2022-02-08,22100820,DAL,DET,1,10:51,DET,Hamidou Diallo,[DET 5-1] Diallo Running Alley Oop Dunk Shot: Made (3 PTS) Assist: Bey (1 AST),2
+2022-02-08,22100821,DEN,NYK,1,11:33,NYK,Julius Randle,[NYK 2-0] Randle Jump Shot: Made (2 PTS),2
+2022-02-08,22100822,LAL,MIL,1,11:30,MIL,Khris Middleton,[MIL 2-0] Middleton Running Finger Roll Layup Shot: Made (2 PTS),2
+2022-02-08,22100823,POR,ORL,1,11:43,POR,Justise Winslow,[POR 3-0] Winslow 3pt Shot: Made (3 PTS) Assist: Nurkic (1 AST),3
+2022-02-08,22100824,SAC,MIN,1,11:25,SAC,Damian Jones,[SAC 2-0] Jones Jump Shot: Made (2 PTS) Assist: Fox (1 AST),2
+2022-02-09,22100825,CLE,SAS,1,11:06,SAS,Keldon Johnson,[SAS 3-0] Johnson 3pt Shot: Made (3 PTS) Assist: Murray (1 AST),3
+2022-02-09,22100826,CHA,CHI,1,10:42,CHA,Terry Rozier,[CHA 4-0] Rozier Cutting Layup Shot: Made (2 PTS) Assist: Plumlee (1 AST),2
+2022-02-09,22100827,OKC,TOR,1,11:38,TOR,OG Anunoby,[TOR 2-0] Anunoby Driving Layup Shot: Made (2 PTS),2
+2022-02-09,22100828,UTA,GSW,1,11:24,GSW,Kevon Looney,[GSW 2-0] Looney Reverse Layup Shot: Made (2 PTS),2
+2022-02-09,22100829,POR,LAL,1,11:15,POR,Jusuf Nurkic,[POR 2-0] Nurkic Driving Layup Shot: Made (2 PTS) Assist: Simons (1 AST),2
+2022-02-09,22100830,SAC,MIN,1,11:44,MIN,D'Angelo Russell,[MIN 3-0] Russell 3pt Shot: Made (3 PTS) Assist: Towns (1 AST),3
+2022-02-10,22100831,DET,MEM,1,10:43,MEM,Steven Adams,[MEM 2-0] Adams Tip Layup Shot: Made (2 PTS),2
+2022-02-10,22100832,WAS,BKN,1,11:32,BKN,Cam Thomas,[BKN 2-0] Thomas Driving Layup Shot: Made (2 PTS) Assist: Mills (1 AST),2
+2022-02-10,22100833,NOP,MIA,1,11:26,MIA,Kyle Lowry,[MIA 3-0] Lowry 3pt Shot: Made (3 PTS) Assist: Tucker (1 AST),3
+2022-02-10,22100834,HOU,TOR,1,11:41,HOU,Kevin Porter Jr.,[HOU 3-0] Porter Jr. 3pt Shot: Made (3 PTS) Assist: Tate (1 AST),3
+2022-02-10,22100835,DAL,LAC,1,11:17,DAL,Luka Doncic,[DAL 3-0] Doncic 3pt Shot: Made (3 PTS),3
+2022-02-10,22100836,PHX,MIL,1,11:45,PHX,Jae Crowder,[PHX 2-0] Crowder Floating Jump shot: Made (2 PTS) Assist: Booker (1 AST),2
+2022-02-10,22100837,GSW,NYK,1,10:41,GSW,Jonathan Kuminga,[GSW 3-0] Kuminga 3pt Shot: Made (3 PTS) Assist: Wiggins (1 AST),3
+2022-02-11,22100838,DET,CHA,1,11:25,CHA,Kelly Oubre Jr.,[CHA 2-0] Oubre Jr. Running Dunk Shot: Made (2 PTS) Assist: Ball (1 AST),2
+2022-02-11,22100839,IND,CLE,1,11:30,IND,Oshae Brissett,[IND 2-0] Brissett Running Dunk Shot: Made (2 PTS) Assist: Hield (1 AST),2
+2022-02-11,22100840,PHI,OKC,1,11:24,OKC,Darius Bazley,[OKC 3-0] Bazley 3pt Shot: Made (3 PTS),3
+2022-02-11,22100841,ATL,SAS,1,11:34,SAS,Devin Vassell,[SAS 2-0] Vassell Jump Shot: Made (2 PTS),2
+2022-02-11,22100842,BOS,DEN,1,11:43,BOS,Al Horford,[BOS 3-0] Horford 3pt Shot: Made (3 PTS) Assist: Smart (1 AST),3
+2022-02-11,22100843,CHI,MIN,1,11:33,CHI,Nikola Vucevic,[CHI 2-0] Vucevic Turnaround Jump Shot: Made (2 PTS) Assist: LaVine (1 AST),2
+2022-02-11,22100844,UTA,ORL,1,10:51,ORL,Wendell Carter Jr.,[ORL 2-0] Carter Jr. Running Dunk Shot: Made (2 PTS) Assist: Suggs (1 AST),2
+2022-02-12,22100845,POR,NYK,1,10:34,POR,Josh Hart,[POR 3-0] Hart 3pt Shot: Made (3 PTS) Assist: Simons (1 AST),3
+2022-02-12,22100846,CHA,MEM,1,11:39,MEM,Ja Morant,[MEM 2-0] Morant Driving Layup Shot: Made (2 PTS),2
+2022-02-12,22100847,WAS,SAC,1,11:39,SAC,De'Aaron Fox,[SAC 2-0] Fox Pullup Jump shot: Made (2 PTS),2
+2022-02-12,22100848,NOP,SAS,1,11:49,SAS,Doug McDermott,[SAS 3-0] McDermott 3pt Shot: Made (3 PTS) Assist: Vassell (1 AST),3
+2022-02-12,22100849,PHI,CLE,1,10:39,PHI,Matisse Thybulle,[PHI 3-0] Thybulle Layup Shot: Made (2 PTS) Assist: Embiid (1 AST),2
+2022-02-12,22100850,TOR,DEN,1,11:44,DEN,Bones Hyland,[DEN 2-0] Hyland Driving Floating Jump Shot: Made (2 PTS) Assist: Jokic (1 AST),2
+2022-02-12,22100851,MIA,BKN,1,11:14,BKN,Blake Griffin,[BKN 2-0] Griffin Turnaround Bank Hook Shot: Made (2 PTS),2
+2022-02-12,22100852,CHI,OKC,1,11:47,OKC,Isaiah Roby,[OKC 2-0] Roby Alley Oop Dunk Shot: Made (2 PTS) Assist: Giddey (1 AST),2
+2022-02-12,22100853,DAL,LAC,1,11:47,LAC,Marcus Morris Sr.,[LAC 2-0] Marc Morris Sr. Driving Floating Jump Shot: Made (2 PTS) Assist: Zubac (1 AST),2
+2022-02-12,22100854,GSW,LAL,1,11:21,GSW,Klay Thompson,[GSW 2-0] Thompson Finger Roll Layup Shot: Made (2 PTS),2
+2022-02-12,22100855,PHX,ORL,1,11:10,ORL,Cole Anthony,[ORL 3-0] Anthony 3pt Shot: Made (3 PTS) Assist: Suggs (1 AST),3
+2022-02-13,22100856,BOS,ATL,1,11:26,ATL,De'Andre Hunter,[ATL 3-0] Hunter 3pt Shot: Made (3 PTS) Assist: Young (1 AST),3
+2022-02-13,22100857,IND,MIN,1,11:19,IND,Goga Bitadze,[IND 3-0] Bitadze Cutting Dunk Shot: Made (3 PTS) Assist: Haliburton (1 AST),2
+2022-02-14,22100858,WAS,DET,1,11:20,WAS,Kyle Kuzma,[WAS 2-0] Kuzma Pullup Jump shot: Made (2 PTS),2
+2022-02-14,22100859,BKN,SAC,1,11:12,BKN,Bruce Brown,[BKN 2-0] Brown Driving Floating Jump Shot: Made (2 PTS) Assist: Curry (1 AST),2
+2022-02-14,22100860,NYK,OKC,1,11:44,NYK,Kemba Walker,[NYK 3-0] Walker 3pt Shot: Made (3 PTS) Assist: Fournier (1 AST),3
+2022-02-14,22100861,CHI,SAS,1,11:28,SAS,Doug McDermott,[SAS 2-0] McDermott Cutting Finger Roll Layup Shot: Made (2 PTS) Assist: Murray (1 AST),2
+2022-02-14,22100862,MIL,POR,1,11:03,MIL,Serge Ibaka,[MIL 2-2] Ibaka Hook Shot: Made (2 PTS) Assist: Holiday (1 AST),2
+2022-02-14,22100863,NOP,TOR,1,11:25,NOP,Jonas Valanciunas,[NOP 2-0] Valanciunas Putback Dunk Shot: Made (2 PTS),2
+2022-02-14,22100864,DEN,ORL,1,11:11,ORL,Jalen Suggs,[ORL 2-0] Suggs Running Alley Oop Layup Shot: Made (2 PTS) Assist: Wagner (1 AST),2
+2022-02-14,22100865,UTA,HOU,1,11:21,UTA,Rudy Gobert,[UTA 2-0] Gobert Dunk Shot: Made (2 PTS) Assist: Mitchell (1 AST),2
+2022-02-14,22100866,LAC,GSW,1,11:42,GSW,Kevon Looney,[GSW 2-0] Looney Cutting Dunk Shot: Made (2 PTS) Assist: Thompson (1 AST),2
+2022-02-15,22100867,ATL,CLE,1,11:46,ATL,Trae Young,[ATL 2-0] Young Pullup Jump shot: Made (2 PTS) Assist: Capela (1 AST),2
+2022-02-15,22100868,MIA,DAL,1,11:43,MIA,Jimmy Butler,[MIA 2-0] Butler Turnaround Fadeaway shot: Made (2 PTS) Assist: Adebayo (1 AST),2
+2022-02-15,22100869,PHI,BOS,1,11:37,BOS,Jaylen Brown,[BOS 2-0] Brown Jump Shot: Made (2 PTS) Assist: Smart (1 AST),2
+2022-02-15,22100870,MIL,IND,1,11:49,MIL,Khris Middleton,[MIL 2-0] Middleton Cutting Layup Shot: Made (2 PTS) Assist: Holiday (1 AST),2
+2022-02-15,22100871,MIN,CHA,1,11:24,CHA,Miles Bridges,[CHA 3-0] Bridges 3pt Shot: Made (3 PTS) Assist: Ball (1 AST),3
+2022-02-15,22100872,NOP,MEM,1,11:21,NOP,Jonas Valanciunas,[NOP 2-0] Valanciunas Driving Layup Shot: Made (2 PTS),2
+2022-02-15,22100873,PHX,LAC,1,11:12,LAC,Ivica Zubac,[LAC 2-0] Zubac Floating Jump shot: Made (2 PTS) Assist: Jackson (1 AST),2
+2022-02-16,22100874,ORL,ATL,1,11:40,ORL,Cole Anthony,[ORL 2-0] Anthony Driving Layup Shot: Made (2 PTS),2
+2022-02-16,22100875,BOS,DET,1,11:15,BOS,Jaylen Brown,[BOS 3-0] Brown 3pt Shot: Made (3 PTS) Assist: White (1 AST),3
+2022-02-16,22100876,IND,WAS,1,10:28,IND,Tyrese Haliburton,[IND 2-0] Haliburton Driving Floating Jump Shot: Made (2 PTS) Assist: Brissett (1 AST),2
+2022-02-16,22100877,NYK,BKN,1,10:50,BKN,James Johnson,[BKN 2-2] Johnson Cutting Layup Shot: Made (2 PTS) Assist: Curry (1 AST),2
+2022-02-16,22100878,CHI,SAC,1,11:19,SAC,De'Aaron Fox,[SAC 3-0] Fox 3pt Shot: Made (3 PTS),3
+2022-02-16,22100879,MEM,POR,1,11:11,MEM,Ziaire Williams,[MEM 2-0] Williams Jump Shot: Made (2 PTS),2
+2022-02-16,22100880,MIN,TOR,1,11:16,TOR,Gary Trent Jr.,[TOR 2-0] Trent Jr. Pullup Jump shot: Made (2 PTS),2
+2022-02-16,22100881,OKC,SAS,1,11:35,OKC,Isaiah Roby,[OKC 2-0] Roby Driving Layup Shot: Made (2 PTS) Assist: Giddey (1 AST),2
+2022-02-16,22100882,PHX,HOU,1,11:41,HOU,Jae'Sean Tate,[HOU 2-0] Tate Driving Dunk Shot: Made (2 PTS),2
+2022-02-16,22100883,GSW,DEN,1,11:39,GSW,Andrew Wiggins,[GSW 3-0] Wiggins 3pt Shot: Made (3 PTS) Assist: Looney (1 AST),3
+2022-02-16,22100884,LAL,UTA,1,11:35,LAL,Russell Westbrook,[LAL 2-0] Westbrook Driving Layup Shot: Made (2 PTS) Assist: Monk (1 AST),2
+2022-02-17,22100885,CHA,MIA,1,10:41,CHA,Miles Bridges,[CHA 2-0] Bridges Running Dunk Shot: Made (2 PTS) Assist: Ball (1 AST),2
+2022-02-17,22100886,NOP,DAL,1,11:11,DAL,Luka Doncic,[DAL 2-0] Doncic Step Back Jump shot: Made (2 PTS),2
+2022-02-17,22100887,MIL,PHI,1,11:08,MIL,Bobby Portis,[MIL 4-0] Portis 3pt Shot: Made (3 PTS) Assist: Antetokounmpo (1 AST),3
+2022-02-17,22100888,LAC,HOU,1,11:31,LAC,Ivica Zubac,[LAC 2-0] Zubac Hook Shot: Made (2 PTS) Assist: Marc Morris Sr. (1 AST),2
