@@ -252,7 +252,7 @@ start_possessions <- poss_non_consec %>%
   group_by(game_id, secs_passed_game, slug_team) %>%
   mutate(and1 = sum(msg_type == 1) > 0 & sum(msg_type == 3 & act_type == 10) > 0) %>%
   ungroup() %>%
-  mutate(start_poss = ifelse(and1 & msg_type == 1, NA, clock),
+  mutate(start_poss = ifelse(and1 & msg_type %in% c(1, 3), NA, clock),
          number_event = ifelse(msg_type == 4, number_event, number_event + 1)) %>%
   ungroup() %>%
   filter(!is.na(start_poss))
