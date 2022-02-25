@@ -34,3 +34,9 @@
   cols: 13
   description: every lineup stint and stats 2020-21
   type: table
+- path: pbp-final-gt21
+  name: pbp-final-gt21
+  rows: 514175
+  cols: 35
+  description: pbp with lineups hoopR 2020-21
+  type: table
