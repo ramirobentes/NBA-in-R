@@ -228,11 +228,13 @@ poss_non_consec <- poss_initial %>%
 
 # find start of possessions
 start_possessions <- poss_non_consec %>%
-  filter((possession == 1 & (msg_type %in% c(1, 5, 10) | (msg_type == 3 & shot_pts > 0))) | (msg_type == 4 & act_type == 0 & desc_value == 0) | (msg_type == 3 & act_type == 10)) %>%
+  filter((possession == 1 & (msg_type %in% c(1, 5, 10) | (msg_type == 3 & shot_pts > 0))) | (msg_type == 4 & act_type == 0 & desc_value == 0) | (msg_type == 3 & act_type == 10) | (msg_type == 6 & act_type == 6)) %>%
+  filter(!(msg_type == 3 & act_type == 10 & lag(msg_type) == 6 & lag(act_type) == 6)) %>%
+  filter(!(msg_type == 6 & act_type == 6)) %>%
   group_by(game_id, secs_passed_game, slug_team) %>%
-  mutate(and1 = sum(msg_type == 1) > 0 & sum(msg_type == 3 & act_type == 10) > 0) %>%
+  mutate(and1 = sum(msg_type == 1) > 0 & sum(msg_type == 3) > 0) %>%
   ungroup() %>%
-  mutate(start_poss = ifelse(and1 & msg_type == 1, NA, clock),
+  mutate(start_poss = ifelse(and1 & msg_type %in% c(1, 3), NA, clock),
          number_event = ifelse(msg_type == 4, number_event, number_event + 1)) %>%
   ungroup() %>%
   filter(!is.na(start_poss))
