@@ -104,7 +104,7 @@ players_subbed <- nba_pbp %>%
 
 # find every player that contributed to pbp in quarter and remove those that were subbed. The ones remaining played the entire quarter. Then add the players that were subbed and started (first sub was out)
 starters_quarters <- nba_pbp %>%
-  filter(!(msg_type == 6 & act_type %in% c(11, 12, 18, 30))) %>%
+  filter(!(msg_type == 6 & act_type %in% c(11, 12, 16, 18, 30))) %>%
   filter(!msg_type %in% c(9, 11)) %>% # timeout and ejection
   select(game_id, period, starts_with("player")) %>%
   pivot_longer(cols = starts_with("player")) %>%
@@ -119,9 +119,22 @@ starters_quarters <- nba_pbp %>%
               distinct(game_id = as.integer(game_id), player_name, slug_team = team_abbreviation))
 
 # see if there are quarters when couldn't find 5 starters for team (player played entire quarter and didn't contribute to pbp)
+# qtrs_missing <-   # delete if trying to find players missing using function below
 starters_quarters %>%
   count(game_id, period, slug_team) %>%
   filter(n != 5)
+
+# # Find missing starter from period
+# missing_st_qtr <- function(game_id_miss, period_miss){
+#   nba_boxscoretraditionalv2(game_id = game_id_miss, start_period = period_miss, end_period = period_miss, range_type = 1) %>%
+#     pluck("PlayerStats") %>%
+#     mutate(period = period_miss) %>%
+#     filter((period_miss > 4 & MIN == "5:00") | (period_miss <= 4 & MIN == "12:00")) %>%
+#     mutate(across(c(FGM:PLUS_MINUS), as.integer)) %>%
+#     filter(FGA + FTA + REB + AST + STL + BLK + TO + PF == 0)
+# }
+# 
+# missing_starters <- map2_df(qtrs_missing$game_id, qtrs_missing$period, missing_st_qtr)
 
 # put together table with starter for every team in every period, adding missing starters
 starters_quarters <- starters_quarters %>%
@@ -237,7 +250,7 @@ poss_non_consec <- poss_initial %>%
 start_possessions <- poss_non_consec %>%
   filter((possession == 1 & (msg_type %in% c(1, 5, 10) | (msg_type == 3 & shot_pts > 0))) | (msg_type == 4 & act_type == 0 & desc_value == 0) | (msg_type == 3 & act_type == 10)) %>%
   group_by(game_id, secs_passed_game, slug_team) %>%
-  mutate(and1 = sum(msg_type == 1) > 0 & sum(msg_type == 3 & act_type == 10)) %>%
+  mutate(and1 = sum(msg_type == 1) > 0 & sum(msg_type == 3 & act_type == 10) > 0) %>%
   ungroup() %>%
   mutate(start_poss = ifelse(and1 & msg_type == 1, NA, clock),
          number_event = ifelse(msg_type == 4, number_event, number_event + 1)) %>%
