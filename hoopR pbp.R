@@ -18,7 +18,8 @@ player_logs <- nba_leaguegamelog(season = "2021-22", player_or_team = "P") %>%
 data_urls <- c("https://github.com/ramirobentes/NBA-in-R/blob/master/pbp_hoopr_2110.csv?raw=true",
                "https://github.com/ramirobentes/NBA-in-R/blob/master/pbp_hoopr_2111.csv?raw=true",
                "https://github.com/ramirobentes/NBA-in-R/blob/master/pbp_hoopr_2112.csv?raw=true",
-               "https://github.com/ramirobentes/NBA-in-R/blob/master/pbp_hoopr_2201.csv?raw=true")
+               "https://github.com/ramirobentes/NBA-in-R/blob/master/pbp_hoopr_2201.csv?raw=true",
+               "https://github.com/ramirobentes/NBA-in-R/blob/master/pbp_hoopr_2202.csv?raw=true")
 
 
 function_pbp <- function(x){
@@ -27,7 +28,7 @@ function_pbp <- function(x){
 }
 
 games <- player_logs %>%
-  filter(game_date > "2022-01-31") %>%
+  filter(game_date >= "2022-03-01") %>%
   distinct(game_id) %>%
   pull(game_id)
 
