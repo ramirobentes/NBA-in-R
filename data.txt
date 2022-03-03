@@ -24,7 +24,7 @@
   type: table
 - path: pbp-final-gt
   name: pbp-final-gt
-  rows: 442953
+  rows: 446844
   cols: 35
   description: pbp with lineups hoopR
   type: table
