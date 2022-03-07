@@ -140,6 +140,7 @@ starters_quarters %>%
 # put together table with starter for every team in every period, adding missing starters
 starters_quarters <- starters_quarters %>%
   bind_rows(missing_starters) %>%
+  distinct(game_id, period, player_name, slug_team) %>%
   arrange(game_id, period, slug_team) %>%
   group_by(game_id, period, slug_team) %>%
   summarise(lineup_start = paste(sort(unique(player_name)), collapse = ", ")) %>%
