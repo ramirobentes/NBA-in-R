@@ -37,7 +37,6 @@ players_3shooters %>%
               filter(description == wanted_description) %>%
               rename(fg3m_desc = fg3m, fg3a_desc = fg3a)) %>%
   mutate(pct_desc = fg3a_desc / fg3a) %>%
-  View()
   ggplot(aes(x = fg3_pct,
              y = pct_desc)) +
   geom_image(aes(image = headshot_url), size = 0.1) +
