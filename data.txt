@@ -6,7 +6,7 @@
   type: table
 - path: lineup-stats
   name: lineup-stats
-  rows: 47660
+  rows: 47751
   cols: 13
   description: every lineup stint and stats
   type: table
