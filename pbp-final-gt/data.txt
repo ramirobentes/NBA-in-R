@@ -1,8 +1,10 @@
 path:
-- https://github.com/ramirobentes/NBA-in-R/releases/download/pbp-final-gt-28619b9/data.csv
+- https://api.github.com/repos/ramirobentes/NBA-in-R/releases/assets/59330772
 - data.rds
-rows: 474683
-cols: 35
+type: table
+description: pbp with lineups hoopR
+rows: 479519
+cols: 37
 columns:
   game_id: numeric
   period: numeric
@@ -19,8 +21,10 @@ columns:
   desc_value: numeric
   hs: numeric
   vs: numeric
-  team_home: character
+  locX: numeric
+  locY: numeric
   team_away: character
+  team_home: character
   number_original: numeric
   secs_passed_game: numeric
   shot_pts: numeric
@@ -39,5 +43,6 @@ columns:
   total_starters_away: integer
   margin_before: numeric
   garbage_time: numeric
-description: pbp with lineups hoopR
-type: table
+filenames:
+  https://api.github.com/repos/ramirobentes/NBA-in-R/releases/assets/59330772: data.csv
+  data.rds: data.rds
