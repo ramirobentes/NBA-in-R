@@ -24,10 +24,10 @@
   type: table
 - path: pbp-final-gt
   name: pbp-final-gt
-  type: table
-  description: pbp with lineups hoopR
-  rows: 482817
+  rows: 486597
   cols: 37
+  description: pbp with lineups hoopR
+  type: table
 - path: lineup-stats21
   name: lineup-stats21
   rows: 50739
