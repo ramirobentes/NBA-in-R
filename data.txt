@@ -46,3 +46,9 @@
   cols: 13
   description: every lineup stint and stats 20
   type: table
+- path: pbp-final-gt20
+  name: pbp-final-gt20
+  rows: 517670
+  cols: 35
+  description: pbp with lineups hoopR 20
+  type: table
