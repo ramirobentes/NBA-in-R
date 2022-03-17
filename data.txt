@@ -48,7 +48,7 @@
   type: table
 - path: pbp-final-gt20
   name: pbp-final-gt20
-  rows: 517670
+  rows: 517669
   cols: 35
   description: pbp with lineups hoopR 20
   type: table
