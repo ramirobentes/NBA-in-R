@@ -6,10 +6,10 @@
   type: table
 - path: lineup-stats
   name: lineup-stats
-  rows: 50046
-  cols: 13
-  description: every lineup stint and stats
   type: table
+  description: every lineup stint and stats
+  rows: 50083
+  cols: 13
 - path: final-poss-pack
   name: final-poss-pack
   rows: 347602

@@ -1,7 +1,9 @@
 path:
 - data.csv
 - data.rds
-rows: 50046
+type: table
+description: every lineup stint and stats
+rows: 50083
 cols: 13
 columns:
   game_id: numeric
@@ -17,5 +19,6 @@ columns:
   poss_team: numeric
   poss_opp: numeric
   secs_played: numeric
-description: every lineup stint and stats
-type: table
+filenames:
+  data.csv: data.csv
+  data.rds: data.rds
