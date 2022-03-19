@@ -76,10 +76,10 @@ indiv_game_lineups <- lineup_stats %>%
          plus_minus = pts_team - pts_opp) %>%
   ungroup() %>%
   separate_rows(lineup, sep = ", ") %>%
-  group_by(lineup) %>%
+  group_by(lineup, period) %>%
   mutate(stint_player = ifelse(initial_time != lag(final_time, default = 0), 1, 0),
          stint_player = cumsum(stint_player)) %>%
-  group_by(player_name = lineup, stint_player, slug_team, slug_opp, game_date) %>%
+  group_by(player_name = lineup, period, stint_player, slug_team, slug_opp, game_date) %>%
   summarise(initial_time = min(initial_time),
             final_time = max(final_time),
             stint_time = sum(secs_played),
