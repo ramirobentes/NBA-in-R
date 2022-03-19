@@ -1,13 +1,13 @@
 path:
 - data.csv
 - data.rds
-rows: 50675
+rows: 52644
 cols: 13
 columns:
   game_id: numeric
   game_date: Date
   period: numeric
-  stint: integer
+  stint: numeric
   slug_team: character
   slug_opp: character
   lineup: character
