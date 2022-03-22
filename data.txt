@@ -26,7 +26,7 @@
   name: pbp-final-gt
   type: table
   description: pbp with lineups hoopR
-  rows: 510834
+  rows: 514978
   cols: 37
 - path: lineup-stats21
   name: lineup-stats21
