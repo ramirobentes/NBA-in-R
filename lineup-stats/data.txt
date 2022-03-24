@@ -3,7 +3,7 @@ path:
 - data.rds
 type: table
 description: every lineup stint and stats
-rows: 51849
+rows: 52310
 cols: 13
 columns:
   game_id: numeric
