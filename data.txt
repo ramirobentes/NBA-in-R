@@ -8,7 +8,7 @@
   name: lineup-stats
   type: table
   description: every lineup stint and stats
-  rows: 53530
+  rows: 53934
   cols: 13
 - path: final-poss-pack
   name: final-poss-pack
