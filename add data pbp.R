@@ -16,10 +16,18 @@ corrections <- tribble(
   22100199,    "04:39",                1881,           271,         6,         1,           "[CLE] Wade Foul: Personal (3 PF) (T Brothers)",
   22100249,    "09:18",                1602,           265,         3,        18,         "[DET] Jackson Free Throw Flagrant 1 of 2 Missed",
   22100249,    "09:18",                1602,           267,         3,        19,  "[DET 79-67] Jackson Free Throw Flagrant 2 of 2 (5 PTS)",
-  22100512,  "00:20.8",              2859.2,           473,         6,         1,            "[NYK] Burks Foul: Personal (4 PF) (M Boland)")
+  22100512,  "00:20.8",              2859.2,           473,         6,         1,            "[NYK] Burks Foul: Personal (4 PF) (M Boland)",
+  22101139)
 
 
+# change order plays -------------------------------------------------------
 
+change_order <- tribble(
+  ~game_id,     ~number_original,     ~number_event,
+  22101139,                  649,               466,
+  22101139,                  648,               467,
+  22101139,                  650,               469,
+  22101139,                  654,               470)
 
 
 
