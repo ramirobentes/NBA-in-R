@@ -9,9 +9,10 @@ player_stints <- lineup_stats %>%
   ungroup() %>%
   separate_rows(lineup, sep = ", ") %>%
   group_by(game_id, lineup) %>%
+  mutate(across(c(initial_time, final_time), ~ round(., 1))) %>%
   mutate(stint_player = ifelse(initial_time != lag(final_time, default = 0), 1, 0),
          stint_player = cumsum(stint_player) + 1) %>%
-  group_by(game_date, game_id, slug_team, slug_opp, player_name = lineup, stint_player) %>%
+  group_by(game_date, game_id, half = ifelse(period <= 2, "first", "second"), slug_team, slug_opp, player_name = lineup, stint_player) %>%
   summarise(initial_time = min(initial_time),
             final_time = max(final_time),
             stint_time = sum(secs_played)) %>%
@@ -79,7 +80,7 @@ player_stints_qtr <- starters_quarters %>%
   ungroup()
   
 player_stints <- player_stints_qtr %>%
-  group_by(game_id, player_name, stint_player) %>%
+  group_by(game_id, half = ifelse(period <= 2, "first", "second"), player_name, stint_player) %>%
   summarise(initial_time = min(clock_in_sec),
             final_time = max(clock_out_sec)) %>%
   ungroup() %>%
