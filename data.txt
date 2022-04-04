@@ -52,3 +52,9 @@
   cols: 35
   description: pbp with lineups hoopR 20
   type: table
+- path: pbp-hoopr-2110
+  name: pbp-hoopr-2110
+  type: table
+  description: Add files via upload
+  rows: 45375
+  cols: 19

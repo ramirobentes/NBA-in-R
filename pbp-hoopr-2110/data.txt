@@ -1,0 +1,30 @@
+path:
+- data.csv
+- data.rds
+type: table
+description: Add files via upload
+rows: 45375
+cols: 19
+columns:
+  period: integer
+  evt: integer
+  cl: character
+  de: character
+  locX: integer
+  locY: integer
+  opt1: integer
+  opt2: integer
+  mtype: integer
+  etype: integer
+  opid: character
+  tid: integer
+  pid: integer
+  hs: integer
+  vs: integer
+  epid: character
+  oftid: integer
+  ord: integer
+  game_id: character
+filenames:
+  data.csv: data.csv
+  data.rds: data.rds
