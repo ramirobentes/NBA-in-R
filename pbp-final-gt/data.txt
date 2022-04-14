@@ -1,5 +1,5 @@
 path:
-- https://api.github.com/repos/ramirobentes/NBA-in-R/releases/assets/62573434
+- https://api.github.com/repos/ramirobentes/NBA-in-R/releases/assets/62587879
 - data.rds
 type: table
 description: pbp with lineups hoopR
@@ -44,5 +44,5 @@ columns:
   margin_before: numeric
   garbage_time: numeric
 filenames:
-  https://api.github.com/repos/ramirobentes/NBA-in-R/releases/assets/62573434: data.csv
+  https://api.github.com/repos/ramirobentes/NBA-in-R/releases/assets/62587879: data.csv
   data.rds: data.rds
