@@ -1,0 +1,206 @@
+"game_id","game_date","period","stint","slug_team","slug_opp","lineup","garbage_time","pts_team","pts_opp","poss_team","poss_opp","secs_played"
+52100101,2022-04-12,1,1,"BKN","CLE","Andre Drummond, Bruce Brown, Kevin Durant, Kyrie Irving, Seth Curry",0,19,14,13,13,454
+52100101,2022-04-12,1,1,"CLE","BKN","Caris LeVert, Darius Garland, Evan Mobley, Isaac Okoro, Lauri Markkanen",0,9,17,10,10,353
+52100101,2022-04-12,1,2,"CLE","BKN","Caris LeVert, Darius Garland, Evan Mobley, Isaac Okoro, Kevin Love",0,5,2,3,3,101
+52100101,2022-04-12,1,2,"BKN","CLE","Bruce Brown, Kevin Durant, Kyrie Irving, Nic Claxton, Patty Mills",0,13,6,7,6,178
+52100101,2022-04-12,1,3,"CLE","BKN","Caris LeVert, Cedi Osman, Darius Garland, Evan Mobley, Kevin Love",0,0,4,1,2,34
+52100101,2022-04-12,1,3,"BKN","CLE","Bruce Brown, Goran Dragic, Kevin Durant, Nic Claxton, Patty Mills",0,8,0,3,3,88
+52100101,2022-04-12,1,4,"BKN","CLE","Bruce Brown, Kevin Durant, Kyrie Irving, Nic Claxton, Patty Mills",0,0,0,0,1,0
+52100101,2022-04-12,1,4,"CLE","BKN","Cedi Osman, Darius Garland, Kevin Love, Lamar Stevens, Rajon Rondo",0,6,17,9,8,232
+52100101,2022-04-12,2,5,"BKN","CLE","Goran Dragic, Kessler Edwards, Kyrie Irving, Nic Claxton, Patty Mills",0,2,9,8,8,263
+52100101,2022-04-12,2,5,"CLE","BKN","Caris LeVert, Cedi Osman, Evan Mobley, Kevin Love, Rajon Rondo",0,9,2,10,9,317
+52100101,2022-04-12,2,6,"BKN","CLE","Kessler Edwards, Kevin Durant, Kyrie Irving, Nic Claxton, Seth Curry",0,0,0,1,2,54
+52100101,2022-04-12,2,6,"CLE","BKN","Caris LeVert, Cedi Osman, Evan Mobley, Lauri Markkanen, Rajon Rondo",0,2,2,4,4,117
+52100101,2022-04-12,2,7,"CLE","BKN","Caris LeVert, Cedi Osman, Evan Mobley, Lauri Markkanen, Rajon Rondo",0,0,3,0,1,29
+52100101,2022-04-12,2,7,"BKN","CLE","Bruce Brown, Kevin Durant, Nic Claxton, Patty Mills, Seth Curry",0,2,2,4,3,98
+52100101,2022-04-12,2,8,"CLE","BKN","Caris LeVert, Darius Garland, Evan Mobley, Isaac Okoro, Lauri Markkanen",0,4,1,4,3,98
+52100101,2022-04-12,2,8,"BKN","CLE","Andre Drummond, Bruce Brown, Kevin Durant, Patty Mills, Seth Curry",0,4,2,2,2,79
+52100101,2022-04-12,2,9,"CLE","BKN","Caris LeVert, Darius Garland, Evan Mobley, Lamar Stevens, Lauri Markkanen",0,4,5,5,5,122
+52100101,2022-04-12,2,9,"BKN","CLE","Andre Drummond, Bruce Brown, Kevin Durant, Kyrie Irving, Seth Curry",0,9,10,9,9,226
+52100101,2022-04-12,2,10,"CLE","BKN","Caris LeVert, Darius Garland, Evan Mobley, Isaac Okoro, Lamar Stevens",0,3,4,1,2,37
+52100101,2022-04-12,2,11,"CLE","BKN","Caris LeVert, Darius Garland, Evan Mobley, Lamar Stevens, Lauri Markkanen",0,1,0,0,0,0
+52100101,2022-04-12,3,10,"BKN","CLE","Andre Drummond, Bruce Brown, Kevin Durant, Kyrie Irving, Seth Curry",0,17,14,12,12,379
+52100101,2022-04-12,3,12,"CLE","BKN","Caris LeVert, Darius Garland, Evan Mobley, Isaac Okoro, Lauri Markkanen",0,4,10,6,6,195
+52100101,2022-04-12,3,11,"BKN","CLE","Andre Drummond, Bruce Brown, Kevin Durant, Kyrie Irving, Seth Curry",0,0,0,0,1,0
+52100101,2022-04-12,3,12,"BKN","CLE","Bruce Brown, Kevin Durant, Kyrie Irving, Nic Claxton, Patty Mills",0,7,7,6,5,195
+52100101,2022-04-12,3,13,"CLE","BKN","Caris LeVert, Darius Garland, Evan Mobley, Kevin Love, Rajon Rondo",0,13,7,8,7,217
+52100101,2022-04-12,3,13,"BKN","CLE","Bruce Brown, Goran Dragic, Kevin Durant, Nic Claxton, Patty Mills",0,2,7,4,4,110.7
+52100101,2022-04-12,3,14,"BKN","CLE","Bruce Brown, Kevin Durant, Kyrie Irving, Nic Claxton, Patty Mills",0,0,0,0,1,14
+52100101,2022-04-12,3,14,"CLE","BKN","Darius Garland, Evan Mobley, Kevin Love, Lauri Markkanen, Rajon Rondo",0,4,5,3,4,110
+52100101,2022-04-12,3,15,"CLE","BKN","Cedi Osman, Darius Garland, Kevin Love, Lauri Markkanen, Rajon Rondo",0,7,4,5,4,126
+52100101,2022-04-12,3,16,"CLE","BKN","Darius Garland, Evan Mobley, Kevin Love, Lauri Markkanen, Rajon Rondo",0,0,0,0,0,12
+52100101,2022-04-12,3,15,"BKN","CLE","Goran Dragic, Kevin Durant, Kyrie Irving, Patty Mills, Seth Curry",0,2,2,1,1,19.9000000000001
+52100101,2022-04-12,3,17,"CLE","BKN","Caris LeVert, Cedi Osman, Kevin Love, Lauri Markkanen, Rajon Rondo",0,0,0,1,1,23.5999999999999
+52100101,2022-04-12,3,16,"BKN","CLE","Kevin Durant, Kyrie Irving, Nic Claxton, Patty Mills, Seth Curry",0,0,0,1,0,1.40000000000009
+52100101,2022-04-12,3,18,"CLE","BKN","Caris LeVert, Cedi Osman, Isaac Okoro, Lauri Markkanen, Rajon Rondo",0,2,2,1,2,21.3000000000002
+52100101,2022-04-12,3,19,"CLE","BKN","Caris LeVert, Cedi Osman, Kevin Love, Lauri Markkanen, Rajon Rondo",0,0,0,0,0,15.0999999999999
+52100101,2022-04-12,4,17,"BKN","CLE","Goran Dragic, Kessler Edwards, Kyrie Irving, Nic Claxton, Seth Curry",0,2,4,4,3,118
+52100101,2022-04-12,4,20,"CLE","BKN","Caris LeVert, Cedi Osman, Darius Garland, Kevin Love, Lauri Markkanen",0,16,12,11,11,361
+52100101,2022-04-12,4,18,"BKN","CLE","Bruce Brown, Kevin Durant, Kyrie Irving, Nic Claxton, Seth Curry",0,22,24,19,19,580.2
+52100101,2022-04-12,4,21,"CLE","BKN","Caris LeVert, Darius Garland, Evan Mobley, Lauri Markkanen, Rajon Rondo",0,4,6,4,5,142
+52100101,2022-04-12,4,19,"BKN","CLE","Bruce Brown, Kessler Edwards, Kevin Durant, Kyrie Irving, Nic Claxton",0,6,7,3,4,21.8000000000002
+52100101,2022-04-12,4,22,"CLE","BKN","Caris LeVert, Darius Garland, Evan Mobley, Kevin Love, Rajon Rondo",0,15,12,11,10,217
+52100111,2022-04-13,1,1,"ATL","CHA","Clint Capela, Danilo Gallinari, De'Andre Hunter, Kevin Huerter, Trae Young",0,13,13,12,12,335
+52100111,2022-04-13,1,1,"CHA","ATL","LaMelo Ball, Mason Plumlee, Miles Bridges, P.J. Washington, Terry Rozier",0,10,7,10,9,264
+52100111,2022-04-13,1,2,"ATL","CHA","Bogdan Bogdanovic, Clint Capela, De'Andre Hunter, Kevin Huerter, Trae Young",0,10,0,5,6,172
+52100111,2022-04-13,1,2,"CHA","ATL","Cody Martin, LaMelo Ball, Mason Plumlee, Miles Bridges, Terry Rozier",0,3,10,5,5,126
+52100111,2022-04-13,1,3,"CHA","ATL","LaMelo Ball, Mason Plumlee, Miles Bridges, P.J. Washington, Terry Rozier",0,0,3,0,1,23
+52100111,2022-04-13,1,3,"ATL","CHA","Bogdan Bogdanovic, De'Andre Hunter, Delon Wright, Onyeka Okongwu, Trae Young",0,1,0,2,1,28
+52100111,2022-04-13,1,4,"CHA","ATL","Cody Martin, Kelly Oubre Jr., Miles Bridges, Montrezl Harrell, Terry Rozier",0,0,3,3,2,94
+52100111,2022-04-13,1,4,"ATL","CHA","Bogdan Bogdanovic, Danilo Gallinari, Delon Wright, Onyeka Okongwu, Trae Young",0,0,3,1,2,26
+52100111,2022-04-13,1,5,"ATL","CHA","Bogdan Bogdanovic, Delon Wright, Onyeka Okongwu, Timothe Luwawu-Cabarrot, Trae Young",0,5,4,4,4,85
+52100111,2022-04-13,1,5,"CHA","ATL","Cody Martin, Jalen McDaniels, Kelly Oubre Jr., LaMelo Ball, Montrezl Harrell",0,7,6,7,7,139
+52100111,2022-04-13,1,6,"ATL","CHA","Bogdan Bogdanovic, Clint Capela, Delon Wright, Timothe Luwawu-Cabarrot, Trae Young",0,3,3,3,3,74
+52100111,2022-04-13,1,6,"CHA","ATL","Cody Martin, Jalen McDaniels, LaMelo Ball, Montrezl Harrell, P.J. Washington",0,3,3,3,3,74
+52100111,2022-04-13,2,7,"ATL","CHA","Bogdan Bogdanovic, Delon Wright, Kevin Huerter, Onyeka Okongwu, Timothe Luwawu-Cabarrot",0,9,10,6,5,203
+52100111,2022-04-13,2,7,"CHA","ATL","Isaiah Thomas, Jalen McDaniels, LaMelo Ball, Montrezl Harrell, P.J. Washington",0,10,9,7,8,247
+52100111,2022-04-13,2,8,"ATL","CHA","Bogdan Bogdanovic, Danilo Gallinari, Delon Wright, Kevin Huerter, Onyeka Okongwu",0,0,0,1,1,21
+52100111,2022-04-13,2,9,"ATL","CHA","Bogdan Bogdanovic, Clint Capela, Danilo Gallinari, Delon Wright, Kevin Huerter",0,0,0,1,0,17
+52100111,2022-04-13,2,10,"ATL","CHA","Bogdan Bogdanovic, Danilo Gallinari, Delon Wright, Kevin Huerter, Onyeka Okongwu",0,0,0,0,1,3
+52100111,2022-04-13,2,8,"CHA","ATL","Isaiah Thomas, Jalen McDaniels, Miles Bridges, P.J. Washington, Terry Rozier",0,0,0,2,1,41
+52100111,2022-04-13,2,11,"ATL","CHA","Bogdan Bogdanovic, Clint Capela, Danilo Gallinari, Delon Wright, Kevin Huerter",0,0,0,0,0,3
+52100111,2022-04-13,2,12,"ATL","CHA","Clint Capela, Danilo Gallinari, De'Andre Hunter, Delon Wright, Kevin Huerter",0,0,0,1,1,34
+52100111,2022-04-13,2,9,"CHA","ATL","Cody Martin, Isaiah Thomas, Miles Bridges, P.J. Washington, Terry Rozier",0,2,3,2,3,69
+52100111,2022-04-13,2,13,"ATL","CHA","Clint Capela, Danilo Gallinari, De'Andre Hunter, Delon Wright, Kevin Huerter",0,0,0,0,1,7
+52100111,2022-04-13,2,14,"ATL","CHA","Clint Capela, Danilo Gallinari, De'Andre Hunter, Kevin Huerter, Trae Young",0,6,5,6,6,162
+52100111,2022-04-13,2,10,"CHA","ATL","Cody Martin, Jalen McDaniels, Miles Bridges, P.J. Washington, Terry Rozier",0,3,5,4,4,106
+52100111,2022-04-13,2,15,"ATL","CHA","Bogdan Bogdanovic, Clint Capela, Danilo Gallinari, De'Andre Hunter, Trae Young",0,11,11,8,8,209
+52100111,2022-04-13,2,11,"CHA","ATL","Cody Martin, LaMelo Ball, Miles Bridges, P.J. Washington, Terry Rozier",0,14,11,11,10,257
+52100111,2022-04-13,2,16,"ATL","CHA","Bogdan Bogdanovic, De'Andre Hunter, Kevin Huerter, Onyeka Okongwu, Trae Young",0,2,3,3,3,61
+52100111,2022-04-13,3,12,"CHA","ATL","LaMelo Ball, Mason Plumlee, Miles Bridges, P.J. Washington, Terry Rozier",0,11,14,9,9,274
+52100111,2022-04-13,3,13,"CHA","ATL","Cody Martin, LaMelo Ball, Miles Bridges, P.J. Washington, Terry Rozier",0,0,5,1,2,40
+52100111,2022-04-13,3,17,"ATL","CHA","Clint Capela, Danilo Gallinari, De'Andre Hunter, Kevin Huerter, Trae Young",0,26,15,14,13,439
+52100111,2022-04-13,3,14,"CHA","ATL","Cody Martin, Miles Bridges, Montrezl Harrell, P.J. Washington, Terry Rozier",0,4,12,5,5,175
+52100111,2022-04-13,3,18,"ATL","CHA","Bogdan Bogdanovic, Clint Capela, De'Andre Hunter, Kevin Huerter, Trae Young",0,9,3,4,5,100
+52100111,2022-04-13,3,15,"CHA","ATL","Cody Martin, Jalen McDaniels, LaMelo Ball, Miles Bridges, Montrezl Harrell",0,9,11,8,8,231
+52100111,2022-04-13,3,19,"ATL","CHA","Bogdan Bogdanovic, De'Andre Hunter, Delon Wright, Onyeka Okongwu, Trae Young",0,4,5,2,2,60
+52100111,2022-04-13,3,20,"ATL","CHA","Bogdan Bogdanovic, Delon Wright, Onyeka Okongwu, Timothe Luwawu-Cabarrot, Trae Young",0,3,1,4,3,121
+52100111,2022-04-13,4,16,"CHA","ATL","Jalen McDaniels, Kelly Oubre Jr., LaMelo Ball, P.J. Washington, Terry Rozier",0,3,8,7,6,221
+52100111,2022-04-13,4,17,"CHA","ATL","Jalen McDaniels, Kelly Oubre Jr., LaMelo Ball, P.J. Washington, Terry Rozier",0,0,0,0,1,5
+52100111,2022-04-13,4,18,"CHA","ATL","Jalen McDaniels, Kelly Oubre Jr., Miles Bridges, P.J. Washington, Terry Rozier",0,2,4,4,4,95
+52100111,2022-04-13,4,21,"ATL","CHA","Bogdan Bogdanovic, Danilo Gallinari, Delon Wright, Onyeka Okongwu, Timothe Luwawu-Cabarrot",0,8,5,7,8,235
+52100111,2022-04-13,4,19,"CHA","ATL","Jalen McDaniels, Kelly Oubre Jr., LaMelo Ball, P.J. Washington, Terry Rozier",0,22,18,15,15,399
+52100111,2022-04-13,4,22,"ATL","CHA","Bogdan Bogdanovic, Clint Capela, Danilo Gallinari, De'Andre Hunter, Delon Wright",0,0,0,2,2,60
+52100111,2022-04-13,4,23,"ATL","CHA","Clint Capela, Danilo Gallinari, De'Andre Hunter, Kevin Huerter, Trae Young",0,6,6,6,5,156
+52100111,2022-04-13,4,24,"ATL","CHA","Danilo Gallinari, Delon Wright, Kevin Huerter, Onyeka Okongwu, Timothe Luwawu-Cabarrot",0,5,7,2,3,67
+52100111,2022-04-13,4,25,"ATL","CHA","Delon Wright, Jalen Johnson, Kevin Huerter, Onyeka Okongwu, Timothe Luwawu-Cabarrot",0,0,0,0,0,6
+52100111,2022-04-13,4,26,"ATL","CHA","Delon Wright, Jalen Johnson, Onyeka Okongwu, Skylar Mays, Timothe Luwawu-Cabarrot",0,3,4,3,3,83
+52100111,2022-04-13,4,27,"ATL","CHA","Gorgui Dieng, Jalen Johnson, Kevin Knox II, Skylar Mays, Timothe Luwawu-Cabarrot",0,8,5,6,5,113
+52100121,2022-04-12,1,1,"LAC","MIN","Ivica Zubac, Marcus Morris Sr., Nicolas Batum, Paul George, Reggie Jackson",0,14,11,16,15,445
+52100121,2022-04-12,1,1,"MIN","LAC","Anthony Edwards, D'Angelo Russell, Jarred Vanderbilt, Karl-Anthony Towns, Patrick Beverley",0,11,14,15,15,439
+52100121,2022-04-12,1,2,"LAC","MIN","Ivica Zubac, Marcus Morris Sr., Nicolas Batum, Paul George, Reggie Jackson",0,0,0,0,1,15
+52100121,2022-04-12,1,3,"LAC","MIN","Ivica Zubac, Marcus Morris Sr., Norman Powell, Paul George, Reggie Jackson",0,2,0,1,0,27
+52100121,2022-04-12,1,2,"MIN","LAC","Anthony Edwards, Jarred Vanderbilt, Karl-Anthony Towns, Malik Beasley, Patrick Beverley",0,0,0,1,1,32
+52100121,2022-04-12,1,4,"LAC","MIN","Ivica Zubac, Norman Powell, Paul George, Reggie Jackson, Robert Covington",0,3,2,3,3,81
+52100121,2022-04-12,1,3,"MIN","LAC","Anthony Edwards, Jaden McDaniels, Karl-Anthony Towns, Malik Beasley, Patrick Beverley",0,2,3,3,3,81
+52100121,2022-04-12,1,4,"MIN","LAC","Anthony Edwards, Jarred Vanderbilt, Karl-Anthony Towns, Malik Beasley, Patrick Beverley",0,0,2,0,1,16
+52100121,2022-04-12,1,5,"LAC","MIN","Isaiah Hartenstein, Norman Powell, Paul George, Robert Covington, Terance Mann",0,3,2,2,2,59
+52100121,2022-04-12,1,5,"MIN","LAC","D'Angelo Russell, Jaden McDaniels, Jaylen Nowell, Karl-Anthony Towns, Malik Beasley",0,2,3,3,2,59
+52100121,2022-04-12,1,6,"LAC","MIN","Isaiah Hartenstein, Norman Powell, Paul George, Robert Covington, Terance Mann",0,0,0,0,1,0
+52100121,2022-04-12,1,7,"LAC","MIN","Isaiah Hartenstein, Norman Powell, Reggie Jackson, Robert Covington, Terance Mann",0,4,5,5,4,93
+52100121,2022-04-12,1,6,"MIN","LAC","D'Angelo Russell, Jaden McDaniels, Jaylen Nowell, Malik Beasley, Naz Reid",0,5,4,4,5,93
+52100121,2022-04-12,2,8,"LAC","MIN","Isaiah Hartenstein, Norman Powell, Reggie Jackson, Robert Covington, Terance Mann",0,8,8,5,5,153
+52100121,2022-04-12,2,7,"MIN","LAC","D'Angelo Russell, Jaden McDaniels, Jaylen Nowell, Malik Beasley, Naz Reid",0,6,8,4,4,117
+52100121,2022-04-12,2,9,"LAC","MIN","Isaiah Hartenstein, Norman Powell, Paul George, Reggie Jackson, Robert Covington",0,4,6,4,5,115
+52100121,2022-04-12,2,8,"MIN","LAC","Anthony Edwards, D'Angelo Russell, Jaden McDaniels, Jaylen Nowell, Naz Reid",0,8,4,6,5,151
+52100121,2022-04-12,2,10,"LAC","MIN","Ivica Zubac, Norman Powell, Paul George, Reggie Jackson, Robert Covington",0,3,2,3,3,87
+52100121,2022-04-12,2,11,"LAC","MIN","Ivica Zubac, Marcus Morris Sr., Norman Powell, Paul George, Reggie Jackson",0,0,0,1,0,14
+52100121,2022-04-12,2,12,"LAC","MIN","Ivica Zubac, Marcus Morris Sr., Nicolas Batum, Paul George, Reggie Jackson",0,4,8,6,7,179
+52100121,2022-04-12,2,13,"LAC","MIN","Ivica Zubac, Marcus Morris Sr., Norman Powell, Paul George, Reggie Jackson",0,0,0,0,0,15
+52100121,2022-04-12,2,9,"MIN","LAC","Anthony Edwards, Jarred Vanderbilt, Jaylen Nowell, Karl-Anthony Towns, Patrick Beverley",0,2,3,3,3,87
+52100121,2022-04-12,2,14,"LAC","MIN","Ivica Zubac, Marcus Morris Sr., Norman Powell, Paul George, Reggie Jackson",0,1,0,1,0,14
+52100121,2022-04-12,2,10,"MIN","LAC","Anthony Edwards, Jarred Vanderbilt, Karl-Anthony Towns, Malik Beasley, Patrick Beverley",0,2,4,4,5,137
+52100121,2022-04-12,2,15,"LAC","MIN","Ivica Zubac, Norman Powell, Paul George, Reggie Jackson, Robert Covington",0,0,1,1,2,38
+52100121,2022-04-12,2,11,"MIN","LAC","Anthony Edwards, Jarred Vanderbilt, Malik Beasley, Naz Reid, Patrick Beverley",0,6,1,3,3,85
+52100121,2022-04-12,2,16,"LAC","MIN","Ivica Zubac, Norman Powell, Paul George, Robert Covington, Terance Mann",0,2,3,2,1,51.0999999999999
+52100121,2022-04-12,2,12,"MIN","LAC","D'Angelo Russell, Jarred Vanderbilt, Malik Beasley, Naz Reid, Patrick Beverley",0,1,0,2,1,38
+52100121,2022-04-12,2,17,"LAC","MIN","Ivica Zubac, Nicolas Batum, Paul George, Robert Covington, Terance Mann",0,3,5,2,3,53.9000000000001
+52100121,2022-04-12,2,13,"MIN","LAC","D'Angelo Russell, Jaden McDaniels, Jarred Vanderbilt, Malik Beasley, Naz Reid",0,8,5,4,4,105
+52100121,2022-04-12,3,18,"LAC","MIN","Ivica Zubac, Marcus Morris Sr., Nicolas Batum, Paul George, Reggie Jackson",0,15,14,12,13,424
+52100121,2022-04-12,3,14,"MIN","LAC","Anthony Edwards, D'Angelo Russell, Jarred Vanderbilt, Karl-Anthony Towns, Patrick Beverley",0,14,15,13,12,424
+52100121,2022-04-12,3,19,"LAC","MIN","Marcus Morris Sr., Nicolas Batum, Norman Powell, Paul George, Reggie Jackson",0,6,3,3,3,85
+52100121,2022-04-12,3,20,"LAC","MIN","Marcus Morris Sr., Nicolas Batum, Norman Powell, Paul George, Robert Covington",0,10,5,6,5,180.9
+52100121,2022-04-12,3,15,"MIN","LAC","Anthony Edwards, Jaden McDaniels, Karl-Anthony Towns, Malik Beasley, Patrick Beverley",0,2,5,2,2,69
+52100121,2022-04-12,3,21,"LAC","MIN","Marcus Morris Sr., Nicolas Batum, Norman Powell, Robert Covington, Terance Mann",0,0,0,0,1,14.7999999999997
+52100121,2022-04-12,3,16,"MIN","LAC","Anthony Edwards, Jaden McDaniels, Malik Beasley, Naz Reid, Patrick Beverley",0,1,3,1,2,33
+52100121,2022-04-12,3,22,"LAC","MIN","Marcus Morris Sr., Nicolas Batum, Norman Powell, Paul George, Robert Covington",0,0,0,0,0,8.90000000000009
+52100121,2022-04-12,3,23,"LAC","MIN","Marcus Morris Sr., Nicolas Batum, Norman Powell, Paul George, Robert Covington",0,2,0,1,0,0
+52100121,2022-04-12,3,17,"MIN","LAC","Anthony Edwards, D'Angelo Russell, Jarred Vanderbilt, Malik Beasley, Naz Reid",0,3,6,3,3,92
+52100121,2022-04-12,3,24,"LAC","MIN","Amir Coffey, Nicolas Batum, Paul George, Robert Covington, Terance Mann",0,0,3,1,1,6.40000000000009
+52100121,2022-04-12,3,18,"MIN","LAC","Anthony Edwards, D'Angelo Russell, Jaden McDaniels, Jarred Vanderbilt, Malik Beasley",0,2,2,2,1,50
+52100121,2022-04-12,3,19,"MIN","LAC","Anthony Edwards, D'Angelo Russell, Jaden McDaniels, Jarred Vanderbilt, Malik Beasley",0,0,0,0,1,21.9000000000001
+52100121,2022-04-12,3,20,"MIN","LAC","Anthony Edwards, D'Angelo Russell, Jaden McDaniels, Malik Beasley, Naz Reid",0,0,0,1,0,14.7999999999997
+52100121,2022-04-12,3,21,"MIN","LAC","Jaden McDaniels, Jarred Vanderbilt, Josh Okogie, Malik Beasley, Naz Reid",0,0,2,0,1,8.90000000000009
+52100121,2022-04-12,3,22,"MIN","LAC","D'Angelo Russell, Jaden McDaniels, Jaylen Nowell, Malik Beasley, Naz Reid",0,3,0,1,1,6.40000000000009
+52100121,2022-04-12,4,25,"LAC","MIN","Ivica Zubac, Norman Powell, Reggie Jackson, Robert Covington, Terance Mann",0,6,5,6,5,153
+52100121,2022-04-12,4,26,"LAC","MIN","Ivica Zubac, Norman Powell, Paul George, Reggie Jackson, Terance Mann",0,3,2,2,2,66
+52100121,2022-04-12,4,27,"LAC","MIN","Ivica Zubac, Norman Powell, Paul George, Reggie Jackson, Terance Mann",0,0,0,0,0,13
+52100121,2022-04-12,4,28,"LAC","MIN","Nicolas Batum, Norman Powell, Paul George, Reggie Jackson, Terance Mann",0,0,5,3,4,89
+52100121,2022-04-12,4,29,"LAC","MIN","Marcus Morris Sr., Norman Powell, Paul George, Reggie Jackson, Terance Mann",0,2,9,4,4,157
+52100121,2022-04-12,4,30,"LAC","MIN","Ivica Zubac, Marcus Morris Sr., Nicolas Batum, Paul George, Reggie Jackson",0,3,5,4,3,145
+52100121,2022-04-12,4,23,"MIN","LAC","D'Angelo Russell, Jaden McDaniels, Malik Beasley, Naz Reid, Patrick Beverley",0,5,6,5,6,153
+52100121,2022-04-12,4,31,"LAC","MIN","Ivica Zubac, Marcus Morris Sr., Nicolas Batum, Paul George, Reggie Jackson",0,0,0,0,0,2
+52100121,2022-04-12,4,24,"MIN","LAC","D'Angelo Russell, Jaden McDaniels, Karl-Anthony Towns, Malik Beasley, Patrick Beverley",0,2,3,2,2,79
+52100121,2022-04-12,4,32,"LAC","MIN","Ivica Zubac, Marcus Morris Sr., Norman Powell, Paul George, Reggie Jackson",0,3,2,2,2,56.5
+52100121,2022-04-12,4,33,"LAC","MIN","Marcus Morris Sr., Nicolas Batum, Norman Powell, Paul George, Reggie Jackson",0,0,0,0,1,0
+52100121,2022-04-12,4,25,"MIN","LAC","Anthony Edwards, D'Angelo Russell, Jaden McDaniels, Karl-Anthony Towns, Malik Beasley",0,1,0,2,1,34
+52100121,2022-04-12,4,34,"LAC","MIN","Marcus Morris Sr., Nicolas Batum, Norman Powell, Paul George, Reggie Jackson",0,0,1,1,1,6.30000000000018
+52100121,2022-04-12,4,26,"MIN","LAC","Anthony Edwards, D'Angelo Russell, Jaden McDaniels, Malik Beasley, Naz Reid",0,8,2,4,4,151
+52100121,2022-04-12,4,35,"LAC","MIN","Ivica Zubac, Marcus Morris Sr., Norman Powell, Paul George, Reggie Jackson",0,0,1,1,1,10.7999999999997
+52100121,2022-04-12,4,27,"MIN","LAC","Anthony Edwards, D'Angelo Russell, Malik Beasley, Naz Reid, Patrick Beverley",0,3,0,1,1,24
+52100121,2022-04-12,4,36,"LAC","MIN","Marcus Morris Sr., Nicolas Batum, Norman Powell, Paul George, Reggie Jackson",0,3,0,1,0,8.90000000000009
+52100121,2022-04-12,4,37,"LAC","MIN","Marcus Morris Sr., Nicolas Batum, Paul George, Reggie Jackson, Robert Covington",0,0,1,0,1,12.5
+52100121,2022-04-12,4,28,"MIN","LAC","Anthony Edwards, Jaden McDaniels, Jarred Vanderbilt, Naz Reid, Patrick Beverley",0,0,0,0,0,24
+52100121,2022-04-12,4,29,"MIN","LAC","Anthony Edwards, Jaden McDaniels, Malik Beasley, Naz Reid, Patrick Beverley",0,2,0,1,1,13
+52100121,2022-04-12,4,30,"MIN","LAC","Anthony Edwards, Jaden McDaniels, Jarred Vanderbilt, Naz Reid, Patrick Beverley",0,0,0,0,1,20
+52100121,2022-04-12,4,31,"MIN","LAC","Anthony Edwards, D'Angelo Russell, Malik Beasley, Naz Reid, Patrick Beverley",0,5,6,5,4,156
+52100121,2022-04-12,4,32,"MIN","LAC","Anthony Edwards, D'Angelo Russell, Jaden McDaniels, Jarred Vanderbilt, Patrick Beverley",0,2,0,1,1,27.5
+52100121,2022-04-12,4,33,"MIN","LAC","Anthony Edwards, Jaden McDaniels, Jarred Vanderbilt, Malik Beasley, Patrick Beverley",0,2,3,2,3,26
+52100121,2022-04-12,4,34,"MIN","LAC","Anthony Edwards, D'Angelo Russell, Jaden McDaniels, Malik Beasley, Patrick Beverley",0,1,0,1,0,12.5
+52100131,2022-04-13,1,1,"NOP","SAS","Brandon Ingram, CJ McCollum, Herbert Jones, Jaxson Hayes, Jonas Valanciunas",0,15,12,15,15,460
+52100131,2022-04-13,1,1,"SAS","NOP","Dejounte Murray, Devin Vassell, Jakob Poeltl, Joshua Primo, Keldon Johnson",0,12,9,11,10,320
+52100131,2022-04-13,1,2,"SAS","NOP","Dejounte Murray, Devin Vassell, Josh Richardson, Keldon Johnson, Zach Collins",0,0,4,2,3,66
+52100131,2022-04-13,1,2,"NOP","SAS","Brandon Ingram, Devonte' Graham, Herbert Jones, Larry Nance Jr., Trey Murphy III",0,5,4,4,4,145
+52100131,2022-04-13,1,3,"SAS","NOP","Devin Vassell, Josh Richardson, Keldon Johnson, Tre Jones, Zach Collins",0,0,2,2,1,58
+52100131,2022-04-13,1,4,"SAS","NOP","Devin Vassell, Josh Richardson, Keldon Johnson, Tre Jones, Zach Collins",0,0,0,0,1,16
+52100131,2022-04-13,1,5,"SAS","NOP","Josh Richardson, Keldon Johnson, Lonnie Walker IV, Tre Jones, Zach Collins",0,2,1,3,2,79
+52100131,2022-04-13,1,3,"NOP","SAS","CJ McCollum, Devonte' Graham, Larry Nance Jr., Naji Marshall, Trey Murphy III",0,4,6,3,3,85.7
+52100131,2022-04-13,1,6,"SAS","NOP","Josh Richardson, Keita Bates-Diop, Lonnie Walker IV, Tre Jones, Zach Collins",0,2,2,1,1,49
+52100131,2022-04-13,1,7,"SAS","NOP","Josh Richardson, Keldon Johnson, Lonnie Walker IV, Tre Jones, Zach Collins",0,0,0,0,0,6
+52100131,2022-04-13,1,4,"NOP","SAS","CJ McCollum, Herbert Jones, Larry Nance Jr., Naji Marshall, Trey Murphy III",0,2,0,1,1,29.3
+52100131,2022-04-13,1,8,"SAS","NOP","Dejounte Murray, Josh Richardson, Keita Bates-Diop, Lonnie Walker IV, Zach Collins",0,6,6,4,4,115
+52100131,2022-04-13,1,9,"SAS","NOP","Josh Richardson, Keita Bates-Diop, Lonnie Walker IV, Tre Jones, Zach Collins",0,0,2,0,1,11
+52100131,2022-04-13,2,5,"NOP","SAS","CJ McCollum, Jose Alvarado, Larry Nance Jr., Naji Marshall, Trey Murphy III",0,12,7,6,5,181
+52100131,2022-04-13,2,10,"SAS","NOP","Dejounte Murray, Josh Richardson, Keita Bates-Diop, Lonnie Walker IV, Zach Collins",0,3,7,3,4,93
+52100131,2022-04-13,2,6,"NOP","SAS","CJ McCollum, Jonas Valanciunas, Jose Alvarado, Naji Marshall, Trey Murphy III",0,0,1,1,2,30
+52100131,2022-04-13,2,11,"SAS","NOP","Joshua Primo, Keita Bates-Diop, Lonnie Walker IV, Tre Jones, Zach Collins",0,4,3,2,1,72
+52100131,2022-04-13,2,7,"NOP","SAS","Brandon Ingram, CJ McCollum, Herbert Jones, Jonas Valanciunas, Jose Alvarado",0,2,0,2,1,46
+52100131,2022-04-13,2,12,"SAS","NOP","Joshua Primo, Keita Bates-Diop, Lonnie Walker IV, Tre Jones, Zach Collins",0,0,2,0,1,16
+52100131,2022-04-13,2,8,"NOP","SAS","Brandon Ingram, Herbert Jones, Jaxson Hayes, Jonas Valanciunas, Jose Alvarado",0,5,9,3,3,146
+52100131,2022-04-13,2,13,"SAS","NOP","Jakob Poeltl, Joshua Primo, Keldon Johnson, Lonnie Walker IV, Tre Jones",0,1,2,3,2,67
+52100131,2022-04-13,2,14,"SAS","NOP","Jakob Poeltl, Joshua Primo, Keldon Johnson, Lonnie Walker IV, Tre Jones",0,0,0,0,1,9
+52100131,2022-04-13,2,9,"NOP","SAS","CJ McCollum, Herbert Jones, Jaxson Hayes, Jonas Valanciunas, Trey Murphy III",0,5,9,5,6,135
+52100131,2022-04-13,2,15,"SAS","NOP","Devin Vassell, Jakob Poeltl, Josh Richardson, Keldon Johnson, Tre Jones",0,18,19,13,13,405.9
+52100131,2022-04-13,2,10,"NOP","SAS","CJ McCollum, Herbert Jones, Jonas Valanciunas, Jose Alvarado, Trey Murphy III",0,11,2,6,6,182
+52100131,2022-04-13,2,16,"SAS","NOP","Jakob Poeltl, Josh Richardson, Keldon Johnson, Lonnie Walker IV, Tre Jones",0,2,2,2,1,57.0999999999999
+52100131,2022-04-13,3,11,"NOP","SAS","Brandon Ingram, CJ McCollum, Herbert Jones, Jaxson Hayes, Jonas Valanciunas",0,11,8,9,9,255
+52100131,2022-04-13,3,17,"SAS","NOP","Dejounte Murray, Devin Vassell, Jakob Poeltl, Joshua Primo, Keldon Johnson",0,3,2,5,5,124
+52100131,2022-04-13,3,12,"NOP","SAS","CJ McCollum, Herbert Jones, Jaxson Hayes, Jonas Valanciunas, Trey Murphy III",0,13,8,8,8,229
+52100131,2022-04-13,3,18,"SAS","NOP","Dejounte Murray, Devin Vassell, Jakob Poeltl, Josh Richardson, Keldon Johnson",0,11,16,9,9,277
+52100131,2022-04-13,3,19,"SAS","NOP","Dejounte Murray, Devin Vassell, Jakob Poeltl, Joshua Primo, Keldon Johnson",0,0,2,0,1,18
+52100131,2022-04-13,3,20,"SAS","NOP","Dejounte Murray, Devin Vassell, Josh Richardson, Keldon Johnson, Zach Collins",0,2,4,3,2,65
+52100131,2022-04-13,3,13,"NOP","SAS","CJ McCollum, Herbert Jones, Larry Nance Jr., Naji Marshall, Trey Murphy III",0,0,2,2,1,46
+52100131,2022-04-13,3,21,"SAS","NOP","Dejounte Murray, Josh Richardson, Keldon Johnson, Lonnie Walker IV, Zach Collins",0,5,0,3,3,73
+52100131,2022-04-13,3,14,"NOP","SAS","CJ McCollum, Devonte' Graham, Larry Nance Jr., Naji Marshall, Trey Murphy III",0,0,3,1,2,27
+52100131,2022-04-13,3,22,"SAS","NOP","Dejounte Murray, Keldon Johnson, Lonnie Walker IV, Tre Jones, Zach Collins",0,0,2,0,1,16
+52100131,2022-04-13,3,15,"NOP","SAS","CJ McCollum, Devonte' Graham, Jonas Valanciunas, Larry Nance Jr., Naji Marshall",0,7,4,5,5,147.8
+52100131,2022-04-13,3,23,"SAS","NOP","Dejounte Murray, Devin Vassell, Lonnie Walker IV, Tre Jones, Zach Collins",0,4,5,5,5,147
+52100131,2022-04-13,3,16,"NOP","SAS","CJ McCollum, Devonte' Graham, Herbert Jones, Jonas Valanciunas, Trey Murphy III",0,0,0,1,0,15.1999999999998
+52100131,2022-04-13,4,24,"SAS","NOP","Dejounte Murray, Devin Vassell, Keldon Johnson, Lonnie Walker IV, Zach Collins",0,2,4,4,3,117
+52100131,2022-04-13,4,25,"SAS","NOP","Dejounte Murray, Devin Vassell, Jakob Poeltl, Keldon Johnson, Lonnie Walker IV",0,4,0,2,1,55
+52100131,2022-04-13,4,26,"SAS","NOP","Dejounte Murray, Devin Vassell, Keldon Johnson, Lonnie Walker IV, Zach Collins",0,0,0,0,1,8
+52100131,2022-04-13,4,17,"NOP","SAS","Brandon Ingram, Jose Alvarado, Larry Nance Jr., Naji Marshall, Trey Murphy III",0,4,4,5,5,152
+52100131,2022-04-13,4,27,"SAS","NOP","Dejounte Murray, Devin Vassell, Jakob Poeltl, Josh Richardson, Keldon Johnson",0,22,17,19,20,540
+52100131,2022-04-13,4,18,"NOP","SAS","Brandon Ingram, Jose Alvarado, Larry Nance Jr., Naji Marshall, Trey Murphy III",0,0,2,0,1,28
+52100131,2022-04-13,4,19,"NOP","SAS","Brandon Ingram, Herbert Jones, Jonas Valanciunas, Jose Alvarado, Trey Murphy III",0,1,2,2,1,56
+52100131,2022-04-13,4,20,"NOP","SAS","Brandon Ingram, CJ McCollum, Herbert Jones, Jonas Valanciunas, Jose Alvarado",0,16,20,18,18,484

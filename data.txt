@@ -58,3 +58,9 @@
   description: Add files via upload
   rows: 45375
   cols: 19
+- path: lineup-stats-post
+  name: lineup-stats-post
+  type: table
+  description: postseason lineup stints
+  rows: 205
+  cols: 13
