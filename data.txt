@@ -68,5 +68,5 @@
   name: pbp-final-gt-post
   type: table
   description: postseason pbp with lineups
-  rows: 1970
+  rows: 6760
   cols: 37
