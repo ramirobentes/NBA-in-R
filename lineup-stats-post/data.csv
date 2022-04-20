@@ -39,6 +39,61 @@
 42100101,2022-04-17,4,19,"MIA","ATL","Dewayne Dedmon, Duncan Robinson, Gabe Vincent, Jimmy Butler, Tyler Herro",0,1,0,0,0,0
 42100101,2022-04-17,4,20,"ATL","MIA","Gorgui Dieng, Jalen Johnson, Kevin Knox II, Skylar Mays, Timothe Luwawu-Cabarrot",1,15,9,12,12,298
 42100101,2022-04-17,4,20,"MIA","ATL","Caleb Martin, Gabe Vincent, Haywood Highsmith, Max Strus, Omer Yurtseven",1,9,15,12,12,298
+42100102,2022-04-19,1,1,"ATL","MIA","Danilo Gallinari, De'Andre Hunter, John Collins, Kevin Huerter, Trae Young",0,13,15,14,14,399
+42100102,2022-04-19,1,1,"MIA","ATL","Bam Adebayo, Jimmy Butler, Kyle Lowry, Max Strus, P.J. Tucker",0,15,13,15,14,403
+42100102,2022-04-19,1,2,"ATL","MIA","Danilo Gallinari, De'Andre Hunter, John Collins, Kevin Huerter, Trae Young",0,0,0,0,1,4
+42100102,2022-04-19,1,2,"MIA","ATL","Bam Adebayo, Kyle Lowry, Max Strus, P.J. Tucker, Tyler Herro",0,0,2,2,2,38
+42100102,2022-04-19,1,3,"ATL","MIA","Bogdan Bogdanovic, Danilo Gallinari, Delon Wright, John Collins, Trae Young",0,2,0,2,1,34
+42100102,2022-04-19,1,3,"MIA","ATL","Dewayne Dedmon, Kyle Lowry, Max Strus, P.J. Tucker, Tyler Herro",0,3,4,3,4,79
+42100102,2022-04-19,1,4,"ATL","MIA","Bogdan Bogdanovic, Danilo Gallinari, Delon Wright, John Collins, Trae Young",0,0,0,0,1,4
+42100102,2022-04-19,1,5,"ATL","MIA","Bogdan Bogdanovic, Danilo Gallinari, Delon Wright, Onyeka Okongwu, Trae Young",0,4,3,4,3,79
+42100102,2022-04-19,1,4,"MIA","ATL","Dewayne Dedmon, Jimmy Butler, Kyle Lowry, Max Strus, Tyler Herro",0,0,2,1,1,22
+42100102,2022-04-19,1,6,"ATL","MIA","Bogdan Bogdanovic, De'Andre Hunter, Delon Wright, Onyeka Okongwu, Trae Young",0,2,4,2,3,76
+42100102,2022-04-19,1,7,"ATL","MIA","De'Andre Hunter, Delon Wright, Kevin Huerter, Onyeka Okongwu, Trae Young",0,2,4,4,3,97.9
+42100102,2022-04-19,1,5,"MIA","ATL","Dewayne Dedmon, Duncan Robinson, Gabe Vincent, Jimmy Butler, Tyler Herro",0,8,2,5,5,151.9
+42100102,2022-04-19,1,8,"ATL","MIA","De'Andre Hunter, Delon Wright, Kevin Huerter, Onyeka Okongwu, Timothe Luwawu-Cabarrot",0,2,0,1,2,26.1
+42100102,2022-04-19,1,6,"MIA","ATL","Duncan Robinson, Gabe Vincent, Jimmy Butler, Max Strus, Tyler Herro",0,0,2,2,1,26.1
+42100102,2022-04-19,2,9,"ATL","MIA","Bogdan Bogdanovic, De'Andre Hunter, Delon Wright, Kevin Huerter, Onyeka Okongwu",0,8,7,7,6,194
+42100102,2022-04-19,2,7,"MIA","ATL","Dewayne Dedmon, Duncan Robinson, Gabe Vincent, Jimmy Butler, Tyler Herro",0,7,8,6,6,181
+42100102,2022-04-19,2,10,"ATL","MIA","De'Andre Hunter, Delon Wright, Kevin Huerter, Onyeka Okongwu, Trae Young",0,6,8,4,5,157
+42100102,2022-04-19,2,8,"MIA","ATL","Bam Adebayo, Duncan Robinson, Gabe Vincent, Jimmy Butler, Tyler Herro",0,0,0,1,1,29
+42100102,2022-04-19,2,9,"MIA","ATL","Bam Adebayo, Duncan Robinson, Gabe Vincent, Jimmy Butler, Tyler Herro",0,0,2,0,1,12
+42100102,2022-04-19,2,10,"MIA","ATL","Bam Adebayo, Gabe Vincent, Jimmy Butler, Kyle Lowry, Tyler Herro",0,8,4,4,3,129
+42100102,2022-04-19,2,11,"ATL","MIA","Danilo Gallinari, Delon Wright, John Collins, Kevin Huerter, Trae Young",0,11,5,5,5,170
+42100102,2022-04-19,2,11,"MIA","ATL","Bam Adebayo, Gabe Vincent, Kyle Lowry, P.J. Tucker, Tyler Herro",0,5,11,5,5,170
+42100102,2022-04-19,2,12,"ATL","MIA","Danilo Gallinari, De'Andre Hunter, John Collins, Kevin Huerter, Trae Young",0,0,1,1,1,1
+42100102,2022-04-19,2,12,"MIA","ATL","Bam Adebayo, Jimmy Butler, Kyle Lowry, P.J. Tucker, Tyler Herro",0,3,0,2,2,40
+42100102,2022-04-19,2,13,"ATL","MIA","Danilo Gallinari, Delon Wright, John Collins, Kevin Huerter, Trae Young",0,0,2,1,1,29
+42100102,2022-04-19,2,13,"MIA","ATL","Caleb Martin, Jimmy Butler, Kyle Lowry, P.J. Tucker, Tyler Herro",0,2,2,1,1,30
+42100102,2022-04-19,2,14,"ATL","MIA","Danilo Gallinari, Delon Wright, John Collins, Timothe Luwawu-Cabarrot, Trae Young",0,4,4,5,4,138
+42100102,2022-04-19,2,14,"MIA","ATL","Caleb Martin, Jimmy Butler, Kyle Lowry, Max Strus, P.J. Tucker",0,2,2,3,4,98
+42100102,2022-04-19,2,15,"ATL","MIA","Danilo Gallinari, Delon Wright, Onyeka Okongwu, Timothe Luwawu-Cabarrot, Trae Young",0,0,3,1,2,31
+42100102,2022-04-19,2,15,"MIA","ATL","Gabe Vincent, Jimmy Butler, Kyle Lowry, Max Strus, P.J. Tucker",0,2,0,1,0,22.7
+42100102,2022-04-19,2,16,"MIA","ATL","Caleb Martin, Gabe Vincent, Jimmy Butler, Kyle Lowry, P.J. Tucker",0,0,0,1,1,8.29999999999995
+42100102,2022-04-19,2,17,"MIA","ATL","Gabe Vincent, Jimmy Butler, Kyle Lowry, Max Strus, P.J. Tucker",0,1,0,0,0,0
+42100102,2022-04-19,3,16,"ATL","MIA","Danilo Gallinari, De'Andre Hunter, John Collins, Kevin Huerter, Trae Young",0,2,8,5,5,120
+42100102,2022-04-19,3,17,"ATL","MIA","Bogdan Bogdanovic, Danilo Gallinari, John Collins, Kevin Huerter, Trae Young",0,10,16,9,9,292
+42100102,2022-04-19,3,18,"MIA","ATL","Bam Adebayo, Jimmy Butler, Kyle Lowry, Max Strus, P.J. Tucker",0,5,2,3,3,82
+42100102,2022-04-19,3,19,"MIA","ATL","Caleb Martin, Jimmy Butler, Kyle Lowry, Max Strus, P.J. Tucker",0,19,10,11,12,382
+42100102,2022-04-19,3,18,"ATL","MIA","Bogdan Bogdanovic, De'Andre Hunter, Delon Wright, John Collins, Trae Young",0,0,0,1,0,33
+42100102,2022-04-19,3,19,"ATL","MIA","Bogdan Bogdanovic, De'Andre Hunter, John Collins, Kevin Huerter, Trae Young",0,0,0,0,0,19
+42100102,2022-04-19,3,20,"MIA","ATL","Caleb Martin, Jimmy Butler, Max Strus, P.J. Tucker, Tyler Herro",0,0,6,4,3,99
+42100102,2022-04-19,3,20,"ATL","MIA","Bogdan Bogdanovic, De'Andre Hunter, Delon Wright, Onyeka Okongwu, Trae Young",0,10,7,9,10,256
+42100102,2022-04-19,3,21,"MIA","ATL","Caleb Martin, Dewayne Dedmon, Jimmy Butler, Max Strus, Tyler Herro",0,2,0,2,3,67
+42100102,2022-04-19,3,22,"MIA","ATL","Caleb Martin, Dewayne Dedmon, Gabe Vincent, Jimmy Butler, Tyler Herro",0,5,4,3,3,87.8000000000002
+42100102,2022-04-19,3,23,"MIA","ATL","Gabe Vincent, Jimmy Butler, Kyle Lowry, Max Strus, Tyler Herro",0,0,0,1,0,2.19999999999982
+42100102,2022-04-19,4,21,"ATL","MIA","Bogdan Bogdanovic, De'Andre Hunter, Delon Wright, Kevin Huerter, Onyeka Okongwu",0,5,7,6,6,222
+42100102,2022-04-19,4,22,"ATL","MIA","Bogdan Bogdanovic, De'Andre Hunter, Delon Wright, Kevin Huerter, Onyeka Okongwu",0,0,0,0,1,0
+42100102,2022-04-19,4,23,"ATL","MIA","Bogdan Bogdanovic, De'Andre Hunter, Delon Wright, John Collins, Trae Young",0,14,8,8,7,218
+42100102,2022-04-19,4,24,"ATL","MIA","Bogdan Bogdanovic, De'Andre Hunter, Delon Wright, John Collins, Trae Young",0,0,0,0,1,0
+42100102,2022-04-19,4,25,"ATL","MIA","Bogdan Bogdanovic, De'Andre Hunter, John Collins, Kevin Huerter, Trae Young",0,10,13,10,10,280
+42100102,2022-04-19,4,24,"MIA","ATL","Caleb Martin, Dewayne Dedmon, Gabe Vincent, Kyle Lowry, Tyler Herro",0,7,5,6,6,207
+42100102,2022-04-19,4,25,"MIA","ATL","Bam Adebayo, Caleb Martin, Gabe Vincent, Kyle Lowry, Tyler Herro",0,0,0,1,0,15
+42100102,2022-04-19,4,26,"MIA","ATL","Bam Adebayo, Gabe Vincent, Jimmy Butler, Kyle Lowry, Tyler Herro",0,17,20,14,14,418
+42100102,2022-04-19,4,27,"MIA","ATL","Bam Adebayo, Caleb Martin, Gabe Vincent, Jimmy Butler, Kyle Lowry",0,0,0,0,0,2
+42100102,2022-04-19,4,28,"MIA","ATL","Bam Adebayo, Caleb Martin, Gabe Vincent, Jimmy Butler, Kyle Lowry",0,0,0,0,1,0
+42100102,2022-04-19,4,29,"MIA","ATL","Bam Adebayo, Gabe Vincent, Jimmy Butler, Kyle Lowry, Tyler Herro",0,4,2,3,2,47.9000000000001
+42100102,2022-04-19,4,30,"MIA","ATL","Bam Adebayo, Caleb Martin, Gabe Vincent, Kyle Lowry, Tyler Herro",0,0,2,1,1,30.0999999999999
 42100111,2022-04-17,1,1,"BKN","BOS","Andre Drummond, Bruce Brown, Kevin Durant, Kyrie Irving, Seth Curry",0,19,21,20,19,519
 42100111,2022-04-17,1,1,"BOS","BKN","Al Horford, Daniel Theis, Jaylen Brown, Jayson Tatum, Marcus Smart",0,9,8,8,9,248
 42100111,2022-04-17,1,2,"BOS","BKN","Al Horford, Grant Williams, Jaylen Brown, Jayson Tatum, Marcus Smart",0,6,4,5,5,121
@@ -196,6 +251,41 @@
 42100131,2022-04-16,4,25,"PHI","TOR","Danny Green, Furkan Korkmaz, Paul Reed, Shake Milton, Tyrese Maxey",1,0,1,2,2,51
 42100131,2022-04-16,4,26,"PHI","TOR","Furkan Korkmaz, Georges Niang, Isaiah Joe, Paul Reed, Shake Milton",1,5,4,5,5,115
 42100131,2022-04-16,4,23,"TOR","PHI","Armoni Brooks, Dalano Banton, Isaac Bonga, Malachi Flynn, Yuta Watanabe",1,5,5,7,7,166
+42100132,2022-04-18,1,1,"PHI","TOR","Danny Green, James Harden, Joel Embiid, Tobias Harris, Tyrese Maxey",0,18,13,12,12,382
+42100132,2022-04-18,1,1,"TOR","PHI","Fred VanVleet, Gary Trent Jr., OG Anunoby, Pascal Siakam, Precious Achiuwa",0,11,5,7,7,225
+42100132,2022-04-18,1,2,"PHI","TOR","James Harden, Joel Embiid, Matisse Thybulle, Tobias Harris, Tyrese Maxey",0,0,0,1,1,35
+42100132,2022-04-18,1,2,"TOR","PHI","Chris Boucher, Fred VanVleet, OG Anunoby, Pascal Siakam, Precious Achiuwa",0,2,8,3,3,88
+42100132,2022-04-18,1,3,"PHI","TOR","Georges Niang, James Harden, Joel Embiid, Matisse Thybulle, Tyrese Maxey",0,2,5,2,2,56
+42100132,2022-04-18,1,4,"PHI","TOR","James Harden, Joel Embiid, Matisse Thybulle, Tobias Harris, Tyrese Maxey",0,0,0,0,0,11
+42100132,2022-04-18,1,5,"PHI","TOR","Georges Niang, Joel Embiid, Matisse Thybulle, Shake Milton, Tyrese Maxey",0,8,9,5,5,151
+42100132,2022-04-18,1,3,"TOR","PHI","Chris Boucher, Fred VanVleet, Khem Birch, Malachi Flynn, Pascal Siakam",0,5,7,5,5,171
+42100132,2022-04-18,1,6,"PHI","TOR","Georges Niang, James Harden, Joel Embiid, Matisse Thybulle, Shake Milton",0,3,5,1,2,53.6
+42100132,2022-04-18,1,7,"PHI","TOR","Georges Niang, Joel Embiid, Matisse Thybulle, Shake Milton, Tyrese Maxey",0,1,0,0,0,0
+42100132,2022-04-18,1,4,"TOR","PHI","Chris Boucher, Fred VanVleet, Malachi Flynn, Pascal Siakam, Precious Achiuwa",0,7,4,3,3,87
+42100132,2022-04-18,1,8,"PHI","TOR","Danny Green, Georges Niang, James Harden, Joel Embiid, Shake Milton",0,0,1,2,1,31.4
+42100132,2022-04-18,1,5,"TOR","PHI","Chris Boucher, Fred VanVleet, Malachi Flynn, OG Anunoby, Precious Achiuwa",0,6,8,4,3,117.6
+42100132,2022-04-18,1,6,"TOR","PHI","Chris Boucher, Fred VanVleet, Malachi Flynn, OG Anunoby, Precious Achiuwa",0,1,0,0,0,0
+42100132,2022-04-18,1,7,"TOR","PHI","Chris Boucher, Fred VanVleet, Malachi Flynn, Precious Achiuwa, Thaddeus Young",0,1,0,1,2,31.4
+42100132,2022-04-18,2,9,"PHI","TOR","Danny Green, James Harden, Paul Reed, Shake Milton, Tobias Harris",0,8,7,4,4,154
+42100132,2022-04-18,2,10,"PHI","TOR","Danny Green, James Harden, Paul Reed, Tobias Harris, Tyrese Maxey",0,15,4,6,5,188
+42100132,2022-04-18,2,8,"TOR","PHI","Fred VanVleet, OG Anunoby, Pascal Siakam, Precious Achiuwa, Thaddeus Young",0,9,18,7,8,266
+42100132,2022-04-18,2,11,"PHI","TOR","Danny Green, James Harden, Joel Embiid, Tobias Harris, Tyrese Maxey",0,12,8,13,14,378
+42100132,2022-04-18,2,9,"TOR","PHI","Fred VanVleet, Gary Trent Jr., Pascal Siakam, Precious Achiuwa, Thaddeus Young",0,6,9,7,6,184
+42100132,2022-04-18,2,10,"TOR","PHI","Fred VanVleet, Gary Trent Jr., OG Anunoby, Pascal Siakam, Precious Achiuwa",0,0,1,1,2,30
+42100132,2022-04-18,2,11,"TOR","PHI","Fred VanVleet, Malachi Flynn, OG Anunoby, Pascal Siakam, Precious Achiuwa",0,4,7,8,7,240
+42100132,2022-04-18,3,12,"PHI","TOR","Danny Green, James Harden, Joel Embiid, Tobias Harris, Tyrese Maxey",0,13,6,12,12,399
+42100132,2022-04-18,3,13,"PHI","TOR","James Harden, Joel Embiid, Matisse Thybulle, Tobias Harris, Tyrese Maxey",0,4,0,3,2,71
+42100132,2022-04-18,3,12,"TOR","PHI","Fred VanVleet, Gary Trent Jr., OG Anunoby, Pascal Siakam, Precious Achiuwa",0,0,2,4,4,127
+42100132,2022-04-18,3,14,"PHI","TOR","Georges Niang, Joel Embiid, Matisse Thybulle, Shake Milton, Tyrese Maxey",0,3,6,3,3,124
+42100132,2022-04-18,3,13,"TOR","PHI","Chris Boucher, Fred VanVleet, OG Anunoby, Pascal Siakam, Precious Achiuwa",0,6,13,10,10,325
+42100132,2022-04-18,3,14,"TOR","PHI","Fred VanVleet, Gary Trent Jr., OG Anunoby, Pascal Siakam, Precious Achiuwa",0,0,2,0,1,18
+42100132,2022-04-18,3,15,"PHI","TOR","Georges Niang, Matisse Thybulle, Paul Reed, Shake Milton, Tyrese Maxey",0,8,7,5,5,126
+42100132,2022-04-18,3,15,"TOR","PHI","Chris Boucher, Khem Birch, Malachi Flynn, OG Anunoby, Pascal Siakam",0,13,11,8,8,250
+42100132,2022-04-18,4,16,"PHI","TOR","Danny Green, James Harden, Paul Reed, Shake Milton, Tobias Harris",0,2,7,4,5,178
+42100132,2022-04-18,4,16,"TOR","PHI","Chris Boucher, Fred VanVleet, Khem Birch, Malachi Flynn, Pascal Siakam",0,2,2,3,2,101
+42100132,2022-04-18,4,17,"PHI","TOR","Danny Green, James Harden, Joel Embiid, Tobias Harris, Tyrese Maxey",0,15,19,17,16,542
+42100132,2022-04-18,4,17,"TOR","PHI","Chris Boucher, Fred VanVleet, Khem Birch, Malachi Flynn, OG Anunoby",0,13,5,7,8,272
+42100132,2022-04-18,4,18,"TOR","PHI","Chris Boucher, Fred VanVleet, Khem Birch, OG Anunoby, Pascal Siakam",0,11,10,11,11,347
 42100141,2022-04-17,1,1,"NOP","PHX","Brandon Ingram, CJ McCollum, Herbert Jones, Jaxson Hayes, Jonas Valanciunas",0,8,17,15,15,435
 42100141,2022-04-17,1,1,"PHX","NOP","Chris Paul, Deandre Ayton, Devin Booker, Jae Crowder, Mikal Bridges",0,17,9,15,15,435
 42100141,2022-04-17,1,2,"NOP","PHX","Brandon Ingram, CJ McCollum, Herbert Jones, Jaxson Hayes, Jonas Valanciunas",0,1,0,0,0,0
@@ -240,6 +330,50 @@
 42100141,2022-04-17,4,20,"NOP","PHX","Brandon Ingram, CJ McCollum, Herbert Jones, Jonas Valanciunas, Trey Murphy III",0,14,11,10,10,335
 42100141,2022-04-17,4,23,"PHX","NOP","Cameron Johnson, Chris Paul, Deandre Ayton, Jae Crowder, Mikal Bridges",0,2,2,3,3,99
 42100141,2022-04-17,4,24,"PHX","NOP","Chris Paul, Deandre Ayton, Devin Booker, Jae Crowder, Mikal Bridges",0,13,14,11,12,384
+42100142,2022-04-19,1,1,"NOP","PHX","Brandon Ingram, CJ McCollum, Herbert Jones, Jaxson Hayes, Jonas Valanciunas",0,15,16,14,15,410
+42100142,2022-04-19,1,1,"PHX","NOP","Chris Paul, Deandre Ayton, Devin Booker, Jae Crowder, Mikal Bridges",0,18,18,17,17,472
+42100142,2022-04-19,1,2,"NOP","PHX","Brandon Ingram, CJ McCollum, Herbert Jones, Jonas Valanciunas, Trey Murphy III",0,3,2,3,2,62
+42100142,2022-04-19,1,3,"NOP","PHX","Brandon Ingram, CJ McCollum, Herbert Jones, Larry Nance Jr., Trey Murphy III",0,3,0,1,1,45
+42100142,2022-04-19,1,2,"PHX","NOP","Cameron Johnson, Cameron Payne, Deandre Ayton, Devin Booker, Mikal Bridges",0,0,0,1,0,22
+42100142,2022-04-19,1,4,"NOP","PHX","Brandon Ingram, Devonte' Graham, Herbert Jones, Larry Nance Jr., Trey Murphy III",0,6,5,5,5,161.7
+42100142,2022-04-19,1,3,"PHX","NOP","Cameron Johnson, Cameron Payne, Deandre Ayton, Devin Booker, Mikal Bridges",0,0,3,0,1,23
+42100142,2022-04-19,1,5,"NOP","PHX","Brandon Ingram, Herbert Jones, Larry Nance Jr., Naji Marshall, Trey Murphy III",0,3,5,2,2,41.3
+42100142,2022-04-19,1,4,"PHX","NOP","Cameron Johnson, Cameron Payne, Devin Booker, JaVale McGee, Torrey Craig",0,10,9,7,6,203
+42100142,2022-04-19,1,5,"PHX","NOP","Cameron Johnson, Cameron Payne, Devin Booker, JaVale McGee, Torrey Craig",0,0,0,0,1,0
+42100142,2022-04-19,2,6,"NOP","PHX","CJ McCollum, Jose Alvarado, Larry Nance Jr., Naji Marshall, Trey Murphy III",0,7,6,6,5,189
+42100142,2022-04-19,2,6,"PHX","NOP","Cameron Johnson, Cameron Payne, Chris Paul, JaVale McGee, Mikal Bridges",0,8,5,7,6,210
+42100142,2022-04-19,2,7,"PHX","NOP","Cameron Johnson, Chris Paul, JaVale McGee, Mikal Bridges, Torrey Craig",0,0,2,0,1,47
+42100142,2022-04-19,2,7,"NOP","PHX","CJ McCollum, Herbert Jones, Jaxson Hayes, Jose Alvarado, Larry Nance Jr.",0,0,2,1,1,58
+42100142,2022-04-19,2,8,"PHX","NOP","Cameron Johnson, Cameron Payne, Chris Paul, Deandre Ayton, Mikal Bridges",0,0,2,1,2,46
+42100142,2022-04-19,2,8,"NOP","PHX","CJ McCollum, Herbert Jones, Jaxson Hayes, Jonas Valanciunas, Jose Alvarado",0,2,0,2,1,46
+42100142,2022-04-19,2,9,"NOP","PHX","CJ McCollum, Herbert Jones, Jaxson Hayes, Jose Alvarado, Larry Nance Jr.",0,0,0,0,1,10
+42100142,2022-04-19,2,9,"PHX","NOP","Cameron Payne, Chris Paul, Deandre Ayton, Jae Crowder, Mikal Bridges",0,6,2,4,3,95
+42100142,2022-04-19,2,10,"NOP","PHX","Brandon Ingram, CJ McCollum, Herbert Jones, Jaxson Hayes, Jonas Valanciunas",0,7,12,6,7,192
+42100142,2022-04-19,2,10,"PHX","NOP","Cameron Payne, Deandre Ayton, Devin Booker, Jae Crowder, Mikal Bridges",0,12,5,6,6,175
+42100142,2022-04-19,2,11,"NOP","PHX","Brandon Ingram, CJ McCollum, Herbert Jones, Jonas Valanciunas, Trey Murphy III",0,0,6,3,3,78
+42100142,2022-04-19,2,11,"PHX","NOP","Chris Paul, Deandre Ayton, Devin Booker, Jae Crowder, Mikal Bridges",0,7,10,5,6,147
+42100142,2022-04-19,2,12,"NOP","PHX","Brandon Ingram, CJ McCollum, Herbert Jones, Larry Nance Jr., Trey Murphy III",0,10,4,5,4,143.7
+42100142,2022-04-19,2,13,"NOP","PHX","Brandon Ingram, Herbert Jones, Larry Nance Jr., Naji Marshall, Trey Murphy III",0,0,3,1,1,3.29999999999995
+42100142,2022-04-19,3,12,"PHX","NOP","Chris Paul, Deandre Ayton, Devin Booker, Jae Crowder, Mikal Bridges",0,13,21,15,16,445
+42100142,2022-04-19,3,14,"NOP","PHX","Brandon Ingram, CJ McCollum, Herbert Jones, Jaxson Hayes, Jonas Valanciunas",0,21,13,16,15,445
+42100142,2022-04-19,3,13,"PHX","NOP","Cameron Johnson, Cameron Payne, Deandre Ayton, Landry Shamet, Mikal Bridges",0,0,0,1,0,27
+42100142,2022-04-19,3,15,"NOP","PHX","Brandon Ingram, Devonte' Graham, Herbert Jones, Jaxson Hayes, Trey Murphy III",0,0,0,0,0,19
+42100142,2022-04-19,3,14,"PHX","NOP","Cameron Johnson, Cameron Payne, Deandre Ayton, Landry Shamet, Torrey Craig",0,0,0,1,1,20
+42100142,2022-04-19,3,16,"NOP","PHX","Brandon Ingram, Devonte' Graham, Herbert Jones, Jaxson Hayes, Trey Murphy III",0,0,0,0,1,8
+42100142,2022-04-19,3,17,"NOP","PHX","Brandon Ingram, Devonte' Graham, Jaxson Hayes, Naji Marshall, Trey Murphy III",0,0,0,1,0,20
+42100142,2022-04-19,3,15,"PHX","NOP","Cameron Johnson, Cameron Payne, JaVale McGee, Landry Shamet, Torrey Craig",0,9,13,7,8,228
+42100142,2022-04-19,3,18,"NOP","PHX","Brandon Ingram, Devonte' Graham, Jaxson Hayes, Naji Marshall, Trey Murphy III",0,0,0,0,1,0
+42100142,2022-04-19,3,19,"NOP","PHX","Brandon Ingram, Devonte' Graham, Larry Nance Jr., Naji Marshall, Trey Murphy III",0,13,7,7,6,212.8
+42100142,2022-04-19,3,20,"NOP","PHX","Brandon Ingram, Herbert Jones, Jaxson Hayes, Larry Nance Jr., Naji Marshall",0,0,2,1,1,15.1999999999998
+42100142,2022-04-19,4,16,"PHX","NOP","Cameron Johnson, Chris Paul, JaVale McGee, Landry Shamet, Mikal Bridges",0,9,5,6,6,195
+42100142,2022-04-19,4,17,"PHX","NOP","Cameron Johnson, Chris Paul, Deandre Ayton, Landry Shamet, Mikal Bridges",0,9,10,8,7,222
+42100142,2022-04-19,4,18,"PHX","NOP","Cameron Johnson, Chris Paul, Deandre Ayton, Jae Crowder, Mikal Bridges",0,13,20,11,12,303
+42100142,2022-04-19,4,21,"NOP","PHX","CJ McCollum, Herbert Jones, Jose Alvarado, Larry Nance Jr., Trey Murphy III",0,5,9,6,6,195
+42100142,2022-04-19,4,22,"NOP","PHX","CJ McCollum, Herbert Jones, Jonas Valanciunas, Jose Alvarado, Trey Murphy III",0,0,4,1,2,29
+42100142,2022-04-19,4,23,"NOP","PHX","Brandon Ingram, CJ McCollum, Herbert Jones, Jonas Valanciunas, Jose Alvarado",0,20,12,10,9,299
+42100142,2022-04-19,4,24,"NOP","PHX","Brandon Ingram, CJ McCollum, Herbert Jones, Jose Alvarado, Larry Nance Jr.",0,6,6,4,5,128
+42100142,2022-04-19,4,25,"NOP","PHX","Brandon Ingram, CJ McCollum, Herbert Jones, Jonas Valanciunas, Larry Nance Jr.",0,2,0,1,0,1
+42100142,2022-04-19,4,26,"NOP","PHX","Brandon Ingram, CJ McCollum, Herbert Jones, Jose Alvarado, Larry Nance Jr.",0,2,0,3,3,68
 42100151,2022-04-16,1,1,"MEM","MIN","Desmond Bane, Dillon Brooks, Ja Morant, Jaren Jackson Jr., Steven Adams",0,13,18,11,11,314
 42100151,2022-04-16,1,1,"MIN","MEM","Anthony Edwards, D'Angelo Russell, Jarred Vanderbilt, Karl-Anthony Towns, Patrick Beverley",0,18,13,11,11,314
 42100151,2022-04-16,1,2,"MIN","MEM","Anthony Edwards, D'Angelo Russell, Jaden McDaniels, Karl-Anthony Towns, Patrick Beverley",0,5,0,2,2,54
@@ -263,8 +397,8 @@
 42100151,2022-04-16,2,12,"MIN","MEM","Anthony Edwards, D'Angelo Russell, Jarred Vanderbilt, Karl-Anthony Towns, Patrick Beverley",0,0,0,0,0,9
 42100151,2022-04-16,2,10,"MEM","MIN","Brandon Clarke, Dillon Brooks, Ja Morant, Kyle Anderson, Ziaire Williams",0,4,5,4,4,106
 42100151,2022-04-16,2,13,"MIN","MEM","Anthony Edwards, Jaden McDaniels, Karl-Anthony Towns, Patrick Beverley, Taurean Prince",0,2,0,2,1,43
-42100151,2022-04-16,2,14,"MIN","MEM","Anthony Edwards, Karl-Anthony Towns, Malik Beasley, Patrick Beverley, Taurean Prince",0,7,4,5,5,137
-42100151,2022-04-16,2,11,"MEM","MIN","De'Anthony Melton, Dillon Brooks, Ja Morant, Kyle Anderson, Steven Adams",0,0,7,4,5,120
+42100151,2022-04-16,2,14,"MIN","MEM","Anthony Edwards, Karl-Anthony Towns, Malik Beasley, Patrick Beverley, Taurean Prince",0,7,4,6,6,137
+42100151,2022-04-16,2,11,"MEM","MIN","De'Anthony Melton, Dillon Brooks, Ja Morant, Kyle Anderson, Steven Adams",0,0,7,5,6,120
 42100151,2022-04-16,2,15,"MIN","MEM","Anthony Edwards, Jarred Vanderbilt, Karl-Anthony Towns, Malik Beasley, Patrick Beverley",0,3,7,5,5,147
 42100151,2022-04-16,2,16,"MIN","MEM","Anthony Edwards, Karl-Anthony Towns, Malik Beasley, Patrick Beverley, Taurean Prince",0,1,0,0,0,0
 42100151,2022-04-16,2,12,"MEM","MIN","Brandon Clarke, Desmond Bane, Dillon Brooks, Ja Morant, Steven Adams",0,8,6,5,4,146
@@ -297,6 +431,56 @@
 42100151,2022-04-16,4,29,"MIN","MEM","Anthony Edwards, D'Angelo Russell, Jaden McDaniels, Karl-Anthony Towns, Patrick Beverley",0,4,0,2,1,16
 42100151,2022-04-16,4,30,"MIN","MEM","Anthony Edwards, Jaden McDaniels, Karl-Anthony Towns, Malik Beasley, Patrick Beverley",0,2,4,1,2,15.4000000000001
 42100151,2022-04-16,4,31,"MIN","MEM","Anthony Edwards, D'Angelo Russell, Jaden McDaniels, Karl-Anthony Towns, Patrick Beverley",0,2,0,2,1,38.5999999999999
+42100152,2022-04-19,1,1,"MEM","MIN","Desmond Bane, Dillon Brooks, Ja Morant, Jaren Jackson Jr., Steven Adams",0,3,4,4,4,170
+42100152,2022-04-19,1,1,"MIN","MEM","Anthony Edwards, D'Angelo Russell, Jarred Vanderbilt, Karl-Anthony Towns, Patrick Beverley",0,16,15,13,12,404
+42100152,2022-04-19,1,2,"MEM","MIN","Brandon Clarke, Desmond Bane, Dillon Brooks, Ja Morant, Jaren Jackson Jr.",0,8,8,4,5,103
+42100152,2022-04-19,1,3,"MEM","MIN","Brandon Clarke, Desmond Bane, Ja Morant, Jaren Jackson Jr., Ziaire Williams",0,4,4,4,4,131
+42100152,2022-04-19,1,2,"MIN","MEM","Anthony Edwards, Jaden McDaniels, Karl-Anthony Towns, Malik Beasley, Patrick Beverley",0,7,9,4,5,96
+42100152,2022-04-19,1,4,"MEM","MIN","Brandon Clarke, Desmond Bane, Ja Morant, Kyle Anderson, Ziaire Williams",0,9,7,6,5,122
+42100152,2022-04-19,1,3,"MIN","MEM","Anthony Edwards, Jaden McDaniels, Jordan McLaughlin, Karl-Anthony Towns, Malik Beasley",0,0,0,1,1,30
+42100152,2022-04-19,1,5,"MEM","MIN","Brandon Clarke, Desmond Bane, Ja Morant, Kyle Anderson, Ziaire Williams",0,0,0,0,0,4
+42100152,2022-04-19,1,6,"MEM","MIN","Brandon Clarke, Ja Morant, Kyle Anderson, Tyus Jones, Ziaire Williams",0,6,5,4,5,100
+42100152,2022-04-19,1,4,"MIN","MEM","Anthony Edwards, Jaden McDaniels, Jordan McLaughlin, Malik Beasley, Naz Reid",0,5,6,5,4,100
+42100152,2022-04-19,1,7,"MEM","MIN","Ja Morant, Kyle Anderson, Tyus Jones, Xavier Tillman, Ziaire Williams",0,3,2,2,2,62.7
+42100152,2022-04-19,1,5,"MIN","MEM","D'Angelo Russell, Jaden McDaniels, Jordan McLaughlin, Malik Beasley, Naz Reid",0,4,3,3,4,90
+42100152,2022-04-19,1,8,"MEM","MIN","Desmond Bane, Ja Morant, Tyus Jones, Xavier Tillman, Ziaire Williams",0,0,2,2,1,27.3
+42100152,2022-04-19,2,6,"MIN","MEM","D'Angelo Russell, Jordan McLaughlin, Karl-Anthony Towns, Malik Beasley, Taurean Prince",0,2,11,5,6,178
+42100152,2022-04-19,2,9,"MEM","MIN","De'Anthony Melton, Dillon Brooks, Kyle Anderson, Tyus Jones, Xavier Tillman",0,16,9,10,9,292
+42100152,2022-04-19,2,10,"MEM","MIN","De'Anthony Melton, Dillon Brooks, Kyle Anderson, Tyus Jones, Xavier Tillman",0,0,0,0,1,0
+42100152,2022-04-19,2,7,"MIN","MEM","Anthony Edwards, D'Angelo Russell, Karl-Anthony Towns, Patrick Beverley, Taurean Prince",0,7,5,5,4,114
+42100152,2022-04-19,2,11,"MEM","MIN","De'Anthony Melton, Desmond Bane, Dillon Brooks, Jaren Jackson Jr., Tyus Jones",0,0,3,3,3,74
+42100152,2022-04-19,2,8,"MIN","MEM","Anthony Edwards, D'Angelo Russell, Naz Reid, Patrick Beverley, Taurean Prince",0,3,0,3,3,74
+42100152,2022-04-19,2,9,"MIN","MEM","Anthony Edwards, Malik Beasley, Naz Reid, Patrick Beverley, Taurean Prince",0,0,3,3,3,86
+42100152,2022-04-19,2,12,"MEM","MIN","Brandon Clarke, Desmond Bane, Dillon Brooks, Ja Morant, Jaren Jackson Jr.",0,5,0,5,4,150
+42100152,2022-04-19,2,10,"MIN","MEM","Anthony Edwards, Jaden McDaniels, Malik Beasley, Naz Reid, Patrick Beverley",0,5,8,9,9,268
+42100152,2022-04-19,2,13,"MEM","MIN","Brandon Clarke, Desmond Bane, Dillon Brooks, Ja Morant, Jaren Jackson Jr.",0,0,0,0,1,0
+42100152,2022-04-19,2,14,"MEM","MIN","Desmond Bane, Dillon Brooks, Ja Morant, Jaren Jackson Jr., Xavier Tillman",0,6,5,7,6,201.2
+42100152,2022-04-19,2,15,"MEM","MIN","Desmond Bane, Ja Morant, Kyle Anderson, Xavier Tillman, Ziaire Williams",0,0,0,0,1,2.79999999999995
+42100152,2022-04-19,3,11,"MIN","MEM","Anthony Edwards, D'Angelo Russell, Jarred Vanderbilt, Karl-Anthony Towns, Patrick Beverley",0,2,10,3,4,148
+42100152,2022-04-19,3,12,"MIN","MEM","Anthony Edwards, D'Angelo Russell, Karl-Anthony Towns, Malik Beasley, Patrick Beverley",0,4,10,9,9,233
+42100152,2022-04-19,3,16,"MEM","MIN","Desmond Bane, Dillon Brooks, Ja Morant, Jaren Jackson Jr., Kyle Anderson",0,17,4,9,8,295
+42100152,2022-04-19,3,13,"MIN","MEM","Anthony Edwards, D'Angelo Russell, Jaden McDaniels, Jaylen Nowell, Karl-Anthony Towns",0,5,5,3,2,72
+42100152,2022-04-19,3,17,"MEM","MIN","Desmond Bane, Dillon Brooks, Ja Morant, Kyle Anderson, Xavier Tillman",0,0,2,2,2,35
+42100152,2022-04-19,3,14,"MIN","MEM","Anthony Edwards, Jaden McDaniels, Jaylen Nowell, Jordan McLaughlin, Karl-Anthony Towns",0,17,11,9,10,261.3
+42100152,2022-04-19,3,18,"MEM","MIN","Desmond Bane, Dillon Brooks, Ja Morant, Kyle Anderson, Xavier Tillman",0,0,0,0,0,1
+42100152,2022-04-19,3,19,"MEM","MIN","Dillon Brooks, Ja Morant, Kyle Anderson, Xavier Tillman, Ziaire Williams",0,6,3,3,4,91
+42100152,2022-04-19,3,15,"MIN","MEM","Anthony Edwards, Jaden McDaniels, Jaylen Nowell, Jordan McLaughlin, Naz Reid",0,0,0,1,0,5.69999999999982
+42100152,2022-04-19,3,20,"MEM","MIN","Brandon Clarke, Dillon Brooks, Ja Morant, Xavier Tillman, Ziaire Williams",0,4,5,2,2,62
+42100152,2022-04-19,3,21,"MEM","MIN","Brandon Clarke, Dillon Brooks, Tyus Jones, Xavier Tillman, Ziaire Williams",0,0,5,3,2,74
+42100152,2022-04-19,3,22,"MEM","MIN","Brandon Clarke, Desmond Bane, Tyus Jones, Xavier Tillman, Ziaire Williams",0,6,4,3,3,81
+42100152,2022-04-19,3,23,"MEM","MIN","Brandon Clarke, Desmond Bane, Jaren Jackson Jr., Tyus Jones, Ziaire Williams",0,3,5,3,3,75.3000000000002
+42100152,2022-04-19,3,24,"MEM","MIN","Brandon Clarke, Desmond Bane, Dillon Brooks, Xavier Tillman, Ziaire Williams",0,0,0,0,1,5.69999999999982
+42100152,2022-04-19,4,16,"MIN","MEM","D'Angelo Russell, Jaden McDaniels, Naz Reid, Patrick Beverley, Taurean Prince",0,4,9,7,7,202
+42100152,2022-04-19,4,17,"MIN","MEM","Anthony Edwards, D'Angelo Russell, Jaden McDaniels, Karl-Anthony Towns, Patrick Beverley",0,2,7,5,5,141
+42100152,2022-04-19,4,25,"MEM","MIN","Brandon Clarke, De'Anthony Melton, Desmond Bane, Jaren Jackson Jr., Tyus Jones",0,9,4,7,7,202
+42100152,2022-04-19,4,26,"MEM","MIN","Brandon Clarke, De'Anthony Melton, Desmond Bane, Ja Morant, Jaren Jackson Jr.",0,7,2,5,5,141
+42100152,2022-04-19,4,18,"MIN","MEM","Jaylen Nowell, Jordan McLaughlin, Malik Beasley, Naz Reid, Taurean Prince",0,5,3,3,2,67
+42100152,2022-04-19,4,19,"MIN","MEM","Jaylen Nowell, Jordan McLaughlin, Malik Beasley, Naz Reid, Taurean Prince",1,4,7,6,7,178
+42100152,2022-04-19,4,27,"MEM","MIN","De'Anthony Melton, Desmond Bane, Ja Morant, Jaren Jackson Jr., Kyle Anderson",0,3,5,2,3,67
+42100152,2022-04-19,4,20,"MIN","MEM","Jaylen Nowell, Jordan McLaughlin, Josh Okogie, Naz Reid, Taurean Prince",1,4,2,6,5,132
+42100152,2022-04-19,4,28,"MEM","MIN","De'Anthony Melton, Ja Morant, Kyle Anderson, Xavier Tillman, Ziaire Williams",1,0,0,0,0,30
+42100152,2022-04-19,4,29,"MEM","MIN","De'Anthony Melton, Ja Morant, Kyle Anderson, Xavier Tillman, Ziaire Williams",1,1,0,1,0,0
+42100152,2022-04-19,4,30,"MEM","MIN","De'Anthony Melton, Jarrett Culver, John Konchar, Xavier Tillman, Ziaire Williams",1,8,8,11,12,280
 42100161,2022-04-16,1,1,"DEN","GSW","Aaron Gordon, Jeff Green, Monte Morris, Nikola Jokic, Will Barton",0,23,20,15,14,471
 42100161,2022-04-16,1,1,"GSW","DEN","Andrew Wiggins, Draymond Green, Jordan Poole, Kevon Looney, Klay Thompson",0,15,17,10,11,362
 42100161,2022-04-16,1,2,"DEN","GSW","Aaron Gordon, Austin Rivers, Jeff Green, Monte Morris, Nikola Jokic",0,0,2,1,1,35
@@ -350,6 +534,61 @@
 42100161,2022-04-16,4,25,"GSW","DEN","Andrew Wiggins, Draymond Green, Jordan Poole, Klay Thompson, Stephen Curry",0,2,0,1,0,10
 42100161,2022-04-16,4,26,"GSW","DEN","Damion Lee, Jonathan Kuminga, Jordan Poole, Juan Toscano-Anderson, Moses Moody",1,0,3,0,1,16
 42100161,2022-04-16,4,27,"GSW","DEN","Damion Lee, Gary Payton II, Jonathan Kuminga, Juan Toscano-Anderson, Moses Moody",1,7,10,9,8,201
+42100162,2022-04-18,1,1,"DEN","GSW","Aaron Gordon, Jeff Green, Monte Morris, Nikola Jokic, Will Barton",0,7,2,5,4,154
+42100162,2022-04-18,1,1,"GSW","DEN","Andrew Wiggins, Draymond Green, Jordan Poole, Kevon Looney, Klay Thompson",0,7,9,8,8,279
+42100162,2022-04-18,1,2,"DEN","GSW","Aaron Gordon, Bones Hyland, Jeff Green, Nikola Jokic, Will Barton",0,17,13,12,12,361
+42100162,2022-04-18,1,2,"GSW","DEN","Andrew Wiggins, Draymond Green, Jordan Poole, Kevon Looney, Klay Thompson",0,0,0,0,0,11
+42100162,2022-04-18,1,3,"GSW","DEN","Andrew Wiggins, Draymond Green, Jordan Poole, Klay Thompson, Otto Porter Jr.",0,0,2,2,2,38
+42100162,2022-04-18,1,4,"GSW","DEN","Andrew Wiggins, Draymond Green, Klay Thompson, Otto Porter Jr., Stephen Curry",0,8,13,6,6,180
+42100162,2022-04-18,1,3,"DEN","GSW","Austin Rivers, Bones Hyland, JaMychal Green, Nikola Jokic, Will Barton",0,0,0,0,1,33
+42100162,2022-04-18,1,5,"GSW","DEN","Andrew Wiggins, Draymond Green, Klay Thompson, Otto Porter Jr., Stephen Curry",0,0,0,0,1,7
+42100162,2022-04-18,1,4,"DEN","GSW","Austin Rivers, Bones Hyland, Bryn Forbes, JaMychal Green, Nikola Jokic",0,2,8,4,3,99
+42100162,2022-04-18,1,6,"GSW","DEN","Andrew Wiggins, Gary Payton II, Nemanja Bjelica, Otto Porter Jr., Stephen Curry",0,6,2,3,2,86
+42100162,2022-04-18,1,5,"DEN","GSW","Austin Rivers, Bones Hyland, Bryn Forbes, DeMarcus Cousins, JaMychal Green",0,0,2,2,1,44.4
+42100162,2022-04-18,1,6,"DEN","GSW","Austin Rivers, Bones Hyland, Bryn Forbes, JaMychal Green, Nikola Jokic",0,0,0,0,1,6
+42100162,2022-04-18,1,7,"GSW","DEN","Gary Payton II, Jordan Poole, Nemanja Bjelica, Otto Porter Jr., Stephen Curry",0,4,0,3,3,96.4
+42100162,2022-04-18,1,8,"GSW","DEN","Gary Payton II, Jordan Poole, Nemanja Bjelica, Otto Porter Jr., Stephen Curry",0,0,0,0,1,0
+42100162,2022-04-18,1,9,"GSW","DEN","Jordan Poole, Klay Thompson, Nemanja Bjelica, Otto Porter Jr., Stephen Curry",0,0,0,1,1,22.6
+42100162,2022-04-18,1,7,"DEN","GSW","Aaron Gordon, Austin Rivers, Bones Hyland, JaMychal Green, Jeff Green",0,0,0,1,1,22.6
+42100162,2022-04-18,2,10,"GSW","DEN","Gary Payton II, Jordan Poole, Klay Thompson, Nemanja Bjelica, Otto Porter Jr.",0,6,11,7,6,207
+42100162,2022-04-18,2,8,"DEN","GSW","Austin Rivers, Bryn Forbes, DeMarcus Cousins, JaMychal Green, Monte Morris",0,3,4,3,4,116
+42100162,2022-04-18,2,11,"GSW","DEN","Gary Payton II, Jordan Poole, Klay Thompson, Nemanja Bjelica, Otto Porter Jr.",0,0,2,0,1,21
+42100162,2022-04-18,2,9,"DEN","GSW","Bryn Forbes, DeMarcus Cousins, JaMychal Green, Monte Morris, Will Barton",0,14,6,9,8,242
+42100162,2022-04-18,2,12,"GSW","DEN","Andrew Wiggins, Draymond Green, Jordan Poole, Nemanja Bjelica, Otto Porter Jr.",0,4,4,5,4,120
+42100162,2022-04-18,2,13,"GSW","DEN","Andrew Wiggins, Draymond Green, Jordan Poole, Nemanja Bjelica, Otto Porter Jr.",0,0,0,0,1,10
+42100162,2022-04-18,2,10,"DEN","GSW","Aaron Gordon, Bryn Forbes, Monte Morris, Nikola Jokic, Will Barton",0,0,3,0,1,19
+42100162,2022-04-18,2,14,"GSW","DEN","Andrew Wiggins, Draymond Green, Jordan Poole, Klay Thompson, Stephen Curry",0,22,8,10,10,315.3
+42100162,2022-04-18,2,11,"DEN","GSW","Aaron Gordon, Jeff Green, Monte Morris, Nikola Jokic, Will Barton",0,8,19,10,9,296.3
+42100162,2022-04-18,2,15,"GSW","DEN","Andrew Wiggins, Jordan Poole, Kevon Looney, Klay Thompson, Stephen Curry",0,0,0,1,1,38.4000000000001
+42100162,2022-04-18,2,12,"DEN","GSW","Aaron Gordon, Austin Rivers, Jeff Green, Nikola Jokic, Will Barton",0,0,0,1,1,38.4000000000001
+42100162,2022-04-18,2,16,"GSW","DEN","Andrew Wiggins, Jordan Poole, Klay Thompson, Otto Porter Jr., Stephen Curry",0,0,0,1,0,8.29999999999995
+42100162,2022-04-18,2,13,"DEN","GSW","Aaron Gordon, Austin Rivers, JaMychal Green, Jeff Green, Will Barton",0,0,0,0,1,8.29999999999995
+42100162,2022-04-18,3,17,"GSW","DEN","Andrew Wiggins, Draymond Green, Jordan Poole, Kevon Looney, Klay Thompson",0,15,11,11,11,352
+42100162,2022-04-18,3,14,"DEN","GSW","Aaron Gordon, Jeff Green, Monte Morris, Nikola Jokic, Will Barton",0,17,22,15,15,491
+42100162,2022-04-18,3,18,"GSW","DEN","Andrew Wiggins, Draymond Green, Klay Thompson, Otto Porter Jr., Stephen Curry",0,17,9,8,7,217
+42100162,2022-04-18,3,15,"DEN","GSW","Austin Rivers, Bones Hyland, JaMychal Green, Nikola Jokic, Will Barton",0,0,5,1,2,32
+42100162,2022-04-18,3,19,"GSW","DEN","Andrew Wiggins, Jordan Poole, Nemanja Bjelica, Otto Porter Jr., Stephen Curry",0,0,0,0,0,10
+42100162,2022-04-18,3,16,"DEN","GSW","Austin Rivers, Bones Hyland, Bryn Forbes, JaMychal Green, Nikola Jokic",0,3,5,2,2,46
+42100162,2022-04-18,3,20,"GSW","DEN","Andrew Wiggins, Jordan Poole, Nemanja Bjelica, Otto Porter Jr., Stephen Curry",0,0,0,0,0,1
+42100162,2022-04-18,3,21,"GSW","DEN","Gary Payton II, Jordan Poole, Nemanja Bjelica, Otto Porter Jr., Stephen Curry",0,12,10,5,6,121.2
+42100162,2022-04-18,3,17,"DEN","GSW","Austin Rivers, Bones Hyland, Bryn Forbes, DeMarcus Cousins, JaMychal Green",0,10,12,6,6,151
+42100162,2022-04-18,3,22,"GSW","DEN","Jordan Poole, Klay Thompson, Nemanja Bjelica, Otto Porter Jr., Stephen Curry",0,0,0,1,0,18.8000000000002
+42100162,2022-04-18,4,18,"DEN","GSW","Austin Rivers, Bones Hyland, Bryn Forbes, DeMarcus Cousins, JaMychal Green",0,8,6,6,5,179
+42100162,2022-04-18,4,23,"GSW","DEN","Gary Payton II, Jordan Poole, Klay Thompson, Nemanja Bjelica, Otto Porter Jr.",0,6,8,5,6,179
+42100162,2022-04-18,4,19,"DEN","GSW","Austin Rivers, Bones Hyland, Bryn Forbes, JaMychal Green, Nikola Jokic",0,0,2,1,2,51
+42100162,2022-04-18,4,24,"GSW","DEN","Gary Payton II, Klay Thompson, Nemanja Bjelica, Otto Porter Jr., Stephen Curry",0,2,0,1,0,5
+42100162,2022-04-18,4,20,"DEN","GSW","Austin Rivers, Bryn Forbes, JaMychal Green, Monte Morris, Nikola Jokic",0,0,0,1,0,22
+42100162,2022-04-18,4,25,"GSW","DEN","Draymond Green, Gary Payton II, Klay Thompson, Nemanja Bjelica, Stephen Curry",0,0,0,2,2,82
+42100162,2022-04-18,4,21,"DEN","GSW","Austin Rivers, Bryn Forbes, JaMychal Green, Monte Morris, Nikola Jokic",0,0,0,0,0,1
+42100162,2022-04-18,4,22,"DEN","GSW","Austin Rivers, Bryn Forbes, Monte Morris, Nikola Jokic, Will Barton",0,0,1,2,2,47
+42100162,2022-04-18,4,26,"GSW","DEN","Andrew Wiggins, Draymond Green, Gary Payton II, Klay Thompson, Stephen Curry",0,5,3,3,3,101
+42100162,2022-04-18,4,23,"DEN","GSW","Aaron Gordon, Austin Rivers, Bryn Forbes, Monte Morris, Will Barton",0,3,2,1,1,55
+42100162,2022-04-18,4,27,"GSW","DEN","Andrew Wiggins, Draymond Green, Jordan Poole, Klay Thompson, Stephen Curry",0,5,4,2,2,67
+42100162,2022-04-18,4,24,"DEN","GSW","Aaron Gordon, Austin Rivers, Bryn Forbes, Monte Morris, Will Barton",0,0,2,0,1,12
+42100162,2022-04-18,4,25,"DEN","GSW","Aaron Gordon, Bryn Forbes, Facundo Campazzo, Monte Morris, Will Barton",0,4,5,2,2,67
+42100162,2022-04-18,4,26,"DEN","GSW","Austin Rivers, Bryn Forbes, Facundo Campazzo, Vlatko Cancar, Zeke Nnaji",1,10,7,10,10,286
+42100162,2022-04-18,4,28,"GSW","DEN","Damion Lee, Jonathan Kuminga, Jordan Poole, Juan Toscano-Anderson, Moses Moody",1,0,5,2,3,105
+42100162,2022-04-18,4,29,"GSW","DEN","Damion Lee, Gary Payton II, Jonathan Kuminga, Juan Toscano-Anderson, Moses Moody",1,7,5,8,7,181
 42100171,2022-04-16,1,1,"DAL","UTA","Dorian Finney-Smith, Dwight Powell, Jalen Brunson, Reggie Bullock, Spencer Dinwiddie",0,16,10,13,13,424
 42100171,2022-04-16,1,1,"UTA","DAL","Bojan Bogdanovic, Donovan Mitchell, Mike Conley, Royce O'Neale, Rudy Gobert",0,8,6,9,9,283
 42100171,2022-04-16,1,2,"DAL","UTA","Dorian Finney-Smith, Jalen Brunson, Josh Green, Maxi Kleber, Reggie Bullock",0,5,10,6,7,245.5
@@ -395,6 +634,49 @@
 42100171,2022-04-16,4,18,"UTA","DAL","Bojan Bogdanovic, Donovan Mitchell, Jordan Clarkson, Royce O'Neale, Rudy Gobert",0,2,4,2,2,52
 42100171,2022-04-16,4,19,"UTA","DAL","Bojan Bogdanovic, Donovan Mitchell, Mike Conley, Royce O'Neale, Rudy Gobert",0,13,14,12,11,319
 42100171,2022-04-16,4,26,"DAL","UTA","Davis Bertans, Dorian Finney-Smith, Jalen Brunson, Maxi Kleber, Spencer Dinwiddie",0,2,2,2,2,16.1999999999998
+42100172,2022-04-18,1,1,"DAL","UTA","Dorian Finney-Smith, Dwight Powell, Jalen Brunson, Reggie Bullock, Spencer Dinwiddie",0,16,9,12,12,379
+42100172,2022-04-18,1,1,"UTA","DAL","Bojan Bogdanovic, Donovan Mitchell, Mike Conley, Royce O'Neale, Rudy Gobert",0,6,14,10,10,311
+42100172,2022-04-18,1,2,"DAL","UTA","Dorian Finney-Smith, Jalen Brunson, Maxi Kleber, Reggie Bullock, Spencer Dinwiddie",0,5,10,8,8,209
+42100172,2022-04-18,1,2,"UTA","DAL","Bojan Bogdanovic, Danuel House Jr., Donovan Mitchell, Hassan Whiteside, Royce O'Neale",0,12,7,9,10,277
+42100172,2022-04-18,1,3,"DAL","UTA","Dorian Finney-Smith, Josh Green, Maxi Kleber, Spencer Dinwiddie, Trey Burke",0,3,0,1,0,36
+42100172,2022-04-18,1,3,"UTA","DAL","Bojan Bogdanovic, Danuel House Jr., Donovan Mitchell, Hassan Whiteside, Royce O'Neale",0,1,0,1,0,0
+42100172,2022-04-18,1,4,"DAL","UTA","Davis Bertans, Josh Green, Maxi Kleber, Spencer Dinwiddie, Trey Burke",0,0,5,3,3,96
+42100172,2022-04-18,1,5,"DAL","UTA","Dorian Finney-Smith, Josh Green, Maxi Kleber, Spencer Dinwiddie, Trey Burke",0,0,0,0,1,0
+42100172,2022-04-18,1,4,"UTA","DAL","Bojan Bogdanovic, Danuel House Jr., Jordan Clarkson, Mike Conley, Rudy Gobert",0,0,3,1,1,36
+42100172,2022-04-18,1,5,"UTA","DAL","Danuel House Jr., Jordan Clarkson, Juancho Hernangomez, Mike Conley, Rudy Gobert",0,5,0,3,3,96
+42100172,2022-04-18,2,6,"DAL","UTA","Davis Bertans, Dorian Finney-Smith, Jalen Brunson, Reggie Bullock, Trey Burke",0,1,4,4,4,136
+42100172,2022-04-18,2,7,"DAL","UTA","Davis Bertans, Dorian Finney-Smith, Dwight Powell, Jalen Brunson, Reggie Bullock",0,2,4,3,4,97
+42100172,2022-04-18,2,8,"DAL","UTA","Davis Bertans, Dorian Finney-Smith, Jalen Brunson, Reggie Bullock, Trey Burke",0,0,0,0,0,9
+42100172,2022-04-18,2,9,"DAL","UTA","Davis Bertans, Dorian Finney-Smith, Jalen Brunson, Maxi Kleber, Reggie Bullock",0,6,2,2,2,79
+42100172,2022-04-18,2,6,"UTA","DAL","Danuel House Jr., Jordan Clarkson, Juancho Hernangomez, Mike Conley, Rudy Gobert",0,4,1,4,4,145
+42100172,2022-04-18,2,7,"UTA","DAL","Danuel House Jr., Hassan Whiteside, Jordan Clarkson, Juancho Hernangomez, Mike Conley",0,0,0,2,1,42
+42100172,2022-04-18,2,10,"DAL","UTA","Jalen Brunson, Josh Green, Maxi Kleber, Reggie Bullock, Spencer Dinwiddie",0,7,5,5,4,149
+42100172,2022-04-18,2,8,"UTA","DAL","Danuel House Jr., Donovan Mitchell, Hassan Whiteside, Jordan Clarkson, Juancho Hernangomez",0,4,2,2,2,55
+42100172,2022-04-18,2,11,"DAL","UTA","Davis Bertans, Dorian Finney-Smith, Josh Green, Maxi Kleber, Spencer Dinwiddie",0,0,5,1,2,37
+42100172,2022-04-18,2,9,"UTA","DAL","Bojan Bogdanovic, Donovan Mitchell, Hassan Whiteside, Jordan Clarkson, Royce O'Neale",0,2,6,2,2,79
+42100172,2022-04-18,2,12,"DAL","UTA","Davis Bertans, Dorian Finney-Smith, Maxi Kleber, Reggie Bullock, Spencer Dinwiddie",0,3,2,1,1,39
+42100172,2022-04-18,2,10,"UTA","DAL","Bojan Bogdanovic, Donovan Mitchell, Jordan Clarkson, Royce O'Neale, Rudy Gobert",0,19,15,11,12,396.4
+42100172,2022-04-18,2,13,"DAL","UTA","Dorian Finney-Smith, Jalen Brunson, Maxi Kleber, Reggie Bullock, Spencer Dinwiddie",0,5,9,6,5,174
+42100172,2022-04-18,2,11,"UTA","DAL","Bojan Bogdanovic, Danuel House Jr., Donovan Mitchell, Royce O'Neale, Rudy Gobert",0,0,0,0,1,2.59999999999991
+42100172,2022-04-18,2,12,"UTA","DAL","Bojan Bogdanovic, Donovan Mitchell, Jordan Clarkson, Royce O'Neale, Rudy Gobert",0,2,0,1,0,0
+42100172,2022-04-18,3,14,"DAL","UTA","Dorian Finney-Smith, Dwight Powell, Jalen Brunson, Reggie Bullock, Spencer Dinwiddie",0,16,12,10,11,340
+42100172,2022-04-18,3,13,"UTA","DAL","Bojan Bogdanovic, Donovan Mitchell, Mike Conley, Royce O'Neale, Rudy Gobert",0,2,2,2,2,73
+42100172,2022-04-18,3,15,"DAL","UTA","Dorian Finney-Smith, Jalen Brunson, Maxi Kleber, Reggie Bullock, Spencer Dinwiddie",0,4,6,5,5,194
+42100172,2022-04-18,3,14,"UTA","DAL","Bojan Bogdanovic, Donovan Mitchell, Jordan Clarkson, Royce O'Neale, Rudy Gobert",0,12,18,11,11,362
+42100172,2022-04-18,3,16,"DAL","UTA","Davis Bertans, Dorian Finney-Smith, Jalen Brunson, Maxi Kleber, Reggie Bullock",0,9,8,7,7,186
+42100172,2022-04-18,3,15,"UTA","DAL","Bojan Bogdanovic, Danuel House Jr., Donovan Mitchell, Juancho Hernangomez, Rudy Gobert",0,4,0,3,2,99
+42100172,2022-04-18,3,16,"UTA","DAL","Bojan Bogdanovic, Danuel House Jr., Donovan Mitchell, Mike Conley, Rudy Gobert",0,8,9,7,7,186
+42100172,2022-04-18,4,17,"DAL","UTA","Davis Bertans, Dwight Powell, Maxi Kleber, Reggie Bullock, Spencer Dinwiddie",0,2,5,2,2,100
+42100172,2022-04-18,4,18,"DAL","UTA","Dorian Finney-Smith, Dwight Powell, Josh Green, Reggie Bullock, Spencer Dinwiddie",0,0,0,1,0,23
+42100172,2022-04-18,4,17,"UTA","DAL","Danuel House Jr., Hassan Whiteside, Jordan Clarkson, Mike Conley, Royce O'Neale",0,5,2,2,2,100
+42100172,2022-04-18,4,18,"UTA","DAL","Danuel House Jr., Donovan Mitchell, Hassan Whiteside, Mike Conley, Royce O'Neale",0,0,0,0,1,14
+42100172,2022-04-18,4,19,"DAL","UTA","Dorian Finney-Smith, Jalen Brunson, Maxi Kleber, Reggie Bullock, Spencer Dinwiddie",0,31,18,18,18,597
+42100172,2022-04-18,4,19,"UTA","DAL","Bojan Bogdanovic, Donovan Mitchell, Hassan Whiteside, Mike Conley, Royce O'Neale",0,2,5,2,2,57
+42100172,2022-04-18,4,20,"UTA","DAL","Danuel House Jr., Donovan Mitchell, Hassan Whiteside, Mike Conley, Royce O'Neale",0,0,0,0,0,9
+42100172,2022-04-18,4,21,"UTA","DAL","Bojan Bogdanovic, Donovan Mitchell, Mike Conley, Royce O'Neale, Rudy Gobert",0,5,7,5,4,149
+42100172,2022-04-18,4,22,"UTA","DAL","Bojan Bogdanovic, Donovan Mitchell, Jordan Clarkson, Royce O'Neale, Rudy Gobert",0,0,5,1,2,52
+42100172,2022-04-18,4,23,"UTA","DAL","Bojan Bogdanovic, Danuel House Jr., Donovan Mitchell, Royce O'Neale, Rudy Gobert",0,9,11,5,5,224
+42100172,2022-04-18,4,24,"UTA","DAL","Bojan Bogdanovic, Donovan Mitchell, Mike Conley, Royce O'Neale, Rudy Gobert",0,2,3,5,5,115
 52100101,2022-04-12,1,1,"BKN","CLE","Andre Drummond, Bruce Brown, Kevin Durant, Kyrie Irving, Seth Curry",0,19,14,13,13,454
 52100101,2022-04-12,1,1,"CLE","BKN","Caris LeVert, Darius Garland, Evan Mobley, Isaac Okoro, Lauri Markkanen",0,9,17,10,10,353
 52100101,2022-04-12,1,2,"CLE","BKN","Caris LeVert, Darius Garland, Evan Mobley, Isaac Okoro, Kevin Love",0,5,2,3,3,101
