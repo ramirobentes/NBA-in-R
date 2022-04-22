@@ -3,7 +3,7 @@ path:
 - data.rds
 type: table
 description: postseason pbp with lineups
-rows: 9504
+rows: 12352
 cols: 37
 columns:
   game_id: numeric
