@@ -76,3 +76,9 @@
   description: postseason lineup stints 21
   rows: 4408
   cols: 13
+- path: pbp-final-gt-post21
+  name: pbp-final-gt-post21
+  type: table
+  description: postseason pbp with lineups 21
+  rows: 43060
+  cols: 37
