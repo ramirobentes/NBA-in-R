@@ -62,7 +62,7 @@
   name: lineup-stats-post
   type: table
   description: postseason lineup stints
-  rows: 2750
+  rows: 2853
   cols: 13
 - path: pbp-final-gt-post
   name: pbp-final-gt-post
