@@ -3,7 +3,7 @@ path:
 - data.rds
 type: table
 description: postseason lineup stints
-rows: 3156
+rows: 3266
 cols: 13
 columns:
   game_id: numeric
