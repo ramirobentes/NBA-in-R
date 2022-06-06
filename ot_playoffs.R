@@ -11,7 +11,7 @@ playoffs_logs <- furrr::future_map_dfr(seasons, ~ nba_leaguegamelog(season = .,
                                                                     season_type = "Playoffs")) %>%
   pluck("LeagueGameLog")
 
-playoffs_logs %>%
+ot_games <- playoffs_logs %>%
   clean_names() %>%
   mutate(across(c(min:plus_minus), as.numeric)) %>%
   group_by(season_id, game_id) %>%
@@ -26,7 +26,9 @@ playoffs_logs %>%
   arrange(ot_pct) %>%
   mutate(season = as.numeric(str_sub(season_id, -4, -1)),
          season = glue::glue("{season}-{str_sub(season + 1, -2, -1)}")) %>%
-  select(season, n, total_games, ot_pct) %>%
+  select(season, n, total_games, ot_pct) 
+
+ot_games %>%
   head(20) %>%
   gt() %>%
   cols_align(
