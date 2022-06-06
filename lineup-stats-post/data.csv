@@ -3940,6 +3940,86 @@
 42100315,2022-05-26,4,21,"DAL","GSW","Frank Ntilikina, Josh Green, Marquese Chriss, Sterling Brown, Trey Burke",0,3,0,1,1,25
 42100315,2022-05-26,4,22,"DAL","GSW","Frank Ntilikina, Josh Green, Marquese Chriss, Sterling Brown, Trey Burke",1,5,2,4,4,97
 42100315,2022-05-26,4,20,"GSW","DAL","Damion Lee, Jonathan Kuminga, Jordan Poole, Juan Toscano-Anderson, Moses Moody",1,2,5,4,4,97
+42100401,2022-06-02,1,1,"BOS","GSW","Al Horford, Jaylen Brown, Jayson Tatum, Marcus Smart, Robert Williams III",0,14,20,12,12,365
+42100401,2022-06-02,1,1,"GSW","BOS","Andrew Wiggins, Draymond Green, Kevon Looney, Klay Thompson, Stephen Curry",0,20,14,12,12,365
+42100401,2022-06-02,1,2,"GSW","BOS","Andrew Wiggins, Jordan Poole, Kevon Looney, Klay Thompson, Stephen Curry",0,6,8,6,6,168
+42100401,2022-06-02,1,2,"BOS","GSW","Al Horford, Derrick White, Grant Williams, Jaylen Brown, Marcus Smart",0,8,6,7,7,199
+42100401,2022-06-02,1,3,"GSW","BOS","Andrew Wiggins, Draymond Green, Jordan Poole, Otto Porter Jr., Stephen Curry",0,0,0,1,1,31
+42100401,2022-06-02,1,4,"GSW","BOS","Andre Iguodala, Draymond Green, Jordan Poole, Otto Porter Jr., Stephen Curry",0,6,6,5,5,156
+42100401,2022-06-02,1,3,"BOS","GSW","Daniel Theis, Derrick White, Grant Williams, Jayson Tatum, Payton Pritchard",0,6,6,5,5,156
+42100401,2022-06-02,2,5,"GSW","BOS","Andre Iguodala, Draymond Green, Jordan Poole, Klay Thompson, Otto Porter Jr.",0,12,9,6,5,203
+42100401,2022-06-02,2,4,"BOS","GSW","Daniel Theis, Derrick White, Grant Williams, Jayson Tatum, Payton Pritchard",0,9,12,5,6,203
+42100401,2022-06-02,2,6,"GSW","BOS","Andrew Wiggins, Draymond Green, Jordan Poole, Klay Thompson, Otto Porter Jr.",0,0,0,0,1,28
+42100401,2022-06-02,2,7,"GSW","BOS","Andrew Wiggins, Jordan Poole, Kevon Looney, Klay Thompson, Otto Porter Jr.",0,3,4,3,3,70
+42100401,2022-06-02,2,5,"BOS","GSW","Derrick White, Jaylen Brown, Jayson Tatum, Payton Pritchard, Robert Williams III",0,0,0,1,0,28
+42100401,2022-06-02,2,8,"GSW","BOS","Andrew Wiggins, Jordan Poole, Kevon Looney, Otto Porter Jr., Stephen Curry",0,0,6,5,5,118
+42100401,2022-06-02,2,6,"BOS","GSW","Al Horford, Jaylen Brown, Jayson Tatum, Marcus Smart, Robert Williams III",0,10,3,8,8,188
+42100401,2022-06-02,2,9,"GSW","BOS","Andrew Wiggins, Draymond Green, Kevon Looney, Klay Thompson, Stephen Curry",0,2,4,5,5,149
+42100401,2022-06-02,2,7,"BOS","GSW","Al Horford, Derrick White, Jaylen Brown, Marcus Smart, Robert Williams III",0,0,2,2,2,85
+42100401,2022-06-02,2,10,"GSW","BOS","Andrew Wiggins, Draymond Green, Klay Thompson, Otto Porter Jr., Stephen Curry",0,5,5,3,3,98.2
+42100401,2022-06-02,2,8,"BOS","GSW","Al Horford, Derrick White, Jaylen Brown, Jayson Tatum, Marcus Smart",0,9,5,7,7,215
+42100401,2022-06-02,2,9,"BOS","GSW","Al Horford, Derrick White, Jaylen Brown, Marcus Smart, Robert Williams III",0,0,0,0,1,1
+42100401,2022-06-02,2,11,"GSW","BOS","Andrew Wiggins, Draymond Green, Jordan Poole, Klay Thompson, Otto Porter Jr.",0,0,0,2,1,53.8
+42100401,2022-06-02,3,10,"BOS","GSW","Al Horford, Jaylen Brown, Jayson Tatum, Marcus Smart, Robert Williams III",0,8,17,9,10,301
+42100401,2022-06-02,3,12,"GSW","BOS","Andrew Wiggins, Draymond Green, Kevon Looney, Klay Thompson, Stephen Curry",0,19,8,11,11,370
+42100401,2022-06-02,3,11,"BOS","GSW","Al Horford, Grant Williams, Jaylen Brown, Jayson Tatum, Marcus Smart",0,0,2,2,1,69
+42100401,2022-06-02,3,13,"GSW","BOS","Andrew Wiggins, Jordan Poole, Kevon Looney, Klay Thompson, Stephen Curry",0,4,2,4,3,108
+42100401,2022-06-02,3,12,"BOS","GSW","Al Horford, Derrick White, Grant Williams, Jayson Tatum, Marcus Smart",0,8,12,6,7,193
+42100401,2022-06-02,3,14,"GSW","BOS","Andrew Wiggins, Draymond Green, Jordan Poole, Otto Porter Jr., Stephen Curry",0,10,10,7,8,189.6
+42100401,2022-06-02,3,13,"BOS","GSW","Derrick White, Grant Williams, Jaylen Brown, Jayson Tatum, Robert Williams III",0,4,2,5,4,104.6
+42100401,2022-06-02,3,15,"GSW","BOS","Draymond Green, Jordan Poole, Klay Thompson, Otto Porter Jr., Stephen Curry",0,2,0,1,0,15.9000000000001
+42100401,2022-06-02,3,14,"BOS","GSW","Derrick White, Grant Williams, Jaylen Brown, Payton Pritchard, Robert Williams III",0,4,5,2,3,52.4000000000001
+42100401,2022-06-02,3,16,"GSW","BOS","Andre Iguodala, Draymond Green, Jordan Poole, Klay Thompson, Otto Porter Jr.",0,3,4,1,2,34.9000000000001
+42100401,2022-06-02,3,17,"GSW","BOS","Andre Iguodala, Draymond Green, Jordan Poole, Kevon Looney, Klay Thompson",0,0,0,1,0,1.59999999999991
+42100401,2022-06-02,4,15,"BOS","GSW","Derrick White, Jaylen Brown, Jayson Tatum, Payton Pritchard, Robert Williams III",0,17,7,10,9,313
+42100401,2022-06-02,4,16,"BOS","GSW","Al Horford, Derrick White, Jaylen Brown, Jayson Tatum, Payton Pritchard",0,12,2,5,5,167
+42100401,2022-06-02,4,17,"BOS","GSW","Derrick White, Jaylen Brown, Jayson Tatum, Payton Pritchard, Robert Williams III",0,0,2,0,1,13
+42100401,2022-06-02,4,18,"GSW","BOS","Andre Iguodala, Draymond Green, Jordan Poole, Klay Thompson, Otto Porter Jr.",0,0,7,4,5,145
+42100401,2022-06-02,4,18,"BOS","GSW","Al Horford, Derrick White, Jaylen Brown, Jayson Tatum, Marcus Smart",0,11,2,6,5,178.7
+42100401,2022-06-02,4,19,"GSW","BOS","Andre Iguodala, Draymond Green, Klay Thompson, Otto Porter Jr., Stephen Curry",0,9,10,6,5,181
+42100401,2022-06-02,4,20,"GSW","BOS","Andrew Wiggins, Kevon Looney, Klay Thompson, Otto Porter Jr., Stephen Curry",0,2,9,2,3,86
+42100401,2022-06-02,4,21,"GSW","BOS","Andrew Wiggins, Draymond Green, Kevon Looney, Klay Thompson, Stephen Curry",0,0,3,3,2,75
+42100401,2022-06-02,4,22,"GSW","BOS","Andrew Wiggins, Draymond Green, Jordan Poole, Klay Thompson, Stephen Curry",0,2,11,5,6,178.7
+42100401,2022-06-02,4,23,"GSW","BOS","Andrew Wiggins, Draymond Green, Kevon Looney, Klay Thompson, Stephen Curry",0,0,0,0,0,6
+42100401,2022-06-02,4,19,"BOS","GSW","Aaron Nesmith, Juwan Morgan, Malik Fitts, Nik Stauskas, Sam Hauser",1,0,3,1,1,48.3000000000002
+42100401,2022-06-02,4,24,"GSW","BOS","Damion Lee, Jonathan Kuminga, Juan Toscano-Anderson, Moses Moody, Nemanja Bjelica",1,3,0,1,1,48.3000000000002
+42100402,2022-06-05,1,1,"BOS","GSW","Al Horford, Jaylen Brown, Jayson Tatum, Marcus Smart, Robert Williams III",0,16,11,13,12,353
+42100402,2022-06-05,1,1,"GSW","BOS","Andrew Wiggins, Draymond Green, Kevon Looney, Klay Thompson, Stephen Curry",0,13,16,13,13,390
+42100402,2022-06-05,1,2,"BOS","GSW","Al Horford, Derrick White, Grant Williams, Jaylen Brown, Marcus Smart",0,6,4,4,5,135
+42100402,2022-06-05,1,2,"GSW","BOS","Draymond Green, Gary Payton II, Jordan Poole, Klay Thompson, Stephen Curry",0,2,6,4,4,98
+42100402,2022-06-05,1,3,"BOS","GSW","Al Horford, Derrick White, Grant Williams, Jayson Tatum, Marcus Smart",0,2,4,3,2,65
+42100402,2022-06-05,1,3,"GSW","BOS","Gary Payton II, Jordan Poole, Kevon Looney, Otto Porter Jr., Stephen Curry",0,16,8,9,10,232
+42100402,2022-06-05,1,4,"BOS","GSW","Daniel Theis, Derrick White, Grant Williams, Jayson Tatum, Payton Pritchard",0,6,12,7,7,167
+42100402,2022-06-05,2,4,"GSW","BOS","Andrew Wiggins, Jordan Poole, Klay Thompson, Nemanja Bjelica, Otto Porter Jr.",0,0,0,3,2,54
+42100402,2022-06-05,2,5,"BOS","GSW","Daniel Theis, Derrick White, Jaylen Brown, Jayson Tatum, Payton Pritchard",0,3,0,4,5,119
+42100402,2022-06-05,2,5,"GSW","BOS","Andrew Wiggins, Draymond Green, Jordan Poole, Klay Thompson, Nemanja Bjelica",0,4,5,6,6,175
+42100402,2022-06-05,2,6,"BOS","GSW","Derrick White, Jaylen Brown, Jayson Tatum, Payton Pritchard, Robert Williams III",0,2,4,5,5,142
+42100402,2022-06-05,2,6,"GSW","BOS","Andrew Wiggins, Draymond Green, Klay Thompson, Nemanja Bjelica, Stephen Curry",0,0,5,2,3,74
+42100402,2022-06-05,2,7,"BOS","GSW","Al Horford, Derrick White, Jaylen Brown, Payton Pritchard, Robert Williams III",0,5,0,2,1,42
+42100402,2022-06-05,2,8,"BOS","GSW","Al Horford, Derrick White, Jaylen Brown, Jayson Tatum, Robert Williams III",0,0,2,1,1,27
+42100402,2022-06-05,2,7,"GSW","BOS","Andrew Wiggins, Draymond Green, Gary Payton II, Otto Porter Jr., Stephen Curry",0,13,8,9,8,260
+42100402,2022-06-05,2,9,"BOS","GSW","Al Horford, Derrick White, Jaylen Brown, Jayson Tatum, Marcus Smart",0,10,12,13,12,375
+42100402,2022-06-05,2,10,"BOS","GSW","Al Horford, Derrick White, Jaylen Brown, Jayson Tatum, Robert Williams III",0,0,3,0,1,15
+42100402,2022-06-05,2,8,"GSW","BOS","Andrew Wiggins, Draymond Green, Gary Payton II, Klay Thompson, Stephen Curry",0,4,2,5,6,157
+42100402,2022-06-05,3,11,"BOS","GSW","Al Horford, Jaylen Brown, Jayson Tatum, Marcus Smart, Robert Williams III",0,4,13,8,9,263
+42100402,2022-06-05,3,9,"GSW","BOS","Andrew Wiggins, Draymond Green, Kevon Looney, Klay Thompson, Stephen Curry",0,16,6,12,12,374
+42100402,2022-06-05,3,12,"BOS","GSW","Al Horford, Grant Williams, Jaylen Brown, Jayson Tatum, Marcus Smart",0,2,3,4,3,107
+42100402,2022-06-05,3,13,"BOS","GSW","Al Horford, Derrick White, Grant Williams, Jayson Tatum, Marcus Smart",0,6,5,4,5,131
+42100402,2022-06-05,3,14,"BOS","GSW","Al Horford, Grant Williams, Jaylen Brown, Jayson Tatum, Marcus Smart",0,0,0,0,0,4
+42100402,2022-06-05,3,10,"GSW","BOS","Andrew Wiggins, Draymond Green, Gary Payton II, Otto Porter Jr., Stephen Curry",0,11,7,7,7,232
+42100402,2022-06-05,3,15,"BOS","GSW","Al Horford, Derrick White, Grant Williams, Jayson Tatum, Payton Pritchard",0,0,3,1,1,66
+42100402,2022-06-05,3,11,"GSW","BOS","Andrew Wiggins, Gary Payton II, Kevon Looney, Otto Porter Jr., Stephen Curry",0,0,1,1,1,35
+42100402,2022-06-05,3,16,"BOS","GSW","Daniel Theis, Derrick White, Grant Williams, Jayson Tatum, Payton Pritchard",0,2,11,6,5,149
+42100402,2022-06-05,3,12,"GSW","BOS","Andrew Wiggins, Jordan Poole, Kevon Looney, Otto Porter Jr., Stephen Curry",0,8,0,3,3,79
+42100402,2022-06-05,4,17,"BOS","GSW","Al Horford, Derrick White, Jaylen Brown, Jayson Tatum, Marcus Smart",0,0,6,3,3,75
+42100402,2022-06-05,4,13,"GSW","BOS","Draymond Green, Gary Payton II, Jordan Poole, Klay Thompson, Nemanja Bjelica",0,6,0,3,3,75
+42100402,2022-06-05,4,14,"GSW","BOS","Draymond Green, Gary Payton II, Jordan Poole, Klay Thompson, Nemanja Bjelica",1,2,9,8,9,258
+42100402,2022-06-05,4,15,"GSW","BOS","Gary Payton II, Jordan Poole, Kevon Looney, Klay Thompson, Moses Moody",1,7,5,5,5,172
+42100402,2022-06-05,4,18,"BOS","GSW","Aaron Nesmith, Daniel Theis, Derrick White, Grant Williams, Payton Pritchard",1,11,4,11,10,307
+42100402,2022-06-05,4,19,"BOS","GSW","Aaron Nesmith, Daniel Theis, Grant Williams, Payton Pritchard, Sam Hauser",1,3,5,3,3,119
+42100402,2022-06-05,4,16,"GSW","BOS","Damion Lee, Jonathan Kuminga, Jordan Poole, Juan Toscano-Anderson, Moses Moody",1,5,10,7,6,215
+42100402,2022-06-05,4,20,"BOS","GSW","Aaron Nesmith, Daniel Theis, Grant Williams, Payton Pritchard, Sam Hauser",1,0,0,0,0,4
+42100402,2022-06-05,4,21,"BOS","GSW","Aaron Nesmith, Luke Kornet, Malik Fitts, Nik Stauskas, Sam Hauser",1,10,5,6,7,215
 52100101,2022-04-12,1,1,"BKN","CLE","Andre Drummond, Bruce Brown, Kevin Durant, Kyrie Irving, Seth Curry",0,19,14,13,13,454
 52100101,2022-04-12,1,1,"CLE","BKN","Caris LeVert, Darius Garland, Evan Mobley, Isaac Okoro, Lauri Markkanen",0,9,17,10,10,353
 52100101,2022-04-12,1,2,"CLE","BKN","Caris LeVert, Darius Garland, Evan Mobley, Isaac Okoro, Kevin Love",0,5,2,3,3,101
