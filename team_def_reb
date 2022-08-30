@@ -1,0 +1,29 @@
+library(tidyverse)
+library(hoopR)
+
+pbp_final_gt <- read_rds("https://github.com/ramirobentes/NBA-in-R/blob/master/pbp-final-gt/data.rds?raw=true")
+
+
+# NBA.com team def rebound % (https://www.nba.com/stats/teams/advanced/?sort=DREB_PCT&dir=-1&Season=2021-22&SeasonType=Regular%20Season)
+pbp_final_gt %>%
+  filter(msg_type == 4 & act_type == 0 & desc_value == 0) %>%
+  count(slug_team, name = "def_reb", sort = T) %>%
+  left_join(pbp_final_gt %>%
+              filter(msg_type == 4 & act_type == 0 & desc_value == 1) %>%
+              count(slug_team = ifelse(slug_team == team_home, team_away, team_home), name = "opp_off_reb")) %>%
+  mutate(def_reb_pct = def_reb / (def_reb + opp_off_reb)) %>%
+  arrange(-def_reb_pct)
+
+
+
+# B-ref team def rebound % (https://stathead.com/tiny/zhu7k)
+## removes team rebounds (!is.na(player1))
+pbp_final_gt %>%
+  filter(msg_type == 4 & act_type == 0 & desc_value == 0 & !is.na(player1)) %>%
+  count(slug_team, name = "def_reb", sort = T) %>%
+  left_join(pbp_final_gt %>%
+              filter(msg_type == 4 & act_type == 0 & desc_value == 1 & !is.na(player1)) %>%
+              count(slug_team = ifelse(slug_team == team_home, team_away, team_home), name = "opp_off_reb")) %>%
+  mutate(def_reb_pct = def_reb / (def_reb + opp_off_reb)) %>%
+  arrange(-def_reb_pct) %>%
+  mutate(opp_off_reb_pct = 1 - def_reb_pct)
