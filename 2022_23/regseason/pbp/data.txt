@@ -1,0 +1,6 @@
+- path: pbp-poss-rs23
+  name: pbp-poss-rs23
+  type: table
+  description: ~
+  rows: 7148
+  cols: 37
