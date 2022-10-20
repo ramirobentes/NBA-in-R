@@ -4,3 +4,9 @@
   description: ~
   rows: 7148
   cols: 37
+- path: lineup-stats-rs23
+  name: lineup-stats-rs23
+  type: table
+  description: ~
+  rows: 750
+  cols: 13
