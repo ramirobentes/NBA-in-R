@@ -749,3 +749,104 @@
 22200014,2022-10-19,4,23,"SAC","POR","De'Aaron Fox, Harrison Barnes, Kevin Huerter, Malik Monk, Trey Lyles",0,2,0,1,0,7.5
 22200014,2022-10-19,4,24,"SAC","POR","Davion Mitchell, De'Aaron Fox, Kevin Huerter, Malik Monk, Terence Davis",0,0,2,0,1,0.599999999999909
 22200014,2022-10-19,4,25,"SAC","POR","De'Aaron Fox, Kevin Huerter, Malik Monk, Terence Davis, Trey Lyles",0,0,2,2,1,14.0999999999999
+22200015,2022-10-20,1,1,"MIL","PHI","Brook Lopez, Giannis Antetokounmpo, Grayson Allen, Jevon Carter, Jrue Holiday",0,18,11,11,10,332
+22200015,2022-10-20,1,1,"PHI","MIL","James Harden, Joel Embiid, P.J. Tucker, Tobias Harris, Tyrese Maxey",0,13,18,14,14,414
+22200015,2022-10-20,1,2,"MIL","PHI","Bobby Portis, Brook Lopez, Grayson Allen, Jevon Carter, Jrue Holiday",0,0,2,3,3,76
+22200015,2022-10-20,1,2,"PHI","MIL","Georges Niang, James Harden, Joel Embiid, Tobias Harris, Tyrese Maxey",0,3,5,1,2,66
+22200015,2022-10-20,1,3,"MIL","PHI","Bobby Portis, Brook Lopez, Grayson Allen, Jevon Carter, Jrue Holiday",0,0,0,0,1,6
+22200015,2022-10-20,1,4,"MIL","PHI","Bobby Portis, Brook Lopez, George Hill, Jordan Nwora, Jrue Holiday",0,5,3,2,1,66
+22200015,2022-10-20,1,3,"PHI","MIL","Danuel House Jr., De'Anthony Melton, Joel Embiid, P.J. Tucker, Tyrese Maxey",0,8,7,8,7,240
+22200015,2022-10-20,1,5,"MIL","PHI","Bobby Portis, George Hill, Giannis Antetokounmpo, Jordan Nwora, Wesley Matthews",0,2,5,2,3,110
+22200015,2022-10-20,1,6,"MIL","PHI","George Hill, Giannis Antetokounmpo, Jordan Nwora, Serge Ibaka, Wesley Matthews",0,5,3,5,5,130
+22200015,2022-10-20,2,4,"PHI","MIL","Danuel House Jr., De'Anthony Melton, Georges Niang, James Harden, Paul Reed",0,5,2,3,2,81
+22200015,2022-10-20,2,5,"PHI","MIL","Danuel House Jr., De'Anthony Melton, Georges Niang, James Harden, Paul Reed",0,0,0,0,1,8
+22200015,2022-10-20,2,6,"PHI","MIL","Danuel House Jr., De'Anthony Melton, James Harden, P.J. Tucker, Paul Reed",0,4,6,6,5,206
+22200015,2022-10-20,2,7,"MIL","PHI","Bobby Portis, Grayson Allen, Jrue Holiday, Serge Ibaka, Wesley Matthews",0,2,5,3,3,89
+22200015,2022-10-20,2,7,"PHI","MIL","De'Anthony Melton, James Harden, Joel Embiid, P.J. Tucker, Tobias Harris",0,0,0,1,2,46
+22200015,2022-10-20,2,8,"MIL","PHI","Bobby Portis, Giannis Antetokounmpo, Grayson Allen, Jevon Carter, Jrue Holiday",0,6,4,5,5,206
+22200015,2022-10-20,2,9,"MIL","PHI","Bobby Portis, Giannis Antetokounmpo, Grayson Allen, Jevon Carter, Jrue Holiday",0,0,0,0,1,0
+22200015,2022-10-20,2,10,"MIL","PHI","Brook Lopez, Giannis Antetokounmpo, Grayson Allen, Jevon Carter, Jrue Holiday",0,0,0,2,1,46
+22200015,2022-10-20,2,8,"PHI","MIL","Georges Niang, James Harden, Joel Embiid, Tobias Harris, Tyrese Maxey",0,4,0,6,5,151
+22200015,2022-10-20,2,9,"PHI","MIL","Georges Niang, James Harden, Joel Embiid, Tobias Harris, Tyrese Maxey",0,0,0,0,0,3
+22200015,2022-10-20,2,10,"PHI","MIL","James Harden, Joel Embiid, P.J. Tucker, Tobias Harris, Tyrese Maxey",0,8,9,6,6,196.2
+22200015,2022-10-20,2,11,"PHI","MIL","Georges Niang, James Harden, Joel Embiid, Tobias Harris, Tyrese Maxey",0,0,0,2,1,28.8
+22200015,2022-10-20,2,12,"PHI","MIL","James Harden, Joel Embiid, P.J. Tucker, Tobias Harris, Tyrese Maxey",0,0,0,0,1,0
+22200015,2022-10-20,2,11,"MIL","PHI","Bobby Portis, Brook Lopez, George Hill, Jordan Nwora, Jrue Holiday",0,0,4,5,6,154
+22200015,2022-10-20,2,12,"MIL","PHI","Brook Lopez, George Hill, Giannis Antetokounmpo, Jordan Nwora, Wesley Matthews",0,9,8,7,6,196.2
+22200015,2022-10-20,2,13,"MIL","PHI","Brook Lopez, George Hill, Grayson Allen, Jrue Holiday, Wesley Matthews",0,0,0,1,2,28.8
+22200015,2022-10-20,3,13,"PHI","MIL","James Harden, Joel Embiid, P.J. Tucker, Tobias Harris, Tyrese Maxey",0,8,8,10,10,317
+22200015,2022-10-20,3,14,"PHI","MIL","Danuel House Jr., James Harden, Joel Embiid, Tobias Harris, Tyrese Maxey",0,2,0,2,1,41
+22200015,2022-10-20,3,15,"PHI","MIL","Georges Niang, James Harden, Joel Embiid, Tobias Harris, Tyrese Maxey",0,2,7,5,5,151
+22200015,2022-10-20,3,14,"MIL","PHI","Brook Lopez, Giannis Antetokounmpo, Grayson Allen, Jevon Carter, Jrue Holiday",0,7,8,9,10,317
+22200015,2022-10-20,3,16,"PHI","MIL","Danuel House Jr., De'Anthony Melton, Joel Embiid, P.J. Tucker, Tyrese Maxey",0,2,6,6,6,176.2
+22200015,2022-10-20,3,15,"MIL","PHI","Bobby Portis, Brook Lopez, Grayson Allen, Jevon Carter, Jrue Holiday",0,3,2,3,3,73
+22200015,2022-10-20,3,16,"MIL","PHI","Brook Lopez, Giannis Antetokounmpo, Grayson Allen, Jevon Carter, Jrue Holiday",0,1,0,1,0,0
+22200015,2022-10-20,3,17,"PHI","MIL","Danuel House Jr., De'Anthony Melton, Montrezl Harrell, P.J. Tucker, Tyrese Maxey",0,2,3,1,1,25.8000000000002
+22200015,2022-10-20,3,17,"MIL","PHI","Bobby Portis, Brook Lopez, George Hill, Grayson Allen, Jrue Holiday",0,4,2,3,4,119
+22200015,2022-10-20,3,18,"PHI","MIL","Danuel House Jr., De'Anthony Melton, Matisse Thybulle, P.J. Tucker, Tyrese Maxey",0,2,2,1,2,9
+22200015,2022-10-20,3,18,"MIL","PHI","Bobby Portis, George Hill, Giannis Antetokounmpo, Jordan Nwora, Wesley Matthews",0,9,4,7,7,202
+22200015,2022-10-20,3,19,"MIL","PHI","Bobby Portis, George Hill, Giannis Antetokounmpo, Grayson Allen, Jordan Nwora",0,2,2,2,1,9
+22200015,2022-10-20,4,19,"PHI","MIL","Danuel House Jr., De'Anthony Melton, James Harden, Montrezl Harrell, P.J. Tucker",0,6,7,4,4,131
+22200015,2022-10-20,4,20,"PHI","MIL","Danuel House Jr., De'Anthony Melton, James Harden, P.J. Tucker, Tobias Harris",0,11,2,9,10,251
+22200015,2022-10-20,4,21,"PHI","MIL","Danuel House Jr., James Harden, Joel Embiid, P.J. Tucker, Tobias Harris",0,2,2,3,3,97
+22200015,2022-10-20,4,22,"PHI","MIL","James Harden, Joel Embiid, P.J. Tucker, Tobias Harris, Tyrese Maxey",0,6,2,6,5,208.1
+22200015,2022-10-20,4,20,"MIL","PHI","Bobby Portis, George Hill, Giannis Antetokounmpo, Grayson Allen, Wesley Matthews",0,5,2,3,2,85
+22200015,2022-10-20,4,21,"MIL","PHI","George Hill, Giannis Antetokounmpo, Grayson Allen, Jrue Holiday, Wesley Matthews",0,2,4,1,2,46
+22200015,2022-10-20,4,23,"PHI","MIL","Danuel House Jr., Joel Embiid, Matisse Thybulle, P.J. Tucker, Tobias Harris",0,0,3,0,1,9.09999999999991
+22200015,2022-10-20,4,22,"MIL","PHI","George Hill, Giannis Antetokounmpo, Grayson Allen, Jordan Nwora, Jrue Holiday",0,0,4,2,2,84
+22200015,2022-10-20,4,24,"PHI","MIL","James Harden, Joel Embiid, P.J. Tucker, Tobias Harris, Tyrese Maxey",0,0,0,1,0,21.3000000000002
+22200015,2022-10-20,4,25,"PHI","MIL","Danuel House Jr., James Harden, Joel Embiid, P.J. Tucker, Tobias Harris",0,0,1,0,0,0.599999999999909
+22200015,2022-10-20,4,23,"MIL","PHI","Bobby Portis, Brook Lopez, Grayson Allen, Jevon Carter, Jrue Holiday",0,0,7,5,5,104
+22200015,2022-10-20,4,26,"PHI","MIL","James Harden, Joel Embiid, P.J. Tucker, Tobias Harris, Tyrese Maxey",0,0,0,0,1,1.90000000000009
+22200015,2022-10-20,4,24,"MIL","PHI","Bobby Portis, Giannis Antetokounmpo, Grayson Allen, Jevon Carter, Jrue Holiday",0,2,0,3,2,63
+22200015,2022-10-20,4,25,"MIL","PHI","Brook Lopez, Giannis Antetokounmpo, Jevon Carter, Jrue Holiday, Wesley Matthews",0,2,2,3,3,97
+22200015,2022-10-20,4,26,"MIL","PHI","Brook Lopez, Giannis Antetokounmpo, Grayson Allen, Jrue Holiday, Wesley Matthews",0,5,6,6,7,238.5
+22200015,2022-10-20,4,27,"MIL","PHI","Brook Lopez, George Hill, Giannis Antetokounmpo, Grayson Allen, Jrue Holiday",0,1,0,1,0,2.5
+22200016,2022-10-20,1,1,"LAC","LAL","Ivica Zubac, Marcus Morris Sr., Norman Powell, Paul George, Reggie Jackson",0,16,12,15,14,366
+22200016,2022-10-20,1,1,"LAL","LAC","Anthony Davis, LeBron James, Lonnie Walker IV, Patrick Beverley, Russell Westbrook",0,10,12,12,12,299
+22200016,2022-10-20,1,2,"LAC","LAL","Ivica Zubac, John Wall, Marcus Morris Sr., Norman Powell, Paul George",0,10,9,6,7,153
+22200016,2022-10-20,1,2,"LAL","LAC","Anthony Davis, Austin Reaves, LeBron James, Lonnie Walker IV, Russell Westbrook",0,2,4,2,2,61
+22200016,2022-10-20,1,3,"LAL","LAC","Anthony Davis, LeBron James, Lonnie Walker IV, Patrick Beverley, Russell Westbrook",0,0,0,0,1,6
+22200016,2022-10-20,1,4,"LAL","LAC","Anthony Davis, Austin Reaves, Juan Toscano-Anderson, Lonnie Walker IV, Russell Westbrook",0,9,10,7,6,153
+22200016,2022-10-20,1,3,"LAC","LAL","John Wall, Luke Kennard, Nicolas Batum, Paul George, Robert Covington",0,9,2,7,7,201
+22200016,2022-10-20,1,5,"LAL","LAC","Austin Reaves, Juan Toscano-Anderson, Kendrick Nunn, LeBron James, Matt Ryan",0,2,9,7,7,201
+22200016,2022-10-20,2,4,"LAC","LAL","John Wall, Luke Kennard, Nicolas Batum, Robert Covington, Terance Mann",0,1,2,1,1,47
+22200016,2022-10-20,2,5,"LAC","LAL","Luke Kennard, Nicolas Batum, Reggie Jackson, Robert Covington, Terance Mann",0,5,11,6,7,185
+22200016,2022-10-20,2,6,"LAL","LAC","Damian Jones, Kendrick Nunn, LeBron James, Matt Ryan, Patrick Beverley",0,13,13,11,11,335
+22200016,2022-10-20,2,6,"LAC","LAL","Ivica Zubac, Luke Kennard, Reggie Jackson, Robert Covington, Terance Mann",0,7,0,4,3,103
+22200016,2022-10-20,2,7,"LAC","LAL","Ivica Zubac, Kawhi Leonard, Luke Kennard, Paul George, Reggie Jackson",0,4,3,2,3,100
+22200016,2022-10-20,2,8,"LAC","LAL","Ivica Zubac, John Wall, Kawhi Leonard, Luke Kennard, Paul George",0,0,3,1,1,19
+22200016,2022-10-20,2,9,"LAC","LAL","Ivica Zubac, John Wall, Kawhi Leonard, Norman Powell, Paul George",0,0,4,2,2,43
+22200016,2022-10-20,2,7,"LAL","LAC","Anthony Davis, Austin Reaves, Juan Toscano-Anderson, Lonnie Walker IV, Russell Westbrook",0,12,6,7,7,211
+22200016,2022-10-20,2,10,"LAC","LAL","John Wall, Kawhi Leonard, Marcus Morris Sr., Norman Powell, Paul George",0,2,6,4,4,136
+22200016,2022-10-20,2,8,"LAL","LAC","Anthony Davis, Austin Reaves, LeBron James, Lonnie Walker IV, Russell Westbrook",0,6,2,4,4,120
+22200016,2022-10-20,2,11,"LAC","LAL","John Wall, Kawhi Leonard, Marcus Morris Sr., Norman Powell, Robert Covington",0,2,4,4,4,87
+22200016,2022-10-20,2,9,"LAL","LAC","Anthony Davis, LeBron James, Lonnie Walker IV, Patrick Beverley, Russell Westbrook",0,2,0,3,2,54
+22200016,2022-10-20,3,12,"LAC","LAL","Ivica Zubac, Kawhi Leonard, Marcus Morris Sr., Paul George, Reggie Jackson",0,13,9,13,13,368
+22200016,2022-10-20,3,10,"LAL","LAC","Anthony Davis, LeBron James, Lonnie Walker IV, Patrick Beverley, Russell Westbrook",0,9,9,11,11,311
+22200016,2022-10-20,3,13,"LAC","LAL","Ivica Zubac, John Wall, Kawhi Leonard, Marcus Morris Sr., Paul George",0,5,0,2,1,43
+22200016,2022-10-20,3,14,"LAC","LAL","Ivica Zubac, Kawhi Leonard, Marcus Morris Sr., Paul George, Reggie Jackson",0,0,0,0,1,0
+22200016,2022-10-20,3,15,"LAC","LAL","Ivica Zubac, John Wall, Marcus Morris Sr., Norman Powell, Paul George",0,9,6,8,8,225
+22200016,2022-10-20,3,11,"LAL","LAC","Austin Reaves, Damian Jones, LeBron James, Lonnie Walker IV, Russell Westbrook",0,0,2,1,1,27
+22200016,2022-10-20,3,16,"LAC","LAL","Ivica Zubac, John Wall, Nicolas Batum, Norman Powell, Paul George",0,0,2,0,1,8
+22200016,2022-10-20,3,12,"LAL","LAC","Damian Jones, Kendrick Nunn, LeBron James, Lonnie Walker IV, Russell Westbrook",0,0,2,2,1,30
+22200016,2022-10-20,3,17,"LAC","LAL","Ivica Zubac, John Wall, Luke Kennard, Nicolas Batum, Norman Powell",0,2,4,4,4,76
+22200016,2022-10-20,3,13,"LAL","LAC","Damian Jones, Juan Toscano-Anderson, Kendrick Nunn, Lonnie Walker IV, Russell Westbrook",0,0,5,1,2,43
+22200016,2022-10-20,3,14,"LAL","LAC","Anthony Davis, Juan Toscano-Anderson, Kendrick Nunn, Lonnie Walker IV, Russell Westbrook",0,0,4,2,2,52
+22200016,2022-10-20,3,15,"LAL","LAC","Anthony Davis, Juan Toscano-Anderson, Lonnie Walker IV, Matt Ryan, Patrick Beverley",0,4,4,3,2,71
+22200016,2022-10-20,3,16,"LAL","LAC","Anthony Davis, Juan Toscano-Anderson, LeBron James, Matt Ryan, Patrick Beverley",0,8,3,6,6,149.2
+22200016,2022-10-20,3,17,"LAL","LAC","Anthony Davis, Juan Toscano-Anderson, LeBron James, Lonnie Walker IV, Patrick Beverley",0,0,0,2,2,36.8000000000002
+22200016,2022-10-20,4,18,"LAC","LAL","John Wall, Luke Kennard, Nicolas Batum, Norman Powell, Robert Covington",0,1,4,4,3,82
+22200016,2022-10-20,4,19,"LAC","LAL","John Wall, Luke Kennard, Nicolas Batum, Norman Powell, Robert Covington",0,0,0,0,0,13
+22200016,2022-10-20,4,20,"LAC","LAL","Ivica Zubac, Luke Kennard, Norman Powell, Reggie Jackson, Robert Covington",0,1,4,3,3,102
+22200016,2022-10-20,4,21,"LAC","LAL","Ivica Zubac, Luke Kennard, Norman Powell, Reggie Jackson, Robert Covington",0,0,0,0,0,14
+22200016,2022-10-20,4,22,"LAC","LAL","Ivica Zubac, Luke Kennard, Paul George, Reggie Jackson, Robert Covington",0,0,4,1,2,28
+22200016,2022-10-20,4,23,"LAC","LAL","Ivica Zubac, Kawhi Leonard, Luke Kennard, Paul George, Reggie Jackson",0,8,2,5,4,142
+22200016,2022-10-20,4,24,"LAC","LAL","Ivica Zubac, John Wall, Kawhi Leonard, Luke Kennard, Paul George",0,6,6,10,10,331.8
+22200016,2022-10-20,4,18,"LAL","LAC","Austin Reaves, Juan Toscano-Anderson, LeBron James, Lonnie Walker IV, Patrick Beverley",0,12,4,9,9,290
+22200016,2022-10-20,4,19,"LAL","LAC","Anthony Davis, Austin Reaves, Juan Toscano-Anderson, Lonnie Walker IV, Patrick Beverley",0,2,3,3,3,53
+22200016,2022-10-20,4,20,"LAL","LAC","Austin Reaves, Juan Toscano-Anderson, LeBron James, Lonnie Walker IV, Patrick Beverley",0,0,3,0,1,38
+22200016,2022-10-20,4,25,"LAC","LAL","John Wall, Kawhi Leonard, Nicolas Batum, Paul George, Robert Covington",0,2,0,1,2,7.19999999999982
+22200016,2022-10-20,4,21,"LAL","LAC","Anthony Davis, Austin Reaves, Lonnie Walker IV, Patrick Beverley, Russell Westbrook",0,2,2,3,3,97
+22200016,2022-10-20,4,22,"LAL","LAC","Anthony Davis, LeBron James, Lonnie Walker IV, Patrick Beverley, Russell Westbrook",0,2,2,6,5,178
+22200016,2022-10-20,4,23,"LAL","LAC","Anthony Davis, Austin Reaves, LeBron James, Lonnie Walker IV, Patrick Beverley",0,2,4,3,3,64
