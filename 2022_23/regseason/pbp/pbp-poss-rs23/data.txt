@@ -2,11 +2,11 @@ path:
 - data.csv
 - data.rds
 type: table
-rows: 8114
+rows: 18104
 cols: 37
 columns:
   game_id: numeric
-  period: integer
+  period: numeric
   clock: character
   number_event: numeric
   msg_type: numeric
