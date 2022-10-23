@@ -2,12 +2,12 @@ path:
 - data.csv
 - data.rds
 type: table
-rows: 851
+rows: 1869
 cols: 13
 columns:
   game_id: numeric
   game_date: Date
-  period: integer
+  period: numeric
   stint: integer
   slug_team: character
   slug_opp: character
