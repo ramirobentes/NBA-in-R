@@ -18,7 +18,7 @@ corrections <- tribble(
   21800534,    "12:00",                1440,        3,           237,         6,        11,            0,         "[GSW] Iguodala Technical (1 FTA) (J Tiven)",
   21800534,    "12:00",                1440,        3,           238,        11,         4,            0,         "[GSW] Iguodala Ejection:Other",
   21800036,    "02:17",                1303,        2,           222,         3,        28,            1,         "[ATL 57-58] Bazemore Free Throw Flagrant 2 of 3 (7 PTS)",
-  21800036,    "02:17",                1303,        2,           223,         3,         2,            1          "[ATL 57-58] Bazemore Free Throw Flagrant 3 of 3 (8 PTS)")
+  21800036,    "02:17",                1303,        2,           223,         3,         2,            1,         "[ATL 57-58] Bazemore Free Throw Flagrant 3 of 3 (8 PTS)")
 
 
 # change order plays -------------------------------------------------------
