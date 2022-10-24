@@ -11,3 +11,18 @@ missing_starters <- tribble(
   21801070,            5,           "MEM",       "Bruno Caboclo",
   21801132,            5,           "GSW",      "Andre Iguodala",
   21801229,            5,           "UTA",     "Tyler Cavanaugh")
+
+
+corrections <- tribble(
+  ~game_id,     ~clock,   ~secs_passed_game,  ~period, ~number_event, ~msg_type, ~act_type,                                              ~description,
+  21800534,    "12:00",                1440,        3,           237,         6,        11,              "[GSW] Iguodala Technical (1 FTA) (J Tiven)",
+  21800534,    "12:00",                1440,        3,           238,        11,         4,                           "[GSW] Iguodala Ejection:Other")
+
+
+# change order plays -------------------------------------------------------
+
+change_order <- tribble(
+  ~game_id,     ~number_original,     ~number_event,
+  21800578,                  246,               176,
+  21800578,                  249,               177,
+  21800578,                  250,               178)
