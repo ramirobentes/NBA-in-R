@@ -2,7 +2,7 @@ path:
 - data.csv
 - data.rds
 type: table
-rows: 21663
+rows: 25588
 cols: 37
 columns:
   game_id: numeric
@@ -22,8 +22,8 @@ columns:
   vs: numeric
   locX: integer
   locY: integer
-  team_away: character
   team_home: character
+  team_away: character
   number_original: numeric
   secs_passed_game: numeric
   shot_pts: numeric
