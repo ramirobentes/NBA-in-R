@@ -2,6 +2,10 @@ library(tidyverse)
 library(hoopR)
 library(janitor)
 
+player_logs <- nba_leaguegamelog(season = "2022-23", player_or_team = "P") %>%
+  pluck("LeagueGameLog") %>%
+  clean_names()
+
 selected_player_id <- player_logs %>%
   filter(player_name == "James Harden") %>%
   distinct(player_id) %>%
