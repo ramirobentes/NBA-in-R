@@ -4,6 +4,8 @@ library(janitor)
 library(future)
 library(zoo)
 
+source("https://raw.githubusercontent.com/ramirobentes/NBA-in-R/master/2022_23/regseason/add_data_pbp.R")
+
 player_logs <- nba_leaguegamelog(season = "2022-23", player_or_team = "P") %>%
   pluck("LeagueGameLog") %>%
   clean_names() %>%
@@ -102,7 +104,8 @@ starters_quarters <- nba_pbp %>%
               filter(starter == 1)) %>%
   transmute(game_id, period, player_name) %>%
   left_join(player_logs %>%
-              distinct(game_id = as.integer(game_id), player_name, slug_team = team_abbreviation))
+              distinct(game_id = as.integer(game_id), player_name, slug_team = team_abbreviation)) %>%
+  bind_rows(missing_starters)
 
 starters_quarters %>%
   count(game_id, period, slug_team) %>%
