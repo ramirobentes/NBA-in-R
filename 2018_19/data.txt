@@ -4,3 +4,9 @@
   description: ~
   rows: 58750
   cols: 13
+- path: pbp-poss-rs19
+  name: pbp-poss-rs19
+  type: table
+  description: ~
+  rows: 598194
+  cols: 37
