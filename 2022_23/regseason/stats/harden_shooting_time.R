@@ -18,7 +18,7 @@ selected_team_id <- player_logs %>%
 
 # for FGA % by touching time in 2021-22 with Philly and first game of 2022-23
 shooting_dash22_phi <- hoopR::nba_playerdashptshots(season = "2021-22", player_id = selected_player_id) # only for 76ers games
-shooting_dash23_phi <- hoopR::nba_playerdashptshots(season = "2022-23")
+shooting_dash23_phi <- hoopR::nba_playerdashptshots(season = "2022-23", player_id = selected_player_id)
 
 shooting_dash23 %>%
   pluck("TouchTimeShooting") %>%
