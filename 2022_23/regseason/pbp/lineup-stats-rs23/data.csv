@@ -5804,37 +5804,39 @@
 22200114,2022-11-02,2,9,"TOR","SAS","Chris Boucher, Christian Koloko, Gary Trent Jr., O.G. Anunoby, Scottie Barnes",0,6,2,5,5,108
 22200114,2022-11-02,2,10,"TOR","SAS","Chris Boucher, Christian Koloko, Gary Trent Jr., Pascal Siakam, Scottie Barnes",0,7,5,5,5,139
 22200114,2022-11-02,2,11,"TOR","SAS","Chris Boucher, Christian Koloko, Gary Trent Jr., O.G. Anunoby, Pascal Siakam",0,4,0,3,3,75
-22200114,2022-11-02,2,10,"SAS","TOR","Josh Richardson, Keita Bates-Diop, Malaki Branham, Romeo Langford, Zach Collins",0,7,8,6,6,161
+22200114,2022-11-02,2,10,"SAS","TOR","Josh Richardson, Keita Bates-Diop, Malaki Branham, Romeo Langford, Zach Collins",0,2,2,2,2,60
 22200114,2022-11-02,2,12,"TOR","SAS","Chris Boucher, Christian Koloko, Gary Trent Jr., O.G. Anunoby, Pascal Siakam",0,0,0,0,1,0
 22200114,2022-11-02,2,13,"TOR","SAS","Chris Boucher, Christian Koloko, Gary Trent Jr., O.G. Anunoby, Scottie Barnes",0,6,4,9,8,165
-22200114,2022-11-02,2,11,"SAS","TOR","Doug McDermott, Josh Richardson, Keita Bates-Diop, Romeo Langford, Zach Collins",0,0,7,5,4,114
-22200114,2022-11-02,2,12,"SAS","TOR","Josh Richardson, Keita Bates-Diop, Malaki Branham, Romeo Langford, Zach Collins",0,0,0,0,1,0
-22200114,2022-11-02,2,13,"SAS","TOR","Doug McDermott, Jakob Poeltl, Josh Richardson, Tre Jones, Zach Collins",0,4,6,8,9,165
+22200114,2022-11-02,2,11,"SAS","TOR","Jordan Hall, Josh Richardson, Keita Bates-Diop, Malaki Branham, Zach Collins",0,5,4,4,3,100
+22200114,2022-11-02,2,12,"SAS","TOR","Josh Richardson, Keita Bates-Diop, Malaki Branham, Romeo Langford, Zach Collins",0,0,2,0,1,1
+22200114,2022-11-02,2,13,"SAS","TOR","Doug McDermott, Jordan Hall, Josh Richardson, Keita Bates-Diop, Zach Collins",0,0,7,5,4,114
+22200114,2022-11-02,2,14,"SAS","TOR","Jordan Hall, Josh Richardson, Keita Bates-Diop, Malaki Branham, Zach Collins",0,0,0,0,1,0
+22200114,2022-11-02,2,15,"SAS","TOR","Doug McDermott, Jakob Poeltl, Josh Richardson, Tre Jones, Zach Collins",0,4,6,8,9,165
 22200114,2022-11-02,3,14,"TOR","SAS","Christian Koloko, Gary Trent Jr., O.G. Anunoby, Pascal Siakam, Scottie Barnes",0,27,13,17,16,452
 22200114,2022-11-02,3,15,"TOR","SAS","Christian Koloko, Gary Trent Jr., O.G. Anunoby, Pascal Siakam, Scottie Barnes",0,1,0,0,0,0
 22200114,2022-11-02,3,16,"TOR","SAS","Chris Boucher, Khem Birch, O.G. Anunoby, Pascal Siakam, Scottie Barnes",0,0,0,0,0,14
-22200114,2022-11-02,3,14,"SAS","TOR","Jakob Poeltl, Keita Bates-Diop, Romeo Langford, Tre Jones, Zach Collins",0,5,13,7,7,212
 22200114,2022-11-02,3,17,"TOR","SAS","Chris Boucher, Gary Trent Jr., Khem Birch, Pascal Siakam, Scottie Barnes",0,4,4,3,3,72
 22200114,2022-11-02,3,18,"TOR","SAS","Chris Boucher, Khem Birch, O.G. Anunoby, Pascal Siakam, Scottie Barnes",0,0,0,0,1,0
-22200114,2022-11-02,3,15,"SAS","TOR","Gorgui Dieng, Jakob Poeltl, Keita Bates-Diop, Romeo Langford, Tre Jones",0,3,8,3,4,90
+22200114,2022-11-02,3,16,"SAS","TOR","Jakob Poeltl, Keita Bates-Diop, Romeo Langford, Tre Jones, Zach Collins",0,5,13,7,7,212
 22200114,2022-11-02,3,19,"TOR","SAS","Chris Boucher, Dalano Banton, Gary Trent Jr., Khem Birch, Pascal Siakam",0,4,1,3,3,60
+22200114,2022-11-02,3,17,"SAS","TOR","Gorgui Dieng, Jakob Poeltl, Keita Bates-Diop, Romeo Langford, Tre Jones",0,3,8,3,4,90
 22200114,2022-11-02,3,20,"TOR","SAS","Chris Boucher, Dalano Banton, Khem Birch, Pascal Siakam, Precious Achiuwa",0,4,3,4,4,122
-22200114,2022-11-02,3,16,"SAS","TOR","Doug McDermott, Gorgui Dieng, Josh Richardson, Keita Bates-Diop, Tre Jones",0,2,2,4,3,74
-22200114,2022-11-02,3,17,"SAS","TOR","Doug McDermott, Gorgui Dieng, Josh Richardson, Keita Bates-Diop, Malaki Branham",0,3,5,2,3,71
-22200114,2022-11-02,3,18,"SAS","TOR","Doug McDermott, Gorgui Dieng, Josh Richardson, Keita Bates-Diop, Tre Jones",0,0,0,0,0,5
-22200114,2022-11-02,3,19,"SAS","TOR","Doug McDermott, Gorgui Dieng, Josh Richardson, Malaki Branham, Zach Collins",0,4,6,6,5,135
-22200114,2022-11-02,3,20,"SAS","TOR","Doug McDermott, Gorgui Dieng, Jordan Hall, Malaki Branham, Zach Collins",0,3,4,4,4,122
-22200114,2022-11-02,3,21,"SAS","TOR","Doug McDermott, Gorgui Dieng, Josh Richardson, Malaki Branham, Zach Collins",0,1,2,1,1,11
+22200114,2022-11-02,3,18,"SAS","TOR","Doug McDermott, Gorgui Dieng, Josh Richardson, Keita Bates-Diop, Tre Jones",0,2,2,4,3,74
+22200114,2022-11-02,3,19,"SAS","TOR","Doug McDermott, Gorgui Dieng, Josh Richardson, Keita Bates-Diop, Malaki Branham",0,3,5,2,3,71
+22200114,2022-11-02,3,20,"SAS","TOR","Doug McDermott, Gorgui Dieng, Josh Richardson, Keita Bates-Diop, Tre Jones",0,0,0,0,0,5
+22200114,2022-11-02,3,21,"SAS","TOR","Doug McDermott, Gorgui Dieng, Josh Richardson, Malaki Branham, Zach Collins",0,4,6,6,5,135
+22200114,2022-11-02,3,22,"SAS","TOR","Doug McDermott, Gorgui Dieng, Jordan Hall, Malaki Branham, Zach Collins",0,3,4,4,4,122
+22200114,2022-11-02,3,23,"SAS","TOR","Doug McDermott, Gorgui Dieng, Josh Richardson, Malaki Branham, Zach Collins",0,1,2,1,1,11
 22200114,2022-11-02,4,21,"TOR","SAS","Chris Boucher, Dalano Banton, Khem Birch, Otto Porter Jr., Precious Achiuwa",1,5,2,3,3,114
 22200114,2022-11-02,4,22,"TOR","SAS","Chris Boucher, Dalano Banton, Khem Birch, Otto Porter Jr., Precious Achiuwa",1,0,0,0,1,14
 22200114,2022-11-02,4,23,"TOR","SAS","Chris Boucher, Dalano Banton, Malachi Flynn, Otto Porter Jr., Precious Achiuwa",1,7,7,5,4,104
 22200114,2022-11-02,4,24,"TOR","SAS","Chris Boucher, Dalano Banton, Malachi Flynn, Otto Porter Jr., Precious Achiuwa",1,1,0,0,0,0
 22200114,2022-11-02,4,25,"TOR","SAS","Dalano Banton, Juancho Hernangomez, Malachi Flynn, Precious Achiuwa, Thaddeus Young",1,6,2,5,5,142
-22200114,2022-11-02,4,22,"SAS","TOR","Charles Bassey, Jordan Hall, Josh Richardson, Keita Bates-Diop, Zach Collins",1,2,5,4,3,128
 22200114,2022-11-02,4,26,"TOR","SAS","Juancho Hernangomez, Malachi Flynn, Otto Porter Jr., Precious Achiuwa, Thaddeus Young",1,11,8,6,7,166
+22200114,2022-11-02,4,24,"SAS","TOR","Charles Bassey, Jordan Hall, Josh Richardson, Keita Bates-Diop, Zach Collins",1,2,5,4,3,128
 22200114,2022-11-02,4,27,"TOR","SAS","Jeff Dowtin Jr., Juancho Hernangomez, Malachi Flynn, Precious Achiuwa, Thaddeus Young",1,9,11,8,7,180
-22200114,2022-11-02,4,23,"SAS","TOR","Charles Bassey, Dominick Barlow, Jordan Hall, Keita Bates-Diop, Malaki Branham",1,7,8,4,5,104
-22200114,2022-11-02,4,24,"SAS","TOR","Charles Bassey, Dominick Barlow, Gorgui Dieng, Jordan Hall, Malaki Branham",1,21,26,19,19,488
+22200114,2022-11-02,4,25,"SAS","TOR","Charles Bassey, Dominick Barlow, Jordan Hall, Keita Bates-Diop, Malaki Branham",1,7,8,4,5,104
+22200114,2022-11-02,4,26,"SAS","TOR","Charles Bassey, Dominick Barlow, Gorgui Dieng, Jordan Hall, Malaki Branham",1,21,26,19,19,488
 22200115,2022-11-02,1,1,"DAL","UTA","Dorian Finney-Smith, JaVale McGee, Luka Doncic, Reggie Bullock, Spencer Dinwiddie",0,13,11,9,9,278
 22200115,2022-11-02,1,1,"UTA","DAL","Jarred Vanderbilt, Jordan Clarkson, Kelly Olynyk, Lauri Markkanen, Mike Conley",0,14,13,10,9,304
 22200115,2022-11-02,1,2,"DAL","UTA","Christian Wood, Dorian Finney-Smith, Luka Doncic, Reggie Bullock, Spencer Dinwiddie",0,2,7,3,4,111
@@ -5982,3 +5984,109 @@
 22200117,2022-11-02,4,30,"LAL","NOP","Anthony Davis, Austin Reaves, LeBron James, Matt Ryan, Patrick Beverley",0,3,0,1,0,1.30000000000018
 22200117,2022-11-02,5,22,"NOP","LAL","CJ McCollum, Larry Nance Jr., Naji Marshall, Trey Murphy III, Zion Williamson",0,6,9,9,10,300
 22200117,2022-11-02,5,31,"LAL","NOP","Anthony Davis, Austin Reaves, LeBron James, Lonnie Walker IV, Patrick Beverley",0,9,6,10,9,300
+22200118,2022-11-03,1,1,"GSW","ORL","Andrew Wiggins, Draymond Green, Kevon Looney, Klay Thompson, Stephen Curry",0,23,15,14,14,403
+22200118,2022-11-03,1,1,"ORL","GSW","Bol Bol, Franz Wagner, Jalen Suggs, Paolo Banchero, Wendell Carter Jr.",0,8,16,11,10,307
+22200118,2022-11-03,1,2,"GSW","ORL","Andrew Wiggins, Draymond Green, Kevon Looney, Klay Thompson, Stephen Curry",0,0,2,0,1,18
+22200118,2022-11-03,1,2,"ORL","GSW","Bol Bol, Franz Wagner, Jalen Suggs, Paolo Banchero, Wendell Carter Jr.",0,0,2,0,1,4
+22200118,2022-11-03,1,3,"GSW","ORL","Andrew Wiggins, Draymond Green, James Wiseman, Jordan Poole, Stephen Curry",0,2,5,3,2,61
+22200118,2022-11-03,1,3,"ORL","GSW","Chuma Okeke, Franz Wagner, Jalen Suggs, Kevon Harris, Wendell Carter Jr.",0,15,7,7,6,193
+22200118,2022-11-03,1,4,"ORL","GSW","Chuma Okeke, Franz Wagner, Jalen Suggs, Kevon Harris, Wendell Carter Jr.",0,1,0,1,1,22
+22200118,2022-11-03,1,5,"ORL","GSW","Chuma Okeke, Franz Wagner, Kevon Harris, R.J. Hampton, Wendell Carter Jr.",0,2,0,1,1,44
+22200118,2022-11-03,1,4,"GSW","ORL","James Wiseman, JaMychal Green, Jordan Poole, Moses Moody, Stephen Curry",0,0,5,3,4,88
+22200118,2022-11-03,1,6,"ORL","GSW","Chuma Okeke, Franz Wagner, Kevon Harris, R.J. Hampton, Wendell Carter Jr.",0,1,0,1,1,0
+22200118,2022-11-03,1,5,"GSW","ORL","JaMychal Green, Jordan Poole, Kevon Looney, Moses Moody, Stephen Curry",0,3,0,4,3,79
+22200118,2022-11-03,1,7,"ORL","GSW","Bol Bol, Chuma Okeke, Kevon Harris, Paolo Banchero, R.J. Hampton",0,3,5,6,7,150
+22200118,2022-11-03,1,6,"GSW","ORL","JaMychal Green, Jordan Poole, Kevon Looney, Moses Moody, Ty Jerome",0,0,3,1,2,44.2
+22200118,2022-11-03,1,7,"GSW","ORL","JaMychal Green, Jordan Poole, Moses Moody, Stephen Curry, Ty Jerome",0,2,0,1,0,24.9
+22200118,2022-11-03,1,8,"GSW","ORL","JaMychal Green, Jordan Poole, Klay Thompson, Stephen Curry, Ty Jerome",0,0,0,1,0,1.89999999999998
+22200118,2022-11-03,1,9,"GSW","ORL","JaMychal Green, Jordan Poole, Moses Moody, Stephen Curry, Ty Jerome",0,0,0,0,1,0
+22200118,2022-11-03,2,8,"ORL","GSW","Bol Bol, Chuma Okeke, Kevon Harris, Paolo Banchero, R.J. Hampton",0,5,10,5,6,207
+22200118,2022-11-03,2,9,"ORL","GSW","Chuma Okeke, Kevon Harris, Mo Bamba, Paolo Banchero, R.J. Hampton",0,3,4,3,3,81
+22200118,2022-11-03,2,10,"GSW","ORL","Andrew Wiggins, JaMychal Green, Jordan Poole, Kevon Looney, Ty Jerome",0,12,8,8,7,273
+22200118,2022-11-03,2,10,"ORL","GSW","Chuma Okeke, Franz Wagner, Jalen Suggs, Mo Bamba, Paolo Banchero",0,2,3,2,1,73
+22200118,2022-11-03,2,11,"GSW","ORL","Andrew Wiggins, JaMychal Green, Jordan Poole, Kevon Looney, Ty Jerome",0,0,0,0,1,0
+22200118,2022-11-03,2,11,"ORL","GSW","Chuma Okeke, Franz Wagner, Jalen Suggs, Mo Bamba, Wendell Carter Jr.",0,4,7,4,5,120
+22200118,2022-11-03,2,12,"ORL","GSW","Franz Wagner, Jalen Suggs, Mo Bamba, Paolo Banchero, Wendell Carter Jr.",0,2,1,2,2,64
+22200118,2022-11-03,2,12,"GSW","ORL","Andrew Wiggins, Draymond Green, James Wiseman, Jordan Poole, Klay Thompson",0,2,0,1,0,15
+22200118,2022-11-03,2,13,"ORL","GSW","Franz Wagner, Jalen Suggs, Kevon Harris, Paolo Banchero, Wendell Carter Jr.",0,7,10,6,6,175
+22200118,2022-11-03,2,13,"GSW","ORL","Andrew Wiggins, Draymond Green, James Wiseman, Klay Thompson, Stephen Curry",0,3,2,1,1,73
+22200118,2022-11-03,2,14,"GSW","ORL","Andrew Wiggins, Draymond Green, James Wiseman, Klay Thompson, Stephen Curry",0,0,0,0,1,0
+22200118,2022-11-03,2,15,"GSW","ORL","Draymond Green, James Wiseman, Klay Thompson, Moses Moody, Stephen Curry",0,7,6,6,5,160
+22200118,2022-11-03,2,16,"GSW","ORL","Andrew Wiggins, Draymond Green, Jordan Poole, Klay Thompson, Stephen Curry",0,11,7,6,7,194.3
+22200118,2022-11-03,2,17,"GSW","ORL","Andrew Wiggins, Jordan Poole, Kevon Looney, Klay Thompson, Stephen Curry",0,0,0,1,0,4.70000000000005
+22200118,2022-11-03,3,14,"ORL","GSW","Bol Bol, Franz Wagner, Jalen Suggs, Paolo Banchero, Wendell Carter Jr.",0,17,16,11,11,325
+22200118,2022-11-03,3,15,"ORL","GSW","Chuma Okeke, Franz Wagner, Jalen Suggs, Paolo Banchero, Wendell Carter Jr.",0,9,9,7,7,173
+22200118,2022-11-03,3,16,"ORL","GSW","Chuma Okeke, Franz Wagner, Jalen Suggs, Paolo Banchero, Wendell Carter Jr.",0,1,0,0,0,0
+22200118,2022-11-03,3,17,"ORL","GSW","Chuma Okeke, Franz Wagner, Paolo Banchero, R.J. Hampton, Wendell Carter Jr.",0,1,0,2,2,43
+22200118,2022-11-03,3,18,"ORL","GSW","Chuma Okeke, Franz Wagner, Kevon Harris, R.J. Hampton, Wendell Carter Jr.",0,10,6,5,6,133.8
+22200118,2022-11-03,3,18,"GSW","ORL","Andrew Wiggins, Draymond Green, Kevon Looney, Klay Thompson, Stephen Curry",0,16,17,11,11,325
+22200118,2022-11-03,3,19,"ORL","GSW","Caleb Houstan, Chuma Okeke, Jalen Suggs, Kevon Harris, R.J. Hampton",0,5,2,2,2,45.1999999999998
+22200118,2022-11-03,3,19,"GSW","ORL","Andrew Wiggins, Jordan Poole, Kevon Looney, Klay Thompson, Stephen Curry",0,3,5,4,4,94
+22200118,2022-11-03,3,20,"GSW","ORL","Jordan Poole, Kevon Looney, Klay Thompson, Moses Moody, Stephen Curry",0,6,5,3,3,79
+22200118,2022-11-03,3,21,"GSW","ORL","James Wiseman, JaMychal Green, Jordan Poole, Moses Moody, Stephen Curry",0,6,11,8,7,176.8
+22200118,2022-11-03,3,22,"GSW","ORL","Draymond Green, JaMychal Green, Jordan Poole, Moses Moody, Stephen Curry",0,2,3,1,1,33.1999999999998
+22200118,2022-11-03,3,23,"GSW","ORL","Draymond Green, JaMychal Green, Jordan Poole, Klay Thompson, Stephen Curry",0,0,0,1,0,8.09999999999991
+22200118,2022-11-03,3,24,"GSW","ORL","Draymond Green, JaMychal Green, Jordan Poole, Moses Moody, Stephen Curry",0,0,2,0,1,3.90000000000009
+22200118,2022-11-03,4,20,"ORL","GSW","Caleb Houstan, Chuma Okeke, Jalen Suggs, Kevon Harris, R.J. Hampton",0,10,6,5,5,156
+22200118,2022-11-03,4,21,"ORL","GSW","Caleb Houstan, Jalen Suggs, Kevon Harris, Paolo Banchero, R.J. Hampton",0,0,0,2,1,43
+22200118,2022-11-03,4,22,"ORL","GSW","Bol Bol, Caleb Houstan, Franz Wagner, Paolo Banchero, R.J. Hampton",0,4,0,2,2,48
+22200118,2022-11-03,4,23,"ORL","GSW","Bol Bol, Franz Wagner, Jalen Suggs, Paolo Banchero, R.J. Hampton",0,3,2,2,2,70
+22200118,2022-11-03,4,24,"ORL","GSW","Bol Bol, Franz Wagner, Jalen Suggs, Paolo Banchero, R.J. Hampton",0,0,0,0,0,8
+22200118,2022-11-03,4,25,"ORL","GSW","Franz Wagner, Jalen Suggs, Paolo Banchero, R.J. Hampton, Wendell Carter Jr.",0,4,10,6,7,188
+22200118,2022-11-03,4,25,"GSW","ORL","Andrew Wiggins, Draymond Green, JaMychal Green, Jordan Poole, Ty Jerome",0,0,4,1,2,54
+22200118,2022-11-03,4,26,"ORL","GSW","Chuma Okeke, Franz Wagner, Jalen Suggs, Paolo Banchero, Wendell Carter Jr.",0,13,13,9,9,207
+22200118,2022-11-03,4,26,"GSW","ORL","Andrew Wiggins, JaMychal Green, Jordan Poole, Klay Thompson, Ty Jerome",0,6,10,7,7,193
+22200118,2022-11-03,4,27,"GSW","ORL","Draymond Green, Kevon Looney, Klay Thompson, Stephen Curry, Ty Jerome",0,10,5,7,6,204
+22200118,2022-11-03,4,28,"GSW","ORL","Andrew Wiggins, Draymond Green, Kevon Looney, Klay Thompson, Stephen Curry",0,12,15,9,10,237.5
+22200118,2022-11-03,4,29,"GSW","ORL","Andrew Wiggins, Jordan Poole, Klay Thompson, Stephen Curry, Ty Jerome",0,3,0,2,1,31.5
+22200119,2022-11-03,1,1,"DEN","OKC","Aaron Gordon, Jamal Murray, Kentavious Caldwell-Pope, Michael Porter Jr., Nikola Jokic",0,21,11,15,15,387
+22200119,2022-11-03,1,1,"OKC","DEN","Aleksej Pokusevski, Jeremiah Robinson-Earl, Josh Giddey, Luguentz Dort, Shai Gilgeous-Alexander",0,11,21,15,15,387
+22200119,2022-11-03,1,2,"DEN","OKC","Aaron Gordon, Bruce Brown, Jamal Murray, Kentavious Caldwell-Pope, Nikola Jokic",0,3,5,3,2,66
+22200119,2022-11-03,1,3,"DEN","OKC","Aaron Gordon, Bruce Brown, Christian Braun, Kentavious Caldwell-Pope, Nikola Jokic",0,11,2,4,3,68
+22200119,2022-11-03,1,4,"DEN","OKC","Aaron Gordon, Bruce Brown, Jamal Murray, Kentavious Caldwell-Pope, Nikola Jokic",0,0,0,0,1,1
+22200119,2022-11-03,1,2,"OKC","DEN","Jalen Williams, Jeremiah Robinson-Earl, Josh Giddey, Kenrich Williams, Shai Gilgeous-Alexander",0,7,14,6,7,135
+22200119,2022-11-03,1,5,"DEN","OKC","Aaron Gordon, Bruce Brown, Christian Braun, Jeff Green, Kentavious Caldwell-Pope",0,0,5,2,3,64
+22200119,2022-11-03,1,3,"OKC","DEN","Darius Bazley, Jalen Williams, Kenrich Williams, Shai Gilgeous-Alexander, Tre Mann",0,11,7,7,6,191.8
+22200119,2022-11-03,1,6,"DEN","OKC","Bruce Brown, Christian Braun, Jeff Green, Michael Porter Jr., Zeke Nnaji",0,5,4,2,2,64
+22200119,2022-11-03,1,4,"OKC","DEN","Darius Bazley, Jalen Williams, Kenrich Williams, Luguentz Dort, Shai Gilgeous-Alexander",0,0,0,1,1,6.20000000000005
+22200119,2022-11-03,1,7,"DEN","OKC","Christian Braun, Jamal Murray, Jeff Green, Michael Porter Jr., Zeke Nnaji",0,2,2,1,1,31.7
+22200119,2022-11-03,1,8,"DEN","OKC","Davon Reed, Jamal Murray, Jeff Green, Michael Porter Jr., Zeke Nnaji",0,0,0,2,2,38.3
+22200119,2022-11-03,2,5,"OKC","DEN","Jalen Williams, Kenrich Williams, Luguentz Dort, Ousmane Dieng, Tre Mann",0,2,7,3,3,112
+22200119,2022-11-03,2,6,"OKC","DEN","Aleksej Pokusevski, Kenrich Williams, Luguentz Dort, Ousmane Dieng, Tre Mann",0,4,2,3,2,83
+22200119,2022-11-03,2,9,"DEN","OKC","Davon Reed, Jamal Murray, Jeff Green, Michael Porter Jr., Zeke Nnaji",0,7,2,3,3,123
+22200119,2022-11-03,2,7,"OKC","DEN","Aleksej Pokusevski, Jeremiah Robinson-Earl, Kenrich Williams, Luguentz Dort, Tre Mann",0,4,0,4,4,96
+22200119,2022-11-03,2,10,"DEN","OKC","Bruce Brown, Davon Reed, Jeff Green, Michael Porter Jr., Zeke Nnaji",0,2,4,2,3,72
+22200119,2022-11-03,2,8,"OKC","DEN","Aleksej Pokusevski, Jalen Williams, Jeremiah Robinson-Earl, Luguentz Dort, Tre Mann",0,6,10,6,7,165
+22200119,2022-11-03,2,11,"DEN","OKC","Bruce Brown, Davon Reed, Jeff Green, Michael Porter Jr., Nikola Jokic",0,0,4,4,4,96
+22200119,2022-11-03,2,12,"DEN","OKC","Aaron Gordon, Bruce Brown, Davon Reed, Kentavious Caldwell-Pope, Nikola Jokic",0,9,6,7,6,165
+22200119,2022-11-03,2,9,"OKC","DEN","Aleksej Pokusevski, Jeremiah Robinson-Earl, Josh Giddey, Ousmane Dieng, Shai Gilgeous-Alexander",0,8,8,6,6,176
+22200119,2022-11-03,2,13,"DEN","OKC","Aaron Gordon, Bruce Brown, Davon Reed, Kentavious Caldwell-Pope, Nikola Jokic",0,1,0,0,0,0
+22200119,2022-11-03,2,14,"DEN","OKC","Aaron Gordon, Bruce Brown, Jamal Murray, Kentavious Caldwell-Pope, Nikola Jokic",0,8,8,6,6,176
+22200119,2022-11-03,2,15,"DEN","OKC","Aaron Gordon, Jamal Murray, Kentavious Caldwell-Pope, Michael Porter Jr., Nikola Jokic",0,2,4,3,4,88
+22200119,2022-11-03,2,10,"OKC","DEN","Josh Giddey, Kenrich Williams, Luguentz Dort, Mike Muscala, Shai Gilgeous-Alexander",0,4,2,4,3,88
+22200119,2022-11-03,3,16,"DEN","OKC","Aaron Gordon, Jamal Murray, Kentavious Caldwell-Pope, Michael Porter Jr., Nikola Jokic",0,6,15,11,11,301
+22200119,2022-11-03,3,17,"DEN","OKC","Aaron Gordon, Bruce Brown, Jamal Murray, Kentavious Caldwell-Pope, Nikola Jokic",0,6,8,4,4,120
+22200119,2022-11-03,3,11,"OKC","DEN","Darius Bazley, Josh Giddey, Luguentz Dort, Mike Muscala, Shai Gilgeous-Alexander",0,18,10,13,13,355
+22200119,2022-11-03,3,18,"DEN","OKC","Aaron Gordon, Bruce Brown, Christian Braun, Kentavious Caldwell-Pope, Nikola Jokic",0,2,4,3,2,84
+22200119,2022-11-03,3,19,"DEN","OKC","Aaron Gordon, Bruce Brown, Jamal Murray, Kentavious Caldwell-Pope, Nikola Jokic",0,0,0,0,1,6
+22200119,2022-11-03,3,12,"OKC","DEN","Jalen Williams, Josh Giddey, Luguentz Dort, Mike Muscala, Shai Gilgeous-Alexander",0,5,2,2,1,66
+22200119,2022-11-03,3,20,"DEN","OKC","Bruce Brown, Christian Braun, Jeff Green, Kentavious Caldwell-Pope, Nikola Jokic",0,6,4,3,3,93
+22200119,2022-11-03,3,13,"OKC","DEN","Jalen Williams, Josh Giddey, Luguentz Dort, Mike Muscala, Shai Gilgeous-Alexander",0,0,0,0,1,0
+22200119,2022-11-03,3,14,"OKC","DEN","Jalen Williams, Jeremiah Robinson-Earl, Josh Giddey, Kenrich Williams, Shai Gilgeous-Alexander",0,2,0,2,1,22
+22200119,2022-11-03,3,21,"DEN","OKC","Aaron Gordon, Bruce Brown, Christian Braun, Jeff Green, Michael Porter Jr.",0,0,3,2,2,31
+22200119,2022-11-03,3,15,"OKC","DEN","Jeremiah Robinson-Earl, Josh Giddey, Kenrich Williams, Ousmane Dieng, Shai Gilgeous-Alexander",0,6,8,4,4,161
+22200119,2022-11-03,3,22,"DEN","OKC","Aaron Gordon, Bruce Brown, Jamal Murray, Jeff Green, Michael Porter Jr.",0,2,4,3,3,85
+22200119,2022-11-03,3,16,"OKC","DEN","Aleksej Pokusevski, Josh Giddey, Kenrich Williams, Ousmane Dieng, Shai Gilgeous-Alexander",0,7,2,5,4,112.7
+22200119,2022-11-03,3,17,"OKC","DEN","Jeremiah Robinson-Earl, Josh Giddey, Kenrich Williams, Ousmane Dieng, Shai Gilgeous-Alexander",0,0,0,0,1,0
+22200119,2022-11-03,3,18,"OKC","DEN","Aleksej Pokusevski, Josh Giddey, Kenrich Williams, Luguentz Dort, Shai Gilgeous-Alexander",0,0,0,0,1,3.30000000000018
+22200119,2022-11-03,4,23,"DEN","OKC","Aaron Gordon, Bruce Brown, Jamal Murray, Jeff Green, Michael Porter Jr.",0,9,6,7,7,233
+22200119,2022-11-03,4,19,"OKC","DEN","Aleksej Pokusevski, Darius Bazley, Kenrich Williams, Luguentz Dort, Tre Mann",0,6,9,7,7,233
+22200119,2022-11-03,4,24,"DEN","OKC","Bruce Brown, Jeff Green, Kentavious Caldwell-Pope, Michael Porter Jr., Nikola Jokic",0,12,2,6,5,166
+22200119,2022-11-03,4,25,"DEN","OKC","Bruce Brown, Jamal Murray, Jeff Green, Kentavious Caldwell-Pope, Nikola Jokic",0,2,2,2,2,64
+22200119,2022-11-03,4,26,"DEN","OKC","Aaron Gordon, Bruce Brown, Jamal Murray, Kentavious Caldwell-Pope, Nikola Jokic",0,5,5,7,8,257
+22200119,2022-11-03,4,27,"DEN","OKC","Bruce Brown, Jamal Murray, Jeff Green, Kentavious Caldwell-Pope, Nikola Jokic",0,1,0,0,0,0
+22200119,2022-11-03,4,20,"OKC","DEN","Josh Giddey, Kenrich Williams, Mike Muscala, Shai Gilgeous-Alexander, Tre Mann",0,2,8,3,4,84
+22200119,2022-11-03,4,21,"OKC","DEN","Aleksej Pokusevski, Jalen Williams, Jeremiah Robinson-Earl, Josh Giddey, Shai Gilgeous-Alexander",0,0,4,2,2,82
+22200119,2022-11-03,4,22,"OKC","DEN","Aleksej Pokusevski, Jeremiah Robinson-Earl, Josh Giddey, Luguentz Dort, Shai Gilgeous-Alexander",0,2,3,2,2,64
+22200119,2022-11-03,4,23,"OKC","DEN","Aleksej Pokusevski, Josh Giddey, Luguentz Dort, Mike Muscala, Shai Gilgeous-Alexander",0,3,3,5,4,178
+22200119,2022-11-03,4,24,"OKC","DEN","Aleksej Pokusevski, Jalen Williams, Jeremiah Robinson-Earl, Ousmane Dieng, Tre Mann",0,2,2,3,3,79
