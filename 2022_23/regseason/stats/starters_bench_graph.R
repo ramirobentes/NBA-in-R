@@ -32,7 +32,7 @@ starters_net <- lineups2023 %>%
              y = bench)) +
   geom_vline(xintercept = 0, size = 0.7) +
   geom_hline(yintercept = 0, size = 0.7) +
-  geom_image(aes(image = logo_url), size = 0.075) +
+  geom_image(aes(image = logo_url), size = 0.085) +
   theme_light() +
   scale_x_continuous(limits = c(-40, 40),
                      breaks = c(-20, 20),
