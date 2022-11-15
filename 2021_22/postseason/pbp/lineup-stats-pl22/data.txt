@@ -1,0 +1,23 @@
+path:
+- data.csv
+- data.rds
+type: table
+rows: 4330
+cols: 13
+columns:
+  game_id: numeric
+  game_date: Date
+  period: integer
+  stint: integer
+  slug_team: character
+  slug_opp: character
+  lineup: character
+  garbage_time: numeric
+  pts_team: numeric
+  pts_opp: numeric
+  poss_team: numeric
+  poss_opp: numeric
+  secs_played: numeric
+filenames:
+  data.csv: data.csv
+  data.rds: data.rds
