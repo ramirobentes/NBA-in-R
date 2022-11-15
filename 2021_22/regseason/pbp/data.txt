@@ -1,0 +1,6 @@
+- path: lineup-stats-rs22
+  name: lineup-stats-rs22
+  type: table
+  description: ~
+  rows: 58331
+  cols: 13
