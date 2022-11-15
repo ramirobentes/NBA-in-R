@@ -4,3 +4,9 @@
   description: ~
   rows: 58331
   cols: 13
+- path: pbp-poss-rs22
+  name: pbp-poss-rs22
+  type: table
+  description: ~
+  rows: 586228
+  cols: 37
