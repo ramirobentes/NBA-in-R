@@ -1,0 +1,47 @@
+path:
+- https://api.github.com/repos/ramirobentes/NBA-in-R/releases/assets/84730725
+- data.rds
+type: table
+rows: 586228
+cols: 37
+columns:
+  game_id: numeric
+  period: numeric
+  clock: character
+  number_event: numeric
+  msg_type: numeric
+  act_type: numeric
+  slug_team: character
+  off_slug_team: character
+  player1: character
+  player2: character
+  player3: character
+  description: character
+  desc_value: numeric
+  hs: numeric
+  vs: numeric
+  locX: numeric
+  locY: numeric
+  team_away: character
+  team_home: character
+  number_original: numeric
+  secs_passed_game: numeric
+  shot_pts: numeric
+  lineup_home: character
+  lineup_away: character
+  possession: numeric
+  start_poss: character
+  total_fta: integer
+  shot_pts_home: numeric
+  shot_pts_away: numeric
+  poss_home: numeric
+  poss_away: numeric
+  secs_played: numeric
+  game_date: Date
+  total_starters_home: integer
+  total_starters_away: integer
+  margin_before: numeric
+  garbage_time: numeric
+filenames:
+  https://api.github.com/repos/ramirobentes/NBA-in-R/releases/assets/84730725: data.csv
+  data.rds: data.rds
