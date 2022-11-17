@@ -8,5 +8,5 @@
   name: lineup-stats-rs23
   type: table
   description: ~
-  rows: 10549
+  rows: 11024
   cols: 13
