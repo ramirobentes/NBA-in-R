@@ -6,3 +6,9 @@ missing_starters <- tribble(
   22200072,            5,           "BOS",       "Al Horford",
   22200117,            5,           "NOP",    "Naji Marshall",
   22200117,            5,           "LAL",    "Austin Reaves")
+
+
+
+corrections <- tribble(
+  ~game_id,     ~number_event, ~msg_type, ~act_type,           ~description,
+  22200094,               380,         3,        16,           "[PHX 93-88] Lee Free Throw Technical (5 PTS)")
