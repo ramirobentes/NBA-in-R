@@ -27,7 +27,7 @@ beam_plot <- beam_tweets %>%
   labs(x = "Pacific time",
        y = "Number of tweets",
        title = "Number of beam tweets during last 3 Sacramento Kings games",
-       subtitle = 'Search string: "victory beam" OR "beam team" OR #beamteam OR (beam + (sacramento OR kings OR golden OR "light the" OR "light that")')
+       subtitle = 'Search string: "victory beam" OR "beam team" OR #beamteam OR (beam + (sacramento OR kings \nOR golden OR "light the" OR "light that")')
 
 beam_final <- ggdraw(beam_plot) + 
   draw_image(team_logo, x = 0.05, y = 1, hjust = -0.3, vjust = 1.45, width = 0.2, height = 0.3)
