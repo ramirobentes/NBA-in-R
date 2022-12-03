@@ -5,7 +5,8 @@ missing_starters <- tribble(
   22200040,            5,           "UTA",      "Mike Conley",
   22200072,            5,           "BOS",       "Al Horford",
   22200117,            5,           "NOP",    "Naji Marshall",
-  22200117,            5,           "LAL",    "Austin Reaves")
+  22200117,            5,           "LAL",    "Austin Reaves",
+  22200325,            5,           "DET",   "Isaiah Stewart")
 
 
 
