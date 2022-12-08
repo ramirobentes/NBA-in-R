@@ -16352,8 +16352,8 @@
 22200331,2022-12-02,3,18,"MIL","LAL","Bobby Portis, Giannis Antetokounmpo, Jevon Carter, Jrue Holiday, Pat Connaughton",0,2,8,4,4,92
 22200331,2022-12-02,3,19,"MIL","LAL","Bobby Portis, Brook Lopez, Jevon Carter, Jrue Holiday, Pat Connaughton",0,8,4,5,4,186
 22200331,2022-12-02,3,22,"LAL","MIL","Anthony Davis, Austin Reaves, LeBron James, Russell Westbrook, Troy Brown Jr.",0,0,0,1,0,3.90000000000009
-22200331,2022-12-02,3,20,"MIL","LAL","Bobby Portis, Giannis Antetokounmpo, Jrue Holiday, Khris Middleton, Pat Connaughton",0,2,0,0,1,9
-22200331,2022-12-02,3,21,"MIL","LAL","Bobby Portis, George Hill, Giannis Antetokounmpo, Khris Middleton, Pat Connaughton",0,4,4,3,2,58.0999999999999
+22200331,2022-12-02,3,20,"MIL","LAL","Bobby Portis, Giannis Antetokounmpo, Jrue Holiday, Khris Middleton, Pat Connaughton",0,2,0,1,1,9
+22200331,2022-12-02,3,21,"MIL","LAL","Bobby Portis, George Hill, Giannis Antetokounmpo, Khris Middleton, Pat Connaughton",0,4,4,2,2,58.0999999999999
 22200331,2022-12-02,3,22,"MIL","LAL","George Hill, Giannis Antetokounmpo, Jevon Carter, Khris Middleton, Wesley Matthews",0,0,0,0,1,3.90000000000009
 22200331,2022-12-02,4,23,"LAL","MIL","Anthony Davis, Austin Reaves, LeBron James, Russell Westbrook, Troy Brown Jr.",0,4,6,2,3,101
 22200331,2022-12-02,4,24,"LAL","MIL","Anthony Davis, Austin Reaves, LeBron James, Patrick Beverley, Russell Westbrook",0,2,3,1,1,40
@@ -17314,3 +17314,1081 @@
 22200351,2022-12-04,4,16,"POR","IND","Greg Brown III, Jabari Walker, Justise Winslow, Shaedon Sharpe, Trendon Watford",1,1,0,5,4,117
 22200351,2022-12-04,4,23,"IND","POR","Aaron Nesmith, Bennedict Mathurin, Isaiah Jackson, Kendall Brown, Trevelin Queen",0,2,0,1,0,12
 22200351,2022-12-04,4,24,"IND","POR","Bennedict Mathurin, Isaiah Jackson, Kendall Brown, Terry Taylor, Trevelin Queen",1,0,1,4,5,117
+22200352,2022-12-05,1,1,"CHA","LAC","Jalen McDaniels, Kelly Oubre Jr., Mason Plumlee, P.J. Washington, Terry Rozier",0,14,17,14,14,353
+22200352,2022-12-05,1,1,"LAC","CHA","Ivica Zubac, Kawhi Leonard, Marcus Morris Sr., Paul George, Reggie Jackson",0,18,14,15,15,387
+22200352,2022-12-05,1,2,"CHA","LAC","Jalen McDaniels, Kelly Oubre Jr., Mason Plumlee, P.J. Washington, Theo Maledon",0,5,5,4,4,128
+22200352,2022-12-05,1,2,"LAC","CHA","Ivica Zubac, John Wall, Luke Kennard, Marcus Morris Sr., Reggie Jackson",0,6,7,5,5,154
+22200352,2022-12-05,1,3,"CHA","LAC","Bryce McGowens, Jalen McDaniels, Nick Richards, P.J. Washington, Theo Maledon",0,2,2,2,2,60
+22200352,2022-12-05,1,4,"CHA","LAC","Bryce McGowens, Kai Jones, Nick Richards, Terry Rozier, Theo Maledon",0,5,4,6,7,179
+22200352,2022-12-05,1,3,"LAC","CHA","John Wall, Luke Kennard, Moses Brown, Nicolas Batum, Terance Mann",0,4,5,7,6,179
+22200352,2022-12-05,2,5,"CHA","LAC","Bryce McGowens, Kai Jones, Kelly Oubre Jr., Nick Richards, Terry Rozier",0,10,15,8,8,270
+22200352,2022-12-05,2,4,"LAC","CHA","John Wall, Kawhi Leonard, Nicolas Batum, Paul George, Terance Mann",0,15,10,8,8,270
+22200352,2022-12-05,2,5,"LAC","CHA","Kawhi Leonard, Nicolas Batum, Paul George, Reggie Jackson, Terance Mann",0,3,2,1,1,47
+22200352,2022-12-05,2,6,"LAC","CHA","Kawhi Leonard, Marcus Morris Sr., Nicolas Batum, Paul George, Reggie Jackson",0,7,2,3,3,85
+22200352,2022-12-05,2,6,"CHA","LAC","Jalen McDaniels, Kelly Oubre Jr., Nick Richards, P.J. Washington, Theo Maledon",0,4,3,2,1,56
+22200352,2022-12-05,2,7,"LAC","CHA","Ivica Zubac, Kawhi Leonard, Marcus Morris Sr., Paul George, Reggie Jackson",0,2,5,2,3,76
+22200352,2022-12-05,2,7,"CHA","LAC","Jalen McDaniels, Kelly Oubre Jr., Mason Plumlee, P.J. Washington, Theo Maledon",0,0,7,2,3,76
+22200352,2022-12-05,2,8,"CHA","LAC","Jalen McDaniels, Kelly Oubre Jr., Mason Plumlee, P.J. Washington, Terry Rozier",0,14,10,11,10,312.3
+22200352,2022-12-05,2,8,"LAC","CHA","Ivica Zubac, John Wall, Luke Kennard, Marcus Morris Sr., Reggie Jackson",0,8,9,8,7,231.4
+22200352,2022-12-05,2,9,"CHA","LAC","Jalen McDaniels, Kelly Oubre Jr., Nick Richards, P.J. Washington, Terry Rozier",0,0,0,0,1,5.70000000000005
+22200352,2022-12-05,2,9,"LAC","CHA","Ivica Zubac, John Wall, Luke Kennard, Reggie Jackson, Terance Mann",0,0,0,0,0,4.89999999999986
+22200352,2022-12-05,2,10,"LAC","CHA","Ivica Zubac, John Wall, Luke Kennard, Reggie Jackson, Terance Mann",0,0,0,0,1,0
+22200352,2022-12-05,2,11,"LAC","CHA","John Wall, Luke Kennard, Marcus Morris Sr., Nicolas Batum, Reggie Jackson",0,0,0,1,0,5.70000000000005
+22200352,2022-12-05,3,10,"CHA","LAC","Jalen McDaniels, Kelly Oubre Jr., Mason Plumlee, P.J. Washington, Terry Rozier",0,24,8,14,13,430
+22200352,2022-12-05,3,11,"CHA","LAC","Jalen McDaniels, Kelly Oubre Jr., Mason Plumlee, P.J. Washington, Theo Maledon",0,2,2,2,3,49
+22200352,2022-12-05,3,12,"LAC","CHA","Ivica Zubac, Kawhi Leonard, Marcus Morris Sr., Paul George, Reggie Jackson",0,8,22,13,13,395
+22200352,2022-12-05,3,12,"CHA","LAC","Bryce McGowens, Jalen McDaniels, Nick Richards, P.J. Washington, Theo Maledon",0,4,9,5,5,123
+22200352,2022-12-05,3,13,"LAC","CHA","Ivica Zubac, John Wall, Luke Kennard, Marcus Morris Sr., Reggie Jackson",0,0,2,2,2,66
+22200352,2022-12-05,3,13,"CHA","LAC","Bryce McGowens, Kai Jones, Nick Richards, Terry Rozier, Theo Maledon",0,6,2,4,4,118
+22200352,2022-12-05,3,14,"LAC","CHA","Ivica Zubac, John Wall, Luke Kennard, Marcus Morris Sr., Reggie Jackson",0,2,2,1,1,18
+22200352,2022-12-05,3,15,"LAC","CHA","Ivica Zubac, John Wall, Luke Kennard, Nicolas Batum, Reggie Jackson",0,9,4,5,5,123
+22200352,2022-12-05,3,16,"LAC","CHA","Ivica Zubac, John Wall, Luke Kennard, Nicolas Batum, Terance Mann",0,0,2,0,1,14
+22200352,2022-12-05,3,17,"LAC","CHA","John Wall, Luke Kennard, Moses Brown, Nicolas Batum, Terance Mann",0,2,4,4,3,104
+22200352,2022-12-05,4,14,"CHA","LAC","Bryce McGowens, Kai Jones, Kelly Oubre Jr., Nick Richards, Terry Rozier",0,6,20,9,10,258
+22200352,2022-12-05,4,18,"LAC","CHA","John Wall, Luke Kennard, Moses Brown, Nicolas Batum, Terance Mann",0,20,6,12,11,302
+22200352,2022-12-05,4,15,"CHA","LAC","Jalen McDaniels, Kelly Oubre Jr., Nick Richards, P.J. Washington, Theo Maledon",0,6,4,5,5,138
+22200352,2022-12-05,4,19,"LAC","CHA","John Wall, Kawhi Leonard, Moses Brown, Nicolas Batum, Paul George",0,0,3,0,1,15
+22200352,2022-12-05,4,16,"CHA","LAC","Jalen McDaniels, Kelly Oubre Jr., Mason Plumlee, P.J. Washington, Terry Rozier",0,15,11,10,9,324
+22200352,2022-12-05,4,20,"LAC","CHA","Ivica Zubac, Kawhi Leonard, Marcus Morris Sr., Nicolas Batum, Paul George",0,4,3,3,2,79
+22200352,2022-12-05,4,21,"LAC","CHA","Ivica Zubac, Kawhi Leonard, Marcus Morris Sr., Paul George, Reggie Jackson",0,7,13,5,6,203
+22200352,2022-12-05,4,22,"LAC","CHA","John Wall, Kawhi Leonard, Marcus Morris Sr., Paul George, Reggie Jackson",0,4,2,4,3,119.6
+22200352,2022-12-05,4,23,"LAC","CHA","Ivica Zubac, Kawhi Leonard, Nicolas Batum, Paul George, Terance Mann",0,0,0,0,1,1.40000000000009
+22200353,2022-12-05,1,1,"MIL","ORL","Bobby Portis, Giannis Antetokounmpo, Jordan Nwora, Jrue Holiday, Khris Middleton",0,5,11,6,7,181
+22200353,2022-12-05,1,1,"ORL","MIL","Bol Bol, Franz Wagner, Markelle Fultz, Moritz Wagner, Paolo Banchero",0,13,14,14,14,383
+22200353,2022-12-05,1,2,"MIL","ORL","Giannis Antetokounmpo, Jordan Nwora, Jrue Holiday, Khris Middleton, Pat Connaughton",0,2,2,3,3,60
+22200353,2022-12-05,1,2,"ORL","MIL","Bol Bol, Cole Anthony, Markelle Fultz, Moritz Wagner, Paolo Banchero",0,2,0,1,0,11
+22200353,2022-12-05,1,3,"MIL","ORL","Giannis Antetokounmpo, Jevon Carter, Jrue Holiday, Khris Middleton, Pat Connaughton",0,2,0,1,0,24
+22200353,2022-12-05,1,3,"ORL","MIL","Caleb Houstan, Cole Anthony, Markelle Fultz, Moritz Wagner, Paolo Banchero",0,6,5,5,5,145
+22200353,2022-12-05,1,4,"MIL","ORL","Giannis Antetokounmpo, Jevon Carter, Jrue Holiday, Khris Middleton, Pat Connaughton",0,0,0,0,1,0
+22200353,2022-12-05,1,5,"MIL","ORL","Giannis Antetokounmpo, Jevon Carter, Jrue Holiday, Pat Connaughton, Sandro Mamukelashvili",0,5,0,4,3,118
+22200353,2022-12-05,1,6,"MIL","ORL","George Hill, Giannis Antetokounmpo, Jevon Carter, Pat Connaughton, Sandro Mamukelashvili",0,5,8,5,5,156
+22200353,2022-12-05,1,7,"MIL","ORL","George Hill, Giannis Antetokounmpo, Jevon Carter, Pat Connaughton, Sandro Mamukelashvili",0,0,0,0,1,0
+22200353,2022-12-05,1,4,"ORL","MIL","Admiral Schofield, Caleb Houstan, Cole Anthony, Franz Wagner, Terrence Ross",0,0,11,5,6,181
+22200353,2022-12-05,1,8,"MIL","ORL","Bobby Portis, George Hill, Jevon Carter, Jrue Holiday, Sandro Mamukelashvili",0,8,0,3,3,113
+22200353,2022-12-05,1,9,"MIL","ORL","Bobby Portis, George Hill, Jrue Holiday, Khris Middleton, Sandro Mamukelashvili",0,3,0,3,2,68
+22200353,2022-12-05,2,5,"ORL","MIL","Admiral Schofield, Caleb Houstan, Cole Anthony, Franz Wagner, Terrence Ross",0,0,2,2,2,83
+22200353,2022-12-05,2,6,"ORL","MIL","Admiral Schofield, Caleb Houstan, Cole Anthony, Franz Wagner, Terrence Ross",0,0,0,0,1,12
+22200353,2022-12-05,2,7,"ORL","MIL","Caleb Houstan, Cole Anthony, Franz Wagner, Moritz Wagner, Terrence Ross",0,6,7,7,6,167
+22200353,2022-12-05,2,10,"MIL","ORL","Bobby Portis, George Hill, Jrue Holiday, Khris Middleton, Sandro Mamukelashvili",0,2,0,3,2,95
+22200353,2022-12-05,2,8,"ORL","MIL","Caleb Houstan, Cole Anthony, Franz Wagner, Moritz Wagner, Terrence Ross",0,0,2,0,1,17
+22200353,2022-12-05,2,9,"ORL","MIL","Cole Anthony, Markelle Fultz, Moritz Wagner, Paolo Banchero, Terrence Ross",0,0,0,3,2,52
+22200353,2022-12-05,2,11,"MIL","ORL","George Hill, Giannis Antetokounmpo, Jordan Nwora, Jrue Holiday, Khris Middleton",0,2,2,4,4,85
+22200353,2022-12-05,2,10,"ORL","MIL","Cole Anthony, Markelle Fultz, Moritz Wagner, Paolo Banchero, Terrence Ross",0,0,0,0,0,3
+22200353,2022-12-05,2,12,"MIL","ORL","AJ Green, Giannis Antetokounmpo, Jordan Nwora, Jrue Holiday, Pat Connaughton",0,7,4,3,3,99
+22200353,2022-12-05,2,11,"ORL","MIL","Admiral Schofield, Bol Bol, Markelle Fultz, Paolo Banchero, R.J. Hampton",0,18,12,13,13,352.9
+22200353,2022-12-05,2,13,"MIL","ORL","AJ Green, Giannis Antetokounmpo, Jevon Carter, Jordan Nwora, Pat Connaughton",0,0,0,2,3,55
+22200353,2022-12-05,2,12,"ORL","MIL","Bol Bol, Markelle Fultz, Moritz Wagner, Paolo Banchero, R.J. Hampton",0,0,3,1,2,33.0999999999999
+22200353,2022-12-05,2,14,"MIL","ORL","AJ Green, Bobby Portis, Jevon Carter, Jordan Nwora, Sandro Mamukelashvili",0,3,4,3,3,96
+22200353,2022-12-05,2,15,"MIL","ORL","Bobby Portis, Jevon Carter, Jordan Nwora, Jrue Holiday, Khris Middleton",0,9,14,10,10,256.9
+22200353,2022-12-05,2,16,"MIL","ORL","AJ Green, George Hill, Giannis Antetokounmpo, Jrue Holiday, Sandro Mamukelashvili",0,3,0,2,1,33.0999999999999
+22200353,2022-12-05,3,13,"ORL","MIL","Bol Bol, Franz Wagner, Markelle Fultz, Moritz Wagner, Paolo Banchero",0,17,18,12,13,348
+22200353,2022-12-05,3,14,"ORL","MIL","Admiral Schofield, Caleb Houstan, Cole Anthony, Markelle Fultz, Paolo Banchero",0,5,8,4,3,119
+22200353,2022-12-05,3,15,"ORL","MIL","Admiral Schofield, Caleb Houstan, Cole Anthony, Franz Wagner, Paolo Banchero",0,0,3,4,5,109
+22200353,2022-12-05,3,16,"ORL","MIL","Caleb Houstan, Cole Anthony, Franz Wagner, Moritz Wagner, Terrence Ross",0,5,3,6,6,144
+22200353,2022-12-05,3,17,"MIL","ORL","Bobby Portis, Giannis Antetokounmpo, Jordan Nwora, Jrue Holiday, Khris Middleton",0,6,5,3,3,83
+22200353,2022-12-05,3,18,"MIL","ORL","Bobby Portis, Giannis Antetokounmpo, Jevon Carter, Jrue Holiday, Khris Middleton",0,6,12,7,7,221
+22200353,2022-12-05,3,19,"MIL","ORL","Bobby Portis, Giannis Antetokounmpo, Jordan Nwora, Jrue Holiday, Khris Middleton",0,3,0,1,0,11
+22200353,2022-12-05,3,20,"MIL","ORL","Bobby Portis, Giannis Antetokounmpo, Jevon Carter, Jrue Holiday, Khris Middleton",0,0,0,0,1,0
+22200353,2022-12-05,3,21,"MIL","ORL","Giannis Antetokounmpo, Jevon Carter, Jrue Holiday, Pat Connaughton, Sandro Mamukelashvili",0,3,0,2,1,33
+22200353,2022-12-05,3,22,"MIL","ORL","Bobby Portis, Jevon Carter, Jrue Holiday, Pat Connaughton, Sandro Mamukelashvili",0,11,5,8,8,228
+22200353,2022-12-05,3,23,"MIL","ORL","Bobby Portis, George Hill, Giannis Antetokounmpo, Jevon Carter, Pat Connaughton",0,0,0,0,0,2
+22200353,2022-12-05,3,24,"MIL","ORL","Bobby Portis, George Hill, Giannis Antetokounmpo, Jevon Carter, Pat Connaughton",0,0,0,0,1,3
+22200353,2022-12-05,3,25,"MIL","ORL","George Hill, Giannis Antetokounmpo, Jevon Carter, Pat Connaughton, Sandro Mamukelashvili",0,1,0,2,1,27
+22200353,2022-12-05,3,26,"MIL","ORL","George Hill, Giannis Antetokounmpo, Jordan Nwora, Khris Middleton, Sandro Mamukelashvili",0,2,5,3,4,107.8
+22200353,2022-12-05,3,27,"MIL","ORL","AJ Green, George Hill, Giannis Antetokounmpo, Jordan Nwora, Khris Middleton",0,0,0,1,0,4.19999999999982
+22200353,2022-12-05,4,17,"ORL","MIL","Caleb Houstan, Cole Anthony, Franz Wagner, Moritz Wagner, Terrence Ross",0,10,8,8,7,238
+22200353,2022-12-05,4,18,"ORL","MIL","Caleb Houstan, Franz Wagner, Markelle Fultz, Moritz Wagner, Terrence Ross",0,4,0,3,3,81
+22200353,2022-12-05,4,19,"ORL","MIL","Caleb Houstan, Franz Wagner, Markelle Fultz, Moritz Wagner, Terrence Ross",0,0,0,0,1,4
+22200353,2022-12-05,4,20,"ORL","MIL","Franz Wagner, Markelle Fultz, Moritz Wagner, Paolo Banchero, Terrence Ross",0,11,6,8,8,277
+22200353,2022-12-05,4,21,"ORL","MIL","Caleb Houstan, Franz Wagner, Markelle Fultz, Paolo Banchero, Terrence Ross",0,5,7,6,6,120
+22200353,2022-12-05,4,28,"MIL","ORL","AJ Green, George Hill, Giannis Antetokounmpo, Jordan Nwora, Khris Middleton",0,2,6,3,4,119
+22200353,2022-12-05,4,29,"MIL","ORL","AJ Green, Bobby Portis, George Hill, Giannis Antetokounmpo, Pat Connaughton",0,6,8,8,7,204
+22200353,2022-12-05,4,30,"MIL","ORL","George Hill, Giannis Antetokounmpo, Jrue Holiday, Pat Connaughton, Sandro Mamukelashvili",0,0,0,1,1,34
+22200353,2022-12-05,4,31,"MIL","ORL","George Hill, Giannis Antetokounmpo, Jrue Holiday, Pat Connaughton, Sandro Mamukelashvili",0,0,3,0,1,41
+22200353,2022-12-05,4,32,"MIL","ORL","Giannis Antetokounmpo, Jevon Carter, Jrue Holiday, Pat Connaughton, Sandro Mamukelashvili",0,2,1,2,2,46
+22200353,2022-12-05,4,33,"MIL","ORL","Giannis Antetokounmpo, Jevon Carter, Jrue Holiday, Khris Middleton, Sandro Mamukelashvili",0,3,2,3,2,87
+22200353,2022-12-05,4,34,"MIL","ORL","Giannis Antetokounmpo, Jrue Holiday, Khris Middleton, Pat Connaughton, Sandro Mamukelashvili",0,0,5,1,2,69
+22200353,2022-12-05,4,35,"MIL","ORL","Bobby Portis, Giannis Antetokounmpo, Jrue Holiday, Khris Middleton, Pat Connaughton",0,4,2,3,3,79.8000000000002
+22200353,2022-12-05,4,36,"MIL","ORL","Giannis Antetokounmpo, Jrue Holiday, Khris Middleton, Pat Connaughton, Sandro Mamukelashvili",0,1,0,1,0,0
+22200353,2022-12-05,4,37,"MIL","ORL","George Hill, Giannis Antetokounmpo, Jevon Carter, Jrue Holiday, Pat Connaughton",0,1,1,1,1,8.79999999999973
+22200353,2022-12-05,4,38,"MIL","ORL","George Hill, Jevon Carter, Jrue Holiday, Pat Connaughton, Sandro Mamukelashvili",0,0,2,0,1,6.70000000000027
+22200353,2022-12-05,4,39,"MIL","ORL","George Hill, Giannis Antetokounmpo, Jevon Carter, Jrue Holiday, Pat Connaughton",0,2,0,1,0,0.899999999999636
+22200353,2022-12-05,4,40,"MIL","ORL","George Hill, Jevon Carter, Jrue Holiday, Pat Connaughton, Sandro Mamukelashvili",0,0,0,1,1,23.8000000000002
+22200354,2022-12-05,1,1,"ATL","OKC","AJ Griffin, Clint Capela, Dejounte Murray, Jalen Johnson, Trae Young",0,13,12,13,13,370
+22200354,2022-12-05,1,1,"OKC","ATL","Jalen Williams, Jeremiah Robinson-Earl, Josh Giddey, Luguentz Dort, Shai Gilgeous-Alexander",0,14,16,15,15,436
+22200354,2022-12-05,1,2,"ATL","OKC","AJ Griffin, Bogdan Bogdanovic, Clint Capela, Dejounte Murray, Jalen Johnson",0,5,2,3,2,78
+22200354,2022-12-05,1,2,"OKC","ATL","Jalen Williams, Jeremiah Robinson-Earl, Josh Giddey, Luguentz Dort, Shai Gilgeous-Alexander",0,0,2,0,1,12
+22200354,2022-12-05,1,3,"ATL","OKC","Bogdan Bogdanovic, Dejounte Murray, Jalen Johnson, Jarrett Culver, Onyeka Okongwu",0,0,0,1,1,24
+22200354,2022-12-05,1,3,"OKC","ATL","Jalen Williams, Mike Muscala, Ousmane Dieng, Shai Gilgeous-Alexander, Tre Mann",0,0,0,1,1,24
+22200354,2022-12-05,1,4,"OKC","ATL","Aleksej Pokusevski, Mike Muscala, Ousmane Dieng, Shai Gilgeous-Alexander, Tre Mann",0,9,3,6,5,149
+22200354,2022-12-05,1,4,"ATL","OKC","Bogdan Bogdanovic, Jarrett Culver, Onyeka Okongwu, Trae Young, Vit Krejci",0,11,13,9,9,248
+22200354,2022-12-05,1,5,"OKC","ATL","Aaron Wiggins, Aleksej Pokusevski, Mike Muscala, Ousmane Dieng, Tre Mann",0,1,3,1,1,27
+22200354,2022-12-05,1,6,"OKC","ATL","Aaron Wiggins, Aleksej Pokusevski, Jalen Williams, Ousmane Dieng, Tre Mann",0,3,5,2,3,72
+22200354,2022-12-05,2,5,"ATL","OKC","AJ Griffin, Bogdan Bogdanovic, Dejounte Murray, Onyeka Okongwu, Vit Krejci",0,9,4,7,7,205
+22200354,2022-12-05,2,6,"ATL","OKC","AJ Griffin, Bogdan Bogdanovic, Dejounte Murray, Jalen Johnson, Onyeka Okongwu",0,3,2,3,3,78
+22200354,2022-12-05,2,7,"OKC","ATL","Aaron Wiggins, Aleksej Pokusevski, Jalen Williams, Ousmane Dieng, Tre Mann",0,4,9,7,7,205
+22200354,2022-12-05,2,7,"ATL","OKC","Bogdan Bogdanovic, Clint Capela, Dejounte Murray, Jalen Johnson, Trae Young",0,0,5,1,2,53
+22200354,2022-12-05,2,8,"OKC","ATL","Aleksej Pokusevski, Jalen Williams, Josh Giddey, Luguentz Dort, Ousmane Dieng",0,0,3,2,2,55
+22200354,2022-12-05,2,8,"ATL","OKC","Clint Capela, Dejounte Murray, Jalen Johnson, Jarrett Culver, Trae Young",0,10,9,11,10,263
+22200354,2022-12-05,2,9,"ATL","OKC","AJ Griffin, Clint Capela, Jalen Johnson, Jarrett Culver, Trae Young",0,8,7,5,5,121
+22200354,2022-12-05,2,9,"OKC","ATL","Jeremiah Robinson-Earl, Josh Giddey, Luguentz Dort, Mike Muscala, Shai Gilgeous-Alexander",0,9,6,8,7,193
+22200354,2022-12-05,2,10,"OKC","ATL","Jalen Williams, Jeremiah Robinson-Earl, Josh Giddey, Luguentz Dort, Shai Gilgeous-Alexander",0,7,4,4,5,126
+22200354,2022-12-05,2,11,"OKC","ATL","Jalen Williams, Jeremiah Robinson-Earl, Luguentz Dort, Mike Muscala, Shai Gilgeous-Alexander",0,5,8,5,5,95.3
+22200354,2022-12-05,2,12,"OKC","ATL","Isaiah Joe, Jalen Williams, Josh Giddey, Mike Muscala, Shai Gilgeous-Alexander",0,2,0,1,1,45.7
+22200354,2022-12-05,3,10,"ATL","OKC","AJ Griffin, Clint Capela, Dejounte Murray, Jalen Johnson, Trae Young",0,11,2,10,10,271
+22200354,2022-12-05,3,11,"ATL","OKC","AJ Griffin, Clint Capela, Dejounte Murray, Jarrett Culver, Trae Young",0,5,8,4,5,131
+22200354,2022-12-05,3,12,"ATL","OKC","Bogdan Bogdanovic, Clint Capela, Dejounte Murray, Jarrett Culver, Trae Young",0,5,8,4,4,112
+22200354,2022-12-05,3,13,"ATL","OKC","Bogdan Bogdanovic, Jarrett Culver, Onyeka Okongwu, Trae Young, Vit Krejci",0,6,12,5,5,171.1
+22200354,2022-12-05,3,14,"ATL","OKC","AJ Griffin, Bogdan Bogdanovic, Onyeka Okongwu, Trae Young, Vit Krejci",0,2,0,2,1,34.9000000000001
+22200354,2022-12-05,3,13,"OKC","ATL","Jalen Williams, Jeremiah Robinson-Earl, Josh Giddey, Luguentz Dort, Shai Gilgeous-Alexander",0,0,4,4,4,137
+22200354,2022-12-05,3,14,"OKC","ATL","Aleksej Pokusevski, Isaiah Joe, Luguentz Dort, Ousmane Dieng, Shai Gilgeous-Alexander",0,2,5,6,5,121
+22200354,2022-12-05,3,15,"OKC","ATL","Aaron Wiggins, Aleksej Pokusevski, Isaiah Joe, Ousmane Dieng, Shai Gilgeous-Alexander",0,8,7,5,5,142
+22200354,2022-12-05,3,16,"OKC","ATL","Aleksej Pokusevski, Isaiah Joe, Luguentz Dort, Ousmane Dieng, Shai Gilgeous-Alexander",0,0,2,0,1,13
+22200354,2022-12-05,3,17,"OKC","ATL","Aaron Wiggins, Isaiah Joe, Mike Muscala, Ousmane Dieng, Shai Gilgeous-Alexander",0,20,11,10,10,307
+22200354,2022-12-05,4,15,"ATL","OKC","AJ Griffin, Bogdan Bogdanovic, Dejounte Murray, Jalen Johnson, Onyeka Okongwu",0,4,9,10,9,295
+22200354,2022-12-05,4,16,"ATL","OKC","Bogdan Bogdanovic, Clint Capela, Dejounte Murray, Jalen Johnson, Trae Young",0,0,3,1,1,48
+22200354,2022-12-05,4,17,"ATL","OKC","Clint Capela, Dejounte Murray, Jalen Johnson, Jarrett Culver, Trae Young",0,6,7,6,7,141
+22200354,2022-12-05,4,18,"ATL","OKC","AJ Griffin, Clint Capela, Dejounte Murray, Jarrett Culver, Trae Young",0,14,16,12,12,208.2
+22200354,2022-12-05,4,19,"ATL","OKC","AJ Griffin, Clint Capela, Dejounte Murray, Jalen Johnson, Trae Young",0,2,2,2,2,27.8000000000002
+22200354,2022-12-05,4,18,"OKC","ATL","Jalen Williams, Jeremiah Robinson-Earl, Josh Giddey, Luguentz Dort, Tre Mann",0,17,10,14,15,434
+22200354,2022-12-05,4,19,"OKC","ATL","Jeremiah Robinson-Earl, Josh Giddey, Luguentz Dort, Shai Gilgeous-Alexander, Tre Mann",0,2,0,3,2,50
+22200354,2022-12-05,4,20,"OKC","ATL","Aaron Wiggins, Jalen Williams, Jeremiah Robinson-Earl, Luguentz Dort, Shai Gilgeous-Alexander",0,2,0,2,3,50
+22200354,2022-12-05,4,21,"OKC","ATL","Jalen Williams, Jeremiah Robinson-Earl, Josh Giddey, Luguentz Dort, Shai Gilgeous-Alexander",0,16,16,12,11,186
+22200355,2022-12-05,1,1,"BOS","TOR","Blake Griffin, Derrick White, Jaylen Brown, Jayson Tatum, Marcus Smart",0,12,10,12,12,344
+22200355,2022-12-05,1,1,"TOR","BOS","Christian Koloko, Fred VanVleet, O.G. Anunoby, Pascal Siakam, Scottie Barnes",0,17,16,18,17,481
+22200355,2022-12-05,1,2,"BOS","TOR","Blake Griffin, Derrick White, Jaylen Brown, Jayson Tatum, Marcus Smart",0,0,2,0,1,8
+22200355,2022-12-05,1,3,"BOS","TOR","Blake Griffin, Grant Williams, Jaylen Brown, Marcus Smart, Sam Hauser",0,4,5,5,5,129
+22200355,2022-12-05,1,4,"BOS","TOR","Grant Williams, Jaylen Brown, Luke Kornet, Marcus Smart, Sam Hauser",0,2,2,3,2,57
+22200355,2022-12-05,1,2,"TOR","BOS","Chris Boucher, Fred VanVleet, Gary Trent Jr., Pascal Siakam, Thaddeus Young",0,8,11,7,7,208.7
+22200355,2022-12-05,1,5,"BOS","TOR","Grant Williams, Jayson Tatum, Luke Kornet, Marcus Smart, Sam Hauser",0,0,0,0,0,10
+22200355,2022-12-05,1,3,"TOR","BOS","Chris Boucher, Fred VanVleet, Gary Trent Jr., Pascal Siakam, Thaddeus Young",0,0,0,0,1,0
+22200355,2022-12-05,1,6,"BOS","TOR","Derrick White, Grant Williams, Jayson Tatum, Luke Kornet, Sam Hauser",0,9,6,6,7,172
+22200355,2022-12-05,1,4,"TOR","BOS","Chris Boucher, Gary Trent Jr., O.G. Anunoby, Scottie Barnes, Thaddeus Young",0,0,0,2,1,30.3
+22200355,2022-12-05,2,7,"BOS","TOR","Derrick White, Grant Williams, Jayson Tatum, Luke Kornet, Sam Hauser",0,5,10,6,6,144
+22200355,2022-12-05,2,5,"TOR","BOS","Chris Boucher, Gary Trent Jr., O.G. Anunoby, Scottie Barnes, Thaddeus Young",0,16,11,11,11,284
+22200355,2022-12-05,2,8,"BOS","TOR","Grant Williams, Jaylen Brown, Jayson Tatum, Luke Kornet, Marcus Smart",0,2,2,1,1,37
+22200355,2022-12-05,2,6,"TOR","BOS","Christian Koloko, Gary Trent Jr., O.G. Anunoby, Pascal Siakam, Scottie Barnes",0,3,0,1,1,32
+22200355,2022-12-05,2,9,"BOS","TOR","Blake Griffin, Grant Williams, Jaylen Brown, Jayson Tatum, Marcus Smart",0,11,16,13,12,351
+22200355,2022-12-05,2,7,"TOR","BOS","Christian Koloko, Fred VanVleet, O.G. Anunoby, Pascal Siakam, Scottie Barnes",0,18,18,13,13,388.6
+22200355,2022-12-05,2,10,"BOS","TOR","Blake Griffin, Derrick White, Jaylen Brown, Jayson Tatum, Marcus Smart",0,11,9,5,6,158.4
+22200355,2022-12-05,2,8,"TOR","BOS","Christian Koloko, Fred VanVleet, O.G. Anunoby, Pascal Siakam, Scottie Barnes",0,0,0,0,1,0
+22200355,2022-12-05,2,9,"TOR","BOS","Fred VanVleet, Gary Trent Jr., O.G. Anunoby, Pascal Siakam, Scottie Barnes",0,0,0,1,1,15.4000000000001
+22200355,2022-12-05,2,11,"BOS","TOR","Blake Griffin, Grant Williams, Jaylen Brown, Jayson Tatum, Marcus Smart",0,0,0,2,1,29.5999999999999
+22200355,2022-12-05,3,10,"TOR","BOS","Christian Koloko, Fred VanVleet, O.G. Anunoby, Pascal Siakam, Scottie Barnes",0,11,23,13,13,424
+22200355,2022-12-05,3,12,"BOS","TOR","Blake Griffin, Derrick White, Jaylen Brown, Jayson Tatum, Marcus Smart",0,23,12,13,13,424
+22200355,2022-12-05,3,11,"TOR","BOS","Christian Koloko, Fred VanVleet, O.G. Anunoby, Pascal Siakam, Scottie Barnes",0,1,0,0,0,0
+22200355,2022-12-05,3,12,"TOR","BOS","Fred VanVleet, Gary Trent Jr., O.G. Anunoby, Pascal Siakam, Scottie Barnes",0,2,6,3,4,83
+22200355,2022-12-05,3,13,"TOR","BOS","Chris Boucher, Fred VanVleet, Gary Trent Jr., O.G. Anunoby, Pascal Siakam",0,0,2,1,1,31
+22200355,2022-12-05,3,13,"BOS","TOR","Grant Williams, Jaylen Brown, Jayson Tatum, Luke Kornet, Marcus Smart",0,6,2,4,3,83
+22200355,2022-12-05,3,14,"TOR","BOS","Chris Boucher, Fred VanVleet, Gary Trent Jr., Pascal Siakam, Thaddeus Young",0,4,4,5,4,173
+22200355,2022-12-05,3,14,"BOS","TOR","Grant Williams, Jayson Tatum, Luke Kornet, Marcus Smart, Sam Hauser",0,6,4,5,6,204
+22200355,2022-12-05,3,15,"BOS","TOR","Derrick White, Grant Williams, Jayson Tatum, Marcus Smart, Sam Hauser",0,0,0,1,1,9
+22200355,2022-12-05,3,15,"TOR","BOS","Fred VanVleet, Gary Trent Jr., O.G. Anunoby, Pascal Siakam, Scottie Barnes",0,0,0,1,1,9
+22200355,2022-12-05,4,16,"BOS","TOR","Derrick White, Grant Williams, Jaylen Brown, Luke Kornet, Sam Hauser",0,10,11,6,6,226
+22200355,2022-12-05,4,16,"TOR","BOS","Chris Boucher, Gary Trent Jr., O.G. Anunoby, Scottie Barnes, Thaddeus Young",0,11,13,7,7,245
+22200355,2022-12-05,4,17,"BOS","TOR","Derrick White, Grant Williams, Jaylen Brown, Luke Kornet, Sam Hauser",0,0,0,0,1,0
+22200355,2022-12-05,4,18,"BOS","TOR","Blake Griffin, Derrick White, Grant Williams, Jaylen Brown, Marcus Smart",0,6,7,4,3,144
+22200355,2022-12-05,4,17,"TOR","BOS","Fred VanVleet, Gary Trent Jr., O.G. Anunoby, Pascal Siakam, Scottie Barnes",0,19,12,15,15,475
+22200355,2022-12-05,4,19,"BOS","TOR","Blake Griffin, Grant Williams, Jaylen Brown, Jayson Tatum, Marcus Smart",0,9,12,12,12,350
+22200356,2022-12-05,1,1,"HOU","PHI","Alperen Sengun, Eric Gordon, Jabari Smith Jr., Jalen Green, Kevin Porter Jr.",0,9,15,8,8,304
+22200356,2022-12-05,1,1,"PHI","HOU","De'Anthony Melton, James Harden, Joel Embiid, P.J. Tucker, Tobias Harris",0,13,6,7,6,243
+22200356,2022-12-05,1,2,"HOU","PHI","Bruno Fernando, Eric Gordon, Jabari Smith Jr., Jalen Green, Kevin Porter Jr.",0,0,0,0,0,14
+22200356,2022-12-05,1,2,"PHI","HOU","Danuel House Jr., De'Anthony Melton, James Harden, Joel Embiid, P.J. Tucker",0,2,3,1,2,61
+22200356,2022-12-05,1,3,"HOU","PHI","Bruno Fernando, Eric Gordon, Jabari Smith Jr., Jalen Green, Kevin Porter Jr.",0,0,2,0,1,11
+22200356,2022-12-05,1,4,"HOU","PHI","Bruno Fernando, Jabari Smith Jr., Jalen Green, Kenyon Martin Jr., Kevin Porter Jr.",0,7,2,4,3,98
+22200356,2022-12-05,1,5,"HOU","PHI","Bruno Fernando, Jalen Green, Kenyon Martin Jr., Kevin Porter Jr., Tari Eason",0,3,3,4,5,142
+22200356,2022-12-05,1,3,"PHI","HOU","Danuel House Jr., Joel Embiid, Matisse Thybulle, P.J. Tucker, Shake Milton",0,4,7,5,4,131
+22200356,2022-12-05,1,6,"HOU","PHI","Bruno Fernando, Daishen Nix, Jalen Green, Kenyon Martin Jr., Tari Eason",0,0,1,1,1,17
+22200356,2022-12-05,1,4,"PHI","HOU","Danuel House Jr., Furkan Korkmaz, Joel Embiid, Matisse Thybulle, Shake Milton",0,0,1,1,2,35
+22200356,2022-12-05,1,5,"PHI","HOU","Danuel House Jr., Joel Embiid, Matisse Thybulle, P.J. Tucker, Shake Milton",0,0,0,0,0,26
+22200356,2022-12-05,1,7,"HOU","PHI","Daishen Nix, Eric Gordon, Kenyon Martin Jr., Tari Eason, Usman Garuba",0,8,7,6,6,134
+22200356,2022-12-05,1,6,"PHI","HOU","Danuel House Jr., Furkan Korkmaz, James Harden, Paul Reed, Shake Milton",0,11,10,10,9,224
+22200356,2022-12-05,2,8,"HOU","PHI","Daishen Nix, Eric Gordon, Kenyon Martin Jr., Tari Eason, Usman Garuba",0,5,7,4,4,139
+22200356,2022-12-05,2,7,"PHI","HOU","Danuel House Jr., James Harden, Paul Reed, Shake Milton, Tobias Harris",0,5,5,3,3,102
+22200356,2022-12-05,2,9,"HOU","PHI","Alperen Sengun, Daishen Nix, Eric Gordon, Kenyon Martin Jr., Tari Eason",0,3,0,2,1,50
+22200356,2022-12-05,2,8,"PHI","HOU","De'Anthony Melton, James Harden, Paul Reed, Shake Milton, Tobias Harris",0,2,0,1,1,36
+22200356,2022-12-05,2,10,"HOU","PHI","Alperen Sengun, Daishen Nix, Eric Gordon, Garrison Mathews, Tari Eason",0,2,5,3,4,69
+22200356,2022-12-05,2,11,"HOU","PHI","Alperen Sengun, Daishen Nix, Eric Gordon, Kenyon Martin Jr., Tari Eason",0,0,0,0,0,1
+22200356,2022-12-05,2,9,"PHI","HOU","De'Anthony Melton, James Harden, Joel Embiid, Shake Milton, Tobias Harris",0,0,3,1,1,38
+22200356,2022-12-05,2,10,"PHI","HOU","De'Anthony Melton, James Harden, Paul Reed, Shake Milton, Tobias Harris",0,0,0,0,1,14
+22200356,2022-12-05,2,11,"PHI","HOU","De'Anthony Melton, Furkan Korkmaz, Joel Embiid, Shake Milton, Tobias Harris",0,10,7,8,7,203
+22200356,2022-12-05,2,12,"HOU","PHI","Alperen Sengun, Garrison Mathews, Jalen Green, Kevin Porter Jr., Tari Eason",0,0,0,1,0,18
+22200356,2022-12-05,2,12,"PHI","HOU","De'Anthony Melton, Joel Embiid, P.J. Tucker, Shake Milton, Tobias Harris",0,0,0,1,1,15
+22200356,2022-12-05,2,13,"HOU","PHI","Alperen Sengun, Garrison Mathews, Jabari Smith Jr., Jalen Green, Kevin Porter Jr.",0,14,13,11,11,328
+22200356,2022-12-05,2,13,"PHI","HOU","De'Anthony Melton, Joel Embiid, P.J. Tucker, Shake Milton, Tobias Harris",0,0,0,0,1,0
+22200356,2022-12-05,2,14,"PHI","HOU","De'Anthony Melton, Montrezl Harrell, P.J. Tucker, Shake Milton, Tobias Harris",0,8,9,6,6,197
+22200356,2022-12-05,2,14,"HOU","PHI","Alperen Sengun, Eric Gordon, Jabari Smith Jr., Jalen Green, Kevin Porter Jr.",0,5,0,4,4,115
+22200356,2022-12-05,2,15,"PHI","HOU","De'Anthony Melton, James Harden, Montrezl Harrell, P.J. Tucker, Tobias Harris",0,0,5,4,4,115
+22200356,2022-12-05,3,15,"HOU","PHI","Alperen Sengun, Eric Gordon, Jabari Smith Jr., Jalen Green, Kevin Porter Jr.",0,13,14,12,12,386
+22200356,2022-12-05,3,16,"PHI","HOU","De'Anthony Melton, James Harden, Joel Embiid, P.J. Tucker, Tobias Harris",0,10,9,8,9,278
+22200356,2022-12-05,3,17,"PHI","HOU","De'Anthony Melton, Joel Embiid, P.J. Tucker, Shake Milton, Tobias Harris",0,9,10,7,6,201
+22200356,2022-12-05,3,16,"HOU","PHI","Bruno Fernando, Jabari Smith Jr., Jalen Green, Kenyon Martin Jr., Kevin Porter Jr.",0,6,5,3,2,93
+22200356,2022-12-05,3,18,"PHI","HOU","Danuel House Jr., Joel Embiid, P.J. Tucker, Shake Milton, Tobias Harris",0,4,4,2,2,76
+22200356,2022-12-05,3,17,"HOU","PHI","Bruno Fernando, Jabari Smith Jr., Jalen Green, Kenyon Martin Jr., Kevin Porter Jr.",0,0,0,0,1,0
+22200356,2022-12-05,3,18,"HOU","PHI","Bruno Fernando, Jalen Green, Kenyon Martin Jr., Kevin Porter Jr., Tari Eason",0,9,4,5,4,128
+22200356,2022-12-05,3,19,"PHI","HOU","Danuel House Jr., Furkan Korkmaz, Paul Reed, Shake Milton, Tobias Harris",0,6,11,7,7,165
+22200356,2022-12-05,3,19,"HOU","PHI","Bruno Fernando, Daishen Nix, Eric Gordon, Kenyon Martin Jr., Tari Eason",0,6,6,4,5,113
+22200356,2022-12-05,4,20,"PHI","HOU","Danuel House Jr., Furkan Korkmaz, James Harden, Matisse Thybulle, Paul Reed",0,2,5,3,2,109
+22200356,2022-12-05,4,20,"HOU","PHI","Alperen Sengun, Daishen Nix, Eric Gordon, Kenyon Martin Jr., Tari Eason",0,5,2,2,3,100
+22200356,2022-12-05,4,21,"PHI","HOU","Danuel House Jr., James Harden, Matisse Thybulle, P.J. Tucker, Paul Reed",0,5,2,2,3,93
+22200356,2022-12-05,4,21,"HOU","PHI","Daishen Nix, Eric Gordon, Kenyon Martin Jr., Tari Eason, Usman Garuba",0,2,5,3,2,102
+22200356,2022-12-05,4,22,"PHI","HOU","Danuel House Jr., James Harden, Joel Embiid, Matisse Thybulle, P.J. Tucker",0,2,0,2,1,36
+22200356,2022-12-05,4,23,"PHI","HOU","Danuel House Jr., James Harden, Joel Embiid, P.J. Tucker, Tobias Harris",0,2,2,2,2,82
+22200356,2022-12-05,4,22,"HOU","PHI","Bruno Fernando, Daishen Nix, Eric Gordon, Garrison Mathews, Tari Eason",0,2,4,3,4,118
+22200356,2022-12-05,4,24,"PHI","HOU","De'Anthony Melton, James Harden, Joel Embiid, P.J. Tucker, Tobias Harris",0,13,9,12,13,400
+22200356,2022-12-05,4,23,"HOU","PHI","Bruno Fernando, Garrison Mathews, Jabari Smith Jr., Jalen Green, Kevin Porter Jr.",0,2,5,4,3,115
+22200356,2022-12-05,4,24,"HOU","PHI","Bruno Fernando, Jabari Smith Jr., Jalen Green, Kevin Porter Jr., Tari Eason",0,4,5,3,4,116
+22200356,2022-12-05,4,25,"HOU","PHI","Alperen Sengun, Eric Gordon, Jabari Smith Jr., Jalen Green, Kevin Porter Jr.",0,3,3,6,5,169
+22200356,2022-12-05,5,25,"PHI","HOU","De'Anthony Melton, James Harden, Joel Embiid, P.J. Tucker, Tobias Harris",0,9,9,8,7,297.1
+22200356,2022-12-05,5,26,"PHI","HOU","De'Anthony Melton, James Harden, P.J. Tucker, Paul Reed, Tobias Harris",0,0,0,0,1,1.70000000000027
+22200356,2022-12-05,5,27,"PHI","HOU","Danuel House Jr., Furkan Korkmaz, James Harden, P.J. Tucker, Tobias Harris",0,0,0,1,0,1.19999999999982
+22200356,2022-12-05,5,26,"HOU","PHI","Alperen Sengun, Eric Gordon, Jabari Smith Jr., Jalen Green, Kevin Porter Jr.",0,9,9,8,8,298.8
+22200356,2022-12-05,5,27,"HOU","PHI","Eric Gordon, Jabari Smith Jr., Jalen Green, Kenyon Martin Jr., Kevin Porter Jr.",0,0,0,0,1,1.19999999999982
+22200356,2022-12-05,6,28,"PHI","HOU","De'Anthony Melton, James Harden, P.J. Tucker, Paul Reed, Tobias Harris",0,0,3,2,2,55
+22200356,2022-12-05,6,29,"PHI","HOU","De'Anthony Melton, P.J. Tucker, Paul Reed, Shake Milton, Tobias Harris",0,2,5,2,3,98
+22200356,2022-12-05,6,30,"PHI","HOU","De'Anthony Melton, James Harden, P.J. Tucker, Paul Reed, Tobias Harris",0,3,0,2,1,74
+22200356,2022-12-05,6,31,"PHI","HOU","Danuel House Jr., De'Anthony Melton, James Harden, P.J. Tucker, Tobias Harris",0,1,2,2,1,44.5999999999999
+22200356,2022-12-05,6,32,"PHI","HOU","De'Anthony Melton, James Harden, P.J. Tucker, Paul Reed, Tobias Harris",0,0,3,0,1,0
+22200356,2022-12-05,6,28,"HOU","PHI","Alperen Sengun, Eric Gordon, Jabari Smith Jr., Jalen Green, Kevin Porter Jr.",0,11,5,7,6,227
+22200356,2022-12-05,6,29,"HOU","PHI","Eric Gordon, Jabari Smith Jr., Jalen Green, Kenyon Martin Jr., Kevin Porter Jr.",0,4,1,3,3,73
+22200356,2022-12-05,6,33,"PHI","HOU","Danuel House Jr., De'Anthony Melton, Furkan Korkmaz, Shake Milton, Tobias Harris",0,0,2,1,2,28.4000000000001
+22200357,2022-12-05,1,1,"MEM","MIA","David Roddy, Dillon Brooks, Santi Aldama, Steven Adams, Tyus Jones",0,17,28,15,15,442
+22200357,2022-12-05,1,1,"MIA","MEM","Bam Adebayo, Caleb Martin, Jimmy Butler, Kyle Lowry, Tyler Herro",0,28,17,15,15,442
+22200357,2022-12-05,1,2,"MEM","MIA","Brandon Clarke, David Roddy, Kennedy Chandler, Santi Aldama, Tyus Jones",0,7,0,6,5,140
+22200357,2022-12-05,1,2,"MIA","MEM","Caleb Martin, Dewayne Dedmon, Jimmy Butler, Kyle Lowry, Max Strus",0,0,7,3,4,79
+22200357,2022-12-05,1,3,"MEM","MIA","Brandon Clarke, David Roddy, Kennedy Chandler, Santi Aldama, Tyus Jones",0,0,0,0,1,4
+22200357,2022-12-05,1,3,"MIA","MEM","Caleb Martin, Dewayne Dedmon, Gabe Vincent, Jimmy Butler, Max Strus",0,0,0,1,1,34
+22200357,2022-12-05,1,4,"MEM","MIA","Brandon Clarke, Dillon Brooks, Kennedy Chandler, Vince Williams Jr., Xavier Tillman",0,3,4,3,3,105.7
+22200357,2022-12-05,1,4,"MIA","MEM","Dewayne Dedmon, Gabe Vincent, Haywood Highsmith, Max Strus, Tyler Herro",0,0,3,3,3,78
+22200357,2022-12-05,1,5,"MEM","MIA","Brandon Clarke, Dillon Brooks, Kennedy Chandler, Tyus Jones, Xavier Tillman",0,0,0,1,1,28.3
+22200357,2022-12-05,1,5,"MIA","MEM","Bam Adebayo, Gabe Vincent, Haywood Highsmith, Max Strus, Tyler Herro",0,4,0,3,2,87
+22200357,2022-12-05,2,6,"MEM","MIA","Brandon Clarke, Dillon Brooks, Kennedy Chandler, Vince Williams Jr., Xavier Tillman",0,7,6,9,9,296
+22200357,2022-12-05,2,6,"MIA","MEM","Bam Adebayo, Gabe Vincent, Haywood Highsmith, Max Strus, Tyler Herro",0,6,7,9,9,300
+22200357,2022-12-05,2,7,"MEM","MIA","Brandon Clarke, Dillon Brooks, Kennedy Chandler, Vince Williams Jr., Xavier Tillman",0,0,0,0,0,4
+22200357,2022-12-05,2,7,"MIA","MEM","Caleb Martin, Dewayne Dedmon, Kyle Lowry, Max Strus, Tyler Herro",0,0,2,1,1,19
+22200357,2022-12-05,2,8,"MEM","MIA","David Roddy, Kennedy Chandler, Santi Aldama, Steven Adams, Tyus Jones",0,11,5,7,8,248
+22200357,2022-12-05,2,8,"MIA","MEM","Caleb Martin, Dewayne Dedmon, Jimmy Butler, Kyle Lowry, Max Strus",0,2,4,4,3,119
+22200357,2022-12-05,2,9,"MEM","MIA","David Roddy, Dillon Brooks, Santi Aldama, Steven Adams, Tyus Jones",0,13,8,7,6,172
+22200357,2022-12-05,2,9,"MIA","MEM","Bam Adebayo, Caleb Martin, Jimmy Butler, Kyle Lowry, Max Strus",0,3,5,3,3,110
+22200357,2022-12-05,2,10,"MIA","MEM","Bam Adebayo, Caleb Martin, Jimmy Butler, Kyle Lowry, Tyler Herro",0,8,13,6,7,172
+22200357,2022-12-05,3,10,"MEM","MIA","David Roddy, Dillon Brooks, Santi Aldama, Steven Adams, Tyus Jones",0,7,14,9,10,301
+22200357,2022-12-05,3,11,"MEM","MIA","David Roddy, Kennedy Chandler, Santi Aldama, Steven Adams, Tyus Jones",0,5,3,3,2,111
+22200357,2022-12-05,3,11,"MIA","MEM","Bam Adebayo, Caleb Martin, Jimmy Butler, Kyle Lowry, Tyler Herro",0,17,10,12,11,363
+22200357,2022-12-05,3,12,"MEM","MIA","Brandon Clarke, David Roddy, Kennedy Chandler, Santi Aldama, Tyus Jones",0,7,7,8,7,178
+22200357,2022-12-05,3,13,"MEM","MIA","David Roddy, Kennedy Chandler, Santi Aldama, Steven Adams, Tyus Jones",0,0,0,0,1,0
+22200357,2022-12-05,3,14,"MEM","MIA","Brandon Clarke, David Roddy, Kennedy Chandler, Santi Aldama, Tyus Jones",0,1,0,0,0,0
+22200357,2022-12-05,3,12,"MIA","MEM","Caleb Martin, Dewayne Dedmon, Jimmy Butler, Kyle Lowry, Max Strus",0,5,3,5,5,141
+22200357,2022-12-05,3,15,"MEM","MIA","Brandon Clarke, Kennedy Chandler, Tyus Jones, Vince Williams Jr., Xavier Tillman",0,4,2,3,4,130
+22200357,2022-12-05,3,13,"MIA","MEM","Caleb Martin, Dewayne Dedmon, Jimmy Butler, Kyle Lowry, Max Strus",0,0,0,0,1,13
+22200357,2022-12-05,3,14,"MIA","MEM","Caleb Martin, Dewayne Dedmon, Kyle Lowry, Max Strus, Tyler Herro",0,2,2,1,1,23
+22200357,2022-12-05,3,15,"MIA","MEM","Caleb Martin, Dewayne Dedmon, Gabe Vincent, Max Strus, Tyler Herro",0,0,5,2,2,50
+22200357,2022-12-05,3,16,"MIA","MEM","Bam Adebayo, Caleb Martin, Gabe Vincent, Max Strus, Tyler Herro",0,2,0,1,1,50
+22200357,2022-12-05,3,17,"MIA","MEM","Bam Adebayo, Gabe Vincent, Haywood Highsmith, Max Strus, Tyler Herro",0,0,4,3,2,80
+22200357,2022-12-05,4,16,"MEM","MIA","Brandon Clarke, Dillon Brooks, Kennedy Chandler, Vince Williams Jr., Xavier Tillman",0,7,7,11,10,299
+22200357,2022-12-05,4,17,"MEM","MIA","Brandon Clarke, David Roddy, Dillon Brooks, Santi Aldama, Tyus Jones",0,0,0,1,1,24
+22200357,2022-12-05,4,18,"MIA","MEM","Bam Adebayo, Gabe Vincent, Haywood Highsmith, Max Strus, Tyler Herro",0,2,7,4,5,113
+22200357,2022-12-05,4,18,"MEM","MIA","David Roddy, Dillon Brooks, Santi Aldama, Steven Adams, Tyus Jones",0,12,9,12,13,397
+22200357,2022-12-05,4,19,"MIA","MEM","Bam Adebayo, Haywood Highsmith, Kyle Lowry, Max Strus, Tyler Herro",0,3,0,3,2,70
+22200357,2022-12-05,4,20,"MIA","MEM","Bam Adebayo, Haywood Highsmith, Jimmy Butler, Kyle Lowry, Tyler Herro",0,2,0,3,3,97
+22200357,2022-12-05,4,21,"MIA","MEM","Bam Adebayo, Haywood Highsmith, Kyle Lowry, Max Strus, Tyler Herro",0,0,0,0,0,13
+22200357,2022-12-05,4,22,"MIA","MEM","Bam Adebayo, Caleb Martin, Jimmy Butler, Kyle Lowry, Tyler Herro",0,7,12,12,11,361
+22200357,2022-12-05,4,23,"MIA","MEM","Bam Adebayo, Haywood Highsmith, Jimmy Butler, Kyle Lowry, Tyler Herro",0,0,0,0,1,6
+22200357,2022-12-05,4,24,"MIA","MEM","Bam Adebayo, Caleb Martin, Gabe Vincent, Jimmy Butler, Tyler Herro",0,2,0,2,2,60
+22200358,2022-12-05,1,1,"DAL","PHX","Dorian Finney-Smith, Dwight Powell, Luka Doncic, Spencer Dinwiddie, Tim Hardaway Jr.",0,11,8,9,9,310
+22200358,2022-12-05,1,1,"PHX","DAL","Cameron Payne, Deandre Ayton, Devin Booker, Ish Wainright, Mikal Bridges",0,13,22,16,15,486
+22200358,2022-12-05,1,2,"DAL","PHX","Dorian Finney-Smith, Dwight Powell, Josh Green, Luka Doncic, Tim Hardaway Jr.",0,5,3,3,3,84
+22200358,2022-12-05,1,3,"DAL","PHX","Christian Wood, Dorian Finney-Smith, Josh Green, Luka Doncic, Tim Hardaway Jr.",0,5,2,3,4,92
+22200358,2022-12-05,1,4,"DAL","PHX","Dorian Finney-Smith, Dwight Powell, Josh Green, Luka Doncic, Tim Hardaway Jr.",0,1,0,0,0,0
+22200358,2022-12-05,1,2,"PHX","DAL","Damion Lee, Deandre Ayton, Devin Booker, Landry Shamet, Mikal Bridges",0,0,7,4,5,102
+22200358,2022-12-05,1,5,"DAL","PHX","Christian Wood, Josh Green, Luka Doncic, Maxi Kleber, Reggie Bullock",0,11,2,8,8,234
+22200358,2022-12-05,1,3,"PHX","DAL","Damion Lee, Dario Saric, Devin Booker, Jock Landale, Landry Shamet",0,2,4,4,3,132
+22200358,2022-12-05,2,6,"DAL","PHX","Christian Wood, Josh Green, Maxi Kleber, Reggie Bullock, Spencer Dinwiddie",0,15,12,14,13,340
+22200358,2022-12-05,2,4,"PHX","DAL","Cameron Payne, Damion Lee, Dario Saric, Jock Landale, Josh Okogie",0,5,8,6,7,172
+22200358,2022-12-05,2,7,"DAL","PHX","Christian Wood, Dorian Finney-Smith, Maxi Kleber, Reggie Bullock, Spencer Dinwiddie",0,0,2,1,1,53
+22200358,2022-12-05,2,5,"PHX","DAL","Cameron Payne, Damion Lee, Jock Landale, Josh Okogie, Mikal Bridges",0,3,2,3,2,68
+22200358,2022-12-05,2,8,"DAL","PHX","Christian Wood, Dorian Finney-Smith, Maxi Kleber, Reggie Bullock, Spencer Dinwiddie",0,0,0,0,1,2
+22200358,2022-12-05,2,6,"PHX","DAL","Cameron Payne, Damion Lee, Deandre Ayton, Josh Okogie, Mikal Bridges",0,4,5,4,5,100
+22200358,2022-12-05,2,9,"DAL","PHX","Dorian Finney-Smith, Luka Doncic, Maxi Kleber, Reggie Bullock, Tim Hardaway Jr.",0,0,0,1,0,16
+22200358,2022-12-05,2,7,"PHX","DAL","Cameron Payne, Deandre Ayton, Devin Booker, Josh Okogie, Mikal Bridges",0,2,0,2,1,55
+22200358,2022-12-05,2,10,"DAL","PHX","Dorian Finney-Smith, Dwight Powell, Luka Doncic, Reggie Bullock, Tim Hardaway Jr.",0,5,4,3,3,81
+22200358,2022-12-05,2,8,"PHX","DAL","Cameron Payne, Deandre Ayton, Devin Booker, Josh Okogie, Mikal Bridges",0,0,0,0,1,16
+22200358,2022-12-05,2,9,"PHX","DAL","Deandre Ayton, Devin Booker, Josh Okogie, Landry Shamet, Mikal Bridges",0,10,10,6,5,210
+22200358,2022-12-05,2,11,"DAL","PHX","Dorian Finney-Smith, Dwight Powell, Josh Green, Luka Doncic, Tim Hardaway Jr.",0,14,8,6,7,228
+22200358,2022-12-05,2,10,"PHX","DAL","Cameron Payne, Deandre Ayton, Devin Booker, Landry Shamet, Mikal Bridges",0,2,3,3,2,63
+22200358,2022-12-05,2,11,"PHX","DAL","Deandre Ayton, Devin Booker, Josh Okogie, Landry Shamet, Mikal Bridges",0,0,3,0,1,11
+22200358,2022-12-05,2,12,"PHX","DAL","Cameron Payne, Deandre Ayton, Devin Booker, Josh Okogie, Mikal Bridges",0,0,3,1,1,25
+22200358,2022-12-05,3,12,"DAL","PHX","Dorian Finney-Smith, Dwight Powell, Luka Doncic, Spencer Dinwiddie, Tim Hardaway Jr.",0,9,16,10,10,307
+22200358,2022-12-05,3,13,"DAL","PHX","Dorian Finney-Smith, Luka Doncic, Maxi Kleber, Spencer Dinwiddie, Tim Hardaway Jr.",0,5,5,3,2,97
+22200358,2022-12-05,3,13,"PHX","DAL","Cameron Payne, Deandre Ayton, Devin Booker, Josh Okogie, Mikal Bridges",0,23,17,15,15,480
+22200358,2022-12-05,3,14,"DAL","PHX","Dorian Finney-Smith, Josh Green, Luka Doncic, Maxi Kleber, Tim Hardaway Jr.",0,8,8,4,4,135
+22200358,2022-12-05,3,15,"DAL","PHX","Dorian Finney-Smith, Luka Doncic, Maxi Kleber, Spencer Dinwiddie, Tim Hardaway Jr.",0,0,0,0,1,1
+22200358,2022-12-05,3,14,"PHX","DAL","Cameron Payne, Deandre Ayton, Devin Booker, Ish Wainright, Mikal Bridges",0,6,5,2,2,60
+22200358,2022-12-05,3,15,"PHX","DAL","Bismack Biyombo, Cameron Payne, Devin Booker, Ish Wainright, Mikal Bridges",0,2,2,2,2,99
+22200358,2022-12-05,3,16,"DAL","PHX","Christian Wood, Josh Green, Luka Doncic, Maxi Kleber, Reggie Bullock",0,7,5,5,5,180
+22200358,2022-12-05,3,16,"PHX","DAL","Bismack Biyombo, Damion Lee, Devin Booker, Ish Wainright, Landry Shamet",0,3,5,3,3,81
+22200358,2022-12-05,4,17,"DAL","PHX","Christian Wood, Josh Green, Maxi Kleber, Reggie Bullock, Spencer Dinwiddie",0,14,16,15,15,433
+22200358,2022-12-05,4,18,"DAL","PHX","Christian Wood, Frank Ntilikina, Josh Green, Reggie Bullock, Spencer Dinwiddie",0,8,6,4,5,142
+22200358,2022-12-05,4,17,"PHX","DAL","Bismack Biyombo, Cameron Payne, Damion Lee, Ish Wainright, Landry Shamet",0,4,3,4,3,84
+22200358,2022-12-05,4,18,"PHX","DAL","Bismack Biyombo, Cameron Payne, Damion Lee, Dario Saric, Landry Shamet",0,5,5,4,4,123
+22200358,2022-12-05,4,19,"PHX","DAL","Bismack Biyombo, Cameron Payne, Damion Lee, Dario Saric, Josh Okogie",0,5,6,6,7,185
+22200358,2022-12-05,4,19,"DAL","PHX","Christian Wood, Davis Bertans, Frank Ntilikina, Jaden Hardy, Theo Pinson",0,12,14,7,7,145
+22200358,2022-12-05,4,20,"PHX","DAL","Bismack Biyombo, Damion Lee, Dario Saric, Josh Okogie, Landry Shamet",0,22,20,13,12,328
+22200359,2022-12-05,1,1,"GSW","IND","Draymond Green, Jordan Poole, Kevon Looney, Klay Thompson, Stephen Curry",0,12,20,14,13,368
+22200359,2022-12-05,1,1,"IND","GSW","Aaron Nesmith, Andrew Nembhard, Bennedict Mathurin, Buddy Hield, Jalen Smith",0,14,7,9,9,232
+22200359,2022-12-05,1,2,"GSW","IND","Donte DiVincenzo, Draymond Green, Jordan Poole, Klay Thompson, Stephen Curry",0,2,2,3,2,72
+22200359,2022-12-05,1,3,"GSW","IND","Draymond Green, Jordan Poole, Kevon Looney, Klay Thompson, Stephen Curry",0,0,0,0,1,0
+22200359,2022-12-05,1,2,"IND","GSW","Andrew Nembhard, Bennedict Mathurin, Buddy Hield, Jalen Smith, Kendall Brown",0,8,5,7,7,193
+22200359,2022-12-05,1,4,"GSW","IND","Donte DiVincenzo, Draymond Green, Klay Thompson, Moses Moody, Stephen Curry",0,0,0,1,1,15
+22200359,2022-12-05,1,3,"IND","GSW","Andrew Nembhard, Bennedict Mathurin, Buddy Hield, Jalen Smith, Kendall Brown",0,0,2,0,1,15
+22200359,2022-12-05,1,4,"IND","GSW","Andrew Nembhard, Bennedict Mathurin, Jalen Smith, Kendall Brown, Oshae Brissett",0,2,2,3,3,60
+22200359,2022-12-05,1,5,"GSW","IND","Donte DiVincenzo, JaMychal Green, Klay Thompson, Moses Moody, Stephen Curry",0,2,2,2,2,45
+22200359,2022-12-05,1,5,"IND","GSW","Andrew Nembhard, Bennedict Mathurin, Isaiah Jackson, Kendall Brown, Oshae Brissett",0,10,5,7,7,220
+22200359,2022-12-05,1,6,"GSW","IND","Anthony Lamb, Donte DiVincenzo, JaMychal Green, Moses Moody, Stephen Curry",0,5,10,7,7,220
+22200359,2022-12-05,2,6,"IND","GSW","Buddy Hield, Isaiah Jackson, Kendall Brown, Oshae Brissett, Trevelin Queen",0,4,3,5,4,144
+22200359,2022-12-05,2,7,"GSW","IND","Anthony Lamb, Donte DiVincenzo, Draymond Green, Jordan Poole, Moses Moody",0,3,6,7,7,208
+22200359,2022-12-05,2,7,"IND","GSW","Buddy Hield, Jalen Smith, Kendall Brown, Oshae Brissett, Trevelin Queen",0,2,0,2,3,66
+22200359,2022-12-05,2,8,"GSW","IND","Anthony Lamb, Donte DiVincenzo, Draymond Green, Jonathan Kuminga, Jordan Poole",0,2,0,0,1,29
+22200359,2022-12-05,2,9,"GSW","IND","Anthony Lamb, Donte DiVincenzo, Draymond Green, Jordan Poole, Moses Moody",0,0,0,0,0,2
+22200359,2022-12-05,2,8,"IND","GSW","Aaron Nesmith, Buddy Hield, Jalen Smith, Oshae Brissett, Trevelin Queen",0,0,2,1,0,30
+22200359,2022-12-05,2,10,"GSW","IND","Anthony Lamb, Draymond Green, Jonathan Kuminga, Jordan Poole, Klay Thompson",0,5,0,3,2,87
+22200359,2022-12-05,2,9,"IND","GSW","Bennedict Mathurin, Buddy Hield, Jalen Smith, Oshae Brissett, Trevelin Queen",0,0,3,0,1,13
+22200359,2022-12-05,2,11,"GSW","IND","Anthony Lamb, Draymond Green, Jonathan Kuminga, Jordan Poole, Klay Thompson",0,0,0,0,1,1
+22200359,2022-12-05,2,12,"GSW","IND","Anthony Lamb, Draymond Green, Jonathan Kuminga, Klay Thompson, Stephen Curry",0,11,2,5,5,173
+22200359,2022-12-05,2,10,"IND","GSW","Andrew Nembhard, Bennedict Mathurin, Buddy Hield, Jalen Smith, Oshae Brissett",0,19,21,17,17,467
+22200359,2022-12-05,2,13,"GSW","IND","Anthony Lamb, Draymond Green, Jonathan Kuminga, Klay Thompson, Stephen Curry",0,2,0,1,0,0
+22200359,2022-12-05,2,14,"GSW","IND","Anthony Lamb, Jonathan Kuminga, Kevon Looney, Klay Thompson, Stephen Curry",0,0,4,2,2,58
+22200359,2022-12-05,2,15,"GSW","IND","Jonathan Kuminga, Jordan Poole, Kevon Looney, Klay Thompson, Stephen Curry",0,0,4,1,1,36
+22200359,2022-12-05,2,16,"GSW","IND","Anthony Lamb, Jonathan Kuminga, Kevon Looney, Klay Thompson, Stephen Curry",0,6,6,5,5,115.8
+22200359,2022-12-05,2,17,"GSW","IND","Anthony Lamb, Draymond Green, Jonathan Kuminga, Kevon Looney, Klay Thompson",0,0,3,1,1,10.2
+22200359,2022-12-05,3,11,"IND","GSW","Aaron Nesmith, Andrew Nembhard, Bennedict Mathurin, Buddy Hield, Jalen Smith",0,11,10,11,10,282
+22200359,2022-12-05,3,12,"IND","GSW","Aaron Nesmith, Andrew Nembhard, Buddy Hield, Jalen Smith, Oshae Brissett",0,2,2,1,1,57
+22200359,2022-12-05,3,13,"IND","GSW","Andrew Nembhard, Buddy Hield, Isaiah Jackson, Kendall Brown, Oshae Brissett",0,7,9,7,7,187
+22200359,2022-12-05,3,18,"GSW","IND","Draymond Green, Jordan Poole, Kevon Looney, Klay Thompson, Stephen Curry",0,8,10,8,8,233
+22200359,2022-12-05,3,14,"IND","GSW","Andrew Nembhard, Bennedict Mathurin, Isaiah Jackson, Kendall Brown, Oshae Brissett",0,10,10,6,7,193.7
+22200359,2022-12-05,3,19,"GSW","IND","Draymond Green, Jonathan Kuminga, Jordan Poole, Klay Thompson, Stephen Curry",0,13,5,8,7,231
+22200359,2022-12-05,3,20,"GSW","IND","Draymond Green, Jordan Poole, Kevon Looney, Klay Thompson, Stephen Curry",0,0,0,0,1,0
+22200359,2022-12-05,3,15,"IND","GSW","Andrew Nembhard, Bennedict Mathurin, Buddy Hield, Isaiah Jackson, Oshae Brissett",0,0,0,1,0,0.300000000000182
+22200359,2022-12-05,3,21,"GSW","IND","Draymond Green, Jonathan Kuminga, Jordan Poole, Klay Thompson, Stephen Curry",0,0,3,0,1,15
+22200359,2022-12-05,3,22,"GSW","IND","Donte DiVincenzo, JaMychal Green, Jonathan Kuminga, Klay Thompson, Stephen Curry",0,3,5,3,3,85
+22200359,2022-12-05,3,23,"GSW","IND","Anthony Lamb, Donte DiVincenzo, JaMychal Green, Jonathan Kuminga, Stephen Curry",0,7,7,5,5,140.9
+22200359,2022-12-05,3,24,"GSW","IND","Donte DiVincenzo, JaMychal Green, Jordan Poole, Klay Thompson, Stephen Curry",0,0,0,1,0,11.6999999999998
+22200359,2022-12-05,3,25,"GSW","IND","Donte DiVincenzo, Draymond Green, JaMychal Green, Klay Thompson, Stephen Curry",0,0,0,0,1,0.300000000000182
+22200359,2022-12-05,3,26,"GSW","IND","Donte DiVincenzo, JaMychal Green, Jordan Poole, Klay Thompson, Stephen Curry",0,0,0,0,0,3.09999999999991
+22200359,2022-12-05,4,16,"IND","GSW","Aaron Nesmith, Bennedict Mathurin, Buddy Hield, Jalen Smith, Trevelin Queen",0,3,9,5,5,146
+22200359,2022-12-05,4,17,"IND","GSW","Aaron Nesmith, Andrew Nembhard, Bennedict Mathurin, Buddy Hield, Jalen Smith",0,3,5,4,4,118
+22200359,2022-12-05,4,18,"IND","GSW","Aaron Nesmith, Bennedict Mathurin, Buddy Hield, Jalen Smith, Trevelin Queen",0,0,0,0,0,3
+22200359,2022-12-05,4,19,"IND","GSW","Andrew Nembhard, Bennedict Mathurin, Buddy Hield, Isaiah Jackson, Oshae Brissett",0,16,7,10,10,365
+22200359,2022-12-05,4,20,"IND","GSW","Aaron Nesmith, Andrew Nembhard, Bennedict Mathurin, Buddy Hield, Oshae Brissett",0,0,0,0,1,12
+22200359,2022-12-05,4,21,"IND","GSW","Andrew Nembhard, Bennedict Mathurin, Buddy Hield, Isaiah Jackson, Oshae Brissett",0,1,0,3,2,48.1999999999998
+22200359,2022-12-05,4,27,"GSW","IND","Anthony Lamb, Donte DiVincenzo, Draymond Green, Jordan Poole, Klay Thompson",0,14,6,9,9,267
+22200359,2022-12-05,4,22,"IND","GSW","Aaron Nesmith, Andrew Nembhard, Bennedict Mathurin, Buddy Hield, Oshae Brissett",0,0,2,1,1,27.8000000000002
+22200359,2022-12-05,4,28,"GSW","IND","Anthony Lamb, Donte DiVincenzo, Jonathan Kuminga, Jordan Poole, Klay Thompson",0,0,0,1,0,14
+22200359,2022-12-05,4,29,"GSW","IND","Anthony Lamb, Donte DiVincenzo, Jonathan Kuminga, Klay Thompson, Stephen Curry",0,3,2,2,2,112
+22200359,2022-12-05,4,30,"GSW","IND","Anthony Lamb, Donte DiVincenzo, Jonathan Kuminga, Klay Thompson, Stephen Curry",0,0,0,0,1,0
+22200359,2022-12-05,4,31,"GSW","IND","Donte DiVincenzo, Draymond Green, Jonathan Kuminga, Jordan Poole, Stephen Curry",0,2,5,3,2,86
+22200359,2022-12-05,4,32,"GSW","IND","Draymond Green, Jonathan Kuminga, Jordan Poole, Klay Thompson, Stephen Curry",0,2,10,7,8,213.2
+22200359,2022-12-05,4,33,"GSW","IND","Anthony Lamb, Draymond Green, Jordan Poole, Klay Thompson, Stephen Curry",0,2,0,1,1,27.8000000000002
+22200360,2022-12-06,1,1,"CLE","LAL","Darius Garland, Donovan Mitchell, Evan Mobley, Jarrett Allen, Lamar Stevens",0,19,9,15,14,436
+22200360,2022-12-06,1,1,"LAL","CLE","Anthony Davis, Dennis Schroder, LeBron James, Lonnie Walker IV, Patrick Beverley",0,9,16,12,13,382
+22200360,2022-12-06,1,2,"CLE","LAL","Caris LeVert, Donovan Mitchell, Evan Mobley, Kevin Love, Lamar Stevens",0,0,6,2,3,59
+22200360,2022-12-06,1,3,"CLE","LAL","Caris LeVert, Cedi Osman, Donovan Mitchell, Evan Mobley, Kevin Love",0,0,0,1,0,16
+22200360,2022-12-06,1,2,"LAL","CLE","Anthony Davis, Austin Reaves, Lonnie Walker IV, Russell Westbrook, Troy Brown Jr.",0,4,3,4,4,105
+22200360,2022-12-06,1,4,"CLE","LAL","Caris LeVert, Cedi Osman, Donovan Mitchell, Evan Mobley, Kevin Love",0,0,2,0,1,22
+22200360,2022-12-06,1,5,"CLE","LAL","Caris LeVert, Cedi Osman, Donovan Mitchell, Jarrett Allen, Kevin Love",0,8,9,8,7,187
+22200360,2022-12-06,1,3,"LAL","CLE","Austin Reaves, Lonnie Walker IV, Russell Westbrook, Thomas Bryant, Troy Brown Jr.",0,6,2,3,2,73
+22200360,2022-12-06,1,4,"LAL","CLE","Austin Reaves, LeBron James, Russell Westbrook, Thomas Bryant, Troy Brown Jr.",0,7,6,6,7,160
+22200360,2022-12-06,2,6,"CLE","LAL","Caris LeVert, Cedi Osman, Darius Garland, Isaac Okoro, Jarrett Allen",0,11,15,9,10,276
+22200360,2022-12-06,2,5,"LAL","CLE","Austin Reaves, LeBron James, Russell Westbrook, Thomas Bryant, Troy Brown Jr.",0,4,8,4,4,122
+22200360,2022-12-06,2,7,"CLE","LAL","Caris LeVert, Darius Garland, Donovan Mitchell, Evan Mobley, Jarrett Allen",0,8,6,9,8,215
+22200360,2022-12-06,2,6,"LAL","CLE","LeBron James, Patrick Beverley, Russell Westbrook, Thomas Bryant, Troy Brown Jr.",0,6,3,3,3,101
+22200360,2022-12-06,2,8,"CLE","LAL","Cedi Osman, Darius Garland, Donovan Mitchell, Evan Mobley, Jarrett Allen",0,2,0,2,2,68
+22200360,2022-12-06,2,7,"LAL","CLE","Dennis Schroder, LeBron James, Patrick Beverley, Russell Westbrook, Thomas Bryant",0,2,0,1,0,11
+22200360,2022-12-06,2,9,"CLE","LAL","Cedi Osman, Darius Garland, Donovan Mitchell, Evan Mobley, Jarrett Allen",0,0,0,0,1,0
+22200360,2022-12-06,2,10,"CLE","LAL","Cedi Osman, Darius Garland, Donovan Mitchell, Evan Mobley, Lamar Stevens",0,9,2,6,5,161
+22200360,2022-12-06,2,8,"LAL","CLE","Dennis Schroder, LeBron James, Lonnie Walker IV, Patrick Beverley, Thomas Bryant",0,8,8,10,11,257
+22200360,2022-12-06,2,9,"LAL","CLE","Dennis Schroder, LeBron James, Patrick Beverley, Russell Westbrook, Thomas Bryant",0,1,0,0,0,0
+22200360,2022-12-06,2,10,"LAL","CLE","Austin Reaves, Damian Jones, Dennis Schroder, Patrick Beverley, Russell Westbrook",0,0,2,3,2,68
+22200360,2022-12-06,2,11,"LAL","CLE","Austin Reaves, Damian Jones, Lonnie Walker IV, Patrick Beverley, Russell Westbrook",0,2,4,2,2,52
+22200360,2022-12-06,2,12,"LAL","CLE","Austin Reaves, LeBron James, Lonnie Walker IV, Patrick Beverley, Russell Westbrook",0,0,5,3,4,109
+22200360,2022-12-06,3,11,"CLE","LAL","Darius Garland, Donovan Mitchell, Evan Mobley, Jarrett Allen, Lamar Stevens",0,13,19,13,13,370
+22200360,2022-12-06,3,12,"CLE","LAL","Caris LeVert, Donovan Mitchell, Evan Mobley, Jarrett Allen, Lamar Stevens",0,2,0,1,1,44
+22200360,2022-12-06,3,13,"CLE","LAL","Caris LeVert, Donovan Mitchell, Evan Mobley, Jarrett Allen, Lamar Stevens",0,0,0,0,1,0
+22200360,2022-12-06,3,14,"CLE","LAL","Caris LeVert, Donovan Mitchell, Jarrett Allen, Kevin Love, Lamar Stevens",0,7,2,3,2,59
+22200360,2022-12-06,3,15,"CLE","LAL","Caris LeVert, Cedi Osman, Donovan Mitchell, Jarrett Allen, Kevin Love",0,2,7,3,3,118
+22200360,2022-12-06,3,16,"CLE","LAL","Caris LeVert, Cedi Osman, Donovan Mitchell, Jarrett Allen, Kevin Love",0,0,0,0,1,0
+22200360,2022-12-06,3,17,"CLE","LAL","Caris LeVert, Cedi Osman, Darius Garland, Evan Mobley, Kevin Love",0,0,5,2,2,66
+22200360,2022-12-06,3,13,"LAL","CLE","Dennis Schroder, LeBron James, Lonnie Walker IV, Patrick Beverley, Thomas Bryant",0,16,11,10,10,308
+22200360,2022-12-06,3,18,"CLE","LAL","Caris LeVert, Cedi Osman, Darius Garland, Evan Mobley, Isaac Okoro",0,4,1,3,3,63
+22200360,2022-12-06,3,14,"LAL","CLE","Dennis Schroder, LeBron James, Lonnie Walker IV, Russell Westbrook, Thomas Bryant",0,3,2,3,2,54
+22200360,2022-12-06,3,15,"LAL","CLE","Dennis Schroder, LeBron James, Lonnie Walker IV, Russell Westbrook, Thomas Bryant",0,0,0,0,1,8
+22200360,2022-12-06,3,16,"LAL","CLE","Austin Reaves, Lonnie Walker IV, Russell Westbrook, Thomas Bryant, Troy Brown Jr.",0,0,2,2,1,44
+22200360,2022-12-06,3,17,"LAL","CLE","Austin Reaves, Damian Jones, Kendrick Nunn, Russell Westbrook, Troy Brown Jr.",0,9,9,6,6,200
+22200360,2022-12-06,3,18,"LAL","CLE","Austin Reaves, Damian Jones, LeBron James, Russell Westbrook, Troy Brown Jr.",0,6,4,5,5,106
+22200360,2022-12-06,4,19,"CLE","LAL","Caris LeVert, Darius Garland, Donovan Mitchell, Evan Mobley, Isaac Okoro",0,2,5,2,2,85
+22200360,2022-12-06,4,20,"CLE","LAL","Darius Garland, Donovan Mitchell, Isaac Okoro, Jarrett Allen, Lamar Stevens",0,3,2,2,1,55
+22200360,2022-12-06,4,21,"CLE","LAL","Cedi Osman, Darius Garland, Donovan Mitchell, Jarrett Allen, Lamar Stevens",0,13,8,9,10,291
+22200360,2022-12-06,4,22,"CLE","LAL","Darius Garland, Donovan Mitchell, Isaac Okoro, Jarrett Allen, Lamar Stevens",0,0,0,0,0,5
+22200360,2022-12-06,4,23,"CLE","LAL","Caris LeVert, Darius Garland, Donovan Mitchell, Evan Mobley, Jarrett Allen",0,12,2,6,6,181
+22200360,2022-12-06,4,19,"LAL","CLE","Austin Reaves, Damian Jones, Dennis Schroder, LeBron James, Russell Westbrook",0,5,2,2,2,85
+22200360,2022-12-06,4,20,"LAL","CLE","Austin Reaves, Dennis Schroder, LeBron James, Russell Westbrook, Thomas Bryant",0,4,10,5,6,182
+22200360,2022-12-06,4,21,"LAL","CLE","Austin Reaves, Dennis Schroder, LeBron James, Thomas Bryant, Troy Brown Jr.",0,6,6,6,5,169
+22200360,2022-12-06,4,22,"LAL","CLE","Austin Reaves, Dennis Schroder, LeBron James, Lonnie Walker IV, Russell Westbrook",0,0,10,3,4,83
+22200360,2022-12-06,4,24,"CLE","LAL","Cedi Osman, Isaac Okoro, Lamar Stevens, Mamadi Diakite, Raul Neto",0,0,2,1,1,51
+22200360,2022-12-06,4,25,"CLE","LAL","Cedi Osman, Isaac Okoro, Lamar Stevens, Mamadi Diakite, Raul Neto",1,1,0,2,2,52
+22200360,2022-12-06,4,23,"LAL","CLE","Damian Jones, Juan Toscano-Anderson, Kendrick Nunn, Thomas Bryant, Troy Brown Jr.",0,4,2,4,3,149
+22200360,2022-12-06,4,24,"LAL","CLE","Damian Jones, Juan Toscano-Anderson, Kendrick Nunn, Thomas Bryant, Troy Brown Jr.",1,0,1,2,2,52
+22200361,2022-12-06,1,1,"DET","MIA","Bojan Bogdanovic, Isaiah Stewart, Jaden Ivey, Killian Hayes, Marvin Bagley III",0,9,17,14,13,442
+22200361,2022-12-06,1,1,"MIA","DET","Bam Adebayo, Caleb Martin, Kyle Lowry, Max Strus, Tyler Herro",0,17,6,12,12,382
+22200361,2022-12-06,1,2,"MIA","DET","Caleb Martin, Kyle Lowry, Max Strus, Nikola Jovic, Tyler Herro",0,0,0,1,1,39
+22200361,2022-12-06,1,2,"DET","MIA","Alec Burks, Bojan Bogdanovic, Isaiah Stewart, Killian Hayes, Saddiq Bey",0,3,2,3,4,84
+22200361,2022-12-06,1,3,"MIA","DET","Caleb Martin, Haywood Highsmith, Kyle Lowry, Max Strus, Nikola Jovic",0,0,3,2,1,51
+22200361,2022-12-06,1,4,"MIA","DET","Caleb Martin, Kyle Lowry, Max Strus, Nikola Jovic, Tyler Herro",0,0,3,0,1,21
+22200361,2022-12-06,1,5,"MIA","DET","Haywood Highsmith, Kyle Lowry, Max Strus, Nikola Jovic, Victor Oladipo",0,2,3,3,3,66
+22200361,2022-12-06,1,3,"DET","MIA","Alec Burks, Bojan Bogdanovic, Cory Joseph, Jalen Duren, Saddiq Bey",0,3,0,1,0,33
+22200361,2022-12-06,1,6,"MIA","DET","Duncan Robinson, Haywood Highsmith, Kyle Lowry, Nikola Jovic, Victor Oladipo",0,2,2,1,2,69
+22200361,2022-12-06,1,4,"DET","MIA","Alec Burks, Bojan Bogdanovic, Cory Joseph, Jalen Duren, Saddiq Bey",0,0,0,0,1,0
+22200361,2022-12-06,1,5,"DET","MIA","Alec Burks, Cory Joseph, Jalen Duren, Kevin Knox II, Saddiq Bey",0,5,6,6,5,161
+22200361,2022-12-06,1,7,"MIA","DET","Duncan Robinson, Haywood Highsmith, Nikola Jovic, Tyler Herro, Victor Oladipo",0,4,3,4,4,92
+22200361,2022-12-06,2,6,"DET","MIA","Alec Burks, Cory Joseph, Jalen Duren, Kevin Knox II, Saddiq Bey",0,11,9,10,10,272
+22200361,2022-12-06,2,8,"MIA","DET","Duncan Robinson, Haywood Highsmith, Nikola Jovic, Tyler Herro, Victor Oladipo",0,0,2,3,3,81
+22200361,2022-12-06,2,7,"DET","MIA","Alec Burks, Cory Joseph, Jalen Duren, Kevin Knox II, Saddiq Bey",0,1,0,0,0,0
+22200361,2022-12-06,2,8,"DET","MIA","Alec Burks, Cory Joseph, Kevin Knox II, Marvin Bagley III, Saddiq Bey",0,0,0,1,1,24
+22200361,2022-12-06,2,9,"MIA","DET","Bam Adebayo, Duncan Robinson, Haywood Highsmith, Tyler Herro, Victor Oladipo",0,9,10,7,7,191
+22200361,2022-12-06,2,9,"DET","MIA","Cory Joseph, Jaden Ivey, Kevin Knox II, Marvin Bagley III, Saddiq Bey",0,3,2,3,3,92
+22200361,2022-12-06,2,10,"MIA","DET","Bam Adebayo, Caleb Martin, Duncan Robinson, Haywood Highsmith, Kyle Lowry",0,0,0,1,0,11
+22200361,2022-12-06,2,11,"MIA","DET","Bam Adebayo, Caleb Martin, Duncan Robinson, Haywood Highsmith, Kyle Lowry",0,0,0,0,1,13
+22200361,2022-12-06,2,12,"MIA","DET","Bam Adebayo, Caleb Martin, Haywood Highsmith, Kyle Lowry, Max Strus",0,4,11,7,7,226
+22200361,2022-12-06,2,10,"DET","MIA","Bojan Bogdanovic, Isaiah Stewart, Jaden Ivey, Killian Hayes, Marvin Bagley III",0,12,14,11,12,332
+22200361,2022-12-06,2,13,"MIA","DET","Bam Adebayo, Caleb Martin, Kyle Lowry, Max Strus, Tyler Herro",0,9,3,5,4,125
+22200361,2022-12-06,2,14,"MIA","DET","Caleb Martin, Haywood Highsmith, Kyle Lowry, Max Strus, Tyler Herro",0,3,1,3,3,73
+22200361,2022-12-06,3,11,"DET","MIA","Bojan Bogdanovic, Isaiah Stewart, Jaden Ivey, Killian Hayes, Marvin Bagley III",0,11,11,9,9,264
+22200361,2022-12-06,3,12,"DET","MIA","Bojan Bogdanovic, Isaiah Stewart, Jaden Ivey, Killian Hayes, Saddiq Bey",0,2,0,1,2,47
+22200361,2022-12-06,3,15,"MIA","DET","Bam Adebayo, Caleb Martin, Kyle Lowry, Max Strus, Tyler Herro",0,18,24,17,17,506
+22200361,2022-12-06,3,13,"DET","MIA","Alec Burks, Bojan Bogdanovic, Isaiah Stewart, Killian Hayes, Saddiq Bey",0,8,5,4,4,124
+22200361,2022-12-06,3,14,"DET","MIA","Alec Burks, Bojan Bogdanovic, Jalen Duren, Killian Hayes, Saddiq Bey",0,3,2,3,3,89
+22200361,2022-12-06,3,16,"MIA","DET","Bam Adebayo, Haywood Highsmith, Kyle Lowry, Max Strus, Victor Oladipo",0,2,4,3,3,88
+22200361,2022-12-06,3,15,"DET","MIA","Alec Burks, Cory Joseph, Jalen Duren, Kevin Knox II, Saddiq Bey",0,7,5,7,7,196
+22200361,2022-12-06,3,17,"MIA","DET","Bam Adebayo, Duncan Robinson, Haywood Highsmith, Tyler Herro, Victor Oladipo",0,3,0,4,3,109.2
+22200361,2022-12-06,3,18,"MIA","DET","Bam Adebayo, Caleb Martin, Haywood Highsmith, Tyler Herro, Victor Oladipo",0,0,3,1,1,16.0999999999999
+22200361,2022-12-06,3,19,"MIA","DET","Bam Adebayo, Duncan Robinson, Haywood Highsmith, Tyler Herro, Victor Oladipo",0,0,0,0,0,0.700000000000273
+22200361,2022-12-06,4,16,"DET","MIA","Alec Burks, Cory Joseph, Jalen Duren, Kevin Knox II, Saddiq Bey",0,15,13,10,10,314
+22200361,2022-12-06,4,20,"MIA","DET","Caleb Martin, Duncan Robinson, Haywood Highsmith, Tyler Herro, Victor Oladipo",0,7,8,7,7,214
+22200361,2022-12-06,4,17,"DET","MIA","Bojan Bogdanovic, Cory Joseph, Isaiah Stewart, Jaden Ivey, Saddiq Bey",0,23,10,12,12,406
+22200361,2022-12-06,4,21,"MIA","DET","Bam Adebayo, Haywood Highsmith, Kyle Lowry, Tyler Herro, Victor Oladipo",0,8,14,6,6,185
+22200361,2022-12-06,4,22,"MIA","DET","Bam Adebayo, Haywood Highsmith, Kyle Lowry, Max Strus, Tyler Herro",0,0,3,1,2,57
+22200361,2022-12-06,4,23,"MIA","DET","Bam Adebayo, Caleb Martin, Kyle Lowry, Max Strus, Tyler Herro",0,2,6,3,3,109
+22200361,2022-12-06,4,24,"MIA","DET","Bam Adebayo, Caleb Martin, Dru Smith, Max Strus, Tyler Herro",0,0,0,1,0,18
+22200361,2022-12-06,4,25,"MIA","DET","Bam Adebayo, Caleb Martin, Dru Smith, Max Strus, Tyler Herro",0,0,0,0,1,16
+22200361,2022-12-06,4,26,"MIA","DET","Caleb Martin, Dru Smith, Duncan Robinson, Haywood Highsmith, Nikola Jovic",0,6,7,4,3,121
+22200362,2022-12-06,1,1,"DAL","DEN","Dorian Finney-Smith, Dwight Powell, Luka Doncic, Spencer Dinwiddie, Tim Hardaway Jr.",0,13,14,9,10,322
+22200362,2022-12-06,1,1,"DEN","DAL","Aaron Gordon, Bruce Brown, Jamal Murray, Kentavious Caldwell-Pope, Nikola Jokic",0,14,13,10,9,318
+22200362,2022-12-06,1,2,"DEN","DAL","Aaron Gordon, Bruce Brown, Jamal Murray, Kentavious Caldwell-Pope, Nikola Jokic",0,0,0,0,0,4
+22200362,2022-12-06,1,3,"DEN","DAL","Aaron Gordon, Bruce Brown, Kentavious Caldwell-Pope, Nikola Jokic, Vlatko Cancar",0,3,11,5,6,119
+22200362,2022-12-06,1,2,"DAL","DEN","Christian Wood, Josh Green, Luka Doncic, Spencer Dinwiddie, Tim Hardaway Jr.",0,11,3,6,5,119
+22200362,2022-12-06,1,3,"DAL","DEN","Christian Wood, Josh Green, Luka Doncic, Maxi Kleber, Tim Hardaway Jr.",0,2,3,1,1,19
+22200362,2022-12-06,1,4,"DEN","DAL","Bones Hyland, Jeff Green, Kentavious Caldwell-Pope, Nikola Jokic, Vlatko Cancar",0,3,2,1,1,19
+22200362,2022-12-06,1,4,"DAL","DEN","Christian Wood, Josh Green, Luka Doncic, Maxi Kleber, Reggie Bullock",0,10,9,9,9,260
+22200362,2022-12-06,1,5,"DEN","DAL","Bones Hyland, Jamal Murray, Jeff Green, Nikola Jokic, Vlatko Cancar",0,5,0,3,2,83
+22200362,2022-12-06,1,6,"DEN","DAL","Bones Hyland, Jamal Murray, Jeff Green, Vlatko Cancar, Zeke Nnaji",0,1,4,2,3,76
+22200362,2022-12-06,1,7,"DEN","DAL","Bones Hyland, Bruce Brown, Jeff Green, Vlatko Cancar, Zeke Nnaji",0,3,6,4,4,101
+22200362,2022-12-06,2,5,"DAL","DEN","Christian Wood, Josh Green, Maxi Kleber, Reggie Bullock, Spencer Dinwiddie",0,2,2,3,2,72
+22200362,2022-12-06,2,6,"DAL","DEN","Christian Wood, Dorian Finney-Smith, Maxi Kleber, Reggie Bullock, Spencer Dinwiddie",0,8,8,7,7,233
+22200362,2022-12-06,2,8,"DEN","DAL","Bones Hyland, Bruce Brown, Christian Braun, Jeff Green, Zeke Nnaji",0,10,10,9,10,305
+22200362,2022-12-06,2,7,"DAL","DEN","Dorian Finney-Smith, Dwight Powell, Reggie Bullock, Spencer Dinwiddie, Tim Hardaway Jr.",0,2,4,2,3,92
+22200362,2022-12-06,2,8,"DAL","DEN","Dorian Finney-Smith, Dwight Powell, Luka Doncic, Spencer Dinwiddie, Tim Hardaway Jr.",0,4,4,4,3,72
+22200362,2022-12-06,2,9,"DAL","DEN","Dorian Finney-Smith, Dwight Powell, Luka Doncic, Maxi Kleber, Tim Hardaway Jr.",0,3,0,3,3,74
+22200362,2022-12-06,2,10,"DAL","DEN","Christian Wood, Dorian Finney-Smith, Luka Doncic, Maxi Kleber, Tim Hardaway Jr.",0,1,4,2,3,71
+22200362,2022-12-06,2,9,"DEN","DAL","Aaron Gordon, Bones Hyland, Jamal Murray, Kentavious Caldwell-Pope, Nikola Jokic",0,8,6,6,6,164
+22200362,2022-12-06,2,11,"DAL","DEN","Christian Wood, Dorian Finney-Smith, Dwight Powell, Luka Doncic, Tim Hardaway Jr.",0,8,7,5,4,106
+22200362,2022-12-06,2,10,"DEN","DAL","Aaron Gordon, Bruce Brown, Jamal Murray, Kentavious Caldwell-Pope, Nikola Jokic",0,2,4,5,5,130
+22200362,2022-12-06,2,11,"DEN","DAL","Aaron Gordon, Bones Hyland, Jamal Murray, Kentavious Caldwell-Pope, Nikola Jokic",0,9,8,5,5,121
+22200362,2022-12-06,3,12,"DAL","DEN","Dorian Finney-Smith, Dwight Powell, Luka Doncic, Spencer Dinwiddie, Tim Hardaway Jr.",0,18,16,13,12,399
+22200362,2022-12-06,3,13,"DAL","DEN","Dorian Finney-Smith, Dwight Powell, Josh Green, Luka Doncic, Tim Hardaway Jr.",0,0,0,2,2,37
+22200362,2022-12-06,3,12,"DEN","DAL","Aaron Gordon, Bruce Brown, Jamal Murray, Kentavious Caldwell-Pope, Nikola Jokic",0,11,6,7,8,206
+22200362,2022-12-06,3,13,"DEN","DAL","Aaron Gordon, Bones Hyland, Bruce Brown, Kentavious Caldwell-Pope, Nikola Jokic",0,2,9,3,3,113
+22200362,2022-12-06,3,14,"DAL","DEN","Christian Wood, Josh Green, Luka Doncic, Maxi Kleber, Tim Hardaway Jr.",0,2,5,3,4,84
+22200362,2022-12-06,3,14,"DEN","DAL","Aaron Gordon, Bones Hyland, Christian Braun, Kentavious Caldwell-Pope, Nikola Jokic",0,8,5,8,7,201
+22200362,2022-12-06,3,15,"DAL","DEN","Christian Wood, Josh Green, Luka Doncic, Maxi Kleber, Reggie Bullock",0,7,7,7,7,200
+22200362,2022-12-06,3,15,"DEN","DAL","Aaron Gordon, Bones Hyland, Bruce Brown, Christian Braun, Nikola Jokic",0,1,2,1,2,35
+22200362,2022-12-06,3,16,"DEN","DAL","Bones Hyland, Bruce Brown, Christian Braun, Jeff Green, Nikola Jokic",0,2,0,2,1,53
+22200362,2022-12-06,3,17,"DEN","DAL","Bones Hyland, Bruce Brown, Christian Braun, Jeff Green, Zeke Nnaji",0,4,5,4,4,112
+22200362,2022-12-06,4,16,"DAL","DEN","Christian Wood, Dorian Finney-Smith, Josh Green, Maxi Kleber, Spencer Dinwiddie",0,6,10,6,6,241
+22200362,2022-12-06,4,17,"DAL","DEN","Christian Wood, Dorian Finney-Smith, Maxi Kleber, Spencer Dinwiddie, Tim Hardaway Jr.",0,0,0,0,0,2
+22200362,2022-12-06,4,18,"DAL","DEN","Christian Wood, Dorian Finney-Smith, Luka Doncic, Maxi Kleber, Tim Hardaway Jr.",0,10,3,5,5,174
+22200362,2022-12-06,4,18,"DEN","DAL","Bones Hyland, Christian Braun, Jamal Murray, Jeff Green, Zeke Nnaji",0,10,6,6,6,241
+22200362,2022-12-06,4,19,"DAL","DEN","Dorian Finney-Smith, Dwight Powell, Luka Doncic, Spencer Dinwiddie, Tim Hardaway Jr.",0,4,8,4,5,124
+22200362,2022-12-06,4,19,"DEN","DAL","Aaron Gordon, Bones Hyland, Jamal Murray, Jeff Green, Nikola Jokic",0,0,5,2,2,80
+22200362,2022-12-06,4,20,"DAL","DEN","Dorian Finney-Smith, Luka Doncic, Maxi Kleber, Spencer Dinwiddie, Tim Hardaway Jr.",0,0,5,4,4,142
+22200362,2022-12-06,4,20,"DEN","DAL","Aaron Gordon, Bones Hyland, Jamal Murray, Kentavious Caldwell-Pope, Nikola Jokic",0,3,5,3,3,96
+22200362,2022-12-06,4,21,"DAL","DEN","Christian Wood, Dorian Finney-Smith, Luka Doncic, Spencer Dinwiddie, Tim Hardaway Jr.",0,3,0,1,0,20.1999999999998
+22200362,2022-12-06,4,21,"DEN","DAL","Aaron Gordon, Bruce Brown, Jamal Murray, Kentavious Caldwell-Pope, Nikola Jokic",0,14,7,10,9,291
+22200362,2022-12-06,4,22,"DEN","DAL","Aaron Gordon, Bruce Brown, Christian Braun, Kentavious Caldwell-Pope, Nikola Jokic",0,0,2,0,1,1.09999999999991
+22200362,2022-12-06,4,22,"DAL","DEN","Dorian Finney-Smith, Dwight Powell, Luka Doncic, Maxi Kleber, Tim Hardaway Jr.",0,0,1,0,1,4.80000000000018
+22200362,2022-12-06,4,23,"DEN","DAL","Aaron Gordon, Bruce Brown, Jamal Murray, Kentavious Caldwell-Pope, Nikola Jokic",0,2,0,1,0,4.59999999999991
+22200362,2022-12-06,4,23,"DAL","DEN","Dwight Powell, Luka Doncic, Maxi Kleber, Spencer Dinwiddie, Tim Hardaway Jr.",0,2,0,1,0,1.09999999999991
+22200362,2022-12-06,4,24,"DAL","DEN","Luka Doncic, Maxi Kleber, Reggie Bullock, Spencer Dinwiddie, Tim Hardaway Jr.",0,0,2,0,1,4.59999999999991
+22200362,2022-12-06,4,24,"DEN","DAL","Aaron Gordon, Bruce Brown, Christian Braun, Jeff Green, Kentavious Caldwell-Pope",0,0,0,0,1,2.10000000000036
+22200362,2022-12-06,4,25,"DAL","DEN","Luka Doncic, Maxi Kleber, Reggie Bullock, Spencer Dinwiddie, Tim Hardaway Jr.",0,0,0,1,1,6.30000000000018
+22200362,2022-12-06,4,25,"DEN","DAL","Aaron Gordon, Bruce Brown, Jamal Murray, Kentavious Caldwell-Pope, Nikola Jokic",0,0,0,1,0,4.19999999999982
+22200363,2022-12-07,1,1,"LAC","ORL","Ivica Zubac, Kawhi Leonard, Nicolas Batum, Paul George, Reggie Jackson",0,12,4,9,8,261
+22200363,2022-12-07,1,1,"ORL","LAC","Bol Bol, Franz Wagner, Markelle Fultz, Moritz Wagner, Paolo Banchero",0,6,21,13,14,408
+22200363,2022-12-07,1,2,"LAC","ORL","Kawhi Leonard, Moses Brown, Nicolas Batum, Paul George, Terance Mann",0,13,5,7,8,254
+22200363,2022-12-07,1,2,"ORL","LAC","Cole Anthony, Markelle Fultz, Mo Bamba, Paolo Banchero, Terrence Ross",0,3,4,3,2,107
+22200363,2022-12-07,1,3,"ORL","LAC","Cole Anthony, Franz Wagner, Mo Bamba, Paolo Banchero, Terrence Ross",0,5,3,3,3,100
+22200363,2022-12-07,1,4,"ORL","LAC","Admiral Schofield, Cole Anthony, Franz Wagner, Mo Bamba, Terrence Ross",0,0,4,3,4,105
+22200363,2022-12-07,1,3,"LAC","ORL","Amir Coffey, Ivica Zubac, Reggie Jackson, Robert Covington, Terance Mann",0,7,5,7,6,205
+22200363,2022-12-07,2,5,"ORL","LAC","Admiral Schofield, Cole Anthony, Franz Wagner, Mo Bamba, Terrence Ross",0,5,0,5,5,157
+22200363,2022-12-07,2,4,"LAC","ORL","Amir Coffey, Ivica Zubac, Reggie Jackson, Robert Covington, Terance Mann",0,2,8,7,8,250
+22200363,2022-12-07,2,5,"LAC","ORL","Amir Coffey, Ivica Zubac, Nicolas Batum, Robert Covington, Terance Mann",0,5,4,3,3,102
+22200363,2022-12-07,2,6,"ORL","LAC","Admiral Schofield, Franz Wagner, Markelle Fultz, Moritz Wagner, Terrence Ross",0,3,2,3,2,98
+22200363,2022-12-07,2,7,"ORL","LAC","Admiral Schofield, Cole Anthony, Franz Wagner, Moritz Wagner, Terrence Ross",0,4,5,3,3,97
+22200363,2022-12-07,2,6,"LAC","ORL","Ivica Zubac, Kawhi Leonard, Nicolas Batum, Paul George, Terance Mann",0,2,5,5,4,133
+22200363,2022-12-07,2,7,"LAC","ORL","Ivica Zubac, Kawhi Leonard, Nicolas Batum, Paul George, Reggie Jackson",0,0,3,1,2,40
+22200363,2022-12-07,2,8,"LAC","ORL","Kawhi Leonard, Moses Brown, Nicolas Batum, Paul George, Reggie Jackson",0,2,4,3,3,116
+22200363,2022-12-07,2,8,"ORL","LAC","Bol Bol, Cole Anthony, Kevon Harris, Moritz Wagner, Paolo Banchero",0,14,10,12,12,368
+22200363,2022-12-07,2,9,"LAC","ORL","Kawhi Leonard, Moses Brown, Paul George, Reggie Jackson, Terance Mann",0,6,2,3,3,79
+22200363,2022-12-07,3,9,"ORL","LAC","Bol Bol, Franz Wagner, Markelle Fultz, Moritz Wagner, Paolo Banchero",0,12,18,11,11,329
+22200363,2022-12-07,3,10,"LAC","ORL","Ivica Zubac, Kawhi Leonard, Nicolas Batum, Paul George, Reggie Jackson",0,16,10,10,10,303
+22200363,2022-12-07,3,10,"ORL","LAC","Bol Bol, Cole Anthony, Franz Wagner, Moritz Wagner, Paolo Banchero",0,3,2,3,2,84
+22200363,2022-12-07,3,11,"LAC","ORL","Ivica Zubac, Kawhi Leonard, Nicolas Batum, Paul George, Reggie Jackson",0,2,2,1,1,26
+22200363,2022-12-07,3,12,"LAC","ORL","Kawhi Leonard, Moses Brown, Nicolas Batum, Paul George, Reggie Jackson",0,2,3,2,3,88
+22200363,2022-12-07,3,11,"ORL","LAC","Bol Bol, Cole Anthony, Franz Wagner, Moritz Wagner, Paolo Banchero",0,0,0,0,0,4
+22200363,2022-12-07,3,13,"LAC","ORL","Kawhi Leonard, Moses Brown, Nicolas Batum, Paul George, Terance Mann",0,3,5,4,4,136
+22200363,2022-12-07,3,12,"ORL","LAC","Bol Bol, Caleb Houstan, Cole Anthony, Mo Bamba, Paolo Banchero",0,5,3,4,4,136
+22200363,2022-12-07,3,13,"ORL","LAC","Admiral Schofield, Bol Bol, Caleb Houstan, Cole Anthony, Mo Bamba",0,11,6,5,6,167
+22200363,2022-12-07,3,14,"LAC","ORL","Amir Coffey, Moses Brown, Reggie Jackson, Robert Covington, Terance Mann",0,6,11,6,5,167
+22200363,2022-12-07,4,14,"ORL","LAC","Admiral Schofield, Caleb Houstan, Cole Anthony, Franz Wagner, Mo Bamba",0,14,6,8,9,257
+22200363,2022-12-07,4,15,"LAC","ORL","Amir Coffey, Moses Brown, Reggie Jackson, Robert Covington, Terance Mann",0,0,5,2,2,71
+22200363,2022-12-07,4,16,"LAC","ORL","Amir Coffey, Ivica Zubac, Reggie Jackson, Robert Covington, Terance Mann",0,1,9,5,4,133
+22200363,2022-12-07,4,15,"ORL","LAC","Caleb Houstan, Cole Anthony, Kevon Harris, Moritz Wagner, Paolo Banchero",0,2,2,2,1,38
+22200363,2022-12-07,4,16,"ORL","LAC","Caleb Houstan, Kevon Harris, Markelle Fultz, Moritz Wagner, Paolo Banchero",0,2,9,3,4,131
+22200363,2022-12-07,4,17,"LAC","ORL","Ivica Zubac, Nicolas Batum, Paul George, Robert Covington, Terance Mann",0,16,4,7,7,222
+22200363,2022-12-07,4,18,"LAC","ORL","Ivica Zubac, Kawhi Leonard, Nicolas Batum, Paul George, Terance Mann",0,4,7,6,6,159
+22200363,2022-12-07,4,17,"ORL","LAC","Bol Bol, Franz Wagner, Markelle Fultz, Moritz Wagner, Paolo Banchero",0,10,4,10,9,260.3
+22200363,2022-12-07,4,19,"LAC","ORL","Ivica Zubac, Kawhi Leonard, Nicolas Batum, Paul George, Reggie Jackson",0,0,3,3,4,101.3
+22200363,2022-12-07,4,18,"ORL","LAC","Franz Wagner, Kevon Harris, Markelle Fultz, Moritz Wagner, Paolo Banchero",0,0,0,1,2,33.6999999999998
+22200363,2022-12-07,4,20,"LAC","ORL","Kawhi Leonard, Nicolas Batum, Paul George, Reggie Jackson, Robert Covington",0,0,0,2,1,33.6999999999998
+22200363,2022-12-07,5,19,"ORL","LAC","Bol Bol, Franz Wagner, Markelle Fultz, Moritz Wagner, Paolo Banchero",0,13,12,9,8,293
+22200363,2022-12-07,5,21,"LAC","ORL","Amir Coffey, Ivica Zubac, Nicolas Batum, Robert Covington, Terance Mann",0,9,9,6,6,218
+22200363,2022-12-07,5,20,"ORL","LAC","Franz Wagner, Kevon Harris, Markelle Fultz, Moritz Wagner, Paolo Banchero",0,4,0,2,3,7
+22200363,2022-12-07,5,22,"LAC","ORL","Ivica Zubac, Kawhi Leonard, Nicolas Batum, Robert Covington, Terance Mann",0,3,4,2,3,75
+22200363,2022-12-07,5,23,"LAC","ORL","Kawhi Leonard, Moses Brown, Nicolas Batum, Robert Covington, Terance Mann",0,0,0,1,0,0
+22200363,2022-12-07,5,24,"LAC","ORL","Amir Coffey, Kawhi Leonard, Nicolas Batum, Robert Covington, Terance Mann",0,0,2,0,1,1.5
+22200363,2022-12-07,5,25,"LAC","ORL","Kawhi Leonard, Nicolas Batum, Paul George, Robert Covington, Terance Mann",0,0,0,1,0,0
+22200363,2022-12-07,5,26,"LAC","ORL","Amir Coffey, Kawhi Leonard, Nicolas Batum, Robert Covington, Terance Mann",0,0,2,1,1,5.5
+22200364,2022-12-07,1,1,"BKN","CHA","Joe Harris, Kevin Durant, Kyrie Irving, Nic Claxton, Royce O'Neale",0,20,19,16,16,467
+22200364,2022-12-07,1,1,"CHA","BKN","Jalen McDaniels, Kelly Oubre Jr., Mason Plumlee, P.J. Washington, Terry Rozier",0,19,20,17,16,475
+22200364,2022-12-07,1,2,"BKN","CHA","Joe Harris, Kevin Durant, Kyrie Irving, Nic Claxton, Royce O'Neale",0,0,0,0,1,8
+22200364,2022-12-07,1,2,"CHA","BKN","Bryce McGowens, Kelly Oubre Jr., Mason Plumlee, P.J. Washington, Theo Maledon",0,0,0,0,0,17
+22200364,2022-12-07,1,3,"BKN","CHA","Edmond Sumner, Kevin Durant, Markieff Morris, Royce O'Neale, Seth Curry",0,12,6,4,4,155
+22200364,2022-12-07,1,3,"CHA","BKN","Bryce McGowens, Kelly Oubre Jr., Nick Richards, P.J. Washington, Theo Maledon",0,6,13,4,4,138
+22200364,2022-12-07,1,4,"BKN","CHA","Edmond Sumner, Kevin Durant, Markieff Morris, Royce O'Neale, Seth Curry",0,1,0,0,0,0
+22200364,2022-12-07,1,5,"BKN","CHA","Edmond Sumner, Kevin Durant, Markieff Morris, Seth Curry, T.J. Warren",0,5,3,3,3,90
+22200364,2022-12-07,1,4,"CHA","BKN","Jalen McDaniels, Kai Jones, Nick Richards, Terry Rozier, Theo Maledon",0,3,5,3,3,90
+22200364,2022-12-07,2,6,"BKN","CHA","Edmond Sumner, Kyrie Irving, Markieff Morris, Seth Curry, T.J. Warren",0,16,7,9,8,261
+22200364,2022-12-07,2,7,"BKN","CHA","Edmond Sumner, Kyrie Irving, Nic Claxton, Seth Curry, T.J. Warren",0,1,2,1,1,31
+22200364,2022-12-07,2,8,"BKN","CHA","Cam Thomas, Edmond Sumner, Nic Claxton, Seth Curry, T.J. Warren",0,4,4,3,4,103
+22200364,2022-12-07,2,5,"CHA","BKN","Jalen McDaniels, Kai Jones, Kelly Oubre Jr., Nick Richards, Terry Rozier",0,5,11,6,6,176
+22200364,2022-12-07,2,6,"CHA","BKN","Bryce McGowens, Kai Jones, Kelly Oubre Jr., Nick Richards, Terry Rozier",0,2,2,2,2,57
+22200364,2022-12-07,2,7,"CHA","BKN","Jalen McDaniels, Kai Jones, Kelly Oubre Jr., Nick Richards, Terry Rozier",0,0,3,0,1,28
+22200364,2022-12-07,2,9,"BKN","CHA","Cam Thomas, Joe Harris, Kevin Durant, Nic Claxton, Royce O'Neale",0,9,9,6,5,186
+22200364,2022-12-07,2,8,"CHA","BKN","Bryce McGowens, Kelly Oubre Jr., Nick Richards, P.J. Washington, Theo Maledon",0,2,3,3,3,81
+22200364,2022-12-07,2,9,"CHA","BKN","Bryce McGowens, Kelly Oubre Jr., Mason Plumlee, P.J. Washington, Theo Maledon",0,6,2,3,2,89
+22200364,2022-12-07,2,10,"BKN","CHA","Joe Harris, Kevin Durant, Kyrie Irving, Markieff Morris, Royce O'Neale",0,5,5,5,5,139
+22200364,2022-12-07,2,10,"CHA","BKN","Bryce McGowens, Kelly Oubre Jr., Mason Plumlee, P.J. Washington, Terry Rozier",0,3,8,2,3,103
+22200364,2022-12-07,2,11,"CHA","BKN","Bryce McGowens, Jalen McDaniels, Mason Plumlee, P.J. Washington, Terry Rozier",0,9,6,7,7,186
+22200364,2022-12-07,3,11,"BKN","CHA","Joe Harris, Kevin Durant, Kyrie Irving, Nic Claxton, Royce O'Neale",0,11,13,13,13,340
+22200364,2022-12-07,3,12,"BKN","CHA","Kevin Durant, Kyrie Irving, Nic Claxton, Royce O'Neale, Seth Curry",0,8,7,5,4,125
+22200364,2022-12-07,3,12,"CHA","BKN","Jalen McDaniels, Kelly Oubre Jr., Mason Plumlee, P.J. Washington, Terry Rozier",0,20,19,18,18,465
+22200364,2022-12-07,3,13,"BKN","CHA","Kevin Durant, Kyrie Irving, Markieff Morris, Royce O'Neale, Seth Curry",0,4,5,3,3,102
+22200364,2022-12-07,3,14,"BKN","CHA","Kevin Durant, Kyrie Irving, Nic Claxton, Royce O'Neale, Seth Curry",0,0,0,0,1,0
+22200364,2022-12-07,3,13,"CHA","BKN","Bryce McGowens, Kelly Oubre Jr., Mason Plumlee, P.J. Washington, Theo Maledon",0,5,4,3,3,102
+22200364,2022-12-07,3,15,"BKN","CHA","Edmond Sumner, Kevin Durant, Markieff Morris, Seth Curry, T.J. Warren",0,0,7,6,5,153
+22200364,2022-12-07,3,14,"CHA","BKN","Bryce McGowens, Jalen McDaniels, JT Thor, Kai Jones, Theo Maledon",0,2,0,2,2,50
+22200364,2022-12-07,3,15,"CHA","BKN","Bryce McGowens, Jalen McDaniels, JT Thor, Kai Jones, Theo Maledon",0,1,0,0,0,0
+22200364,2022-12-07,3,16,"CHA","BKN","Jalen McDaniels, JT Thor, Kai Jones, Terry Rozier, Theo Maledon",0,4,0,3,4,103
+22200364,2022-12-07,4,16,"BKN","CHA","Joe Harris, Kyrie Irving, Nic Claxton, Royce O'Neale, Seth Curry",0,11,17,10,11,297
+22200364,2022-12-07,4,17,"BKN","CHA","Joe Harris, Kevin Durant, Nic Claxton, Royce O'Neale, Seth Curry",0,4,3,3,2,133
+22200364,2022-12-07,4,18,"BKN","CHA","Joe Harris, Kevin Durant, Kyrie Irving, Royce O'Neale, Seth Curry",0,7,7,6,5,217
+22200364,2022-12-07,4,19,"BKN","CHA","Joe Harris, Kevin Durant, Nic Claxton, Royce O'Neale, Seth Curry",0,0,0,0,1,0
+22200364,2022-12-07,4,20,"BKN","CHA","Joe Harris, Kevin Durant, Kyrie Irving, Nic Claxton, Royce O'Neale",0,2,0,1,2,31.4000000000001
+22200364,2022-12-07,4,21,"BKN","CHA","Joe Harris, Kevin Durant, Kyrie Irving, Royce O'Neale, Seth Curry",0,2,2,1,1,28.6999999999998
+22200364,2022-12-07,4,17,"CHA","BKN","Jalen McDaniels, JT Thor, Kai Jones, Kelly Oubre Jr., Terry Rozier",0,5,4,5,4,120
+22200364,2022-12-07,4,22,"BKN","CHA","Joe Harris, Kevin Durant, Kyrie Irving, Royce O'Neale, Seth Curry",0,0,0,0,0,1.80000000000018
+22200364,2022-12-07,4,18,"CHA","BKN","Jalen McDaniels, JT Thor, Kelly Oubre Jr., Mason Plumlee, Terry Rozier",0,0,2,0,1,14
+22200364,2022-12-07,4,23,"BKN","CHA","Joe Harris, Kevin Durant, Kyrie Irving, Nic Claxton, Royce O'Neale",0,0,0,1,1,11.0999999999999
+22200364,2022-12-07,4,19,"CHA","BKN","Jalen McDaniels, Kelly Oubre Jr., Mason Plumlee, P.J. Washington, Terry Rozier",0,11,5,6,5,163
+22200364,2022-12-07,4,20,"CHA","BKN","Jalen McDaniels, JT Thor, Kelly Oubre Jr., Mason Plumlee, Terry Rozier",0,3,2,1,1,47
+22200364,2022-12-07,4,21,"CHA","BKN","Jalen McDaniels, Kelly Oubre Jr., Mason Plumlee, P.J. Washington, Terry Rozier",0,1,0,0,0,0
+22200364,2022-12-07,4,22,"CHA","BKN","Bryce McGowens, JT Thor, Kelly Oubre Jr., Mason Plumlee, Terry Rozier",0,2,4,3,3,150
+22200364,2022-12-07,4,23,"CHA","BKN","Bryce McGowens, Jalen McDaniels, Kelly Oubre Jr., Mason Plumlee, Terry Rozier",0,7,9,8,7,226
+22200364,2022-12-07,4,24,"CHA","BKN","Bryce McGowens, JT Thor, Kelly Oubre Jr., Mason Plumlee, Terry Rozier",0,0,0,0,1,0
+22200365,2022-12-07,1,1,"ATL","NYK","AJ Griffin, Clint Capela, Dejounte Murray, Jalen Johnson, Trae Young",0,6,10,6,5,214
+22200365,2022-12-07,1,1,"NYK","ATL","Jalen Brunson, Julius Randle, Mitchell Robinson, Quentin Grimes, RJ Barrett",0,18,11,11,12,415
+22200365,2022-12-07,1,2,"ATL","NYK","Aaron Holiday, AJ Griffin, Clint Capela, Jalen Johnson, Trae Young",0,2,5,3,3,95
+22200365,2022-12-07,1,3,"ATL","NYK","Aaron Holiday, AJ Griffin, Clint Capela, Jarrett Culver, Trae Young",0,3,3,3,3,97
+22200365,2022-12-07,1,2,"NYK","ATL","Immanuel Quickley, Julius Randle, Miles McBride, Mitchell Robinson, Quentin Grimes",0,7,4,4,3,115
+22200365,2022-12-07,1,4,"ATL","NYK","Aaron Holiday, AJ Griffin, Clint Capela, Jarrett Culver, Trae Young",0,0,0,0,0,9
+22200365,2022-12-07,1,5,"ATL","NYK","Aaron Holiday, Bogdan Bogdanovic, Clint Capela, Jarrett Culver, Trae Young",0,2,7,2,3,78
+22200365,2022-12-07,1,3,"NYK","ATL","Immanuel Quickley, Isaiah Hartenstein, Julius Randle, Miles McBride, Quentin Grimes",0,2,0,3,3,92
+22200365,2022-12-07,1,6,"ATL","NYK","Aaron Holiday, Bogdan Bogdanovic, Jarrett Culver, Onyeka Okongwu, Trae Young",0,2,0,1,1,37
+22200365,2022-12-07,1,7,"ATL","NYK","Bogdan Bogdanovic, Jarrett Culver, Justin Holiday, Onyeka Okongwu, Trae Young",0,5,6,7,7,190
+22200365,2022-12-07,1,4,"NYK","ATL","Immanuel Quickley, Isaiah Hartenstein, Miles McBride, Obi Toppin, RJ Barrett",0,4,5,4,4,98
+22200365,2022-12-07,2,8,"ATL","NYK","Aaron Holiday, Bogdan Bogdanovic, Justin Holiday, Onyeka Okongwu, Vit Krejci",0,0,4,4,5,148
+22200365,2022-12-07,2,5,"NYK","ATL","Immanuel Quickley, Isaiah Hartenstein, Miles McBride, Obi Toppin, RJ Barrett",0,2,0,4,3,134
+22200365,2022-12-07,2,9,"ATL","NYK","Aaron Holiday, AJ Griffin, Bogdan Bogdanovic, Onyeka Okongwu, Vit Krejci",0,11,3,6,5,206
+22200365,2022-12-07,2,6,"NYK","ATL","Immanuel Quickley, Isaiah Hartenstein, Jalen Brunson, Obi Toppin, RJ Barrett",0,3,11,6,6,206
+22200365,2022-12-07,2,7,"NYK","ATL","Immanuel Quickley, Isaiah Hartenstein, Miles McBride, Obi Toppin, RJ Barrett",0,2,0,1,1,14
+22200365,2022-12-07,2,10,"ATL","NYK","Aaron Holiday, AJ Griffin, Bogdan Bogdanovic, Onyeka Okongwu, Vit Krejci",0,0,0,0,1,0
+22200365,2022-12-07,2,11,"ATL","NYK","AJ Griffin, Bogdan Bogdanovic, Onyeka Okongwu, Trae Young, Vit Krejci",0,0,0,0,0,12
+22200365,2022-12-07,2,12,"ATL","NYK","AJ Griffin, Bogdan Bogdanovic, Jalen Johnson, Onyeka Okongwu, Trae Young",0,0,0,0,0,15
+22200365,2022-12-07,2,13,"ATL","NYK","AJ Griffin, Bogdan Bogdanovic, Onyeka Okongwu, Trae Young, Vit Krejci",0,2,0,1,0,0
+22200365,2022-12-07,2,14,"ATL","NYK","AJ Griffin, Bogdan Bogdanovic, Clint Capela, Jalen Johnson, Trae Young",0,4,3,4,3,109
+22200365,2022-12-07,2,15,"ATL","NYK","AJ Griffin, Bogdan Bogdanovic, Jalen Johnson, Onyeka Okongwu, Trae Young",0,0,0,0,1,0
+22200365,2022-12-07,2,8,"NYK","ATL","Jalen Brunson, Julius Randle, Mitchell Robinson, Quentin Grimes, RJ Barrett",0,15,10,12,12,360.2
+22200365,2022-12-07,2,16,"ATL","NYK","AJ Griffin, Bogdan Bogdanovic, Clint Capela, Jalen Johnson, Trae Young",0,0,0,0,0,11
+22200365,2022-12-07,2,17,"ATL","NYK","AJ Griffin, Clint Capela, Jalen Johnson, Justin Holiday, Trae Young",0,0,2,0,1,12
+22200365,2022-12-07,2,9,"NYK","ATL","Julius Randle, Miles McBride, Mitchell Robinson, Quentin Grimes, RJ Barrett",0,0,0,0,1,5.79999999999995
+22200365,2022-12-07,2,18,"ATL","NYK","AJ Griffin, Clint Capela, Justin Holiday, Onyeka Okongwu, Trae Young",0,2,6,5,4,112
+22200365,2022-12-07,2,19,"ATL","NYK","AJ Griffin, Clint Capela, Justin Holiday, Onyeka Okongwu, Trae Young",0,0,0,0,0,12
+22200365,2022-12-07,2,20,"ATL","NYK","AJ Griffin, Jarrett Culver, Justin Holiday, Onyeka Okongwu, Trae Young",0,2,2,2,2,68.8
+22200365,2022-12-07,2,21,"ATL","NYK","AJ Griffin, Bogdan Bogdanovic, Justin Holiday, Onyeka Okongwu, Trae Young",0,0,0,1,0,5.79999999999995
+22200365,2022-12-07,2,22,"ATL","NYK","AJ Griffin, Jarrett Culver, Justin Holiday, Onyeka Okongwu, Trae Young",0,0,2,0,1,8.40000000000009
+22200365,2022-12-07,3,10,"NYK","ATL","Jalen Brunson, Julius Randle, Mitchell Robinson, Quentin Grimes, RJ Barrett",0,15,14,10,10,276
+22200365,2022-12-07,3,11,"NYK","ATL","Jalen Brunson, Julius Randle, Miles McBride, Mitchell Robinson, RJ Barrett",0,7,4,4,3,124
+22200365,2022-12-07,3,12,"NYK","ATL","Immanuel Quickley, Julius Randle, Miles McBride, Mitchell Robinson, RJ Barrett",0,2,2,1,1,58
+22200365,2022-12-07,3,13,"NYK","ATL","Jalen Brunson, Julius Randle, Miles McBride, Mitchell Robinson, RJ Barrett",0,1,0,0,0,0
+22200365,2022-12-07,3,23,"ATL","NYK","Aaron Holiday, AJ Griffin, Clint Capela, Jalen Johnson, Trae Young",0,13,15,9,10,257
+22200365,2022-12-07,3,14,"NYK","ATL","Immanuel Quickley, Isaiah Hartenstein, Julius Randle, Miles McBride, RJ Barrett",0,11,4,8,8,241.2
+22200365,2022-12-07,3,15,"NYK","ATL","Immanuel Quickley, Julius Randle, Miles McBride, Mitchell Robinson, RJ Barrett",0,0,0,0,0,5
+22200365,2022-12-07,3,24,"ATL","NYK","Aaron Holiday, AJ Griffin, Clint Capela, Trae Young, Vit Krejci",0,5,8,4,4,143
+22200365,2022-12-07,3,16,"NYK","ATL","Immanuel Quickley, Julius Randle, Miles McBride, Mitchell Robinson, RJ Barrett",0,0,2,1,1,15.8000000000002
+22200365,2022-12-07,3,25,"ATL","NYK","AJ Griffin, Bogdan Bogdanovic, Clint Capela, Onyeka Okongwu, Trae Young",0,4,7,5,5,162
+22200365,2022-12-07,3,26,"ATL","NYK","Bogdan Bogdanovic, Jarrett Culver, Justin Holiday, Onyeka Okongwu, Trae Young",0,2,6,4,3,116.1
+22200365,2022-12-07,3,27,"ATL","NYK","Bogdan Bogdanovic, Jarrett Culver, Justin Holiday, Onyeka Okongwu, Trae Young",0,0,0,0,1,26.0999999999999
+22200365,2022-12-07,3,28,"ATL","NYK","AJ Griffin, Bogdan Bogdanovic, Justin Holiday, Onyeka Okongwu, Trae Young",0,2,0,1,0,12.3000000000002
+22200365,2022-12-07,3,29,"ATL","NYK","Aaron Holiday, Bogdan Bogdanovic, Jarrett Culver, Justin Holiday, Onyeka Okongwu",0,0,0,0,1,3.5
+22200365,2022-12-07,4,17,"NYK","ATL","Immanuel Quickley, Isaiah Hartenstein, Miles McBride, Quentin Grimes, RJ Barrett",0,6,5,7,8,218
+22200365,2022-12-07,4,18,"NYK","ATL","Immanuel Quickley, Isaiah Hartenstein, Julius Randle, Miles McBride, Quentin Grimes",0,2,1,1,1,23
+22200365,2022-12-07,4,19,"NYK","ATL","Immanuel Quickley, Julius Randle, Miles McBride, Mitchell Robinson, Quentin Grimes",0,4,3,3,2,85
+22200365,2022-12-07,4,20,"NYK","ATL","Jalen Brunson, Julius Randle, Miles McBride, Mitchell Robinson, Quentin Grimes",0,3,5,3,4,94
+22200365,2022-12-07,4,21,"NYK","ATL","Jalen Brunson, Jericho Sims, Julius Randle, Miles McBride, Quentin Grimes",0,2,0,4,3,84
+22200365,2022-12-07,4,22,"NYK","ATL","Immanuel Quickley, Jericho Sims, Miles McBride, Quentin Grimes, Svi Mykhailiuk",0,2,2,3,3,102
+22200365,2022-12-07,4,30,"ATL","NYK","Aaron Holiday, Bogdan Bogdanovic, Jarrett Culver, Justin Holiday, Onyeka Okongwu",0,5,6,8,7,218
+22200365,2022-12-07,4,23,"NYK","ATL","Immanuel Quickley, Isaiah Hartenstein, Jericho Sims, Miles McBride, Svi Mykhailiuk",0,5,6,3,4,114
+22200365,2022-12-07,4,24,"NYK","ATL","Immanuel Quickley, Isaiah Hartenstein, Jericho Sims, Miles McBride, Svi Mykhailiuk",1,0,0,1,0,0
+22200365,2022-12-07,4,31,"ATL","NYK","Aaron Holiday, Bogdan Bogdanovic, Jalen Johnson, Justin Holiday, Onyeka Okongwu",0,4,6,3,4,108
+22200365,2022-12-07,4,32,"ATL","NYK","Aaron Holiday, AJ Griffin, Bogdan Bogdanovic, Frank Kaminsky, Justin Holiday",0,0,0,1,0,21
+22200365,2022-12-07,4,33,"ATL","NYK","Aaron Holiday, AJ Griffin, Bogdan Bogdanovic, Frank Kaminsky, Justin Holiday",0,2,0,1,1,20
+22200365,2022-12-07,4,34,"ATL","NYK","Aaron Holiday, AJ Griffin, Frank Kaminsky, Justin Holiday, Vit Krejci",0,3,5,5,6,137
+22200365,2022-12-07,4,35,"ATL","NYK","Aaron Holiday, Frank Kaminsky, Jarrett Culver, Justin Holiday, Vit Krejci",0,8,7,7,6,216
+22200365,2022-12-07,4,36,"ATL","NYK","Aaron Holiday, Frank Kaminsky, Jarrett Culver, Justin Holiday, Vit Krejci",1,0,0,0,1,0
+22200366,2022-12-07,1,1,"LAL","TOR","Austin Reaves, Dennis Schroder, Juan Toscano-Anderson, Lonnie Walker IV, Thomas Bryant",0,0,11,4,5,139
+22200366,2022-12-07,1,1,"TOR","LAL","Christian Koloko, Fred VanVleet, O.G. Anunoby, Pascal Siakam, Scottie Barnes",0,21,17,13,13,410
+22200366,2022-12-07,1,2,"LAL","TOR","Austin Reaves, Dennis Schroder, Juan Toscano-Anderson, Russell Westbrook, Thomas Bryant",0,10,4,4,3,112
+22200366,2022-12-07,1,3,"LAL","TOR","Austin Reaves, Dennis Schroder, Lonnie Walker IV, Russell Westbrook, Thomas Bryant",0,5,6,4,5,159
+22200366,2022-12-07,1,4,"LAL","TOR","Austin Reaves, Dennis Schroder, Lonnie Walker IV, Russell Westbrook, Thomas Bryant",0,2,0,1,0,0
+22200366,2022-12-07,1,5,"LAL","TOR","Austin Reaves, Lonnie Walker IV, Russell Westbrook, Thomas Bryant, Troy Brown Jr.",0,2,2,1,1,37
+22200366,2022-12-07,1,2,"TOR","LAL","Chris Boucher, Fred VanVleet, Gary Trent Jr., Pascal Siakam, Thaddeus Young",0,12,10,7,7,160
+22200366,2022-12-07,1,6,"LAL","TOR","Damian Jones, Kendrick Nunn, Lonnie Walker IV, Russell Westbrook, Troy Brown Jr.",0,8,10,6,6,123
+22200366,2022-12-07,1,3,"TOR","LAL","Chris Boucher, Gary Trent Jr., O.G. Anunoby, Scottie Barnes, Thaddeus Young",0,6,4,6,5,150
+22200366,2022-12-07,1,7,"LAL","TOR","Damian Jones, Kendrick Nunn, Max Christie, Russell Westbrook, Troy Brown Jr.",0,4,6,5,6,150
+22200366,2022-12-07,2,4,"TOR","LAL","Chris Boucher, Gary Trent Jr., O.G. Anunoby, Scottie Barnes, Thaddeus Young",0,7,6,8,8,217
+22200366,2022-12-07,2,8,"LAL","TOR","Austin Reaves, Damian Jones, Dennis Schroder, Kendrick Nunn, Troy Brown Jr.",0,6,7,8,8,217
+22200366,2022-12-07,2,5,"TOR","LAL","Fred VanVleet, Gary Trent Jr., O.G. Anunoby, Scottie Barnes, Thaddeus Young",0,0,4,2,3,72
+22200366,2022-12-07,2,9,"LAL","TOR","Austin Reaves, Damian Jones, Dennis Schroder, Juan Toscano-Anderson, Troy Brown Jr.",0,4,0,3,2,72
+22200366,2022-12-07,2,6,"TOR","LAL","Christian Koloko, Fred VanVleet, Gary Trent Jr., Pascal Siakam, Scottie Barnes",0,3,0,6,5,152
+22200366,2022-12-07,2,10,"LAL","TOR","Austin Reaves, Dennis Schroder, Juan Toscano-Anderson, Lonnie Walker IV, Thomas Bryant",0,0,1,0,1,21
+22200366,2022-12-07,2,7,"TOR","LAL","Christian Koloko, Fred VanVleet, Gary Trent Jr., O.G. Anunoby, Pascal Siakam",0,21,6,12,12,279
+22200366,2022-12-07,2,11,"LAL","TOR","Dennis Schroder, Juan Toscano-Anderson, Lonnie Walker IV, Russell Westbrook, Thomas Bryant",0,0,2,2,2,68
+22200366,2022-12-07,2,12,"LAL","TOR","Juan Toscano-Anderson, Lonnie Walker IV, Max Christie, Russell Westbrook, Thomas Bryant",0,0,0,3,2,57
+22200366,2022-12-07,2,13,"LAL","TOR","Austin Reaves, Lonnie Walker IV, Max Christie, Russell Westbrook, Thomas Bryant",0,0,5,2,2,49
+22200366,2022-12-07,2,14,"LAL","TOR","Juan Toscano-Anderson, Lonnie Walker IV, Max Christie, Russell Westbrook, Thomas Bryant",0,0,0,0,1,6
+22200366,2022-12-07,2,15,"LAL","TOR","Austin Reaves, Dennis Schroder, Lonnie Walker IV, Russell Westbrook, Thomas Bryant",0,1,8,4,4,101
+22200366,2022-12-07,2,16,"LAL","TOR","Austin Reaves, Damian Jones, Dennis Schroder, Lonnie Walker IV, Russell Westbrook",0,5,8,6,6,129
+22200366,2022-12-07,3,8,"TOR","LAL","Christian Koloko, Fred VanVleet, O.G. Anunoby, Pascal Siakam, Scottie Barnes",0,6,11,11,11,325
+22200366,2022-12-07,3,9,"TOR","LAL","Christian Koloko, Fred VanVleet, Gary Trent Jr., Pascal Siakam, Scottie Barnes",0,3,4,1,2,40
+22200366,2022-12-07,3,10,"TOR","LAL","Fred VanVleet, Gary Trent Jr., Pascal Siakam, Scottie Barnes, Thaddeus Young",0,2,6,4,4,113
+22200366,2022-12-07,3,11,"TOR","LAL","Chris Boucher, Fred VanVleet, Gary Trent Jr., Pascal Siakam, Thaddeus Young",0,6,0,3,3,78
+22200366,2022-12-07,3,12,"TOR","LAL","Chris Boucher, Fred VanVleet, Gary Trent Jr., O.G. Anunoby, Thaddeus Young",0,8,7,5,6,164
+22200366,2022-12-07,3,13,"TOR","LAL","Chris Boucher, Fred VanVleet, Gary Trent Jr., Pascal Siakam, Thaddeus Young",0,2,0,1,0,0
+22200366,2022-12-07,3,17,"LAL","TOR","Austin Reaves, Dennis Schroder, Juan Toscano-Anderson, Lonnie Walker IV, Thomas Bryant",0,5,2,7,6,206
+22200366,2022-12-07,3,18,"LAL","TOR","Austin Reaves, Dennis Schroder, Juan Toscano-Anderson, Russell Westbrook, Thomas Bryant",0,9,7,6,6,159
+22200366,2022-12-07,3,19,"LAL","TOR","Austin Reaves, Dennis Schroder, Juan Toscano-Anderson, Russell Westbrook, Thomas Bryant",0,1,0,0,0,0
+22200366,2022-12-07,3,20,"LAL","TOR","Austin Reaves, Dennis Schroder, Lonnie Walker IV, Russell Westbrook, Thomas Bryant",0,4,2,3,3,69
+22200366,2022-12-07,3,21,"LAL","TOR","Austin Reaves, Damian Jones, Dennis Schroder, Lonnie Walker IV, Russell Westbrook",0,0,0,0,0,16
+22200366,2022-12-07,3,22,"LAL","TOR","Austin Reaves, Damian Jones, Dennis Schroder, Lonnie Walker IV, Russell Westbrook",0,0,0,0,0,12
+22200366,2022-12-07,3,23,"LAL","TOR","Austin Reaves, Damian Jones, Lonnie Walker IV, Russell Westbrook, Troy Brown Jr.",0,2,2,1,2,27
+22200366,2022-12-07,3,24,"LAL","TOR","Damian Jones, Kendrick Nunn, Lonnie Walker IV, Russell Westbrook, Troy Brown Jr.",0,7,14,9,8,231
+22200366,2022-12-07,4,14,"TOR","LAL","Chris Boucher, Gary Trent Jr., O.G. Anunoby, Pascal Siakam, Thaddeus Young",0,10,8,7,6,181
+22200366,2022-12-07,4,15,"TOR","LAL","Chris Boucher, Gary Trent Jr., O.G. Anunoby, Pascal Siakam, Scottie Barnes",0,8,10,9,9,208
+22200366,2022-12-07,4,16,"TOR","LAL","Chris Boucher, Christian Koloko, Gary Trent Jr., O.G. Anunoby, Scottie Barnes",0,2,4,2,3,40
+22200366,2022-12-07,4,17,"TOR","LAL","Chris Boucher, Christian Koloko, Gary Trent Jr., Malachi Flynn, Scottie Barnes",0,0,5,2,2,52
+22200366,2022-12-07,4,18,"TOR","LAL","Chris Boucher, Dalano Banton, Gary Trent Jr., Malachi Flynn, Scottie Barnes",0,6,6,4,3,100
+22200366,2022-12-07,4,25,"LAL","TOR","Austin Reaves, Dennis Schroder, Lonnie Walker IV, Russell Westbrook, Thomas Bryant",0,2,7,2,3,82
+22200366,2022-12-07,4,19,"TOR","LAL","Chris Boucher, Dalano Banton, Jeff Dowtin Jr., Justin Champagnie, Malachi Flynn",0,3,5,2,3,80.1999999999998
+22200366,2022-12-07,4,20,"TOR","LAL","Chris Boucher, Dalano Banton, Jeff Dowtin Jr., Justin Champagnie, Malachi Flynn",1,0,0,3,2,58.8000000000002
+22200366,2022-12-07,4,26,"LAL","TOR","Austin Reaves, Dennis Schroder, Juan Toscano-Anderson, Russell Westbrook, Thomas Bryant",0,6,3,4,4,99
+22200366,2022-12-07,4,27,"LAL","TOR","Damian Jones, Kendrick Nunn, Max Christie, Thomas Bryant, Troy Brown Jr.",0,30,19,20,19,480.2
+22200366,2022-12-07,4,28,"LAL","TOR","Damian Jones, Kendrick Nunn, Max Christie, Thomas Bryant, Troy Brown Jr.",1,0,0,2,3,58.8000000000002
+22200367,2022-12-07,1,1,"CHI","WAS","Alex Caruso, DeMar DeRozan, Nikola Vucevic, Patrick Williams, Zach LaVine",0,19,12,15,15,421
+22200367,2022-12-07,1,1,"WAS","CHI","Corey Kispert, Deni Avdija, Kristaps Porzingis, Kyle Kuzma, Monte Morris",0,12,20,15,15,421
+22200367,2022-12-07,1,2,"CHI","WAS","Alex Caruso, Ayo Dosunmu, Nikola Vucevic, Patrick Williams, Zach LaVine",0,0,1,1,2,29
+22200367,2022-12-07,1,3,"CHI","WAS","Alex Caruso, DeMar DeRozan, Nikola Vucevic, Patrick Williams, Zach LaVine",0,1,0,0,0,0
+22200367,2022-12-07,1,2,"WAS","CHI","Corey Kispert, Daniel Gafford, Deni Avdija, Jordan Goodwin, Kyle Kuzma",0,1,3,2,2,41
+22200367,2022-12-07,1,4,"CHI","WAS","Ayo Dosunmu, Coby White, Derrick Jones Jr., Nikola Vucevic, Zach LaVine",0,3,4,6,5,135
+22200367,2022-12-07,1,5,"CHI","WAS","Ayo Dosunmu, Coby White, Derrick Jones Jr., Nikola Vucevic, Zach LaVine",0,0,0,0,0,5
+22200367,2022-12-07,1,3,"WAS","CHI","Daniel Gafford, Jordan Goodwin, Kyle Kuzma, Taj Gibson, Will Barton",0,4,0,6,5,140
+22200367,2022-12-07,1,6,"CHI","WAS","Andre Drummond, Ayo Dosunmu, Coby White, Derrick Jones Jr., Goran Dragic",0,2,4,2,2,56
+22200367,2022-12-07,1,4,"WAS","CHI","Daniel Gafford, Jordan Goodwin, Kyle Kuzma, Taj Gibson, Will Barton",0,0,0,0,1,0
+22200367,2022-12-07,1,5,"WAS","CHI","Daniel Gafford, Jordan Goodwin, Monte Morris, Taj Gibson, Will Barton",0,4,6,3,3,97.5
+22200367,2022-12-07,1,7,"CHI","WAS","Andre Drummond, Ayo Dosunmu, DeMar DeRozan, Derrick Jones Jr., Goran Dragic",0,4,1,2,3,66.5
+22200367,2022-12-07,1,6,"WAS","CHI","Corey Kispert, Daniel Gafford, Jordan Goodwin, Monte Morris, Will Barton",0,1,0,1,0,13
+22200367,2022-12-07,1,8,"CHI","WAS","Andre Drummond, Ayo Dosunmu, DeMar DeRozan, Goran Dragic, Zach LaVine",0,0,0,1,0,7.5
+22200367,2022-12-07,1,7,"WAS","CHI","Anthony Gill, Daniel Gafford, Deni Avdija, Jordan Goodwin, Will Barton",0,0,0,0,1,7.5
+22200367,2022-12-07,2,9,"CHI","WAS","Andre Drummond, Ayo Dosunmu, DeMar DeRozan, Goran Dragic, Patrick Williams",0,4,7,5,5,128
+22200367,2022-12-07,2,10,"CHI","WAS","Alex Caruso, Andre Drummond, DeMar DeRozan, Goran Dragic, Patrick Williams",0,2,2,2,2,38
+22200367,2022-12-07,2,8,"WAS","CHI","Anthony Gill, Corey Kispert, Daniel Gafford, Deni Avdija, Monte Morris",0,6,4,5,5,128
+22200367,2022-12-07,2,11,"CHI","WAS","Alex Caruso, DeMar DeRozan, Goran Dragic, Nikola Vucevic, Patrick Williams",0,2,5,3,2,97
+22200367,2022-12-07,2,9,"WAS","CHI","Anthony Gill, Corey Kispert, Daniel Gafford, Deni Avdija, Monte Morris",0,1,0,0,0,0
+22200367,2022-12-07,2,10,"WAS","CHI","Anthony Gill, Corey Kispert, Deni Avdija, Kristaps Porzingis, Monte Morris",0,2,2,2,2,38
+22200367,2022-12-07,2,12,"CHI","WAS","Alex Caruso, DeMar DeRozan, Goran Dragic, Nikola Vucevic, Patrick Williams",0,0,0,0,1,0
+22200367,2022-12-07,2,13,"CHI","WAS","Alex Caruso, Goran Dragic, Nikola Vucevic, Patrick Williams, Zach LaVine",0,4,3,3,3,58
+22200367,2022-12-07,2,11,"WAS","CHI","Corey Kispert, Deni Avdija, Kristaps Porzingis, Kyle Kuzma, Monte Morris",0,9,9,12,12,314
+22200367,2022-12-07,2,14,"CHI","WAS","Alex Caruso, Coby White, Nikola Vucevic, Patrick Williams, Zach LaVine",0,2,0,3,2,79
+22200367,2022-12-07,2,15,"CHI","WAS","Coby White, DeMar DeRozan, Nikola Vucevic, Patrick Williams, Zach LaVine",0,1,1,3,4,80
+22200367,2022-12-07,2,12,"WAS","CHI","Deni Avdija, Jordan Goodwin, Kristaps Porzingis, Kyle Kuzma, Will Barton",0,9,8,9,10,240
+22200367,2022-12-07,2,16,"CHI","WAS","Alex Caruso, Coby White, DeMar DeRozan, Nikola Vucevic, Zach LaVine",0,7,4,8,7,196.2
+22200367,2022-12-07,2,17,"CHI","WAS","Alex Caruso, Coby White, DeMar DeRozan, Nikola Vucevic, Zach LaVine",0,1,0,0,0,0
+22200367,2022-12-07,2,18,"CHI","WAS","Ayo Dosunmu, Coby White, DeMar DeRozan, Nikola Vucevic, Zach LaVine",0,0,5,2,2,43.8
+22200367,2022-12-07,3,13,"WAS","CHI","Corey Kispert, Deni Avdija, Kristaps Porzingis, Kyle Kuzma, Monte Morris",0,16,15,13,13,357
+22200367,2022-12-07,3,14,"WAS","CHI","Corey Kispert, Deni Avdija, Jordan Goodwin, Kristaps Porzingis, Kyle Kuzma",0,0,3,1,2,37
+22200367,2022-12-07,3,19,"CHI","WAS","Alex Caruso, DeMar DeRozan, Nikola Vucevic, Patrick Williams, Zach LaVine",0,15,16,13,13,357
+22200367,2022-12-07,3,15,"WAS","CHI","Corey Kispert, Daniel Gafford, Deni Avdija, Jordan Goodwin, Kristaps Porzingis",0,2,0,2,1,33
+22200367,2022-12-07,3,16,"WAS","CHI","Daniel Gafford, Deni Avdija, Jordan Goodwin, Kristaps Porzingis, Will Barton",0,4,6,2,3,107
+22200367,2022-12-07,3,20,"CHI","WAS","Ayo Dosunmu, Coby White, Nikola Vucevic, Patrick Williams, Zach LaVine",0,3,2,3,2,63
+22200367,2022-12-07,3,17,"WAS","CHI","Daniel Gafford, Deni Avdija, Jordan Goodwin, Taj Gibson, Will Barton",0,3,0,2,1,40
+22200367,2022-12-07,3,21,"CHI","WAS","Ayo Dosunmu, Coby White, Derrick Jones Jr., Nikola Vucevic, Zach LaVine",0,6,4,4,3,129
+22200367,2022-12-07,3,22,"CHI","WAS","Ayo Dosunmu, Coby White, Nikola Vucevic, Patrick Williams, Zach LaVine",0,0,0,0,1,7
+22200367,2022-12-07,3,18,"WAS","CHI","Daniel Gafford, Deni Avdija, Monte Morris, Taj Gibson, Will Barton",0,7,4,5,5,140.7
+22200367,2022-12-07,3,23,"CHI","WAS","Ayo Dosunmu, Coby White, Derrick Jones Jr., Nikola Vucevic, Zach LaVine",0,0,3,0,1,18
+22200367,2022-12-07,3,19,"WAS","CHI","Daniel Gafford, Deni Avdija, Kyle Kuzma, Monte Morris, Will Barton",0,0,0,0,1,5.30000000000018
+22200367,2022-12-07,3,24,"CHI","WAS","Andre Drummond, Ayo Dosunmu, Coby White, Derrick Jones Jr., Goran Dragic",0,4,4,3,2,66
+22200367,2022-12-07,3,25,"CHI","WAS","Andre Drummond, Ayo Dosunmu, DeMar DeRozan, Derrick Jones Jr., Goran Dragic",0,0,3,2,3,74.6999999999998
+22200367,2022-12-07,3,26,"CHI","WAS","Andre Drummond, Ayo Dosunmu, DeMar DeRozan, Goran Dragic, Zach LaVine",0,0,0,1,0,5.30000000000018
+22200367,2022-12-07,4,20,"WAS","CHI","Daniel Gafford, Kyle Kuzma, Monte Morris, Taj Gibson, Will Barton",0,4,4,7,7,191
+22200367,2022-12-07,4,21,"WAS","CHI","Daniel Gafford, Kristaps Porzingis, Kyle Kuzma, Monte Morris, Will Barton",0,6,4,4,3,107
+22200367,2022-12-07,4,27,"CHI","WAS","Andre Drummond, Ayo Dosunmu, DeMar DeRozan, Derrick Jones Jr., Goran Dragic",0,2,4,2,2,66
+22200367,2022-12-07,4,22,"WAS","CHI","Corey Kispert, Deni Avdija, Kristaps Porzingis, Kyle Kuzma, Monte Morris",0,18,25,13,14,413.1
+22200367,2022-12-07,4,28,"CHI","WAS","Alex Caruso, Ayo Dosunmu, DeMar DeRozan, Derrick Jones Jr., Patrick Williams",0,6,6,8,9,232
+22200367,2022-12-07,4,23,"WAS","CHI","Corey Kispert, Deni Avdija, Kristaps Porzingis, Kyle Kuzma, Monte Morris",0,2,2,1,1,7
+22200367,2022-12-07,4,29,"CHI","WAS","Alex Caruso, Coby White, DeMar DeRozan, Nikola Vucevic, Zach LaVine",0,14,10,5,4,148
+22200367,2022-12-07,4,30,"CHI","WAS","Alex Caruso, Ayo Dosunmu, DeMar DeRozan, Nikola Vucevic, Zach LaVine",0,2,2,2,3,61
+22200367,2022-12-07,4,31,"CHI","WAS","Alex Caruso, DeMar DeRozan, Nikola Vucevic, Patrick Williams, Zach LaVine",0,9,8,7,7,208.5
+22200367,2022-12-07,4,32,"CHI","WAS","Alex Caruso, Coby White, DeMar DeRozan, Nikola Vucevic, Zach LaVine",0,2,0,1,0,2.59999999999991
+22200367,2022-12-07,4,24,"WAS","CHI","Corey Kispert, Deni Avdija, Kristaps Porzingis, Kyle Kuzma, Monte Morris",0,0,0,1,0,1.90000000000009
+22200367,2022-12-07,4,33,"CHI","WAS","Alex Caruso, DeMar DeRozan, Derrick Jones Jr., Patrick Williams, Zach LaVine",0,0,0,0,1,1.90000000000009
+22200368,2022-12-07,1,1,"MEM","OKC","Dillon Brooks, Ja Morant, Jaren Jackson Jr., John Konchar, Steven Adams",0,13,11,12,11,306
+22200368,2022-12-07,1,1,"OKC","MEM","Aleksej Pokusevski, Jalen Williams, Jeremiah Robinson-Earl, Josh Giddey, Shai Gilgeous-Alexander",0,11,13,11,12,306
+22200368,2022-12-07,1,2,"MEM","OKC","Dillon Brooks, Ja Morant, John Konchar, Santi Aldama, Steven Adams",0,3,2,3,3,103
+22200368,2022-12-07,1,2,"OKC","MEM","Aleksej Pokusevski, Eugene Omoruyi, Jalen Williams, Josh Giddey, Shai Gilgeous-Alexander",0,2,3,3,3,89
+22200368,2022-12-07,1,3,"MEM","OKC","David Roddy, Ja Morant, John Konchar, Santi Aldama, Steven Adams",0,6,5,3,2,87
+22200368,2022-12-07,1,4,"MEM","OKC","Dillon Brooks, Ja Morant, John Konchar, Santi Aldama, Steven Adams",0,0,0,0,1,0
+22200368,2022-12-07,1,3,"OKC","MEM","Aaron Wiggins, Aleksej Pokusevski, Eugene Omoruyi, Josh Giddey, Shai Gilgeous-Alexander",0,0,3,1,1,23
+22200368,2022-12-07,1,5,"MEM","OKC","Brandon Clarke, David Roddy, Ja Morant, Santi Aldama, Tyus Jones",0,0,2,4,4,66
+22200368,2022-12-07,1,4,"OKC","MEM","Aaron Wiggins, Eugene Omoruyi, Isaiah Joe, Mike Muscala, Shai Gilgeous-Alexander",0,7,3,8,8,193
+22200368,2022-12-07,1,6,"MEM","OKC","Brandon Clarke, David Roddy, Dillon Brooks, Santi Aldama, Tyus Jones",0,2,3,3,4,76
+22200368,2022-12-07,1,5,"OKC","MEM","Eugene Omoruyi, Isaiah Joe, Mike Muscala, Shai Gilgeous-Alexander, Tre Mann",0,3,2,2,1,27
+22200368,2022-12-07,1,7,"MEM","OKC","Brandon Clarke, David Roddy, Dillon Brooks, Jaren Jackson Jr., Tyus Jones",0,3,2,4,3,82
+22200368,2022-12-07,1,6,"OKC","MEM","Eugene Omoruyi, Isaiah Joe, Jeremiah Robinson-Earl, Shai Gilgeous-Alexander, Tre Mann",0,0,3,1,2,28.6
+22200368,2022-12-07,1,7,"OKC","MEM","Isaiah Joe, Jeremiah Robinson-Earl, Mike Muscala, Shai Gilgeous-Alexander, Tre Mann",0,2,0,2,1,51
+22200368,2022-12-07,1,8,"OKC","MEM","Aaron Wiggins, Jeremiah Robinson-Earl, Mike Muscala, Shai Gilgeous-Alexander, Tre Mann",0,0,0,0,1,2.39999999999998
+22200368,2022-12-07,2,8,"MEM","OKC","Brandon Clarke, Dillon Brooks, Jaren Jackson Jr., Tyus Jones, Ziaire Williams",0,13,12,14,15,404
+22200368,2022-12-07,2,9,"OKC","MEM","Jalen Williams, Jaylin Williams, Jeremiah Robinson-Earl, Josh Giddey, Tre Mann",0,5,7,8,8,232
+22200368,2022-12-07,2,10,"OKC","MEM","Aaron Wiggins, Jalen Williams, Jaylin Williams, Jeremiah Robinson-Earl, Tre Mann",0,7,6,7,6,172
+22200368,2022-12-07,2,9,"MEM","OKC","David Roddy, Ja Morant, John Konchar, Santi Aldama, Steven Adams",0,9,9,7,6,209
+22200368,2022-12-07,2,10,"MEM","OKC","David Roddy, Ja Morant, John Konchar, Santi Aldama, Steven Adams",0,0,0,0,0,1
+22200368,2022-12-07,2,11,"OKC","MEM","Aaron Wiggins, Aleksej Pokusevski, Eugene Omoruyi, Shai Gilgeous-Alexander, Tre Mann",0,9,9,6,7,210
+22200368,2022-12-07,2,11,"MEM","OKC","Dillon Brooks, Ja Morant, Jaren Jackson Jr., John Konchar, Steven Adams",0,6,6,3,4,100.4
+22200368,2022-12-07,2,12,"OKC","MEM","Aaron Wiggins, Aleksej Pokusevski, Jeremiah Robinson-Earl, Shai Gilgeous-Alexander, Tre Mann",0,1,5,2,2,29
+22200368,2022-12-07,2,12,"MEM","OKC","David Roddy, Dillon Brooks, Ja Morant, Jaren Jackson Jr., Steven Adams",0,2,0,2,1,5.59999999999991
+22200368,2022-12-07,2,13,"OKC","MEM","Aaron Wiggins, Aleksej Pokusevski, Isaiah Joe, Jeremiah Robinson-Earl, Shai Gilgeous-Alexander",0,5,1,2,1,71.4000000000001
+22200368,2022-12-07,2,14,"OKC","MEM","Aleksej Pokusevski, Isaiah Joe, Jalen Williams, Shai Gilgeous-Alexander, Tre Mann",0,0,2,1,1,4.59999999999991
+22200368,2022-12-07,2,15,"OKC","MEM","Aaron Wiggins, Aleksej Pokusevski, Jalen Williams, Jeremiah Robinson-Earl, Shai Gilgeous-Alexander",0,0,0,0,1,1
+22200368,2022-12-07,3,13,"MEM","OKC","Dillon Brooks, Ja Morant, Jaren Jackson Jr., John Konchar, Steven Adams",0,16,16,9,9,288
+22200368,2022-12-07,3,14,"MEM","OKC","Dillon Brooks, Ja Morant, Jaren Jackson Jr., John Konchar, Steven Adams",0,0,3,0,1,22
+22200368,2022-12-07,3,15,"MEM","OKC","Dillon Brooks, Ja Morant, John Konchar, Santi Aldama, Steven Adams",0,4,2,4,3,91
+22200368,2022-12-07,3,16,"MEM","OKC","David Roddy, Ja Morant, Santi Aldama, Steven Adams, Tyus Jones",0,5,0,2,2,38
+22200368,2022-12-07,3,17,"MEM","OKC","Brandon Clarke, David Roddy, Ja Morant, Santi Aldama, Tyus Jones",0,10,10,7,7,207
+22200368,2022-12-07,3,16,"OKC","MEM","Aleksej Pokusevski, Jalen Williams, Jeremiah Robinson-Earl, Josh Giddey, Shai Gilgeous-Alexander",0,19,16,10,9,310
+22200368,2022-12-07,3,18,"MEM","OKC","Brandon Clarke, Dillon Brooks, Ja Morant, Santi Aldama, Tyus Jones",0,2,4,3,4,74
+22200368,2022-12-07,3,17,"OKC","MEM","Aleksej Pokusevski, Eugene Omoruyi, Jalen Williams, Josh Giddey, Shai Gilgeous-Alexander",0,2,9,5,6,129
+22200368,2022-12-07,3,18,"OKC","MEM","Aaron Wiggins, Eugene Omoruyi, Isaiah Joe, Mike Muscala, Shai Gilgeous-Alexander",0,14,12,10,9,251
+22200368,2022-12-07,3,19,"OKC","MEM","Aaron Wiggins, Eugene Omoruyi, Jalen Williams, Mike Muscala, Shai Gilgeous-Alexander",0,0,0,1,1,30
+22200368,2022-12-07,4,19,"MEM","OKC","Brandon Clarke, Dillon Brooks, Jaren Jackson Jr., Tyus Jones, Ziaire Williams",0,10,4,9,9,261
+22200368,2022-12-07,4,20,"MEM","OKC","Brandon Clarke, Jaren Jackson Jr., John Konchar, Tyus Jones, Ziaire Williams",0,6,3,3,3,76
+22200368,2022-12-07,4,21,"MEM","OKC","Brandon Clarke, John Konchar, Santi Aldama, Tyus Jones, Ziaire Williams",0,0,0,1,1,32
+22200368,2022-12-07,4,22,"MEM","OKC","Brandon Clarke, Ja Morant, John Konchar, Santi Aldama, Ziaire Williams",0,9,4,7,6,211
+22200368,2022-12-07,4,20,"OKC","MEM","Eugene Omoruyi, Jalen Williams, Jeremiah Robinson-Earl, Josh Giddey, Tre Mann",0,2,9,7,8,208
+22200368,2022-12-07,4,23,"MEM","OKC","David Roddy, John Konchar, Santi Aldama, Xavier Tillman, Ziaire Williams",0,4,4,4,5,139.7
+22200368,2022-12-07,4,24,"MEM","OKC","David Roddy, John Konchar, Santi Aldama, Xavier Tillman, Ziaire Williams",1,0,0,1,1,0.300000000000182
+22200368,2022-12-07,4,21,"OKC","MEM","Aleksej Pokusevski, Isaiah Joe, Jalen Williams, Jeremiah Robinson-Earl, Shai Gilgeous-Alexander",0,2,1,2,1,53
+22200368,2022-12-07,4,22,"OKC","MEM","Aleksej Pokusevski, Isaiah Joe, Jeremiah Robinson-Earl, Shai Gilgeous-Alexander, Tre Mann",0,3,4,2,2,54
+22200368,2022-12-07,4,23,"OKC","MEM","Isaiah Joe, Jeremiah Robinson-Earl, Mike Muscala, Shai Gilgeous-Alexander, Tre Mann",0,1,4,3,3,92
+22200368,2022-12-07,4,24,"OKC","MEM","Isaiah Joe, Josh Giddey, Mike Muscala, Shai Gilgeous-Alexander, Tre Mann",0,0,3,2,3,72
+22200368,2022-12-07,4,25,"OKC","MEM","Eugene Omoruyi, Isaiah Joe, Jaylin Williams, Josh Giddey, Tre Mann",0,7,8,8,7,240.7
+22200368,2022-12-07,4,26,"OKC","MEM","Eugene Omoruyi, Isaiah Joe, Jaylin Williams, Josh Giddey, Tre Mann",1,0,0,1,1,0.300000000000182
+22200369,2022-12-07,1,1,"MIL","SAC","Brook Lopez, Giannis Antetokounmpo, Grayson Allen, Jrue Holiday, Khris Middleton",0,18,16,10,11,305
+22200369,2022-12-07,1,1,"SAC","MIL","De'Aaron Fox, Domantas Sabonis, Harrison Barnes, Keegan Murray, Kevin Huerter",0,16,18,11,10,305
+22200369,2022-12-07,1,2,"SAC","MIL","Davion Mitchell, Domantas Sabonis, Harrison Barnes, Keegan Murray, Kevin Huerter",0,9,10,5,6,193
+22200369,2022-12-07,1,2,"MIL","SAC","Bobby Portis, Giannis Antetokounmpo, Grayson Allen, Jrue Holiday, Pat Connaughton",0,1,3,2,1,60
+22200369,2022-12-07,1,3,"MIL","SAC","Bobby Portis, Brook Lopez, Grayson Allen, Jrue Holiday, Pat Connaughton",0,9,6,4,4,133
+22200369,2022-12-07,1,3,"SAC","MIL","Davion Mitchell, Domantas Sabonis, Harrison Barnes, KZ Okpala, Malik Monk",0,0,2,2,1,46
+22200369,2022-12-07,1,4,"MIL","SAC","Bobby Portis, Brook Lopez, Jevon Carter, Jrue Holiday, Pat Connaughton",0,2,0,1,2,54
+22200369,2022-12-07,1,4,"SAC","MIL","Davion Mitchell, Domantas Sabonis, Harrison Barnes, KZ Okpala, Malik Monk",0,0,0,0,0,8
+22200369,2022-12-07,1,5,"SAC","MIL","Chimezie Metu, Davion Mitchell, KZ Okpala, Malik Monk, Trey Lyles",0,4,4,5,5,139.3
+22200369,2022-12-07,1,5,"MIL","SAC","Bobby Portis, George Hill, Giannis Antetokounmpo, Jevon Carter, Pat Connaughton",0,4,4,5,5,139.3
+22200369,2022-12-07,1,6,"SAC","MIL","Chimezie Metu, De'Aaron Fox, KZ Okpala, Malik Monk, Trey Lyles",0,0,0,1,1,28.7
+22200369,2022-12-07,1,6,"MIL","SAC","Bobby Portis, George Hill, Giannis Antetokounmpo, Jevon Carter, Khris Middleton",0,0,0,1,1,28.7
+22200369,2022-12-07,2,7,"SAC","MIL","Chimezie Metu, De'Aaron Fox, KZ Okpala, Malik Monk, Trey Lyles",0,11,7,6,7,190
+22200369,2022-12-07,2,7,"MIL","SAC","Bobby Portis, George Hill, Giannis Antetokounmpo, Jevon Carter, Khris Middleton",0,0,3,1,1,39
+22200369,2022-12-07,2,8,"SAC","MIL","Chimezie Metu, De'Aaron Fox, Keegan Murray, Malik Monk, Trey Lyles",0,0,4,2,2,37
+22200369,2022-12-07,2,8,"MIL","SAC","Brook Lopez, George Hill, Giannis Antetokounmpo, Jevon Carter, Khris Middleton",0,2,0,2,1,31
+22200369,2022-12-07,2,9,"MIL","SAC","Brook Lopez, George Hill, Giannis Antetokounmpo, Grayson Allen, Khris Middleton",0,5,8,4,4,120
+22200369,2022-12-07,2,10,"MIL","SAC","Brook Lopez, Giannis Antetokounmpo, Grayson Allen, Jrue Holiday, Khris Middleton",0,4,0,2,2,37
+22200369,2022-12-07,2,9,"SAC","MIL","Davion Mitchell, Domantas Sabonis, Harrison Barnes, Keegan Murray, Malik Monk",0,2,0,2,1,40
+22200369,2022-12-07,2,11,"MIL","SAC","Brook Lopez, Giannis Antetokounmpo, Grayson Allen, Jrue Holiday, Pat Connaughton",0,0,2,2,2,49
+22200369,2022-12-07,2,10,"SAC","MIL","Davion Mitchell, Domantas Sabonis, Harrison Barnes, Keegan Murray, Kevin Huerter",0,0,4,2,2,73
+22200369,2022-12-07,2,11,"SAC","MIL","Davion Mitchell, Domantas Sabonis, Harrison Barnes, Keegan Murray, Malik Monk",0,0,0,0,1,9
+22200369,2022-12-07,2,12,"MIL","SAC","Bobby Portis, Brook Lopez, Grayson Allen, Jrue Holiday, Pat Connaughton",0,4,0,2,3,90
+22200369,2022-12-07,2,12,"SAC","MIL","De'Aaron Fox, Domantas Sabonis, Harrison Barnes, Keegan Murray, Kevin Huerter",0,3,4,2,2,48
+22200369,2022-12-07,2,13,"MIL","SAC","Bobby Portis, Brook Lopez, Jevon Carter, Jrue Holiday, Pat Connaughton",0,7,10,5,4,108
+22200369,2022-12-07,2,13,"SAC","MIL","De'Aaron Fox, Domantas Sabonis, Harrison Barnes, Kevin Huerter, Malik Monk",0,16,15,12,11,323
+22200369,2022-12-07,2,14,"MIL","SAC","Brook Lopez, Jevon Carter, Jrue Holiday, Khris Middleton, Pat Connaughton",0,2,2,2,2,68
+22200369,2022-12-07,2,15,"MIL","SAC","Giannis Antetokounmpo, Jevon Carter, Jrue Holiday, Khris Middleton, Pat Connaughton",0,5,5,2,2,70
+22200369,2022-12-07,2,16,"MIL","SAC","George Hill, Giannis Antetokounmpo, Jevon Carter, Jrue Holiday, Khris Middleton",0,5,0,3,3,68.8
+22200369,2022-12-07,2,17,"MIL","SAC","Brook Lopez, George Hill, Jevon Carter, Jrue Holiday, Khris Middleton",0,0,2,1,2,39.2
+22200369,2022-12-07,3,14,"SAC","MIL","De'Aaron Fox, Domantas Sabonis, Harrison Barnes, Keegan Murray, Kevin Huerter",0,12,12,9,9,274
+22200369,2022-12-07,3,15,"SAC","MIL","De'Aaron Fox, Domantas Sabonis, Harrison Barnes, Keegan Murray, Kevin Huerter",0,1,0,0,0,0
+22200369,2022-12-07,3,16,"SAC","MIL","De'Aaron Fox, Domantas Sabonis, Harrison Barnes, Kevin Huerter, Malik Monk",0,6,3,3,3,100
+22200369,2022-12-07,3,17,"SAC","MIL","Davion Mitchell, Domantas Sabonis, Harrison Barnes, Kevin Huerter, Malik Monk",0,2,4,2,2,66
+22200369,2022-12-07,3,18,"SAC","MIL","Davion Mitchell, Domantas Sabonis, Keegan Murray, Kevin Huerter, Malik Monk",0,4,8,4,4,135
+22200369,2022-12-07,3,18,"MIL","SAC","Brook Lopez, Giannis Antetokounmpo, Grayson Allen, Jrue Holiday, Khris Middleton",0,12,13,9,9,274
+22200369,2022-12-07,3,19,"SAC","MIL","Davion Mitchell, De'Aaron Fox, Domantas Sabonis, Keegan Murray, Malik Monk",0,2,0,3,3,85
+22200369,2022-12-07,3,20,"SAC","MIL","Davion Mitchell, Domantas Sabonis, Keegan Murray, Kevin Huerter, Malik Monk",0,1,0,0,0,0
+22200369,2022-12-07,3,19,"MIL","SAC","Bobby Portis, Giannis Antetokounmpo, Grayson Allen, Jrue Holiday, Khris Middleton",0,0,0,1,0,26
+22200369,2022-12-07,3,21,"SAC","MIL","Chimezie Metu, Davion Mitchell, De'Aaron Fox, Keegan Murray, Malik Monk",0,3,2,1,2,47.3000000000002
+22200369,2022-12-07,3,20,"MIL","SAC","Bobby Portis, Giannis Antetokounmpo, Grayson Allen, Jrue Holiday, Khris Middleton",0,0,2,0,1,25
+22200369,2022-12-07,3,21,"MIL","SAC","Bobby Portis, Giannis Antetokounmpo, Grayson Allen, Jrue Holiday, Pat Connaughton",0,3,4,2,2,49
+22200369,2022-12-07,3,22,"MIL","SAC","Bobby Portis, Brook Lopez, Grayson Allen, Jrue Holiday, Pat Connaughton",0,4,2,2,2,66
+22200369,2022-12-07,3,22,"SAC","MIL","De'Aaron Fox, Harrison Barnes, Keegan Murray, Kevin Huerter, Malik Monk",0,2,0,1,1,12.6999999999998
+22200369,2022-12-07,3,23,"MIL","SAC","Bobby Portis, Brook Lopez, Jevon Carter, Jrue Holiday, Pat Connaughton",0,8,7,7,6,214
+22200369,2022-12-07,3,24,"MIL","SAC","Bobby Portis, Brook Lopez, Jevon Carter, Jrue Holiday, Khris Middleton",0,2,3,2,1,47.3000000000002
+22200369,2022-12-07,3,25,"MIL","SAC","Bobby Portis, Brook Lopez, Jevon Carter, Jrue Holiday, Pat Connaughton",0,0,0,0,1,6
+22200369,2022-12-07,3,26,"MIL","SAC","Brook Lopez, George Hill, Jevon Carter, Khris Middleton, Pat Connaughton",0,0,2,1,1,12.6999999999998
+22200369,2022-12-07,4,23,"SAC","MIL","Chimezie Metu, Davion Mitchell, De'Aaron Fox, Keegan Murray, Malik Monk",0,4,6,7,6,171
+22200369,2022-12-07,4,24,"SAC","MIL","Davion Mitchell, De'Aaron Fox, Domantas Sabonis, Harrison Barnes, Malik Monk",0,2,0,1,1,40
+22200369,2022-12-07,4,25,"SAC","MIL","Davion Mitchell, De'Aaron Fox, Domantas Sabonis, Harrison Barnes, Malik Monk",0,1,0,0,0,0
+22200369,2022-12-07,4,26,"SAC","MIL","Davion Mitchell, Domantas Sabonis, Harrison Barnes, Kevin Huerter, Malik Monk",0,0,3,0,1,43
+22200369,2022-12-07,4,27,"MIL","SAC","Bobby Portis, George Hill, Giannis Antetokounmpo, Jevon Carter, Khris Middleton",0,2,4,4,4,112
+22200369,2022-12-07,4,27,"SAC","MIL","Davion Mitchell, Domantas Sabonis, Harrison Barnes, Keegan Murray, Kevin Huerter",0,4,5,3,3,103
+22200369,2022-12-07,4,28,"SAC","MIL","Davion Mitchell, Domantas Sabonis, Harrison Barnes, Keegan Murray, Kevin Huerter",0,0,0,0,0,16
+22200369,2022-12-07,4,29,"SAC","MIL","De'Aaron Fox, Domantas Sabonis, Harrison Barnes, Keegan Murray, Kevin Huerter",0,0,4,3,2,67
+22200369,2022-12-07,4,28,"MIL","SAC","George Hill, Giannis Antetokounmpo, Grayson Allen, Khris Middleton, Pat Connaughton",0,7,3,4,4,142
+22200369,2022-12-07,4,30,"SAC","MIL","De'Aaron Fox, Domantas Sabonis, Harrison Barnes, Keegan Murray, Kevin Huerter",0,0,2,0,1,11
+22200369,2022-12-07,4,31,"SAC","MIL","De'Aaron Fox, Domantas Sabonis, Harrison Barnes, Kevin Huerter, Malik Monk",0,6,9,7,6,189
+22200369,2022-12-07,4,29,"MIL","SAC","Brook Lopez, George Hill, Giannis Antetokounmpo, Grayson Allen, Pat Connaughton",0,5,4,3,3,103
+22200369,2022-12-07,4,32,"SAC","MIL","De'Aaron Fox, Domantas Sabonis, Harrison Barnes, Kevin Huerter, Malik Monk",0,0,0,0,0,2
+22200369,2022-12-07,4,30,"MIL","SAC","Brook Lopez, Giannis Antetokounmpo, Grayson Allen, Jrue Holiday, Pat Connaughton",0,4,0,2,2,57
+22200369,2022-12-07,4,31,"MIL","SAC","Brook Lopez, Giannis Antetokounmpo, Grayson Allen, Jrue Holiday, Khris Middleton",0,2,0,1,1,37
+22200369,2022-12-07,4,32,"MIL","SAC","Brook Lopez, Giannis Antetokounmpo, Jrue Holiday, Khris Middleton, Pat Connaughton",0,0,2,1,2,34
+22200369,2022-12-07,4,33,"MIL","SAC","Brook Lopez, Giannis Antetokounmpo, Grayson Allen, Jrue Holiday, Khris Middleton",0,9,4,5,5,157
+22200369,2022-12-07,4,33,"SAC","MIL","Alex Len, Keon Ellis, KZ Okpala, Matthew Dellavedova, Richaun Holmes",0,2,0,1,1,41
+22200369,2022-12-07,4,34,"SAC","MIL","Alex Len, Keon Ellis, KZ Okpala, Matthew Dellavedova, Richaun Holmes",1,0,0,1,2,37
+22200369,2022-12-07,4,34,"MIL","SAC","AJ Green, Jevon Carter, Khris Middleton, Sandro Mamukelashvili, Thanasis Antetokounmpo",0,0,2,1,1,41
+22200369,2022-12-07,4,35,"MIL","SAC","AJ Green, Jevon Carter, Khris Middleton, Sandro Mamukelashvili, Thanasis Antetokounmpo",1,0,0,2,1,37
+22200370,2022-12-07,1,1,"IND","MIN","Aaron Nesmith, Andrew Nembhard, Buddy Hield, Myles Turner, Tyrese Haliburton",0,3,10,8,8,243
+22200370,2022-12-07,1,1,"MIN","IND","Anthony Edwards, D'Angelo Russell, Jaden McDaniels, Kyle Anderson, Rudy Gobert",0,10,3,9,8,258
+22200370,2022-12-07,1,2,"IND","MIN","Aaron Nesmith, Andrew Nembhard, Buddy Hield, Myles Turner, Tyrese Haliburton",0,0,0,0,1,15
+22200370,2022-12-07,1,3,"IND","MIN","Andrew Nembhard, Bennedict Mathurin, Buddy Hield, Myles Turner, Tyrese Haliburton",0,5,9,8,7,190
+22200370,2022-12-07,1,2,"MIN","IND","Anthony Edwards, D'Angelo Russell, Jaden McDaniels, Jaylen Nowell, Rudy Gobert",0,9,3,5,5,132
+22200370,2022-12-07,1,4,"IND","MIN","Bennedict Mathurin, Buddy Hield, Isaiah Jackson, T.J. McConnell, Tyrese Haliburton",0,0,3,1,2,57
+22200370,2022-12-07,1,3,"MIN","IND","Anthony Edwards, Jaden McDaniels, Jaylen Nowell, Jordan McLaughlin, Naz Reid",0,2,2,3,4,102
+22200370,2022-12-07,1,5,"IND","MIN","Bennedict Mathurin, Buddy Hield, Isaiah Jackson, Oshae Brissett, T.J. McConnell",0,2,0,1,0,11
+22200370,2022-12-07,1,4,"MIN","IND","Anthony Edwards, Austin Rivers, Jaylen Nowell, Jordan McLaughlin, Naz Reid",0,5,7,4,4,66
+22200370,2022-12-07,1,6,"IND","MIN","Bennedict Mathurin, Isaiah Jackson, Kendall Brown, Oshae Brissett, T.J. McConnell",0,7,13,9,10,204
+22200370,2022-12-07,1,5,"MIN","IND","Anthony Edwards, Austin Rivers, Jaylen Nowell, Jordan McLaughlin, Rudy Gobert",0,9,2,7,6,162
+22200370,2022-12-07,2,7,"IND","MIN","Andrew Nembhard, Bennedict Mathurin, Goga Bitadze, Kendall Brown, Oshae Brissett",0,3,6,5,4,94
+22200370,2022-12-07,2,6,"MIN","IND","Austin Rivers, Jaylen Nowell, Jordan McLaughlin, Kyle Anderson, Rudy Gobert",0,8,5,6,6,133
+22200370,2022-12-07,2,8,"IND","MIN","Aaron Nesmith, Andrew Nembhard, Bennedict Mathurin, Goga Bitadze, Oshae Brissett",0,2,3,1,2,39
+22200370,2022-12-07,2,7,"MIN","IND","Austin Rivers, D'Angelo Russell, Jordan McLaughlin, Kyle Anderson, Rudy Gobert",0,0,2,0,1,19
+22200370,2022-12-07,2,8,"MIN","IND","Austin Rivers, Jaylen Nowell, Jordan McLaughlin, Kyle Anderson, Rudy Gobert",0,1,0,0,0,0
+22200370,2022-12-07,2,9,"MIN","IND","D'Angelo Russell, Jaden McDaniels, Jordan McLaughlin, Kyle Anderson, Rudy Gobert",0,0,0,2,1,42
+22200370,2022-12-07,2,9,"IND","MIN","Aaron Nesmith, Bennedict Mathurin, Myles Turner, Oshae Brissett, Tyrese Haliburton",0,2,0,3,2,68
+22200370,2022-12-07,2,10,"MIN","IND","D'Angelo Russell, Jaden McDaniels, Jordan McLaughlin, Kyle Anderson, Luka Garza",0,5,3,2,2,60
+22200370,2022-12-07,2,10,"IND","MIN","Aaron Nesmith, Bennedict Mathurin, Buddy Hield, Myles Turner, Tyrese Haliburton",0,37,19,20,21,519
+22200370,2022-12-07,2,11,"MIN","IND","D'Angelo Russell, Jaden McDaniels, Kyle Anderson, Luka Garza, Wendell Moore Jr.",0,2,6,2,2,61
+22200370,2022-12-07,2,12,"MIN","IND","Anthony Edwards, D'Angelo Russell, Jaden McDaniels, Luka Garza, Wendell Moore Jr.",0,2,11,5,6,141
+22200370,2022-12-07,2,13,"MIN","IND","Anthony Edwards, D'Angelo Russell, Jaden McDaniels, Kyle Anderson, Rudy Gobert",0,1,2,2,1,39
+22200370,2022-12-07,2,14,"MIN","IND","Anthony Edwards, Jaden McDaniels, Jordan McLaughlin, Kyle Anderson, Rudy Gobert",0,9,13,8,8,189.2
+22200370,2022-12-07,2,15,"MIN","IND","Anthony Edwards, Austin Rivers, Jaden McDaniels, Jordan McLaughlin, Kyle Anderson",0,0,2,2,2,35.8
+22200370,2022-12-07,3,11,"IND","MIN","Aaron Nesmith, Andrew Nembhard, Buddy Hield, Myles Turner, Tyrese Haliburton",0,19,13,14,14,390
+22200370,2022-12-07,3,12,"IND","MIN","Andrew Nembhard, Bennedict Mathurin, Buddy Hield, Myles Turner, Tyrese Haliburton",0,2,0,3,2,64
+22200370,2022-12-07,3,13,"IND","MIN","Andrew Nembhard, Bennedict Mathurin, Buddy Hield, Isaiah Jackson, Tyrese Haliburton",0,8,10,7,7,188
+22200370,2022-12-07,3,14,"IND","MIN","Andrew Nembhard, Bennedict Mathurin, Buddy Hield, Isaiah Jackson, T.J. McConnell",0,0,4,2,3,78
+22200370,2022-12-07,3,16,"MIN","IND","Anthony Edwards, D'Angelo Russell, Jaden McDaniels, Kyle Anderson, Rudy Gobert",0,0,2,1,1,41
+22200370,2022-12-07,3,17,"MIN","IND","Anthony Edwards, Austin Rivers, D'Angelo Russell, Jaden McDaniels, Rudy Gobert",0,9,17,10,10,264
+22200370,2022-12-07,3,18,"MIN","IND","Anthony Edwards, D'Angelo Russell, Jaden McDaniels, Kyle Anderson, Rudy Gobert",0,4,0,3,3,85
+22200370,2022-12-07,3,19,"MIN","IND","Anthony Edwards, D'Angelo Russell, Jaden McDaniels, Kyle Anderson, Naz Reid",0,0,0,1,1,36
+22200370,2022-12-07,3,20,"MIN","IND","Anthony Edwards, Jaylen Nowell, Jordan McLaughlin, Kyle Anderson, Naz Reid",0,10,10,8,9,216
+22200370,2022-12-07,3,21,"MIN","IND","Austin Rivers, Jaylen Nowell, Jordan McLaughlin, Kyle Anderson, Naz Reid",0,4,0,3,2,78
+22200370,2022-12-07,4,15,"IND","MIN","Aaron Nesmith, Andrew Nembhard, Bennedict Mathurin, Isaiah Jackson, T.J. McConnell",0,4,6,5,6,197
+22200370,2022-12-07,4,16,"IND","MIN","Aaron Nesmith, Andrew Nembhard, Bennedict Mathurin, Myles Turner, T.J. McConnell",0,0,4,3,3,73
+22200370,2022-12-07,4,17,"IND","MIN","Aaron Nesmith, Bennedict Mathurin, Buddy Hield, Myles Turner, Tyrese Haliburton",0,5,5,3,2,116
+22200370,2022-12-07,4,18,"IND","MIN","Aaron Nesmith, Bennedict Mathurin, Buddy Hield, Myles Turner, Tyrese Haliburton",0,0,0,0,1,0
+22200370,2022-12-07,4,19,"IND","MIN","Andrew Nembhard, Bennedict Mathurin, Buddy Hield, Myles Turner, Tyrese Haliburton",0,0,0,1,0,8
+22200370,2022-12-07,4,20,"IND","MIN","Aaron Nesmith, Andrew Nembhard, Buddy Hield, Myles Turner, Tyrese Haliburton",0,16,14,9,10,317
+22200370,2022-12-07,4,21,"IND","MIN","Andrew Nembhard, Bennedict Mathurin, Buddy Hield, Myles Turner, Tyrese Haliburton",0,0,2,2,1,9
+22200370,2022-12-07,4,22,"MIN","IND","Austin Rivers, Jaden McDaniels, Jaylen Nowell, Jordan McLaughlin, Naz Reid",0,6,4,6,5,195
+22200370,2022-12-07,4,23,"MIN","IND","Austin Rivers, Jaden McDaniels, Jaylen Nowell, Jordan McLaughlin, Naz Reid",0,0,0,0,0,2
+22200370,2022-12-07,4,24,"MIN","IND","Austin Rivers, D'Angelo Russell, Jaden McDaniels, Jaylen Nowell, Rudy Gobert",0,9,5,6,6,189
+22200370,2022-12-07,4,25,"MIN","IND","Anthony Edwards, D'Angelo Russell, Jaden McDaniels, Jaylen Nowell, Rudy Gobert",0,12,16,9,9,301.2
+22200370,2022-12-07,4,26,"MIN","IND","Anthony Edwards, Austin Rivers, Jaden McDaniels, Kyle Anderson, Rudy Gobert",0,4,0,2,3,32.8000000000002
+22200371,2022-12-07,1,1,"DET","NOP","Bojan Bogdanovic, Isaiah Stewart, Jaden Ivey, Killian Hayes, Marvin Bagley III",0,16,15,16,15,426
+22200371,2022-12-07,1,1,"NOP","DET","CJ McCollum, Dyson Daniels, Jonas Valanciunas, Trey Murphy III, Zion Williamson",0,17,16,16,16,438
+22200371,2022-12-07,1,2,"DET","NOP","Bojan Bogdanovic, Isaiah Stewart, Jaden Ivey, Killian Hayes, Marvin Bagley III",0,0,2,0,1,12
+22200371,2022-12-07,1,3,"DET","NOP","Alec Burks, Bojan Bogdanovic, Isaiah Stewart, Jalen Duren, Killian Hayes",0,4,0,2,1,45
+22200371,2022-12-07,1,2,"NOP","DET","CJ McCollum, Dyson Daniels, Larry Nance Jr., Naji Marshall, Trey Murphy III",0,4,7,4,5,124
+22200371,2022-12-07,1,4,"DET","NOP","Alec Burks, Bojan Bogdanovic, Jalen Duren, Killian Hayes, Saddiq Bey",0,2,4,3,3,79
+22200371,2022-12-07,1,3,"NOP","DET","CJ McCollum, Larry Nance Jr., Naji Marshall, Trey Murphy III, Zion Williamson",0,0,2,2,2,67
+22200371,2022-12-07,1,5,"DET","NOP","Alec Burks, Bojan Bogdanovic, Jalen Duren, Killian Hayes, Saddiq Bey",0,1,0,0,0,0
+22200371,2022-12-07,1,6,"DET","NOP","Alec Burks, Cory Joseph, Jalen Duren, Kevin Knox II, Saddiq Bey",0,5,6,7,7,158
+22200371,2022-12-07,1,4,"NOP","DET","Devonte' Graham, Jose Alvarado, Larry Nance Jr., Naji Marshall, Zion Williamson",0,6,3,5,5,91
+22200371,2022-12-07,2,7,"DET","NOP","Alec Burks, Cory Joseph, Jalen Duren, Kevin Knox II, Saddiq Bey",0,5,7,7,8,239
+22200371,2022-12-07,2,5,"NOP","DET","Devonte' Graham, Jose Alvarado, Larry Nance Jr., Naji Marshall, Zion Williamson",0,3,5,6,6,185
+22200371,2022-12-07,2,6,"NOP","DET","Devonte' Graham, Jonas Valanciunas, Jose Alvarado, Larry Nance Jr., Naji Marshall",0,7,0,4,3,122
+22200371,2022-12-07,2,7,"NOP","DET","CJ McCollum, Jonas Valanciunas, Jose Alvarado, Larry Nance Jr., Naji Marshall",0,3,2,2,2,59
+22200371,2022-12-07,2,8,"DET","NOP","Bojan Bogdanovic, Cory Joseph, Jaden Ivey, Kevin Knox II, Marvin Bagley III",0,0,3,2,2,68
+22200371,2022-12-07,2,8,"NOP","DET","CJ McCollum, Dyson Daniels, Jonas Valanciunas, Jose Alvarado, Larry Nance Jr.",0,6,5,6,6,176
+22200371,2022-12-07,2,9,"DET","NOP","Bojan Bogdanovic, Isaiah Stewart, Jaden Ivey, Killian Hayes, Marvin Bagley III",0,7,12,11,10,302
+22200371,2022-12-07,2,9,"NOP","DET","Dyson Daniels, Jonas Valanciunas, Jose Alvarado, Trey Murphy III, Zion Williamson",0,3,0,3,3,78
+22200371,2022-12-07,2,10,"DET","NOP","Alec Burks, Bojan Bogdanovic, Isaiah Stewart, Killian Hayes, Marvin Bagley III",0,3,7,4,3,84.8
+22200371,2022-12-07,2,11,"DET","NOP","Bojan Bogdanovic, Isaiah Stewart, Jaden Ivey, Killian Hayes, Marvin Bagley III",0,0,0,0,1,11
+22200371,2022-12-07,2,10,"NOP","DET","Devonte' Graham, Dyson Daniels, Jonas Valanciunas, Jose Alvarado, Zion Williamson",0,2,0,1,1,29
+22200371,2022-12-07,2,12,"DET","NOP","Alec Burks, Bojan Bogdanovic, Isaiah Stewart, Jalen Duren, Killian Hayes",0,0,0,1,2,15.2
+22200371,2022-12-07,2,11,"NOP","DET","Devonte' Graham, Jonas Valanciunas, Jose Alvarado, Naji Marshall, Zion Williamson",0,4,3,2,2,42.3
+22200371,2022-12-07,2,12,"NOP","DET","Devonte' Graham, Jonas Valanciunas, Jose Alvarado, Naji Marshall, Zion Williamson",0,1,0,0,0,0
+22200371,2022-12-07,2,13,"NOP","DET","Devonte' Graham, Jose Alvarado, Larry Nance Jr., Naji Marshall, Zion Williamson",0,0,0,0,0,13.5
+22200371,2022-12-07,2,14,"NOP","DET","Devonte' Graham, Jose Alvarado, Larry Nance Jr., Naji Marshall, Zion Williamson",0,0,0,0,1,0
+22200371,2022-12-07,2,15,"NOP","DET","Devonte' Graham, Jose Alvarado, Naji Marshall, Trey Murphy III, Zion Williamson",0,0,0,2,1,15.2
+22200371,2022-12-07,3,13,"DET","NOP","Bojan Bogdanovic, Isaiah Stewart, Jaden Ivey, Killian Hayes, Marvin Bagley III",0,2,5,5,6,167
+22200371,2022-12-07,3,14,"DET","NOP","Isaiah Stewart, Jaden Ivey, Killian Hayes, Marvin Bagley III, Saddiq Bey",0,5,2,3,2,92
+22200371,2022-12-07,3,15,"DET","NOP","Isaiah Stewart, Jaden Ivey, Jalen Duren, Killian Hayes, Saddiq Bey",0,15,7,8,7,213
+22200371,2022-12-07,3,16,"DET","NOP","Isaiah Stewart, Jaden Ivey, Killian Hayes, Marvin Bagley III, Saddiq Bey",0,0,2,0,1,18
+22200371,2022-12-07,3,16,"NOP","DET","CJ McCollum, Dyson Daniels, Jonas Valanciunas, Trey Murphy III, Zion Williamson",0,0,0,1,0,26
+22200371,2022-12-07,3,17,"NOP","DET","Dyson Daniels, Jonas Valanciunas, Jose Alvarado, Trey Murphy III, Zion Williamson",0,11,14,11,12,334
+22200371,2022-12-07,3,17,"DET","NOP","Alec Burks, Hamidou Diallo, Jalen Duren, Killian Hayes, Saddiq Bey",0,5,5,5,5,148
+22200371,2022-12-07,3,18,"NOP","DET","Jonas Valanciunas, Jose Alvarado, Naji Marshall, Trey Murphy III, Zion Williamson",0,2,5,3,3,92
+22200371,2022-12-07,3,18,"DET","NOP","Alec Burks, Cory Joseph, Hamidou Diallo, Jalen Duren, Saddiq Bey",0,3,2,3,2,82
+22200371,2022-12-07,3,19,"DET","NOP","Alec Burks, Hamidou Diallo, Jalen Duren, Killian Hayes, Saddiq Bey",0,0,0,0,1,0
+22200371,2022-12-07,3,19,"NOP","DET","CJ McCollum, Jonas Valanciunas, Larry Nance Jr., Naji Marshall, Trey Murphy III",0,3,3,2,2,49
+22200371,2022-12-07,3,20,"NOP","DET","CJ McCollum, Dyson Daniels, Larry Nance Jr., Naji Marshall, Trey Murphy III",0,7,8,7,7,219
+22200371,2022-12-07,4,20,"DET","NOP","Alec Burks, Cory Joseph, Hamidou Diallo, Jalen Duren, Kevin Knox II",0,9,9,9,9,282
+22200371,2022-12-07,4,21,"DET","NOP","Alec Burks, Cory Joseph, Hamidou Diallo, Jalen Duren, Kevin Knox II",0,0,0,0,0,11
+22200371,2022-12-07,4,22,"DET","NOP","Alec Burks, Cory Joseph, Jalen Duren, Kevin Knox II, Saddiq Bey",0,0,0,1,1,38
+22200371,2022-12-07,4,23,"DET","NOP","Alec Burks, Cory Joseph, Isaiah Stewart, Kevin Knox II, Saddiq Bey",0,4,4,3,2,104
+22200371,2022-12-07,4,21,"NOP","DET","CJ McCollum, Dyson Daniels, Larry Nance Jr., Naji Marshall, Zion Williamson",0,0,1,2,2,56
+22200371,2022-12-07,4,22,"NOP","DET","CJ McCollum, Larry Nance Jr., Naji Marshall, Trey Murphy III, Zion Williamson",0,7,6,6,6,190
+22200371,2022-12-07,4,24,"DET","NOP","Cory Joseph, Isaiah Stewart, Jalen Duren, Killian Hayes, Saddiq Bey",0,10,8,8,8,265.6
+22200371,2022-12-07,4,23,"NOP","DET","Devonte' Graham, Larry Nance Jr., Naji Marshall, Trey Murphy III, Zion Williamson",0,2,2,1,1,36
+22200371,2022-12-07,4,24,"NOP","DET","Devonte' Graham, Jonas Valanciunas, Larry Nance Jr., Naji Marshall, Trey Murphy III",0,4,4,3,4,153
+22200371,2022-12-07,4,25,"DET","NOP","Hamidou Diallo, Isaiah Stewart, Kevin Knox II, Killian Hayes, Saddiq Bey",0,0,2,0,1,1.40000000000009
+22200371,2022-12-07,4,25,"NOP","DET","Devonte' Graham, Jonas Valanciunas, Naji Marshall, Trey Murphy III, Zion Williamson",0,0,0,1,1,48
+22200371,2022-12-07,4,26,"NOP","DET","CJ McCollum, Jonas Valanciunas, Naji Marshall, Trey Murphy III, Zion Williamson",0,2,2,2,1,55
+22200371,2022-12-07,4,26,"DET","NOP","Alec Burks, Isaiah Stewart, Jalen Duren, Killian Hayes, Saddiq Bey",0,2,2,2,1,18
+22200371,2022-12-07,4,27,"NOP","DET","CJ McCollum, Larry Nance Jr., Naji Marshall, Trey Murphy III, Zion Williamson",0,4,6,4,4,127.8
+22200371,2022-12-07,4,28,"NOP","DET","Dyson Daniels, Larry Nance Jr., Naji Marshall, Trey Murphy III, Zion Williamson",0,0,0,0,0,6.29999999999973
+22200371,2022-12-07,4,29,"NOP","DET","CJ McCollum, Larry Nance Jr., Naji Marshall, Trey Murphy III, Zion Williamson",0,4,2,2,1,29.9000000000001
+22200371,2022-12-07,4,30,"NOP","DET","Dyson Daniels, Larry Nance Jr., Naji Marshall, Trey Murphy III, Zion Williamson",0,0,0,0,1,0
+22200371,2022-12-07,4,31,"NOP","DET","Dyson Daniels, Larry Nance Jr., Naji Marshall, Trey Murphy III, Zion Williamson",0,2,2,1,2,18
+22200372,2022-12-07,1,1,"GSW","UTA","JaMychal Green, Jordan Poole, Kevon Looney, Klay Thompson, Ty Jerome",0,17,14,11,10,338
+22200372,2022-12-07,1,1,"UTA","GSW","Collin Sexton, Jordan Clarkson, Kelly Olynyk, Malik Beasley, Walker Kessler",0,14,18,10,11,338
+22200372,2022-12-07,1,2,"GSW","UTA","JaMychal Green, Jonathan Kuminga, Jordan Poole, Klay Thompson, Ty Jerome",0,0,4,2,3,51
+22200372,2022-12-07,1,3,"GSW","UTA","JaMychal Green, Jordan Poole, Kevon Looney, Klay Thompson, Ty Jerome",0,1,0,0,0,0
+22200372,2022-12-07,1,4,"GSW","UTA","Donte DiVincenzo, JaMychal Green, Jonathan Kuminga, Jordan Poole, Klay Thompson",0,3,0,1,0,26
+22200372,2022-12-07,1,5,"GSW","UTA","Anthony Lamb, Donte DiVincenzo, Jonathan Kuminga, Jordan Poole, Klay Thompson",0,4,4,4,4,88
+22200372,2022-12-07,1,6,"GSW","UTA","Donte DiVincenzo, JaMychal Green, Jonathan Kuminga, Jordan Poole, Klay Thompson",0,0,0,0,1,0
+22200372,2022-12-07,1,2,"UTA","GSW","Jarred Vanderbilt, Kelly Olynyk, Malik Beasley, Nickeil Alexander-Walker, Simone Fontecchio",0,8,7,8,7,165
+22200372,2022-12-07,1,7,"GSW","UTA","Anthony Lamb, Donte DiVincenzo, Jonathan Kuminga, Jordan Poole, Moses Moody",0,10,8,9,8,217
+22200372,2022-12-07,1,3,"UTA","GSW","Jarred Vanderbilt, Jordan Clarkson, Nickeil Alexander-Walker, Rudy Gay, Simone Fontecchio",0,8,10,8,9,217
+22200372,2022-12-07,2,8,"GSW","UTA","Anthony Lamb, Donte DiVincenzo, James Wiseman, Klay Thompson, Ty Jerome",0,12,15,12,12,294
+22200372,2022-12-07,2,9,"GSW","UTA","Anthony Lamb, Donte DiVincenzo, James Wiseman, Klay Thompson, Ty Jerome",0,0,0,0,0,8
+22200372,2022-12-07,2,4,"UTA","GSW","Jarred Vanderbilt, Jordan Clarkson, Nickeil Alexander-Walker, Rudy Gay, Simone Fontecchio",0,5,6,5,5,127
+22200372,2022-12-07,2,10,"GSW","UTA","Donte DiVincenzo, JaMychal Green, Kevon Looney, Moses Moody, Ty Jerome",0,0,2,1,2,21
+22200372,2022-12-07,2,11,"GSW","UTA","Donte DiVincenzo, JaMychal Green, Jordan Poole, Kevon Looney, Moses Moody",0,0,0,1,1,26
+22200372,2022-12-07,2,5,"UTA","GSW","Collin Sexton, Jordan Clarkson, Malik Beasley, Rudy Gay, Walker Kessler",0,6,3,3,2,76
+22200372,2022-12-07,2,12,"GSW","UTA","JaMychal Green, Jonathan Kuminga, Jordan Poole, Kevon Looney, Moses Moody",0,6,4,3,2,97
+22200372,2022-12-07,2,6,"UTA","GSW","Collin Sexton, Jordan Clarkson, Kelly Olynyk, Malik Beasley, Walker Kessler",0,6,3,6,6,120
+22200372,2022-12-07,2,13,"GSW","UTA","JaMychal Green, Jonathan Kuminga, Jordan Poole, Kevon Looney, Moses Moody",0,0,0,0,1,0
+22200372,2022-12-07,2,14,"GSW","UTA","Jonathan Kuminga, Jordan Poole, Kevon Looney, Klay Thompson, Moses Moody",0,7,6,6,6,165
+22200372,2022-12-07,2,7,"UTA","GSW","Collin Sexton, Kelly Olynyk, Malik Beasley, Nickeil Alexander-Walker, Walker Kessler",0,4,6,3,4,106
+22200372,2022-12-07,2,15,"GSW","UTA","Donte DiVincenzo, Jonathan Kuminga, Jordan Poole, Kevon Looney, Klay Thompson",0,9,9,5,5,109
+22200372,2022-12-07,2,8,"UTA","GSW","Collin Sexton, Jarred Vanderbilt, Kelly Olynyk, Malik Beasley, Nickeil Alexander-Walker",0,2,6,3,3,78
+22200372,2022-12-07,2,9,"UTA","GSW","Collin Sexton, Jarred Vanderbilt, Jordan Clarkson, Kelly Olynyk, Malik Beasley",0,0,1,1,1,40
+22200372,2022-12-07,2,10,"UTA","GSW","Collin Sexton, Jarred Vanderbilt, Jordan Clarkson, Malik Beasley, Simone Fontecchio",0,13,9,8,7,173
+22200372,2022-12-07,3,16,"GSW","UTA","JaMychal Green, Jordan Poole, Kevon Looney, Klay Thompson, Ty Jerome",0,9,13,12,12,356
+22200372,2022-12-07,3,17,"GSW","UTA","Anthony Lamb, Donte DiVincenzo, Jordan Poole, Kevon Looney, Klay Thompson",0,0,3,1,2,44
+22200372,2022-12-07,3,11,"UTA","GSW","Collin Sexton, Jordan Clarkson, Kelly Olynyk, Malik Beasley, Walker Kessler",0,16,9,14,13,400
+22200372,2022-12-07,3,18,"GSW","UTA","Anthony Lamb, Donte DiVincenzo, Jonathan Kuminga, Jordan Poole, Klay Thompson",0,8,13,6,6,183
+22200372,2022-12-07,3,12,"UTA","GSW","Jordan Clarkson, Kelly Olynyk, Malik Beasley, Nickeil Alexander-Walker, Walker Kessler",0,3,0,1,1,33
+22200372,2022-12-07,3,19,"GSW","UTA","Anthony Lamb, Donte DiVincenzo, Jonathan Kuminga, Jordan Poole, Moses Moody",0,5,5,5,4,137
+22200372,2022-12-07,3,13,"UTA","GSW","Jarred Vanderbilt, Jordan Clarkson, Kelly Olynyk, Malik Beasley, Nickeil Alexander-Walker",0,10,8,5,5,150
+22200372,2022-12-07,3,14,"UTA","GSW","Jarred Vanderbilt, Jordan Clarkson, Nickeil Alexander-Walker, Rudy Gay, Simone Fontecchio",0,5,5,4,5,137
+22200372,2022-12-07,4,20,"GSW","UTA","Donte DiVincenzo, Jonathan Kuminga, Kevon Looney, Klay Thompson, Ty Jerome",0,11,11,8,8,263
+22200372,2022-12-07,4,21,"GSW","UTA","Donte DiVincenzo, Jonathan Kuminga, Kevon Looney, Moses Moody, Ty Jerome",0,2,0,2,2,67
+22200372,2022-12-07,4,22,"GSW","UTA","Donte DiVincenzo, Jonathan Kuminga, Jordan Poole, Kevon Looney, Moses Moody",0,5,0,2,2,67
+22200372,2022-12-07,4,15,"UTA","GSW","Collin Sexton, Jarred Vanderbilt, Nickeil Alexander-Walker, Rudy Gay, Simone Fontecchio",0,11,11,8,8,263
+22200372,2022-12-07,4,23,"GSW","UTA","Donte DiVincenzo, JaMychal Green, Jonathan Kuminga, Jordan Poole, Moses Moody",0,3,6,3,3,106
+22200372,2022-12-07,4,16,"UTA","GSW","Jarred Vanderbilt, Jordan Clarkson, Nickeil Alexander-Walker, Rudy Gay, Simone Fontecchio",0,0,2,2,2,67
+22200372,2022-12-07,4,24,"GSW","UTA","Jonathan Kuminga, Jordan Poole, Kevon Looney, Klay Thompson, Moses Moody",0,9,2,6,5,181.1
+22200372,2022-12-07,4,25,"GSW","UTA","Donte DiVincenzo, Jonathan Kuminga, Kevon Looney, Klay Thompson, Moses Moody",0,1,0,0,1,11
+22200372,2022-12-07,4,17,"UTA","GSW","Jordan Clarkson, Kelly Olynyk, Malik Beasley, Nickeil Alexander-Walker, Walker Kessler",0,8,18,11,11,365.1
+22200372,2022-12-07,4,18,"UTA","GSW","Kelly Olynyk, Malik Beasley, Nickeil Alexander-Walker, Ochai Agbaji, Simone Fontecchio",0,5,1,3,4,24.9000000000001
+22200372,2022-12-07,4,26,"GSW","UTA","Donte DiVincenzo, Jordan Poole, Klay Thompson, Moses Moody, Ty Jerome",0,1,0,2,1,11.5999999999999
+22200372,2022-12-07,4,27,"GSW","UTA","Donte DiVincenzo, Jonathan Kuminga, Kevon Looney, Klay Thompson, Moses Moody",0,0,3,0,1,6.40000000000009
+22200372,2022-12-07,4,28,"GSW","UTA","Donte DiVincenzo, Jordan Poole, Klay Thompson, Moses Moody, Ty Jerome",0,0,2,2,1,6.90000000000009
+22200373,2022-12-07,1,1,"BOS","PHX","Blake Griffin, Grant Williams, Jaylen Brown, Jayson Tatum, Marcus Smart",0,11,12,13,14,359
+22200373,2022-12-07,1,1,"PHX","BOS","Chris Paul, Deandre Ayton, Devin Booker, Mikal Bridges, Torrey Craig",0,16,16,17,17,465
+22200373,2022-12-07,1,2,"BOS","PHX","Blake Griffin, Grant Williams, Jaylen Brown, Malcolm Brogdon, Marcus Smart",0,5,4,4,3,106
+22200373,2022-12-07,1,3,"BOS","PHX","Grant Williams, Jaylen Brown, Luke Kornet, Malcolm Brogdon, Marcus Smart",0,0,0,0,1,25
+22200373,2022-12-07,1,2,"PHX","BOS","Cameron Payne, Damion Lee, Deandre Ayton, Devin Booker, Torrey Craig",0,0,0,1,0,25
+22200373,2022-12-07,1,4,"BOS","PHX","Derrick White, Grant Williams, Jaylen Brown, Luke Kornet, Malcolm Brogdon",0,4,0,2,2,56
+22200373,2022-12-07,1,3,"PHX","BOS","Cameron Payne, Damion Lee, Devin Booker, Jock Landale, Torrey Craig",0,3,14,6,6,177.1
+22200373,2022-12-07,1,4,"PHX","BOS","Cameron Payne, Damion Lee, Devin Booker, Jock Landale, Mikal Bridges",0,2,1,2,3,52.9
+22200373,2022-12-07,1,5,"BOS","PHX","Derrick White, Jayson Tatum, Luke Kornet, Malcolm Brogdon, Sam Hauser",0,11,3,6,5,148.8
+22200373,2022-12-07,1,6,"BOS","PHX","Derrick White, Grant Williams, Jayson Tatum, Malcolm Brogdon, Marcus Smart",0,0,2,1,1,25.2
+22200373,2022-12-07,2,5,"PHX","BOS","Cameron Payne, Damion Lee, Jock Landale, Josh Okogie, Mikal Bridges",0,3,9,5,6,165
+22200373,2022-12-07,2,7,"BOS","PHX","Derrick White, Jayson Tatum, Luke Kornet, Malcolm Brogdon, Sam Hauser",0,11,7,8,8,222
+22200373,2022-12-07,2,6,"PHX","BOS","Chris Paul, Deandre Ayton, Josh Okogie, Landry Shamet, Mikal Bridges",0,6,2,6,5,153
+22200373,2022-12-07,2,7,"PHX","BOS","Chris Paul, Deandre Ayton, Devin Booker, Landry Shamet, Mikal Bridges",0,0,7,2,3,70
+22200373,2022-12-07,2,8,"PHX","BOS","Chris Paul, Deandre Ayton, Devin Booker, Mikal Bridges, Torrey Craig",0,12,18,11,11,264
+22200373,2022-12-07,2,8,"BOS","PHX","Derrick White, Grant Williams, Jaylen Brown, Luke Kornet, Marcus Smart",0,0,2,3,2,76
+22200373,2022-12-07,2,9,"PHX","BOS","Chris Paul, Deandre Ayton, Josh Okogie, Mikal Bridges, Torrey Craig",0,0,2,3,2,68
+22200373,2022-12-07,2,9,"BOS","PHX","Blake Griffin, Derrick White, Grant Williams, Jaylen Brown, Marcus Smart",0,12,2,5,5,131
+22200373,2022-12-07,2,10,"BOS","PHX","Derrick White, Grant Williams, Jaylen Brown, Luke Kornet, Marcus Smart",0,0,0,0,1,20
+22200373,2022-12-07,2,11,"BOS","PHX","Blake Griffin, Grant Williams, Jaylen Brown, Jayson Tatum, Marcus Smart",0,7,4,5,4,112
+22200373,2022-12-07,2,12,"BOS","PHX","Blake Griffin, Grant Williams, Jaylen Brown, Jayson Tatum, Marcus Smart",0,1,0,0,0,0
+22200373,2022-12-07,2,13,"BOS","PHX","Blake Griffin, Jaylen Brown, Jayson Tatum, Malcolm Brogdon, Marcus Smart",0,7,6,6,7,159
+22200373,2022-12-07,3,10,"PHX","BOS","Chris Paul, Deandre Ayton, Devin Booker, Mikal Bridges, Torrey Craig",0,10,27,15,16,423
+22200373,2022-12-07,3,14,"BOS","PHX","Blake Griffin, Grant Williams, Jaylen Brown, Jayson Tatum, Marcus Smart",0,27,10,16,15,423
+22200373,2022-12-07,3,15,"BOS","PHX","Jaylen Brown, Jayson Tatum, Luke Kornet, Malcolm Brogdon, Marcus Smart",0,0,5,4,4,105
+22200373,2022-12-07,3,11,"PHX","BOS","Bismack Biyombo, Cameron Payne, Damion Lee, Josh Okogie, Landry Shamet",0,13,8,12,11,297
+22200373,2022-12-07,3,16,"BOS","PHX","Derrick White, Jayson Tatum, Luke Kornet, Malcolm Brogdon, Sam Hauser",0,8,8,7,8,192
+22200373,2022-12-07,4,12,"PHX","BOS","Cameron Payne, Damion Lee, Dario Saric, Josh Okogie, Landry Shamet",0,4,2,5,4,107
+22200373,2022-12-07,4,13,"PHX","BOS","Cameron Payne, Damion Lee, Dario Saric, Josh Okogie, Landry Shamet",0,0,0,0,0,7
+22200373,2022-12-07,4,14,"PHX","BOS","Cameron Payne, Dario Saric, Ish Wainright, Josh Okogie, Landry Shamet",0,7,12,5,5,141
+22200373,2022-12-07,4,17,"BOS","PHX","Derrick White, Jaylen Brown, Luke Kornet, Malcolm Brogdon, Sam Hauser",0,2,4,4,5,114
+22200373,2022-12-07,4,15,"PHX","BOS","Cameron Payne, Dario Saric, Ish Wainright, Josh Okogie, Landry Shamet",0,0,0,0,1,6
+22200373,2022-12-07,4,16,"PHX","BOS","Dario Saric, Ish Wainright, Jock Landale, Josh Okogie, Landry Shamet",0,22,7,16,16,459
+22200373,2022-12-07,4,18,"BOS","PHX","Derrick White, Justin Jackson, Luke Kornet, Payton Pritchard, Sam Hauser",0,10,7,4,4,108
+22200373,2022-12-07,4,19,"BOS","PHX","Justin Jackson, Luke Kornet, Noah Vonleh, Payton Pritchard, Sam Hauser",0,9,22,18,17,498
