@@ -84,7 +84,8 @@ paint_def %>%
                  color = "black",
                  weight = px(2))),
     locations = cells_body(columns = c(team_logo))) %>%
-  tab_header(title = md("**Opponents FG% in the paint while player is on/off the floor:**")) %>%
+  tab_header(title = md("**Opponents FG% in the paint while player is on/off the floor:**"),
+             subtitle = "Minimum 200 opp. paint FGA with player on") %>%
   tab_options(
     table.width = px(580),
     data_row.padding = px(1))
