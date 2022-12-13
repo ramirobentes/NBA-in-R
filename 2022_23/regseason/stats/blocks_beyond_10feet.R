@@ -2,6 +2,8 @@ library(tidyverse)
 library(hoopR)
 library(janitor)
 
+pbp2023 <- read_rds("https://github.com/ramirobentes/NBA-in-R/blob/master/2022_23/regseason/pbp/pbp-poss-rs23/data.rds?raw=true")
+
 shots_season <- nba_shotchartdetail(season = "2022-23",
                                     player_id = 0) %>%
   pluck("Shot_Chart_Detail") %>%
