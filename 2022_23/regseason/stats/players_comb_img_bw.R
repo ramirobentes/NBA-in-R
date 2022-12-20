@@ -1,7 +1,6 @@
 library(tidyverse)
 library(hoopR)
 library(janitor)
-library(reactable)
 library(gt)
 
 player_logs <- nba_leaguegamelog(season = "2022-23", player_or_team = "P") %>%
