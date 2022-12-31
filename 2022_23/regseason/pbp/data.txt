@@ -2,7 +2,7 @@
   name: pbp-poss-rs23
   type: table
   description: ~
-  rows: 255409
+  rows: 259711
   cols: 38
 - path: lineup-stats-rs23
   name: lineup-stats-rs23
