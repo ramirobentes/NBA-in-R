@@ -9,7 +9,8 @@ missing_starters <- tribble(
   22200325,            5,           "DET",   "Isaiah Stewart",
   22200440,            5,           "DAL",  "Tim Hardaway Jr.",
   22200519,            5,           "CHI",       "Zach LaVine",
-  22200659,            5,           "TOR",    "Gary Trent Jr.")
+  22200659,            5,           "TOR",    "Gary Trent Jr.",
+  22200748,            5,           "SAS",  "Keita Bates-Diop")
 
 
 
