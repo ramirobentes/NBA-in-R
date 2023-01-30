@@ -1,8 +1,8 @@
 path:
-- https://api.github.com/repos/ramirobentes/NBA-in-R/releases/assets/93495238
+- https://api.github.com/repos/ramirobentes/NBA-in-R/releases/assets/93590379
 - data.rds
 type: table
-rows: 362232
+rows: 364085
 cols: 38
 columns:
   wallclk: character
@@ -23,8 +23,8 @@ columns:
   vs: numeric
   locX: integer
   locY: integer
-  team_home: character
   team_away: character
+  team_home: character
   number_original: numeric
   secs_passed_game: numeric
   shot_pts: numeric
@@ -44,5 +44,5 @@ columns:
   margin_before: numeric
   garbage_time: numeric
 filenames:
-  https://api.github.com/repos/ramirobentes/NBA-in-R/releases/assets/93495238: data.csv
+  https://api.github.com/repos/ramirobentes/NBA-in-R/releases/assets/93590379: data.csv
   data.rds: data.rds
