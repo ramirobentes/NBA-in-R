@@ -18,3 +18,11 @@ missing_starters <- tribble(
 corrections <- tribble(
   ~game_id,     ~number_event, ~msg_type, ~act_type,           ~description,
   22200094,               380,         3,        16,           "[PHX 93-88] Lee Free Throw Technical (5 PTS)")
+
+
+
+change_order <- tribble(
+  ~game_id,     ~number_original,     ~number_event,
+  22200771,                  495,               347,
+  22200771,                  497,               348,
+  22200771,                  498,               349)
