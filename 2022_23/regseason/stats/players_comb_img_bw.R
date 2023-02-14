@@ -36,7 +36,7 @@ table_data <- lineups2023 %>%
   mutate(all_comp = list(unique(player_ids$player_id)), .before = everything(),
          headshot = map(all_comp, ~ glue::glue("https://cdn.nba.com/headshots/nba/latest/260x190/{.}.png"))) %>%
   mutate(headshot = map2(all_comp, players_in, 
-                         ~ ifelse(.x %in% .y,    # falta conseguir fazer o ifelse funcionar
+                         ~ ifelse(.x %in% .y, 
                                   glue::glue("<img src='https://cdn.nba.com/headshots/nba/latest/260x190/{.x}.png' width=100 height=70> &nbsp"),
                                   glue::glue("<img src='https://cdn.nba.com/headshots/nba/latest/260x190/{.x}.png' width=100 height=70 style='filter: grayscale(100%)'> &nbsp")))) %>%
   mutate(headshot = map_chr(headshot, ~ paste(., collapse = " "))) %>%
