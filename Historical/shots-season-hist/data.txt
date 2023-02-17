@@ -1,0 +1,35 @@
+path:
+- https://api.github.com/repos/ramirobentes/NBA-in-R/releases/assets/96091558
+- https://api.github.com/repos/ramirobentes/NBA-in-R/releases/assets/96091769
+type: table
+rows: 5059085
+cols: 25
+columns:
+  grid_type: character
+  game_id: character
+  game_event_id: character
+  player_id: character
+  player_name: character
+  team_id: character
+  team_name: character
+  period: character
+  minutes_remaining: character
+  seconds_remaining: character
+  event_type: character
+  action_type: character
+  shot_type: character
+  shot_zone_basic: character
+  shot_zone_area: character
+  shot_zone_range: character
+  shot_distance: character
+  loc_x: character
+  loc_y: character
+  shot_attempted_flag: character
+  shot_made_flag: character
+  game_date: character
+  htm: character
+  vtm: character
+  season: glue
+filenames:
+  https://api.github.com/repos/ramirobentes/NBA-in-R/releases/assets/96091558: data.csv
+  https://api.github.com/repos/ramirobentes/NBA-in-R/releases/assets/96091769: data.rds
