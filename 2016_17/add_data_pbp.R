@@ -12,3 +12,10 @@ missing_starters <- tribble(
   delete_event <- tribble(
   ~game_id, ~number_event,
   21600389,            397)
+
+
+corrections <- tribble(
+  ~game_id,     ~number_event,    ~msg_type, ~act_type,                                   ~description,
+  21600009,               425,            6,        18,    "Delay Technical - MEM (1 FTA) (D Stafford)")
+
+
