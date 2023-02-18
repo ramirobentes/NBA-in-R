@@ -10,5 +10,5 @@ missing_starters <- tribble(
   
   
   delete_event <- tribble(
-  ~ game_id, ~number_event,
+  ~game_id, ~number_event,
   21600389,            397)
