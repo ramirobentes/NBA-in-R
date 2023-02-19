@@ -10,3 +10,9 @@
   description: ~
   rows: 3347182
   cols: 19
+- path: pbp-raw-2023
+  name: pbp-raw-2023
+  type: table
+  description: ~
+  rows: 416171
+  cols: 23
