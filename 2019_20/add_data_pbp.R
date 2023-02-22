@@ -16,7 +16,9 @@ missing_starters <- tribble(
 
 manual_changes <- tribble(
   ~game_id,     ~number_event,    ~shot_pts_home,     ~shot_pts_away,
-  21900622,               328,                 0,                  2)
+  21900622,               328,                 0,                  2,
+  21900742,               216,                 0,                  0,
+  21900742,               219,                 0,                  1)
 
 
 
