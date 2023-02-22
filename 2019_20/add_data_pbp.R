@@ -11,3 +11,9 @@ missing_starters <- tribble(
   21900787,            5,           "ATL",       "De'Andre Hunter",
   21900892,            5,           "HOU",      "Eric Gordon",
   21901281,            6,           "DEN",     "Monte Morris")
+
+
+
+manual_changed <- tribble(
+  ~game_id,     ~number_event,    ~shot_pts_home,     ~shot_pts_away,
+  21900622,               334,                 0,                  1)
