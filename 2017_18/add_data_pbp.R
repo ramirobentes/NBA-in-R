@@ -12,3 +12,13 @@ missing_starters <- tribble(
   21701103,            5,           "CHA",        "Dwayne Bacon",
   21701103,            5,           "NYK",        "Courtney Lee",
   21701136,            5,           "MIL",         "Jason Terry")
+
+
+corrections_desc <- tribble(
+  ~game_id,    ~number_event,                                              ~description,
+  21700020,              408,  "[WAS] Gortat Foul: Loose Ball (4 PF) (2 FTA) (S Corbin)",
+  21700020,              415,  "[WAS] Gortat Foul: Loose Ball (5 PF) (2 FTA) (S Corbin)",
+  21700020,              422,  "[DET] Jackson Foul: Shooting (4 PF) (2 FTA) (S Corbin)",
+  21700020,              429,  "[DET] Leuer Foul: Shooting (2 PF) (2 FTA) (K Cutler)",
+  21700020,              441,  "[DET] Leuer Foul: Shooting (3 PF) (1 FTA) (K Cutler)",
+  21700020,              462,  "[DET] Smith Foul: Personal Take (3 PF) (2 FTA) (S Corbin)")
