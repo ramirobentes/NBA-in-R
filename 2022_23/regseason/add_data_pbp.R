@@ -12,7 +12,8 @@ missing_starters <- tribble(
   22200659,            5,           "TOR",    "Gary Trent Jr.",
   22200748,            5,           "SAS",  "Keita Bates-Diop",
   22200758,            5,           "SAC",   "Harrison Barnes",
-  22200892,            5,           "OKC",    "Jalen Williams")
+  22200892,            5,           "OKC",    "Jalen Williams",
+  22201007,            5,           "MIA",         "Max Strus")
 
 
 
