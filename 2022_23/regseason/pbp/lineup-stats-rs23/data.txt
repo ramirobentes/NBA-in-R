@@ -2,7 +2,7 @@ path:
 - data.csv
 - data.rds
 type: table
-rows: 49866
+rows: 51178
 cols: 13
 columns:
   game_id: numeric
