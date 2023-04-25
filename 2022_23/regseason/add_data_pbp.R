@@ -21,7 +21,8 @@ missing_starters <- tribble(
 
 corrections <- tribble(
   ~game_id,     ~number_event, ~msg_type, ~act_type,           ~description,
-  22200094,               380,         3,        16,           "[PHX 93-88] Lee Free Throw Technical (5 PTS)")
+  22200094,               380,         3,        16,           "[PHX 93-88] Lee Free Throw Technical (5 PTS)",
+  22201142,               437,         6,         3,           "[OKC] Jay Williams Foul: Loose Ball (2 PF) (2FTA) (C Kirkland)")
 
 
 
