@@ -25,7 +25,7 @@ corrections <- tribble(
   22201142,               437,         6,         3,           "[OKC] Jay Williams Foul: Loose Ball (2 PF) (2 FTA) (C Kirkland)",
   22201218,               448,         6,         1,           "[CHA] Bouknight Foul: Personal (3 PF) (2 FTA) (K Cutler)",
   22200583,               420,         6,         6,           "[MIL] Antetokounmpo Foul: Away From Play (3 PF) (1 FTA) (T Maddox)",
-  22200583,               421,         6,        10,           "[CHA] Plumlee Free Throw 1 of 1 Missed")
+  22200583,               421,         3,        10,           "[CHA] Plumlee Free Throw 1 of 1 Missed")
 
 
 
