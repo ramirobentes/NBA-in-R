@@ -30,8 +30,8 @@ corrections <- tribble(
 
 del_rows <- tribble(
   ~game_id,                   ~evt,
-  22200731,                    648,
-  22200741,                    267)
+  "22200731",                    648,
+  "22200741",                    267)
 
 
 change_order <- tribble(
