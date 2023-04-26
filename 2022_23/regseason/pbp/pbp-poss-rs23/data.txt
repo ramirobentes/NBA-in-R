@@ -1,8 +1,8 @@
 path:
-- https://api.github.com/repos/ramirobentes/NBA-in-R/releases/assets/105479171
+- https://api.github.com/repos/ramirobentes/NBA-in-R/releases/assets/105479678
 - data.rds
 type: table
-rows: 589187
+rows: 589185
 cols: 38
 columns:
   wallclk: POSIXct
@@ -44,5 +44,5 @@ columns:
   margin_before: numeric
   garbage_time: numeric
 filenames:
-  https://api.github.com/repos/ramirobentes/NBA-in-R/releases/assets/105479171: data.csv
+  https://api.github.com/repos/ramirobentes/NBA-in-R/releases/assets/105479678: data.csv
   data.rds: data.rds
