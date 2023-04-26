@@ -28,6 +28,10 @@ corrections <- tribble(
   22200583,               421,         3,        10,           "[CHA] Plumlee Free Throw 1 of 1 Missed")
 
 
+del_rows <- tribble(
+  ~game_id,                   ~evt,
+  22200731,                    648)
+
 
 change_order <- tribble(
   ~game_id,     ~number_original,     ~number_event,
