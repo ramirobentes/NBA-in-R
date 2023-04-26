@@ -1,0 +1,83 @@
+library(tidyverse)
+library(hoopR)
+
+pbp2023 <- read_rds("https://github.com/ramirobentes/NBA-in-R/blob/master/2022_23/regseason/pbp/pbp-poss-rs23/data.rds?raw=true")
+
+fouls_and1 <- pbp2023 %>% 
+  filter(msg_type == 1 | (msg_type == 6 & !act_type %in% c(4, 10, 11, 12, 16, 18)) | (msg_type == 3 & act_type == 10)) %>%
+  group_by(game_id, secs_passed_game) %>%
+  filter(lag(msg_type) == 1 & msg_type == 6 & lag(slug_team) != slug_team) %>%
+  ungroup() %>%
+  select(game_id, team_home, team_away, period, clock, secs_passed_game, number_original, msg_type, act_type, slug_team, 
+         player1, player3, description, possession, poss_home, poss_away)
+
+fgs_and1 <- pbp2023 %>% 
+  filter(msg_type == 1 | (msg_type == 6 & !act_type %in% c(4, 10, 11, 12, 16, 18)) | (msg_type == 3 & act_type == 10)) %>%
+  group_by(game_id, secs_passed_game) %>%
+  filter(msg_type == 1 & lead(msg_type) == 6 & slug_team != lead(slug_team)) %>%
+  ungroup() %>%
+  select(game_id, team_home, team_away, period, clock, secs_passed_game, number_original, msg_type, act_type, 
+         slug_team, player1, player3, description, possession, poss_home, poss_away)
+
+fouls_and1_updt <- fouls_and1 %>%
+  rows_update(fgs_and1 %>%
+                select(game_id, secs_passed_game, possession, poss_home, poss_away),
+              by = c("game_id", "secs_passed_game")) %>%
+  select(game_id, secs_passed_game, number_original, possession, poss_home, poss_away)
+
+fgs_and1_updt <- fgs_and1 %>%
+  rows_update(fouls_and1 %>%
+                select(game_id, secs_passed_game, possession, poss_home, poss_away),
+              by = c("game_id", "secs_passed_game")) %>%
+  select(game_id, team_home, team_away, number_original, possession, poss_home, poss_away)
+
+pbp2023_updt <- pbp2023 %>%
+  rows_update(fouls_and1_updt %>% select(-secs_passed_game), by = c("game_id", "number_original")) %>%
+  rows_update(fgs_and1_updt %>% select(-c(team_home, team_away)), by = c("game_id", "number_original")) %>%
+  mutate(poss_team = case_when(poss_home == 1 ~ team_home,
+                               poss_away == 1 ~ team_away,
+                               TRUE ~ NA))
+
+fts_poss <- pbp2023_updt %>%
+  filter(msg_type == 3 & !act_type %in% c(16, 21, 22)) %>% 
+  semi_join(pbp2023_updt %>%
+              filter(msg_type == 6 & poss_home + poss_away > 0) %>%
+              transmute(game_id, secs_passed_game, slug_team = ifelse(slug_team == team_home, team_away, team_home))) %>%
+  group_by(game_id, start_poss, secs_passed_game, slug_team) %>%
+  filter(row_number() == max(row_number())) %>%
+  ungroup() %>%
+  transmute(game_id, secs_passed_game, number_original, poss_team = slug_team)  
+
+poss_all <- pbp2023_updt %>%
+  rows_update(pbp2023_updt %>%
+                filter(msg_type == 6 & poss_home + poss_away > 0) %>%
+                transmute(game_id, number_original, secs_passed_game, poss_team = ifelse(poss_away == 1, team_away, team_home)) %>%
+                semi_join(fts_poss %>% select(-number_original)) %>%
+                transmute(game_id, number_original, poss_team = NA),
+              by = c("game_id", "number_original")) %>%
+  rows_update(fts_poss %>%
+                select(-secs_passed_game),
+              by = c("game_id", "number_original")) %>%
+  select(game_id, team_home, team_away, period, clock, start_poss, number_original, msg_type, act_type, slug_team, poss_team, description, poss_home,
+         poss_away, shot_pts_home, shot_pts_away, lineup_home, lineup_away, hs, vs) %>%
+  group_by(game_id, period, poss_team) %>%
+  mutate(poss_number = ifelse(!is.na(poss_team), cumsum(!is.na(poss_team)), NA)) %>%
+  group_by(game_id, period) %>%
+  mutate(across(c(poss_team, poss_number), ~ zoo::na.locf0(., fromLast = TRUE))) %>%
+  ungroup()
+
+poss_summary <- poss_all %>%
+  group_by(game_id, team_home, team_away, period, poss_team, poss_number) %>%
+  summarise(across(c(shot_pts_home, shot_pts_away), sum)) %>%
+  ungroup() %>%
+  mutate(pts = ifelse(team_home == poss_team, shot_pts_home, shot_pts_away)) %>%
+  select(-starts_with("shot_pts")) %>%
+  left_join(poss_all %>%
+              filter(poss_home + poss_away > 0) %>%
+              mutate(lineup_team = ifelse(poss_team == team_home, lineup_home, lineup_away),
+                     lineup_opp = ifelse(poss_team == team_home, lineup_away, lineup_home)) %>%
+              select(game_id, period, clock, poss_team, poss_number, lineup_team, lineup_opp)) %>%
+  mutate(opp_team = ifelse(poss_team == team_home, team_away, team_home)) %>%
+  select(game_id, poss_team, opp_team, period, clock, poss_number, pts, lineup_team, lineup_opp) %>%
+  arrange(game_id, period, desc(clock), poss_number) %>%
+  filter(!is.na(poss_team))
