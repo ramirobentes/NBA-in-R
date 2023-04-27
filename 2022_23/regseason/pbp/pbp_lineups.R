@@ -1,7 +1,6 @@
 library(tidyverse)
 library(hoopR)
 library(janitor)
-library(future)
 library(zoo)
 
 source("https://raw.githubusercontent.com/ramirobentes/NBA-in-R/master/2022_23/regseason/add_data_pbp.R")
@@ -21,7 +20,6 @@ games <- player_logs %>%
   distinct(game_id) %>%
   pull(game_id)
 
-plan(multicore)
 pbp_month <- map_df(games, function_pbp)
 
 # Cleaning data
@@ -30,6 +28,7 @@ nba_pbp_raw <- pbp_month %>%
   mutate(across(c(opid, epid), as.numeric))
 
 nba_pbp <- nba_pbp_raw %>%
+  anti_join(del_rows) %>%
   left_join(player_logs %>%
               distinct(pid = player_id, player1 = player_name)) %>%
   left_join(player_logs %>%
@@ -40,7 +39,7 @@ nba_pbp <- nba_pbp_raw %>%
               distinct(tid = team_id, slug_team = team_abbreviation)) %>%
   left_join(player_logs %>%
               distinct(oftid = team_id, off_slug_team = team_abbreviation)) %>%
-  select(game_id, period, clock = cl, number_event = evt, msg_type = etype, act_type = mtype, slug_team,
+  select(wallclk, game_id, period, clock = cl, number_event = evt, msg_type = etype, act_type = mtype, slug_team,
          off_slug_team, player1, player2, player3, description = de, desc_value = opt1,
          opt2, hs, vs, ord, locX, locY) %>%
   mutate(game_id = as.integer(game_id)) %>%
@@ -72,8 +71,8 @@ nba_pbp <- nba_pbp %>%
   mutate(hs = cumsum(coalesce(if_else(slug_team == team_home, shot_pts, 0), 0)),
          vs = cumsum(coalesce(if_else(slug_team == team_away, shot_pts, 0), 0))) %>%
   ungroup() %>%
-  # rows_update(corrections, by = c("game_id", "number_event"))  %>%
-  # rows_update(change_order, by = c("game_id", "number_original")) %>%
+  rows_update(corrections, by = c("game_id", "number_event"))  %>%
+  rows_update(change_order, by = c("game_id", "number_original")) %>%
   arrange(game_id, number_event)
 
 # Lineups for every event
@@ -106,10 +105,6 @@ starters_quarters <- nba_pbp %>%
   left_join(player_logs %>%
               distinct(game_id = as.integer(game_id), player_name, slug_team = team_abbreviation)) %>%
   bind_rows(missing_starters)
-
-starters_quarters %>%
-  count(game_id, period, slug_team) %>%
-  filter(n != 5)
 
 starters_quarters <- starters_quarters %>%
   arrange(game_id, period, slug_team) %>%
@@ -176,7 +171,7 @@ lane_description_missing <- poss_initial %>%
   mutate(possession = ifelse(msg_type == 3 & act_type == 10, 1, possession)) %>%
   select(game_id, number_event, off_slug_team, possession)
 
-# identify turnovers from successfull challenge + jump ball that are not specified
+# identify turnovers from successful challenge + jump ball that are not specified
 jumpball_turnovers <- poss_initial %>%
   filter(msg_type != 8) %>%
   group_by(game_id, period) %>%
@@ -198,7 +193,7 @@ jumpball_turnovers <- poss_initial %>%
 # identify and change consecutive possessions
 change_consec <- poss_initial %>%
   # rows_update(lane_description_missing, by = c("game_id", "number_event")) %>%
-  # rows_update(jumpball_turnovers, by = c("game_id", "number_event")) %>%
+  rows_update(jumpball_turnovers, by = c("game_id", "number_event")) %>%
   filter(possession == 1 | (msg_type == 6 & act_type == 30)) %>%
   group_by(game_id, period) %>%
   filter(possession == lead(possession) & off_slug_team == lead(off_slug_team)) %>%
@@ -209,7 +204,7 @@ change_consec <- poss_initial %>%
 # replace in data
 poss_non_consec <- poss_initial %>%
   # rows_update(lane_description_missing, by = c("game_id", "number_event")) %>%
-  # rows_update(jumpball_turnovers, by = c("game_id", "number_event")) %>%
+  rows_update(jumpball_turnovers, by = c("game_id", "number_event")) %>%
   rows_update(change_consec, by = c("game_id","number_event"))
 
 # find start of possessions
@@ -222,7 +217,7 @@ start_possessions <- poss_non_consec %>%
            (msg_type == 1 | (msg_type == 3 & act_type == 10))) %>%
   ungroup() %>%
   mutate(start_poss = case_when(msg_type == 4 & act_type == 0 & desc_value == 0 ~ clock,
-                                msg_type == 3 & act_type %in% c(10, 12, 15) & shot_pts > 0 ~ clock,
+                                msg_type == 3 & act_type %in% c(12, 15) & shot_pts > 0 ~ clock,
                                 msg_type %in% c(1, 5) & !and1 ~ clock),
          number_event = ifelse(msg_type == 4, number_event, number_event + 1)) %>%
   filter(!is.na(start_poss))
@@ -260,11 +255,10 @@ pbp_poss <- poss_non_consec %>%
   bind_rows(addit_poss) %>%
   arrange(game_id, number_event)
 
-########### Editing free throws pts and poss position
-
-# connecting free throws to fouls
+########### Editing free throws pts and poss position (connecting free throws to fouls)
 
 ## TECHNICALS
+
 ### find unidentified double technicals (instead of description showing double technical, there's one event for each but no FTs)
 unident_double_techs <- lineup_game %>%
   filter(!msg_type %in% c(9, 11)) %>%   # ejection or timeout
@@ -304,9 +298,13 @@ regular_fouls <- other_fouls %>%
   left_join(other_fouls %>%
               filter(msg_type == 6 & str_detect(description, "FT")) %>%
               transmute(game_id, secs_passed_game, number_event_foul = number_event, player_fouled = player3,
-                        slug_team = ifelse(slug_team == team_home, team_away, team_home))) %>%
+                        slug_team = ifelse(slug_team == team_home, team_away, team_home)))
+
+regular_fouls <- regular_fouls %>%
   left_join(other_fouls %>%
               filter(msg_type == 6 & str_detect(description, "FT")) %>%
+              anti_join(regular_fouls %>%
+                          select(game_id, number_event = number_event_foul)) %>%
               transmute(game_id, secs_passed_game, number_event_foul_y = number_event, 
                         number_event_foul = NA,
                         slug_team = ifelse(slug_team == team_home, team_away, team_home))) %>%
@@ -318,7 +316,6 @@ fouls_stats <- bind_rows(regular_fouls, flagrant_clear, techs) %>%
   select(game_id, secs_passed_game, number_event_ft, number_event_foul) %>%
   left_join(pbp_poss %>%
               select(game_id, number_event_ft = number_event, slug_team, shot_pts, team_home, team_away, possession)) %>%
-  # filter(is.na(shot_pts))  # test to see if there's nothing missing
   group_by(game_id, slug_team, number_event = number_event_foul, team_home, team_away) %>%
   summarise(total_fta = n(),
             total_pts = sum(shot_pts),
@@ -357,9 +354,7 @@ pbp_final_gt <- pbp_poss_final %>%
   mutate(total_starters_home = map_int(map2(lineup_home_list, lineup_start_home_list, intersect), length),
          total_starters_away = map_int(map2(lineup_away_list, lineup_start_away_list, intersect), length)) %>%
   select(-contains("list")) %>%
-  mutate(margin_before = case_when(shot_pts > 0 & slug_team == team_home ~ abs(hs - shot_pts - vs),
-                                   shot_pts > 0 & slug_team == team_away ~ abs(vs - shot_pts - hs),
-                                   TRUE ~ abs(hs - vs))) %>%
+  mutate(margin_before = ifelse(slug_team == team_home | is.na(slug_team), hs - shot_pts - vs, vs - shot_pts - hs)) %>%
   mutate(garbage_time = case_when(
     # score differential >= 25 for minutes 12-9:
     secs_passed_game >= 2160 & secs_passed_game < 2340 & margin_before >= 25 & total_starters_home + total_starters_away <= 2 & period == 4 ~ 1,
