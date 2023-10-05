@@ -10,3 +10,9 @@
   description: ~
   rows: 58290
   cols: 13
+- path: lineups-all2023
+  name: lineups-all2023
+  type: table
+  description: ~
+  rows: 115498
+  cols: 10
