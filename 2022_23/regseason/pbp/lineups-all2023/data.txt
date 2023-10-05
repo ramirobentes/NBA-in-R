@@ -1,0 +1,20 @@
+path:
+- https://api.github.com/repos/ramirobentes/NBA-in-R/releases/assets/129183264
+- data.rds
+type: table
+rows: 115498
+cols: 10
+columns:
+  game_id: character
+  location_team: character
+  team: character
+  opp: character
+  lineup_team: character
+  lineup_opp: character
+  poss_team: numeric
+  pts_team: numeric
+  poss_opp: numeric
+  pts_opp: numeric
+filenames:
+  https://api.github.com/repos/ramirobentes/NBA-in-R/releases/assets/129183264: data.csv
+  data.rds: data.rds
