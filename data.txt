@@ -82,3 +82,9 @@
   description: postseason pbp with lineups 21
   rows: 43060
   cols: 37
+- path: pbp-poss24
+  name: pbp-poss24
+  type: table
+  description: possessions
+  rows: 103362
+  cols: 31
