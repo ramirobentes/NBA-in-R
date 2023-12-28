@@ -65,7 +65,7 @@ table_data %>%
   tab_style(style = cell_text(weight = "bold"),
             locations = cells_column_labels(everything())) %>%
   tab_options(
-    table.width = px(length(players_comp) * 230),
+    table.width = px(length(players_comp) * 200),
     data_row.padding = px(1)) %>%
   tab_footnote(
     footnote = md("Numbers in gray represent total points / total possessions")) %>%
