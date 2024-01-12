@@ -92,5 +92,5 @@
   name: shots24
   type: table
   description: pbp
-  rows: 99355
+  rows: 100246
   cols: 24
