@@ -86,7 +86,7 @@
   name: pbp-poss24
   type: table
   description: possessions
-  rows: 307419
+  rows: 318171
   cols: 31
 - path: shots24
   name: shots24
