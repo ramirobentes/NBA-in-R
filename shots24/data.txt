@@ -1,9 +1,9 @@
 path:
-- https://api.github.com/repos/ramirobentes/NBA-in-R/releases/assets/148696703
+- https://api.github.com/repos/ramirobentes/NBA-in-R/releases/assets/148926913
 - data.rds
 type: table
 description: pbp
-rows: 124111
+rows: 124999
 cols: 24
 columns:
   GRID_TYPE: character
@@ -31,5 +31,5 @@ columns:
   HTM: character
   VTM: character
 filenames:
-  https://api.github.com/repos/ramirobentes/NBA-in-R/releases/assets/148696703: data.csv
+  https://api.github.com/repos/ramirobentes/NBA-in-R/releases/assets/148926913: data.csv
   data.rds: data.rds
