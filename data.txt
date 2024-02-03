@@ -92,7 +92,7 @@
   name: shots24
   type: table
   description: pbp
-  rows: 127492
+  rows: 129256
   cols: 24
 - path: x
   name: x
