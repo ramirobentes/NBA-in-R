@@ -1,9 +1,9 @@
 path:
-- https://api.github.com/repos/ramirobentes/NBA-in-R/releases/assets/150311883
+- https://api.github.com/repos/ramirobentes/NBA-in-R/releases/assets/150511578
 - data.rds
 type: table
 description: possessions
-rows: 349399
+rows: 352553
 cols: 31
 columns:
   game_date: Date
@@ -38,5 +38,5 @@ columns:
   names_lineup_def: character
   garbage_time: numeric
 filenames:
-  https://api.github.com/repos/ramirobentes/NBA-in-R/releases/assets/150311883: data.csv
+  https://api.github.com/repos/ramirobentes/NBA-in-R/releases/assets/150511578: data.csv
   data.rds: data.rds
