@@ -370,7 +370,7 @@ kd_shots %>%
 
 # Anthony Edwards ---------------------------------------------------------
 
-# Is one of five players (all All-Stars) who’ve averaged at least 2.5 made 3-pointers and 5.5 made free throws per game. Both his free throw rate (33.6 attempts per 100 shots from the field) and his free throw percentage (84.0%) are career-best marks by healthy margins.
+# Both his free throw rate (33.6 attempts per 100 shots from the field) and his free throw percentage (84.0%) are career-best marks by healthy margins.
 player_logs %>%
   filter(game_date < "2024-02-15",
          player_name == "Anthony Edwards") %>%
@@ -684,7 +684,7 @@ player_logs %>%
 # Trae Young --------------------------------------------------------------
 
 # Ranks second with 10.9 assists per game and leads the league in total assists on dunks (140) for the sixth straight season.
-pbps <- map_df(2023:2024,
+pbps <- map_df(2019:2024,
                function(x){
                  read_rds(glue::glue("https://github.com/ramirobentes/nba_pbp_data/raw/main/pbp-final-{x}/data.rds")) %>%
                    mutate(season = glue::glue("{x - 1}-{str_sub(x, 3, 4)}"))
