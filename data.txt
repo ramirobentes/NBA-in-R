@@ -122,3 +122,9 @@
   description: matchups
   rows: 229185
   cols: 39
+- path: matchups2019
+  name: matchups2019
+  type: table
+  description: matchups
+  rows: 232985
+  cols: 39
