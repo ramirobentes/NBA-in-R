@@ -116,3 +116,9 @@
   description: matchups
   rows: 229901
   cols: 39
+- path: matchups2023
+  name: matchups2023
+  type: table
+  description: matchups
+  rows: 229185
+  cols: 39
