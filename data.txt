@@ -98,3 +98,9 @@
   name: x
   type: default
   description: possessions
+- path: matchups2020
+  name: matchups2020
+  type: table
+  description: matchups
+  rows: 198908
+  cols: 39
