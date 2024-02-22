@@ -1,0 +1,50 @@
+path:
+- https://api.github.com/repos/ramirobentes/NBA-in-R/releases/assets/153040478
+- data.rds
+type: table
+description: matchups
+rows: 229901
+cols: 39
+columns:
+  game_id: character
+  away_team_id: numeric
+  home_team_id: numeric
+  team_id: numeric
+  team_tricode: character
+  person_id: numeric
+  player_name: character
+  position: character
+  comment: logical
+  jersey_num: character
+  matchups_person_id: numeric
+  matchups_name: character
+  matchups_jersey_num: character
+  matchup_minutes: hms
+  matchup_minutes_sort: numeric
+  partial_possessions: numeric
+  percentage_defender_total_time: numeric
+  percentage_offensive_total_time: numeric
+  percentage_total_time_both_on: numeric
+  switches_on: numeric
+  player_points: numeric
+  team_points: numeric
+  matchup_assists: numeric
+  matchup_potential_assists: numeric
+  matchup_turnovers: numeric
+  matchup_blocks: numeric
+  matchup_field_goals_made: numeric
+  matchup_field_goals_attempted: numeric
+  matchup_field_goals_percentage: numeric
+  matchup_three_pointers_made: numeric
+  matchup_three_pointers_attempted: numeric
+  matchup_three_pointers_percentage: numeric
+  help_blocks: numeric
+  help_field_goals_made: numeric
+  help_field_goals_attempted: numeric
+  help_field_goals_percentage: numeric
+  matchup_free_throws_made: numeric
+  matchup_free_throws_attempted: numeric
+  shooting_fouls: numeric
+filenames:
+  https://api.github.com/repos/ramirobentes/NBA-in-R/releases/assets/153040478: data.csv
+  data.rds: data.rds
