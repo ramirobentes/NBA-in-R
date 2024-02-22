@@ -104,3 +104,9 @@
   description: matchups
   rows: 198908
   cols: 39
+- path: matchups2021
+  name: matchups2021
+  type: table
+  description: matchups
+  rows: 202195
+  cols: 39
