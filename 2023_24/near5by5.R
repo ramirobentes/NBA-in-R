@@ -63,16 +63,8 @@ near5 %>%
   tab_options(
     data_row.padding = px(5),
     table.width = px(1000)) %>%
-  tab_style(style = list(cell_text(weight = "normal")),
-            locations = cells_body(
-              columns = everything())) %>%
-  tab_style(style = list(cell_text(color = "red")), 
-            locations = cells_body(columns = stl, 
-                                   rows = stl < 5)) %>%
-  tab_style(style = list(cell_text(color = "red")), 
-            locations = cells_body(columns = ast, 
-                                   rows = ast < 5)) %>%
-  tab_style(style = list(cell_text(color = "red")), 
-            locations = cells_body(columns = blk, 
-                                   rows = blk < 5)) %>%
-  opt_table_font(font = google_font("Inter"))
+  opt_table_font(font = google_font("Inter")) %>%
+  data_color(columns = is.numeric,
+             domain = 0:4,
+             apply_to = "text",
+             palette = "red")
