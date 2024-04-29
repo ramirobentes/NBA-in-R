@@ -140,3 +140,9 @@
   description: possessions
   rows: 13208
   cols: 31
+- path: shots-playoffs24
+  name: shots-playoffs24
+  type: table
+  description: pbp
+  rows: 5032
+  cols: 24
