@@ -134,3 +134,9 @@
   description: matchups
   rows: 231888
   cols: 39
+- path: pbp-poss-playoffs24
+  name: pbp-poss-playoffs24
+  type: table
+  description: possessions
+  rows: 13208
+  cols: 31

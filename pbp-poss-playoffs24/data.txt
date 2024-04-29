@@ -1,0 +1,42 @@
+path:
+- data.csv
+- data.rds
+type: table
+description: possessions
+rows: 13208
+cols: 31
+columns:
+  game_date: Date
+  game_id: character
+  team_home: character
+  team_away: character
+  period: numeric
+  clock: character
+  secs_game: numeric
+  event_num: numeric
+  msg_type: numeric
+  act_type: numeric
+  team_abb: character
+  poss_team: character
+  poss_home: numeric
+  poss_away: numeric
+  description: character
+  and1: numeric
+  total_fta: numeric
+  team_ft: character
+  player_ft: character
+  player1_name: character
+  event_pts: numeric
+  hs: numeric
+  vs: numeric
+  poss_number: numeric
+  start_poss: character
+  pts_poss: numeric
+  ids_lineup_off: character
+  names_lineup_off: character
+  ids_lineup_def: character
+  names_lineup_def: character
+  garbage_time: numeric
+filenames:
+  data.csv: data.csv
+  data.rds: data.rds
