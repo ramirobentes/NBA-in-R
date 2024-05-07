@@ -36,11 +36,14 @@ g2_results <- series_logs %>%
   semi_join(g1_away_win %>% select(season, series, team_id))
 
 g2_results %>%
+  filter(season != "2019-20") %>%
   count(wl)
 
 g2_results %>%
+  filter(season != "2019-20") %>%
   filter(wl == "W") %>%
   summarise(margin = mean(plus_minus))
 
 g2_results %>%
+  filter(season != "2019-20") %>%
   arrange(-plus_minus)
