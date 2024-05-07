@@ -46,4 +46,4 @@ g2_results %>%
 
 g2_results %>%
   filter(season != "2019-20") %>%
-  arrange(-plus_minus)
+  arrange(plus_minus)
