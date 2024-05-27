@@ -144,5 +144,5 @@
   name: shots-playoffs24
   type: table
   description: pbp
-  rows: 11656
+  rows: 12500
   cols: 24

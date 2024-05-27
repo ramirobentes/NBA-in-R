@@ -3,7 +3,7 @@ path:
 - data.rds
 type: table
 description: pbp
-rows: 11656
+rows: 12500
 cols: 24
 columns:
   GRID_TYPE: character
