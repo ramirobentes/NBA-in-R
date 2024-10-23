@@ -146,3 +146,9 @@
   description: pbp
   rows: 13840
   cols: 24
+- path: pbp-poss25
+  name: pbp-poss25
+  type: table
+  description: possessions
+  rows: 867
+  cols: 31
