@@ -152,3 +152,9 @@
   description: possessions
   rows: 867
   cols: 31
+- path: shots25
+  name: shots25
+  type: table
+  description: pbp
+  rows: 353
+  cols: 24
