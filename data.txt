@@ -156,5 +156,5 @@
   name: shots25
   type: table
   description: pbp
-  rows: 16542
+  rows: 19204
   cols: 24
