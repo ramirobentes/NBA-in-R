@@ -150,7 +150,7 @@
   name: pbp-poss25
   type: table
   description: possessions
-  rows: 155662
+  rows: 158853
   cols: 32
 - path: shots25
   name: shots25
