@@ -1,0 +1,35 @@
+path:
+- https://api.github.com/repos/ramirobentes/NBA-in-R/releases/assets/213731408
+- data.rds
+type: table
+description: shots
+rows: 217220
+cols: 24
+columns:
+  GRID_TYPE: character
+  GAME_ID: character
+  GAME_EVENT_ID: character
+  PLAYER_ID: character
+  PLAYER_NAME: character
+  TEAM_ID: character
+  TEAM_NAME: character
+  PERIOD: character
+  MINUTES_REMAINING: character
+  SECONDS_REMAINING: character
+  EVENT_TYPE: character
+  ACTION_TYPE: character
+  SHOT_TYPE: character
+  SHOT_ZONE_BASIC: character
+  SHOT_ZONE_AREA: character
+  SHOT_ZONE_RANGE: character
+  SHOT_DISTANCE: character
+  LOC_X: character
+  LOC_Y: character
+  SHOT_ATTEMPTED_FLAG: character
+  SHOT_MADE_FLAG: character
+  GAME_DATE: character
+  HTM: character
+  VTM: character
+filenames:
+  https://api.github.com/repos/ramirobentes/NBA-in-R/releases/assets/213731408: data.csv
+  data.rds: data.rds
