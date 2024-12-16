@@ -91,7 +91,7 @@
 - path: shots24
   name: shots24
   type: table
-  description: pbp
+  description: shots
   rows: 218701
   cols: 24
 - path: x
